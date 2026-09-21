@@ -1,0 +1,137 @@
+{
+  "slug": "air-fryers",
+  "title": "Best Air Fryers UK",
+  "short": "Single-drawer, dual-drawer and oven-style air fryers compared by capacity, power and who they suit.",
+  "intro": "Air fryers now range from compact single baskets to dual-drawer machines that cook a full meal at once. This guide compares the models that keep appearing at the top of independent UK tests, so you can match capacity, features and budget to how you actually cook.",
+  "reviewed": "2026-09-21",
+  "verified": "2026-09-21",
+  "products": [
+    {
+      "brand": "Philips",
+      "name": "5000 Series Dual Basket Steam Air Fryer NA555/09",
+      "badge": "Best overall",
+      "best_for": "Households that want the best results and are happy to learn the controls",
+      "key_spec": "9L (6L + 3L), 2,750W",
+      "summary": "Expert Reviews named this its 2026 Air Fryer of the Year. It pairs two baskets with a steaming function, plus a self-cleaning mode, which makes it more versatile than a standard air fryer.",
+      "specs": {"Capacity": "9L (6L + 3L)", "Power": "2,750W", "Baskets": "Two", "Extras": "Steam function, self-cleaning"},
+      "pros": ["Excellent cooking results in independent testing", "Steaming adds versatility", "Self-cleaning function"],
+      "cons": ["Controls are not intuitive", "Instructions are poor"],
+      "asin": "",
+      "search": "Philips 5000 Series Dual Basket Steam Air Fryer NA555/09"
+    },
+    {
+      "brand": "Ninja",
+      "name": "Foodi Dual Zone AF300UK",
+      "badge": "Best Ninja all-rounder",
+      "best_for": "Families who want two independent zones and proven results",
+      "key_spec": "7.6L, 2,400W",
+      "summary": "A long-standing favourite. Sync and match features let you finish two different foods at the same time, and reviewers rate the cooking results highly.",
+      "specs": {"Capacity": "7.6L", "Power": "2,400W", "Baskets": "Two", "Extras": "Sync and match cooking"},
+      "pros": ["Sync and match features", "Versatile cooking functions", "Great results"],
+      "cons": ["Limited total capacity for large households", "Large footprint on the worktop"],
+      "asin": "",
+      "search": "Ninja Foodi Dual Zone AF300UK"
+    },
+    {
+      "brand": "Ninja",
+      "name": "Foodi Max Dual Zone AF400UK",
+      "badge": "Best for most families",
+      "best_for": "Bigger households that need generous capacity in two drawers",
+      "key_spec": "9.5L, two drawers",
+      "summary": "Mumsnet's tester panel picked this as the best air fryer for most people, citing its generous capacity, independent drawers and consistently crisp results.",
+      "specs": {"Capacity": "9.5L", "Baskets": "Two independent drawers"},
+      "pros": ["Generous capacity", "Two independent drawers", "Consistently crisp results in family testing"],
+      "cons": ["Takes up a lot of counter space"],
+      "asin": "",
+      "search": "Ninja Foodi Max Dual Zone AF400UK"
+    },
+    {
+      "brand": "Instant",
+      "name": "Vortex Plus Dual Drawer",
+      "badge": "Best mid-range value",
+      "best_for": "Buyers who want a dual-drawer machine without the top-tier price",
+      "key_spec": "7.6L, 1,700W",
+      "summary": "A cooking-fast, energy-efficient dual-drawer model with clear windows so you can check food without opening the drawer.",
+      "specs": {"Capacity": "7.6L", "Power": "1,700W", "Baskets": "Two", "Extras": "Viewing windows"},
+      "pros": ["Fast cooking", "Clear windows to watch food", "Energy efficient"],
+      "cons": ["Touchscreen scratches easily", "No recipe book included"],
+      "asin": "",
+      "search": "Instant Vortex Plus Dual Drawer air fryer"
+    },
+    {
+      "brand": "Ninja",
+      "name": "DoubleStack XL",
+      "badge": "Best for small kitchens",
+      "best_for": "Anyone short on counter space who still wants big capacity",
+      "key_spec": "9.5L, 2,470W",
+      "summary": "The drawers stack vertically, so it takes far less worktop space than side-by-side dual-drawer designs while still offering large capacity.",
+      "specs": {"Capacity": "9.5L", "Power": "2,470W", "Baskets": "Two, stacked vertically"},
+      "pros": ["Space-saving vertical design", "Large capacity"],
+      "cons": ["Expensive", "Occasional uneven browning"],
+      "asin": "",
+      "search": "Ninja DoubleStack XL air fryer"
+    },
+    {
+      "brand": "Ninja",
+      "name": "Air Fryer Max Pro AF180UK",
+      "badge": "Best for frozen food",
+      "best_for": "Single-drawer buyers who cook a lot of frozen chips and snacks",
+      "key_spec": "6.2L, 2,000W",
+      "summary": "A single-drawer model with a Max Crisp mode up to 240°C, which is well suited to crisping frozen food quickly.",
+      "specs": {"Capacity": "6.2L", "Power": "2,000W", "Baskets": "One", "Extras": "Max Crisp to 240°C"},
+      "pros": ["Max Crisp setting", "Heats quickly", "Dishwasher-safe parts"],
+      "cons": ["Limited programs", "Pricier than some single-basket rivals"],
+      "asin": "",
+      "search": "Ninja Air Fryer Max Pro AF180UK"
+    },
+    {
+      "brand": "Ninja",
+      "name": "Foodi FlexDrawer AF500UK",
+      "badge": "Best for big roasts",
+      "best_for": "Cooks who want one huge drawer for a Sunday roast or two smaller ones",
+      "key_spec": "10.4L, 2,470W",
+      "summary": "A flexible drawer that works as one large cooking space or as two zones, giving excellent results for large joints.",
+      "specs": {"Capacity": "10.4L", "Power": "2,470W", "Baskets": "Flexible single or dual mode"},
+      "pros": ["Flexible dual or single mode", "Excellent cooking results"],
+      "cons": ["Very expensive", "Drawer is too large for most dishwashers"],
+      "asin": "",
+      "search": "Ninja Foodi FlexDrawer AF500UK"
+    },
+    {
+      "brand": "Cuisinart",
+      "name": "AirTwin XXL",
+      "badge": "Best PFAS-free coating",
+      "best_for": "Buyers who want to avoid PFAS non-stick coatings",
+      "key_spec": "10.4L, 2,400W",
+      "summary": "Expert Reviews highlights its non-stick coating as free from PFAS, which is a deciding factor for buyers who want to avoid so-called forever chemicals.",
+      "specs": {"Capacity": "10.4L", "Power": "2,400W", "Extras": "PFAS-free non-stick coating"},
+      "pros": ["PFAS-free non-stick coating", "Very large capacity"],
+      "cons": ["Bulky design"],
+      "asin": "",
+      "search": "Cuisinart AirTwin XXL air fryer"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What size air fryer do I need?",
+      "a": "As a rough guide, 3-4L suits one or two people, 5-7L suits a small family, and 8L or more (often split across two drawers) suits larger households or anyone who wants to cook a main and a side at the same time."
+    },
+    {
+      "q": "Are dual-drawer air fryers worth it?",
+      "a": "They let you cook two different foods at once, and most have a sync mode so both finish together. The trade-off is a bigger footprint and a higher price, so they make most sense for families and regular batch cooks."
+    },
+    {
+      "q": "Do air fryers use less energy than an oven?",
+      "a": "Air fryers heat a much smaller space, so for small and medium portions they typically use less energy than a full-size oven. Energy use varies by model, so check independent test results if running cost matters to you."
+    },
+    {
+      "q": "What does PFAS-free mean on an air fryer?",
+      "a": "PFAS are a group of synthetic chemicals sometimes used in non-stick coatings. Some manufacturers now advertise PFAS-free coatings. Check the product listing if this matters to you."
+    }
+  ],
+  "sources": [
+    {"name": "Expert Reviews: best air fryers", "url": "https://www.expertreviews.co.uk/home-garden/small-appliances/air-fryers/best-air-fryer"},
+    {"name": "Mumsnet: best air fryers", "url": "https://www.mumsnet.com/swearsby/best-air-fryers"},
+    {"name": "Which?: how to buy the best air fryer", "url": "https://www.which.co.uk/reviews/air-fryers/article/how-to-buy-the-best-air-fryer-ajltd1z3GrZm"}
+  ]
+}
