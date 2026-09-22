@@ -39,7 +39,7 @@ GROUPS = {
         "bike-lights",
     ],
     "Clothing": ["mens-down-jackets", "womens-puffer-jackets"],
-    "Sports": ["football-boots"],
+    "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets"],
     "Personal care": ["electric-toothbrushes"],
 }
 

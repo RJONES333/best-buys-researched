@@ -1,0 +1,135 @@
+{
+  "slug": "gym-training-shoes",
+  "title": "Best Gym and Cross-Training Shoes UK",
+  "short": "Cross-training shoes compared by stability, cushioning and fit, for lifting, HIIT and mixed gym workouts.",
+  "intro": "A cross-training shoe has to do several jobs at once: stay stable under a heavy squat, flex for burpees, and hold up on a short run. This guide compares shoes tested by BarBend, covering the best options for lifting, HIIT, wide and flat feet, and barefoot-style training.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Reebok",
+      "name": "Nano X5",
+      "badge": "Best overall",
+      "best_for": "Mixed workouts combining strength training and cardio",
+      "key_spec": "Updated EVA midsole, rope climb traction plate",
+      "summary": "BarBend's overall pick. An updated EVA midsole supports running better than previous Nanos, with a rope climb traction plate and a wide colour range, though the Flexweave upper stretches over time and there's no wide sizing.",
+      "specs": {"Midsole": "Updated EVA", "Extras": "Rope climb traction plate"},
+      "pros": ["Updated EVA midsole supports running", "Wide colour range", "Rope climb traction plate"],
+      "cons": ["Flexweave upper stretches over time", "No wide sizing", "Limited outdoor traction"],
+      "asin": "",
+      "search": "Reebok Nano X5 training shoes"
+    },
+    {
+      "brand": "Nike",
+      "name": "Metcon 9",
+      "badge": "Best for wide feet",
+      "best_for": "Wider-footed lifters who prioritise strength work",
+      "key_spec": "Wider toe box, durable mesh upper, 13.55oz",
+      "summary": "A wider toe box than previous Metcons with a durable mesh upper and extensive rope guard, though BarBend found it heavy and the rigid plate limits cardio performance.",
+      "specs": {"Weight": "13.55oz"},
+      "pros": ["Wider toe box than previous versions", "Durable mesh upper", "Extensive rope guard"],
+      "cons": ["Heavy", "Rigid Hyperplate limits cardio performance", "Less breathable"],
+      "asin": "",
+      "search": "Nike Metcon 9 training shoes"
+    },
+    {
+      "brand": "Adidas",
+      "name": "Adipower Weightlifting 3",
+      "badge": "Best for squats",
+      "best_for": "Olympic lifters and back squat specialists",
+      "key_spec": "22mm heel-drop, wider heel, multiple closure systems",
+      "summary": "A dedicated weightlifting shoe with a 22mm heel-drop that aids squat positioning and a wider heel for stability, though it has a narrow toe box and limited versatility outside lifting.",
+      "specs": {"Heel-drop": "22mm"},
+      "pros": ["22mm heel-drop aids squat positioning", "Wider heel for stability", "Multiple closure systems"],
+      "cons": ["Narrow toe box", "Limited versatility", "Less breathable canvas upper"],
+      "asin": "",
+      "search": "Adidas Adipower Weightlifting 3"
+    },
+    {
+      "brand": "NOBULL",
+      "name": "Outwork Edge Series",
+      "badge": "Best for flat feet",
+      "best_for": "Flat-footed athletes who need extra stability",
+      "key_spec": "Sturdy heel counter, herringbone outsole",
+      "summary": "A sturdy heel counter and herringbone outsole that maintains traction, well suited to flat-footed lifters, though the upper lacks breathability and needs an extended break-in period.",
+      "specs": {"Outsole": "Herringbone"},
+      "pros": ["Sturdy heel counter", "Herringbone outsole maintains traction", "Multiple colourways"],
+      "cons": ["Upper lacks breathability", "Extended break-in period", "High-tops difficult to put on and remove"],
+      "asin": "",
+      "search": "NOBULL Outwork Edge Series training shoes"
+    },
+    {
+      "brand": "Inov-8",
+      "name": "F-Lite G 300",
+      "badge": "Best for rope climbs",
+      "best_for": "Regular rope climbing workouts",
+      "key_spec": "Graphene-infused outsole, 10.5oz",
+      "summary": "A lightweight shoe with a graphene-infused outsole BarBend rates as extremely durable, plus a dedicated rope-grip system, though eyelets are prone to tearing and the collar fits tight.",
+      "specs": {"Weight": "10.5oz", "Outsole": "Graphene-infused"},
+      "pros": ["Graphene-infused outsole is extremely durable", "Lightweight", "Rope-Tec grip system"],
+      "cons": ["Fewer vibrant colours", "Eyelets prone to tearing", "Tight bootie-style collar"],
+      "asin": "",
+      "search": "Inov-8 F-Lite G 300 training shoes"
+    },
+    {
+      "brand": "PUMA",
+      "name": "Fuse 3.0",
+      "badge": "Best budget",
+      "best_for": "Budget-conscious gym-goers who still lift heavy",
+      "key_spec": "Under $125, stable midsole",
+      "summary": "Excellent value with a quick break-in and a stable midsole well suited to heavy lifts, though colour choice is limited and the 4mm drop can feel flat for some.",
+      "specs": {"Drop": "4mm"},
+      "pros": ["Excellent value", "Quick break-in", "Stable midsole ideal for heavy lifts"],
+      "cons": ["Only three colourways", "Thicker mesh reduces breathability", "4mm drop feels flat to some"],
+      "asin": "",
+      "search": "PUMA Fuse 3.0 training shoes"
+    },
+    {
+      "brand": "Xero",
+      "name": "Prio",
+      "badge": "Best barefoot-style",
+      "best_for": "Buyers who want a zero-drop, minimalist training shoe",
+      "key_spec": "Zero-drop, removable insole, under $90",
+      "summary": "A zero-drop minimalist shoe with a removable insole, affordable and durable, though it has a learning curve if you haven't trained barefoot-style before.",
+      "specs": {"Drop": "Zero"},
+      "pros": ["Zero-drop design", "Removable insole", "Affordable", "Durable upper"],
+      "cons": ["Learning curve for barefoot shoes", "Bulky laces", "Limited breathability"],
+      "asin": "",
+      "search": "Xero Prio training shoes"
+    },
+    {
+      "brand": "R.A.D.",
+      "name": "One v2",
+      "badge": "Best for HIIT",
+      "best_for": "High-intensity interval training with multidirectional movement",
+      "key_spec": "6mm drop, R.A.D. Wave outsole",
+      "summary": "BarBend picks this for HIIT, with a 6mm drop that balances lifting and sprinting and a durable build, though it's premium-priced and sizing can be inconsistent for wider feet.",
+      "specs": {"Drop": "6mm"},
+      "pros": ["Durable build", "6mm drop balances lifts and sprints", "Durable outsole"],
+      "cons": ["Premium pricing", "Sizing inconsistencies for wider feet"],
+      "asin": "",
+      "search": "R.A.D. One v2 training shoes"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What heel-to-toe drop should I look for?",
+      "a": "A lower drop (zero to 4mm) suits lifting and barefoot-style training by keeping your heel close to the ground. A slightly higher drop (6mm or so) is a good compromise for mixed HIIT sessions that include running. Dedicated weightlifting shoes often use a much higher, fixed heel (around 20mm+) specifically to aid squat depth and posture."
+    },
+    {
+      "q": "Do I need a dedicated weightlifting shoe?",
+      "a": "If you regularly do heavy back squats or Olympic lifts, a weightlifting shoe's raised, stable heel can improve your position. For general gym training, HIIT and mixed workouts, a cross-trainer with a lower, more versatile drop is usually more practical."
+    },
+    {
+      "q": "Can I run in cross-training shoes?",
+      "a": "Cross-trainers can handle short runs and sprints within a workout, but their firmer, more stable build makes them less cushioned and comfortable than a dedicated running shoe over longer distances."
+    },
+    {
+      "q": "How do I choose between stability and flexibility?",
+      "a": "Heavier lifting benefits from a firmer, more stable shoe that won't compress under load. More dynamic training, like HIIT or plyometrics, benefits from a shoe with more flex and cushioning. Several picks here specialise in one or the other, so match the shoe to what you do most."
+    }
+  ],
+  "sources": [
+    {"name": "BarBend: best cross-training shoes", "url": "https://barbend.com/best-cross-training-shoes/"}
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "tennis-rackets",
+  "title": "Best Tennis Rackets UK",
+  "short": "Tennis rackets compared by weight, head size and playing style, from power frames to control frames.",
+  "intro": "The right tennis racket depends on your level and how you play, not just the brand on the frame. This guide compares rackets reviewed by TennisCompanion, covering power, control, comfort and stability frames so you can match the racket to your game.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Babolat",
+      "name": "Pure Drive",
+      "badge": "Best for power",
+      "best_for": "Beginners to advanced players who want easy power",
+      "key_spec": "100 sq in head, deflects and transfers energy efficiently",
+      "summary": "A racket that quickly deflects and transfers more energy to the ball, excelling on serves and groundstrokes, though it rates lower for control and feel and its stiffness reduces comfort.",
+      "specs": {"Head size": "100 in² (645 cm²)"},
+      "pros": ["Quickly deflects and transfers energy to the ball", "Excels on serves and groundstrokes"],
+      "cons": ["Lower control and feel ratings", "Higher stiffness reduces comfort", "Requires accuracy management"],
+      "asin": "",
+      "search": "Babolat Pure Drive tennis racket"
+    },
+    {
+      "brand": "Babolat",
+      "name": "Pure Aero",
+      "badge": "Best for topspin",
+      "best_for": "Intermediate to advanced baseline players",
+      "key_spec": "100 sq in head, aerodynamic frame",
+      "summary": "TennisCompanion calls this a \"spin machine\" thanks to its aerodynamic design, excellent for groundstrokes and spin generation, though the stiffer frame affects touch shots.",
+      "specs": {"Head size": "100 in² (645 cm²)"},
+      "pros": ["Excellent groundstrokes and spin generation", "Aerodynamic design"],
+      "cons": ["Stiffer frame affects touch shots", "Potential arm discomfort with polyester strings"],
+      "asin": "",
+      "search": "Babolat Pure Aero tennis racket"
+    },
+    {
+      "brand": "Yonex",
+      "name": "Percept 97D",
+      "badge": "Best for control",
+      "best_for": "Strong intermediate to advanced all-court players",
+      "key_spec": "97 in² head, 337g",
+      "summary": "A highly responsive racket with precision ball striking, ideal for net play, though it requires sound technique and doesn't provide easy power.",
+      "specs": {"Weight": "11.9oz (337g)", "Head size": "97 in²"},
+      "pros": ["Highly responsive", "Precision ball striking", "Ideal for net play"],
+      "cons": ["Requires sound technique", "Less easy power", "Moderate topspin generation"],
+      "asin": "",
+      "search": "Yonex Percept 97D tennis racket"
+    },
+    {
+      "brand": "Wilson",
+      "name": "Clash 100",
+      "badge": "Best for comfort",
+      "best_for": "Beginners and intermediates, or players with arm concerns",
+      "key_spec": "100 in² head, stiffness rating of 54",
+      "summary": "An arm-friendly racket with an ultra-low stiffness rating and balanced performance, though it offers lower stability and can be overpowered by heavy pace.",
+      "specs": {"Head size": "100 in²", "Stiffness rating": "54"},
+      "pros": ["Ultra-low stiffness rating", "Arm-friendly", "Balanced performance"],
+      "cons": ["Lower stability", "Vulnerable to heavy pace"],
+      "asin": "",
+      "search": "Wilson Clash 100 tennis racket"
+    },
+    {
+      "brand": "Wilson",
+      "name": "Blade 98 16x19",
+      "badge": "Best for feel",
+      "best_for": "Intermediate to advanced players who value touch",
+      "key_spec": "98 in² head, 323g, braided graphite",
+      "summary": "A braided graphite construction that gives refined control and exceptional net play, though it offers moderately less power and spin than the Pure Drive or Pure Aero.",
+      "specs": {"Weight": "11.4oz (323g)", "Head size": "98 in²"},
+      "pros": ["Refined control", "Exceptional net play", "Braided graphite construction"],
+      "cons": ["Moderately less power and spin", "Less aggressive serve capability"],
+      "asin": "",
+      "search": "Wilson Blade 98 16x19 tennis racket"
+    },
+    {
+      "brand": "Head",
+      "name": "Gravity Pro",
+      "badge": "Best for stability",
+      "best_for": "Strong intermediate to advanced players who face pace",
+      "key_spec": "332g, graphene-enhanced construction",
+      "summary": "A stable racket that handles opponent pace effectively and holds its own at the net, though it offers lower easy power and its weight demands a strong swing.",
+      "specs": {"Weight": "11.7oz (332g)"},
+      "pros": ["Handles opponent pace effectively", "Stable at net", "Graphene-enhanced construction"],
+      "cons": ["Lower easy power", "Heavier weight demands a strong swing", "Requires manoeuvrability"],
+      "asin": "",
+      "search": "Head Gravity Pro tennis racket"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What head size should I choose?",
+      "a": "Larger heads (100 in² and above) give a bigger sweet spot and more easy power, which suits beginners and improvers. Smaller heads (95-98 in²) give more precision and control for players with a more developed technique, at the cost of some forgiveness."
+    },
+    {
+      "q": "What does racket stiffness affect?",
+      "a": "Stiffer rackets transfer more energy into the ball for extra power, but transmit more shock to your arm, which can be uncomfortable or aggravate injuries. More flexible rackets, like the Wilson Clash here, are gentler on the arm but generate less power on their own."
+    },
+    {
+      "q": "Power, control or all-round racket?",
+      "a": "Power rackets suit players who want easy pace with a shorter, more compact swing. Control rackets suit players with a full, fast swing who want precision rather than extra help. All-round or stability rackets aim for a balance between the two."
+    },
+    {
+      "q": "Does racket weight matter?",
+      "a": "Heavier rackets tend to feel more stable and absorb pace better, but require a stronger, faster swing to generate power. Lighter rackets are more manoeuvrable and easier to swing quickly, which particularly helps at the net and on serve."
+    }
+  ],
+  "sources": [
+    {"name": "TennisCompanion: best tennis racquets", "url": "https://tenniscompanion.org/best-tennis-racquets/"}
+  ]
+}
