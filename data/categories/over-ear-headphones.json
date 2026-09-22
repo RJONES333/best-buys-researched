@@ -1,0 +1,135 @@
+{
+  "slug": "over-ear-headphones",
+  "title": "Best Over-Ear Headphones UK",
+  "short": "Wireless over-ear headphones compared by noise cancelling, sound quality and battery life, from budget to premium.",
+  "intro": "Over-ear headphones trade the portability of earbuds for bigger drivers, longer battery life and usually stronger noise cancelling. This guide compares headphones tested by Expert Reviews, whose reviewers say they have tested hundreds of pairs over 15 years, from budget picks to premium audiophile options.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Sony",
+      "name": "WH-1000XM6",
+      "badge": "Best overall",
+      "best_for": "Buyers who want the strongest all-round package",
+      "key_spec": "ANC, foldable, 30hr battery with ANC on",
+      "summary": "Expert Reviews' overall winner. It's extremely comfortable with great noise cancelling and first-rate audio, though voice pickup on calls is only average.",
+      "specs": {"ANC": "Yes", "Design": "Foldable", "Battery life": "30 hours (ANC on)"},
+      "pros": ["Extremely comfortable", "Great ANC", "First-rate audio"],
+      "cons": ["Average voice pickup on calls"],
+      "asin": "",
+      "search": "Sony WH-1000XM6 headphones"
+    },
+    {
+      "brand": "Anker Soundcore",
+      "name": "Life Q30",
+      "badge": "Best budget",
+      "best_for": "Buyers who want effective ANC without paying a premium",
+      "key_spec": "ANC, strong battery life",
+      "summary": "A long-running budget favourite with effective noise cancelling, a bumper battery life and soft earcups, though Expert Reviews notes they look cheap.",
+      "specs": {"ANC": "Yes"},
+      "pros": ["Effective noise cancelling", "Bumper battery life", "Soft earcups"],
+      "cons": ["Look cheap"],
+      "asin": "",
+      "search": "Anker Soundcore Life Q30 headphones"
+    },
+    {
+      "brand": "Bose",
+      "name": "QuietComfort Ultra (Gen 2)",
+      "badge": "Best noise cancellation",
+      "best_for": "Buyers who prioritise blocking out noise above all else",
+      "key_spec": "ANC, wireless",
+      "summary": "Expert Reviews rates the noise cancellation as phenomenal, with a fantastic fit and eye-catching colour options, though the build quality is underwhelming for the price.",
+      "specs": {"ANC": "Yes"},
+      "pros": ["Phenomenal noise cancellation", "Fantastic fit", "Eye-catching colours"],
+      "cons": ["Underwhelming build quality"],
+      "asin": "",
+      "search": "Bose QuietComfort Ultra Gen 2 headphones"
+    },
+    {
+      "brand": "Bowers & Wilkins",
+      "name": "Px8 S2",
+      "badge": "Best sound quality",
+      "best_for": "Buyers who want the most detailed, luxurious sound",
+      "key_spec": "ANC, wireless, premium build",
+      "summary": "Incredibly detailed sound in a very comfortable, luxurious build, though its noise cancellation is only middling next to dedicated ANC specialists.",
+      "specs": {"ANC": "Yes"},
+      "pros": ["Incredibly detailed sound", "Very comfortable", "Luxurious build"],
+      "cons": ["Middling noise cancellation"],
+      "asin": "",
+      "search": "Bowers & Wilkins Px8 S2 headphones"
+    },
+    {
+      "brand": "Sennheiser",
+      "name": "Momentum 5 Wireless",
+      "badge": "Best for longevity",
+      "best_for": "Buyers who want a headphone built to last, battery and all",
+      "key_spec": "ANC, user-replaceable battery, 57hr battery with ANC on",
+      "summary": "A crisp-sounding, impressively noise-cancelling headphone with a user-replaceable battery, so you're not stuck when the battery eventually degrades, though it's a heavy build.",
+      "specs": {"ANC": "Yes", "Battery": "User-replaceable, 57 hours (ANC on)"},
+      "pros": ["User-replaceable battery", "Crisp sound", "Impressive ANC"],
+      "cons": ["Heavy build"],
+      "asin": "",
+      "search": "Sennheiser Momentum 5 Wireless headphones"
+    },
+    {
+      "brand": "Apple",
+      "name": "AirPods Max 2",
+      "badge": "Best for iPhone users",
+      "best_for": "Apple ecosystem users who want seamless integration",
+      "key_spec": "ANC, H2 chip, USB-C",
+      "summary": "Great sound quality and effective ANC in a well-built design with the H2 chip, though battery life is mediocre compared with rivals.",
+      "specs": {"ANC": "Yes", "Chip": "H2", "Charging": "USB-C"},
+      "pros": ["Great sound quality", "Well-built design", "Effective ANC"],
+      "cons": ["Mediocre battery life"],
+      "asin": "",
+      "search": "Apple AirPods Max 2"
+    },
+    {
+      "brand": "Nothing",
+      "name": "Headphone (a)",
+      "badge": "Best battery life",
+      "best_for": "Buyers who hate charging headphones often",
+      "key_spec": "ANC, 75hr battery (ANC on), 135hr (ANC off)",
+      "summary": "Exceptional battery life with solid ANC and engaging audio, though its spatial audio modes are disappointing.",
+      "specs": {"ANC": "Yes", "Battery life": "75 hours (ANC on), 135 hours (ANC off)"},
+      "pros": ["Exceptional battery life", "Solid ANC", "Engaging audio"],
+      "cons": ["Disappointing spatial audio modes"],
+      "asin": "",
+      "search": "Nothing Headphone (a)"
+    },
+    {
+      "brand": "Marshall",
+      "name": "Monitor III ANC",
+      "badge": "Best for durability and style",
+      "best_for": "Buyers who want a distinctive look built to last",
+      "key_spec": "ANC, 70hr battery",
+      "summary": "A strong mid-range and treble sound with unbeatable durability and intuitive controls, in Marshall's classic design, though the earcups get warm.",
+      "specs": {"ANC": "Yes", "Battery life": "70 hours"},
+      "pros": ["Strong mid-range and treble", "Unbeatable durability", "Intuitive controls"],
+      "cons": ["Earcups get warm"],
+      "asin": "",
+      "search": "Marshall Monitor III ANC headphones"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Over-ear headphones or earbuds?",
+      "a": "Over-ear headphones generally offer stronger noise cancelling, longer battery life and bigger, richer-sounding drivers, but are bulkier to carry. Earbuds are far more portable and better suited to exercise, at some cost to battery life and bass depth."
+    },
+    {
+      "q": "How much does noise cancelling quality vary?",
+      "a": "It varies a lot. Some headphones here, like the Bose, are rated as having phenomenal ANC, while others are only middling. If blocking out noise on commutes or flights is your priority, check the specific ANC rating rather than assuming all ANC headphones perform the same."
+    },
+    {
+      "q": "Does a replaceable battery matter?",
+      "a": "Rechargeable batteries degrade over years of use. A model with a user-replaceable battery, like the Sennheiser Momentum 5 here, can be kept going for much longer rather than becoming e-waste once the battery weakens."
+    },
+    {
+      "q": "Do I need Bluetooth multipoint?",
+      "a": "Multipoint lets a headphone stay connected to two devices at once, such as a laptop and a phone, and switch between them automatically. It's a convenience feature worth checking for if you regularly swap between devices."
+    }
+  ],
+  "sources": [
+    {"name": "Expert Reviews: best over-ear headphones", "url": "https://www.expertreviews.co.uk/technology/headphones-audio/best-over-ear-headphones-uk"}
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "iphone-charging-cables",
+  "title": "Best iPhone Charging Cables UK",
+  "short": "MFi-certified Lightning and USB-C to Lightning cables compared by length, durability and price.",
+  "intro": "A 2m cable is the most useful length for most people, long enough to use your phone from bed or the sofa while it charges. This guide compares cables tested by Macworld and TechGearLab, all MFi certified so they charge reliably and won't trigger error messages or throttled charging on iOS.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Apple",
+      "name": "Lightning to USB-C Cable",
+      "badge": "Best official option",
+      "best_for": "Buyers who want a guaranteed-compatible Apple cable",
+      "key_spec": "MFi certified, 1m or 2m, fast charge",
+      "summary": "Apple's own cable, available in a 2m length, with guaranteed compatibility and fast charging support, though it costs more than third-party alternatives.",
+      "specs": {"Lengths": "1m, 2m", "MFi certified": "Yes", "Fast charge": "Yes"},
+      "pros": ["Made by Apple", "Fast charge support"],
+      "cons": ["Expensive"],
+      "asin": "",
+      "search": "Apple Lightning to USB-C Cable 2m"
+    },
+    {
+      "brand": "Anker",
+      "name": "Powerline + II",
+      "badge": "Best overall durability",
+      "best_for": "Buyers who want the toughest everyday cable",
+      "key_spec": "MFi certified, braided nylon sheath, 6ft (1.8m)",
+      "summary": "TechGearLab's best overall pick, with a durable braided nylon sheath and a carrying case included, though it's pricier and bulkier than basic cables.",
+      "specs": {"Length": "6ft (1.8m)", "MFi certified": "Yes", "Sheath": "Braided nylon"},
+      "pros": ["Durable braided nylon sheath", "Includes carrying case"],
+      "cons": ["Expensive", "Bulky"],
+      "asin": "",
+      "search": "Anker Powerline Plus II Lightning cable"
+    },
+    {
+      "brand": "Anker",
+      "name": "Powerline II USB-C to Lightning",
+      "badge": "Best USB-C to Lightning",
+      "best_for": "Charging from a USB-C wall charger or laptop at full speed",
+      "key_spec": "MFi certified, fast charging, 6ft",
+      "summary": "TechGearLab's pick for USB-C to Lightning, with fast charging times and a durable sheath, though it needs a USB-C port, which is less common on older chargers.",
+      "specs": {"Length": "6ft", "MFi certified": "Yes"},
+      "pros": ["Fast charging times", "Durable sheath"],
+      "cons": ["USB-C ports less common on older devices"],
+      "asin": "",
+      "search": "Anker Powerline II USB-C to Lightning cable"
+    },
+    {
+      "brand": "Anker",
+      "name": "331 USB-C to Lightning Cable",
+      "badge": "Best budget durable",
+      "best_for": "Buyers who want toughness without paying a premium",
+      "key_spec": "MFi certified, up to 3m, fast charge",
+      "summary": "Macworld describes this as \"super tough\" and affordable, available up to 3m, with fast charging and a choice of colours.",
+      "specs": {"Lengths": "1ft to 3m options", "MFi certified": "Yes", "Fast charge": "Yes"},
+      "pros": ["Super tough", "Affordable", "Fast charge", "Colour options"],
+      "cons": [],
+      "asin": "",
+      "search": "Anker 331 USB-C to Lightning Cable"
+    },
+    {
+      "brand": "Native Union",
+      "name": "Belt Cable Duo (Pro)",
+      "badge": "Best dual-connector flexibility",
+      "best_for": "Households with a mix of USB-C and Lightning devices",
+      "key_spec": "MFi certified, USB-C or Lightning ends, up to 2.4m (Pro)",
+      "summary": "A robust cable with USB-C or Lightning connector options and a choice of colours, with the Pro version stretching to 2.4m for extra reach.",
+      "specs": {"Lengths": "1.5m, Pro version 2.4m", "MFi certified": "Yes"},
+      "pros": ["USB-C or Lightning connectors", "Robust cable", "Colour options"],
+      "cons": [],
+      "asin": "",
+      "search": "Native Union Belt Cable Duo Pro"
+    },
+    {
+      "brand": "Native Union",
+      "name": "Belt Cable XL",
+      "badge": "Best for extended reach",
+      "best_for": "Charging at a distance, such as overnight from a far socket",
+      "key_spec": "MFi certified, 10ft (3m), fast charging",
+      "summary": "TechGearLab's pick for extended charging, with extra length and an aesthetic design, fast charging included, though it's excessive length for everyday desk use.",
+      "specs": {"Length": "10ft (3m)", "MFi certified": "Yes"},
+      "pros": ["Extra length", "Fast charging", "Aesthetic design"],
+      "cons": ["Excessive length for everyday use"],
+      "asin": "",
+      "search": "Native Union Belt Cable XL"
+    },
+    {
+      "brand": "Nomad",
+      "name": "Kevlar Universal Cable",
+      "badge": "Best for heavy use",
+      "best_for": "Daily professional use where cables get abused",
+      "key_spec": "Braided Kevlar sheath, universal Micro USB/USB-C/Lightning, 1.5m",
+      "summary": "TechGearLab's pick for business use, with a braided Kevlar sheath built for heavy handling and universal connectors, though it costs more and is bulkier than a basic cable.",
+      "specs": {"Length": "1.5m (5ft)", "Sheath": "Braided Kevlar", "Connectors": "Micro USB, USB-C, Lightning"},
+      "pros": ["Braided Kevlar sheath", "Universal connector compatibility"],
+      "cons": ["Expensive", "Bulky"],
+      "asin": "",
+      "search": "Nomad Kevlar Universal Cable"
+    },
+    {
+      "brand": "Amazon Basics",
+      "name": "USB-C to Lightning Cable",
+      "badge": "Best budget basic",
+      "best_for": "Buyers who just want an affordable, reliable spare",
+      "key_spec": "MFi certified, 3, 6 or 10ft, fast charge",
+      "summary": "A straightforward, affordable MFi-certified cable available in several lengths and colours, with fast charging support.",
+      "specs": {"Lengths": "3ft, 6ft, 10ft", "MFi certified": "Yes", "Fast charge": "Yes"},
+      "pros": ["Affordable", "Fast charge", "Multiple colours and lengths"],
+      "cons": [],
+      "asin": "",
+      "search": "Amazon Basics USB-C to Lightning Cable"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Lightning or USB-C cable for my iPhone?",
+      "a": "iPhone 15 and later use USB-C natively. iPhone 14 and earlier use Lightning, so you need a USB-C to Lightning cable to charge from a modern USB-C charger, or a USB-A to Lightning cable for an older charger. Check your phone's port before buying."
+    },
+    {
+      "q": "What does MFi certified mean, and does it matter?",
+      "a": "MFi (Made for iPhone) means Apple has tested and approved the cable's chip for safe, reliable charging. Uncertified cables can trigger error messages, charge unreliably, or in rare cases overheat, so it's worth checking for MFi certification even on cheap cables."
+    },
+    {
+      "q": "What length cable should I buy?",
+      "a": "A 1m cable suits a desk or bedside table close to a socket. 2m is the most versatile length for most rooms, letting you use your phone from a sofa or bed while it charges. Longer cables (3m+) suit awkward socket positions but are more prone to tangling."
+    },
+    {
+      "q": "Does a braided cable actually last longer?",
+      "a": "Braided nylon or Kevlar sheaths generally resist fraying and bending damage better than plain rubber-coated cables, particularly at the connector ends where cables usually fail first. It's a reasonable indicator of durability, though build quality still varies between brands."
+    }
+  ],
+  "sources": [
+    {"name": "Macworld: best Lightning cables for iPhone", "url": "https://www.macworld.com/article/668656/best-lightning-cables-for-iphone.html"},
+    {"name": "TechGearLab: best Lightning cable", "url": "https://www.techgearlab.com/topics/electronics/best-lightning-cable"}
+  ]
+}
