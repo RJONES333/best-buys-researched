@@ -34,9 +34,10 @@ body {
 .wrap { max-width: 860px; margin: 0 auto; padding: 0 16px; }
 .wrap-wide { max-width: 1180px; }
 a { color: var(--accent); }
-h1 { font-size: 2rem; line-height: 1.2; margin: 1.2rem 0 0.4rem; }
-h2 { font-size: 1.4rem; margin: 2.2rem 0 0.8rem; }
-h3 { margin: 0.2rem 0 0.4rem; font-size: 1.2rem; }
+h1, h2, h3, .brand, .spotlight-title, .eyebrow { font-family: "Sora", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+h1 { font-size: 2rem; line-height: 1.2; margin: 1.2rem 0 0.4rem; font-weight: 800; letter-spacing: -0.01em; }
+h2 { font-size: 1.4rem; margin: 2.2rem 0 0.8rem; font-weight: 700; }
+h3 { margin: 0.2rem 0 0.4rem; font-size: 1.2rem; font-weight: 700; }
 h4 { margin: 0.6rem 0 0.2rem; font-size: 0.95rem; }
 .site-header { border-bottom: 1px solid var(--border); background: var(--surface); }
 .header-inner { display: flex; justify-content: space-between; align-items: center; padding-top: 14px; padding-bottom: 14px; }
@@ -110,6 +111,24 @@ nav a { margin-left: 18px; text-decoration: none; }
   .spotlight { flex-direction: column; }
 }
 .hero { padding: 1.5rem 0 0.5rem; }
+.hero-stats { margin: 0.4rem 0 0; font-size: 0.9rem; color: var(--accent); font-weight: 600; }
+.trust-bar {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px;
+  margin: 1.2rem 0; padding: 12px 16px;
+  border: 1px solid var(--border); border-radius: 10px; background: var(--note);
+  font-size: 0.85rem; color: var(--muted);
+}
+.trust-label { font-weight: 700; color: var(--text); }
+.search-box { margin: 1.2rem 0 1.6rem; }
+.search-box input {
+  width: 100%; padding: 12px 16px; font-size: 1rem;
+  border: 1px solid var(--border); border-radius: 10px;
+  background: var(--surface); color: var(--text);
+}
+.search-box input:focus { outline: 3px solid var(--accent); outline-offset: 1px; }
+.no-results { color: var(--muted); }
+.guide-group h2 { margin-top: 2rem; }
+.guide-group:first-of-type h2 { margin-top: 1.8rem; }
 .tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 14px; }
 .tile { display: block; text-decoration: none; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px; }
 .tile:hover { border-color: var(--accent); }

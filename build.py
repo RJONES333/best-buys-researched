@@ -105,6 +105,19 @@ def affiliate_url(product):
     return f"https://{domain}/s?k={query}&tag={tag}"
 
 
+def source_names(categories, limit=10):
+    """Unique publication names cited across all guides, in first-seen order,
+    for the homepage trust bar. Strips anything after a colon, e.g.
+    "Expert Reviews: best kettles" -> "Expert Reviews"."""
+    seen = []
+    for c in categories:
+        for s in c.get("sources", []):
+            name = s["name"].split(":")[0].strip()
+            if name not in seen:
+                seen.append(name)
+    return seen[:limit]
+
+
 def load_categories():
     categories = []
     for path in sorted((ROOT / "data" / "categories").glob("*.json")):
@@ -150,6 +163,9 @@ def layout(title, description, path, body, jsonld=None, wide=False):
 <meta property="og:type" content="website">
 <meta property="og:url" content="{esc(canonical)}">
 <meta property="og:site_name" content="{esc(CONFIG['name'])}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&display=swap">
 <link rel="stylesheet" href="{BASE}/assets/style.css">
 {ld}
 </head>
@@ -352,12 +368,16 @@ def home_page(categories):
     sections = []
     for group in ordered_groups:
         tiles = "".join(
-            f"""<a class="tile" href="{BASE}/{c['slug']}/"><h3>{esc(c['title'])}</h3><p>{esc(c['short'])}</p>
+            f"""<a class="tile" href="{BASE}/{c['slug']}/" data-search="{esc((c['title'] + ' ' + c['short']).lower())}"><h3>{esc(c['title'])}</h3><p>{esc(c['short'])}</p>
 <span>{len(c['products'])} picks · reviewed {esc(fmt_month(c['reviewed']))}</span></a>"""
             for c in by_group[group]
         )
-        sections.append(f'<h2>{esc(group)}</h2>\n<div class="tiles">{tiles}</div>')
+        sections.append(f'<section class="guide-group"><h2>{esc(group)}</h2>\n<div class="tiles">{tiles}</div></section>')
     tiles_html = "\n".join(sections)
+
+    total_products = sum(len(c["products"]) for c in categories)
+    sources = source_names(categories)
+    trust_bar = "".join(f"<span>{esc(s)}</span>" for s in sources)
 
     body = f"""<div class="page-grid">
 {sidebar_nav(categories, current_slug=None)}
@@ -365,12 +385,46 @@ def home_page(categories):
 <section class="hero">
 <h1>{esc(CONFIG['name'])}</h1>
 <p class="lead">{esc(CONFIG['tagline'])}</p>
+<p class="hero-stats">{len(categories)} guides &middot; {total_products} products researched &middot; updated monthly</p>
 </section>
+<div class="trust-bar">
+  <span class="trust-label">Sourced from</span>
+  {trust_bar}
+  <span>and more</span>
+</div>
+<div class="search-box">
+  <label for="guide-search" class="sr-only">Search guides</label>
+  <input type="search" id="guide-search" placeholder="Search guides, e.g. air fryer, headphones, running">
+</div>
 {tiles_html}
+<p class="no-results" id="no-results" hidden>No guides match that search. <a href="{BASE}/">Clear search</a> to see all {len(categories)}.</p>
 <h2>How this site works</h2>
 <p>We compare products using published independent tests and reviews, then summarise who each one suits. Every guide lists its sources and the date it was last reviewed. <a href="{BASE}/about/">Read how we pick</a>.</p>
 </article>
-</div>"""
+</div>
+<script>
+(function () {{
+  var input = document.getElementById('guide-search');
+  var noResults = document.getElementById('no-results');
+  if (!input) return;
+  var groups = document.querySelectorAll('.guide-group');
+  input.addEventListener('input', function () {{
+    var q = input.value.trim().toLowerCase();
+    var anyVisibleOverall = false;
+    groups.forEach(function (group) {{
+      var anyVisible = false;
+      group.querySelectorAll('.tile').forEach(function (tile) {{
+        var match = !q || tile.getAttribute('data-search').indexOf(q) !== -1;
+        tile.style.display = match ? '' : 'none';
+        if (match) anyVisible = true;
+      }});
+      group.style.display = anyVisible ? '' : 'none';
+      if (anyVisible) anyVisibleOverall = true;
+    }});
+    if (noResults) noResults.hidden = anyVisibleOverall;
+  }});
+}})();
+</script>"""
 
     website_ld = {
         "@context": "https://schema.org",
