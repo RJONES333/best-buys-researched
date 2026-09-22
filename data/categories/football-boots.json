@@ -1,0 +1,135 @@
+{
+  "slug": "football-boots",
+  "title": "Best Football Boots UK",
+  "short": "Football boots compared by position, fit and playing style, from budget value to elite speed boots.",
+  "intro": "The right football boot depends more on your position and foot shape than on the biggest name on the box. This guide compares boots tested by FourFourTwo, covering goalkeepers and defenders through to strikers and speed players, plus a women's-specific and a budget-value pick.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Nike",
+      "name": "Phantom 6",
+      "badge": "Best overall",
+      "best_for": "Most players who want an all-round, comfortable boot",
+      "key_spec": "FG/SG/AG studs, wide-foot friendly, 5 colours",
+      "summary": "FourFourTwo's best overall boot for 2026. It combines a grippy GripKnit upper with a large strike zone and a stiffer outsole than its predecessors, and is comfortable out of the box even for wider feet.",
+      "specs": {"Studs": "FG, SG, AG", "Sizes": "US 3.5-12", "As worn by": "Erling Haaland, Alexia Putellas"},
+      "pros": ["Grippy upper", "Large strike zone", "Accommodating for wider feet"],
+      "cons": [],
+      "asin": "",
+      "search": "Nike Phantom 6 football boots"
+    },
+    {
+      "brand": "Sokito",
+      "name": "Scudetta",
+      "badge": "Best value",
+      "best_for": "Buyers who want elite-level quality without the elite price",
+      "key_spec": "FG studs, from £175, eco-friendly materials",
+      "summary": "An eco-friendly boot using recycled and bio-based materials that FourFourTwo says competes with big-brand rivals costing upwards of £220, at a much lower £175.",
+      "specs": {"Studs": "FG", "Sizes": "UK 4-12", "Price guide": "About £175", "As worn by": "Deandre Yedlin, William Troost-Ekong"},
+      "pros": ["Snug fit", "Great lockdown", "Mix of modern and traditional feel"],
+      "cons": ["Sizing runs at least half a size small", "Limited outsole options"],
+      "asin": "",
+      "search": "Sokito Scudetta football boots"
+    },
+    {
+      "brand": "Adidas",
+      "name": "Copa Pure 3 Elite",
+      "badge": "Best for goalkeepers and defenders",
+      "best_for": "Goalkeepers and defenders who want a traditional, cushioned touch",
+      "key_spec": "FG/SG/AG studs, calf leather forefoot",
+      "summary": "A no-nonsense boot combining a leather forefoot for a cushioned touch with a synthetic quarter for structure and lockdown, which FourFourTwo recommends for both goalkeepers and defenders.",
+      "specs": {"Studs": "FG, SG, AG", "Sizes": "UK 3.5-13", "As worn by": "Manuel Neuer, Declan Rice, Josko Gvardiol"},
+      "pros": ["Comfortable leather upper", "Cushioned touch", "Extra padding", "Lightweight"],
+      "cons": ["Needs breaking in", "Slightly awkward sizing"],
+      "asin": "",
+      "search": "Adidas Copa Pure 3 Elite football boots"
+    },
+    {
+      "brand": "Skechers",
+      "name": "SKX 2",
+      "badge": "Best for midfielders",
+      "best_for": "Control-focused midfielders who want an on-the-ball feel",
+      "key_spec": "FG/SG/AG studs, thin sticky upper",
+      "summary": "FourFourTwo calls this perhaps the most improved boot on the market. Its soft, thin upper needs no break-in and gives a close one-on-one feel with the ball, at the cost of less protection than sturdier boots.",
+      "specs": {"Studs": "FG, SG, AG", "Sizes": "US 6-12", "As worn by": "Harry Kane, Romeo Lavia"},
+      "pros": ["Soft, comfortable upper", "Excellent control", "No break-in required"],
+      "cons": ["Less protection"],
+      "asin": "",
+      "search": "Skechers SKX 2 football boots"
+    },
+    {
+      "brand": "Nike",
+      "name": "Phantom 6 Elite",
+      "badge": "Best for strikers and wide feet",
+      "best_for": "Strikers who want a large strike zone, and players with wide feet",
+      "key_spec": "FG/SG/AG studs, GripKnit upper, wide-fit last",
+      "summary": "The top-tier Phantom, with an off-centred lacing design that creates a large strike zone for strikers, and a wide heel and adaptive last that FourFourTwo rates as the best fit currently available for wide feet.",
+      "specs": {"Studs": "FG, SG, AG", "Sizes": "US 3.5-12 (wide-fit version US 6-12)", "As worn by": "Erling Haaland, Phil Foden"},
+      "pros": ["Grippy upper", "Large strike zone", "Little to no break-in time"],
+      "cons": ["Grip can feel like too much for some players", "Hard to clean"],
+      "asin": "",
+      "search": "Nike Phantom 6 Elite football boots"
+    },
+    {
+      "brand": "Puma",
+      "name": "Women's Ultra 6 Ultimate",
+      "badge": "Best for women",
+      "best_for": "Female players who want a boot built for a women's fit",
+      "key_spec": "FG/SG/AG studs, lower instep and volume",
+      "summary": "FourFourTwo rates Puma as the leading brand for women's-specific boots. It has a lower instep and volume than the unisex version, plus a soleplate geared towards better rotational support, addressing the higher rate of knee injuries in female players.",
+      "specs": {"Studs": "FG, SG, AG", "Sizes": "US 3-9", "As worn by": "Fridolina Rolfo, Andreia Norton"},
+      "pros": ["Women's-specific fit", "Better rotational support", "Lightweight build"],
+      "cons": ["Sizing can be awkward"],
+      "asin": "",
+      "search": "Puma Women's Ultra 6 Ultimate football boots"
+    },
+    {
+      "brand": "Mizuno",
+      "name": "Alpha 2",
+      "badge": "Best for speed",
+      "best_for": "Fast players who want a barefoot-style feel",
+      "key_spec": "FG/AG/SG studs, thin synthetic upper",
+      "summary": "FourFourTwo's top speed boot. A thin synthetic upper gives a barefoot touch, and Mizuno's zero-glide lining locks the foot in place, though the Made-in-Japan version is pricey and grip socks can make it hard to put on.",
+      "specs": {"Studs": "FG, AG, SG", "Sizes": "UK 5-12", "As worn by": "Sergio Ramos, Joao Felix"},
+      "pros": ["Sleek design", "Incredible lockdown", "Barefoot feel for the ball"],
+      "cons": ["MIJ version is very pricey", "Hard to put on with grip socks"],
+      "asin": "",
+      "search": "Mizuno Alpha 2 football boots"
+    },
+    {
+      "brand": "New Balance",
+      "name": "Furon V8 Elite",
+      "badge": "Best for comfort",
+      "best_for": "Players who prioritise comfort in a lightweight speed boot",
+      "key_spec": "Slipper-like Hypoknit upper",
+      "summary": "FourFourTwo says this is arguably the most comfortable boot on the market, with a soft, slipper-like Hypoknit upper and soft heel that gives a lightweight playing experience.",
+      "specs": {"Upper": "Hypoknit"},
+      "pros": ["Superbly comfortable upper", "Soft heel", "Lightweight playing experience"],
+      "cons": [],
+      "asin": "",
+      "search": "New Balance Furon V8 Elite football boots"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What do FG, SG and AG studs mean?",
+      "a": "FG (firm ground) suits natural grass pitches and is the most common choice. SG (soft ground) has longer, often removable studs for wet or muddy pitches. AG (artificial ground) has shorter, more numerous studs designed for 3G and artificial surfaces."
+    },
+    {
+      "q": "Leather or synthetic upper?",
+      "a": "Leather uppers, especially calf leather, tend to give a softer, more traditional cushioned touch and mould to your foot over time. Synthetic uppers are usually lighter, need less breaking in, and often include grip technology aimed at close ball control."
+    },
+    {
+      "q": "Do I need boots for my specific position?",
+      "a": "Any boot can be worn in any position, and it ultimately comes down to personal preference. That said, boots marketed for defenders and goalkeepers tend to prioritise comfort and protection, midfield boots prioritise touch and control, and striker or speed boots prioritise a large strike zone or a lightweight, responsive feel."
+    },
+    {
+      "q": "How do I get the right fit?",
+      "a": "Football boots are generally worn snugger than everyday shoes for better ball control, but sizing varies noticeably between brands and even between models from the same brand, as several entries here run small or large. Check the specific model's sizing notes before buying rather than assuming your usual size."
+    }
+  ],
+  "sources": [
+    {"name": "FourFourTwo: best football boots", "url": "https://www.fourfourtwo.com/buying-guide/best-football-boots"}
+  ]
+}

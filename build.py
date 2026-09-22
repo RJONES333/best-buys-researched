@@ -35,6 +35,8 @@ GROUPS = {
         "running-socks", "walking-socks", "winter-gloves", "womens-leggings",
         "bike-lights",
     ],
+    "Clothing": ["mens-down-jackets", "womens-puffer-jackets"],
+    "Sports": ["football-boots"],
     "Personal care": ["electric-toothbrushes"],
 }
 
@@ -283,9 +285,7 @@ def category_page(cat, all_categories):
         related_html = f"""<h2>Related guides</h2>
 <div class="tiles">{related_items}</div>"""
 
-    body = f"""<div class="page-grid">
-{sidebar_nav(all_categories, cat['slug'])}
-<article>
+    body = f"""<article>
 {crumb_html}
 <h1>{esc(cat['title'])} ({year})</h1>
 <p class="meta">Picks reviewed {esc(fmt_month(cat['reviewed']))} · Sources verified {esc(fmt_month(cat['verified']))}</p>
@@ -301,8 +301,7 @@ def category_page(cat, all_categories):
 <h2>Sources</h2>
 <ul class="sources">{sources}</ul>
 {related_html}
-</article>
-</div>"""
+</article>"""
 
     item_list = {
         "@context": "https://schema.org",
@@ -326,7 +325,7 @@ def category_page(cat, all_categories):
             for g in cat["guide"]
         ],
     }
-    return layout(title, cat["short"], f"/{cat['slug']}/", body, [item_list, faq_ld, crumb_ld], wide=True)
+    return layout(title, cat["short"], f"/{cat['slug']}/", body, [item_list, faq_ld, crumb_ld])
 
 
 def home_page(categories):
@@ -350,13 +349,18 @@ def home_page(categories):
         sections.append(f'<h2>{esc(group)}</h2>\n<div class="tiles">{tiles}</div>')
     tiles_html = "\n".join(sections)
 
-    body = f"""<section class="hero">
+    body = f"""<div class="page-grid">
+{sidebar_nav(categories, current_slug=None)}
+<article>
+<section class="hero">
 <h1>{esc(CONFIG['name'])}</h1>
 <p class="lead">{esc(CONFIG['tagline'])}</p>
 </section>
 {tiles_html}
 <h2>How this site works</h2>
-<p>We compare products using published independent tests and reviews, then summarise who each one suits. Every guide lists its sources and the date it was last reviewed. <a href="{BASE}/about/">Read how we pick</a>.</p>"""
+<p>We compare products using published independent tests and reviews, then summarise who each one suits. Every guide lists its sources and the date it was last reviewed. <a href="{BASE}/about/">Read how we pick</a>.</p>
+</article>
+</div>"""
 
     website_ld = {
         "@context": "https://schema.org",
@@ -372,7 +376,7 @@ def home_page(categories):
         "url": f"{SITE_URL}/",
     }
     return layout(
-        f"{CONFIG['name']}: Buying Guides", CONFIG["tagline"], "/", body, [website_ld, org_ld]
+        f"{CONFIG['name']}: Buying Guides", CONFIG["tagline"], "/", body, [website_ld, org_ld], wide=True
     )
 
 
