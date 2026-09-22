@@ -1,0 +1,162 @@
+{
+  "slug": "trending-kids-toys",
+  "title": "Trending Kids' Toys UK",
+  "short": "The toys and franchises UK kids are asking for this year, from Lego and Pokemon to plush and STEM building sets.",
+  "intro": "Every year a handful of toys and franchises dominate kids' wish lists, and this year is no exception. This guide rounds up what Which? and John Lewis identify as the trending toys for 2026, spanning ages, budgets and interests, along with the safety marks worth checking before you buy.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Lego",
+      "name": "Star Wars Smart Play Yoda's Hut and Jedi Training 75422",
+      "badge": "Trending: Star Wars",
+      "best_for": "Star Wars fans who want interactive building play",
+      "key_spec": "£59.99, Smart Brick with lights and sounds",
+      "summary": "Part of Lego's new Smart Play range, this training-scene set includes Luke and Yoda minifigures and uses motion-activated Smart Bricks for sounds and lights as you play.",
+      "specs": {"Price guide": "£59.99", "Includes": "Luke and Yoda minifigures", "Features": "Smart Brick lights and sounds"},
+      "pros": ["Interactive Smart Brick technology", "Recognisable Star Wars scene", "Includes two minifigures"],
+      "cons": [],
+      "asin": "",
+      "search": "Lego Star Wars Smart Play Yoda's Hut 75422"
+    },
+    {
+      "brand": "The Pokemon Company",
+      "name": "Pokemon Trading Card Game: Battle Academy",
+      "badge": "Trending: Pokemon",
+      "best_for": "Kids new to the Pokemon Trading Card Game",
+      "key_spec": "Starter set with three 60-card decks",
+      "summary": "Which? flags Pokemon's resurgence as it marks its 30th anniversary. This starter set includes three ready-to-play decks, a board and tutorials, making it a solid entry point for beginners.",
+      "specs": {"Includes": "Three 60-card decks, board, tutorials, accessories"},
+      "pros": ["Complete starter set", "Built-in tutorials for beginners", "Multiple decks included"],
+      "cons": [],
+      "asin": "",
+      "search": "Pokemon Trading Card Game Battle Academy"
+    },
+    {
+      "brand": "Connetix",
+      "name": "Ball Run Launcher Pack",
+      "badge": "John Lewis Top 10",
+      "best_for": "Kids who already have magnetic tiles and want to expand their set",
+      "key_spec": "46 pieces, includes launcher and 2 wooden balls",
+      "summary": "A magnetic tile expansion pack with a ball launcher, tubes, connectors and an inspiration book, letting kids build and experiment with custom tracks for speed, height and direction.",
+      "specs": {"Pieces": "46", "Includes": "Launcher, tubes, connectors, tiles, 2 wooden balls, inspiration book"},
+      "pros": ["Customisable tracks", "Encourages experimentation with speed and direction", "Compatible with existing magnetic tile sets"],
+      "cons": [],
+      "asin": "",
+      "search": "Connetix Ball Run Launcher Pack"
+    },
+    {
+      "brand": "Plus-Plus",
+      "name": "Learn To Build Space Superset",
+      "badge": "John Lewis Top 10: STEM",
+      "best_for": "Kids who enjoy construction and space themes",
+      "key_spec": "1,000 pieces, baseplates and wheels included",
+      "summary": "Which? notes UK parents are increasingly looking for skill-building toys. This large space-themed construction set includes baseplates, wheels and hubs for both 2D and 3D builds, including rockets and astronauts.",
+      "specs": {"Pieces": "1,000", "Theme": "Space"},
+      "pros": ["Large piece count for extended play", "Supports both 2D and 3D building", "STEM-focused"],
+      "cons": [],
+      "asin": "",
+      "search": "Plus-Plus Learn To Build Space Superset"
+    },
+    {
+      "brand": "Jellycat",
+      "name": "Bartholomew Bear (28cm)",
+      "badge": "Trending: Jellycat plush",
+      "best_for": "Younger children and soft toy collectors",
+      "key_spec": "28cm classic teddy bear",
+      "summary": "A classic Jellycat teddy bear in their popular plush range, which Which? highlights as an ongoing trend across age groups.",
+      "specs": {"Size": "28cm"},
+      "pros": ["Classic, well-loved design", "Popular collectible brand"],
+      "cons": [],
+      "asin": "",
+      "search": "Jellycat Bartholomew Bear 28cm"
+    },
+    {
+      "brand": "Marvin's Magic",
+      "name": "Treasured Tricks Wooden Set",
+      "badge": "John Lewis Top 10: Traditional",
+      "best_for": "A hands-on introduction to magic tricks",
+      "key_spec": "Wooden set with wand, cards and props",
+      "summary": "A traditional wooden magic set including a wand, cards and magic props, offering screen-free, hands-on play.",
+      "specs": {"Includes": "Wand, cards, magic props"},
+      "pros": ["Hands-on, screen-free play", "Traditional wooden construction"],
+      "cons": [],
+      "asin": "",
+      "search": "Marvin's Magic Treasured Tricks Wooden Set"
+    },
+    {
+      "brand": "Micro Scooters",
+      "name": "Mini Micro Eco Gruffalo Foldable LED Scooter",
+      "badge": "John Lewis Top 10: Active play",
+      "best_for": "Toddlers aged two to five",
+      "key_spec": "£117, age 2-5, Gruffalo detailing",
+      "summary": "A foldable, LED-equipped scooter for toddlers with Gruffalo book character detailing and grip tape inspired by the story, encouraging active outdoor play.",
+      "specs": {"Price guide": "£117", "Age range": "2-5 years"},
+      "pros": ["Foldable for storage and travel", "LED lights", "Licensed Gruffalo design"],
+      "cons": [],
+      "asin": "",
+      "search": "Micro Scooters Mini Micro Eco Gruffalo Foldable LED Scooter"
+    },
+    {
+      "brand": "Le Toy Van",
+      "name": "Paddington Doll's House",
+      "badge": "John Lewis Top 10: Premium",
+      "best_for": "Detailed imaginative play and Paddington fans",
+      "key_spec": "£300, four-storey wooden house",
+      "summary": "A detailed, four-storey wooden doll's house inspired by the Paddington films, with opening doors and windows, a removable roof, and illustrated stonework.",
+      "specs": {"Price guide": "£300", "Storeys": "4"},
+      "pros": ["Highly detailed design", "Opening doors, windows and roof", "Licensed Paddington theme"],
+      "cons": ["Premium price"],
+      "asin": "",
+      "search": "Le Toy Van Paddington Doll's House"
+    },
+    {
+      "brand": "Nerf",
+      "name": "Marvel Spider-Man Strike 'N Splash 2-in-1 Blaster",
+      "badge": "Trending: Spider-Man",
+      "best_for": "Active outdoor play",
+      "key_spec": "2-in-1 foam dart and water blaster",
+      "summary": "A dual-function blaster that switches between foam darts and water, with an adjustable strap, part of the current wave of Spider-Man themed toys.",
+      "specs": {"Function": "Foam dart and water blaster, 2-in-1"},
+      "pros": ["Two play modes in one toy", "Adjustable strap for comfort"],
+      "cons": [],
+      "asin": "",
+      "search": "Nerf Marvel Spider-Man Strike N Splash Blaster"
+    },
+    {
+      "brand": "Fisher-Price",
+      "name": "Little People Toddler Toy My Mario Character Figure Set",
+      "badge": "Trending: Super Mario",
+      "best_for": "Toddlers too young for a games console",
+      "key_spec": "Figurine set for younger children",
+      "summary": "A toddler-friendly Mario figure set from Fisher-Price's Little People range, letting younger fans join in the Mario trend before they're ready for a Nintendo Switch.",
+      "specs": {},
+      "pros": ["Designed specifically for toddlers", "Introduces a popular character early"],
+      "cons": [],
+      "asin": "",
+      "search": "Fisher-Price Little People My Mario Character Figure Set"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What safety marks should I check before buying a toy?",
+      "a": "Look for a UKCA or CE mark, both of which indicate the toy meets UK or EU safety standards, plus a UK contact address on the packaging. The voluntary Lion Mark from the British Toy & Hobby Association shows the maker follows safety and ethical practice standards beyond the legal minimum."
+    },
+    {
+      "q": "What does the '0-3' warning symbol mean?",
+      "a": "This symbol warns that a toy contains small parts or other features that pose a choking or safety hazard for children under 3, and toys unsuitable for under-3s are legally required to carry this warning. It's a safety warning rather than a general recommendation, so check it even if a child seems capable of playing with the toy."
+    },
+    {
+      "q": "Are toys from online marketplaces as safe as those from shops?",
+      "a": "Not necessarily. The British Toy & Hobby Association has reported serious safety issues with a high proportion of toys bought through some online marketplaces, often from third-party sellers rather than the platform itself. Buying from an established retailer or brand's own listing reduces this risk."
+    },
+    {
+      "q": "Are trending or licensed toys worth the extra cost over generic alternatives?",
+      "a": "Licensed and trending toys often cost more for the branding, but many also include genuine functional extras, like Lego's Smart Play interactive bricks here. If budget matters more than the specific character or brand, a generic or own-brand equivalent with similar play features can be better value."
+    }
+  ],
+  "sources": [
+    {"name": "Which?: trending toys for 2026", "url": "https://www.which.co.uk/news/article/toy-trends-for-2026-allFx4G2N0mT"},
+    {"name": "Toy Retailers Association: approval marks explained", "url": "https://www.toyretailersassociation.co.uk/approval-marks/"}
+  ]
+}

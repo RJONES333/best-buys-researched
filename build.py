@@ -41,6 +41,7 @@ GROUPS = {
     "Clothing": ["mens-down-jackets", "womens-puffer-jackets"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets"],
     "Personal care": ["electric-toothbrushes"],
+    "Kids": ["trending-kids-toys"],
 }
 
 
