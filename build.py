@@ -51,6 +51,12 @@ def group_for(slug):
     return "More guides"
 
 
+def sidebar_label(title):
+    """Drop the leading "Best " from a guide title for quicker skimming in the
+    sidebar menu. Full titles are kept everywhere else (H1s, tiles, <title>)."""
+    return re.sub(r"^Best\s+", "", title)
+
+
 def sidebar_nav(categories, current_slug):
     """A menu of every category, grouped. Sticky on the left on desktop; a plain
     block below the article on mobile (no JS, no fragile <details> CSS override)."""
@@ -65,7 +71,7 @@ def sidebar_nav(categories, current_slug):
     sections = []
     for group in ordered_groups:
         items = "".join(
-            f'<li><a href="{BASE}/{c["slug"]}/"{" aria-current=\"page\"" if c["slug"] == current_slug else ""}>{esc(c["title"])}</a></li>'
+            f'<li><a href="{BASE}/{c["slug"]}/"{" aria-current=\"page\"" if c["slug"] == current_slug else ""}>{esc(sidebar_label(c["title"]))}</a></li>'
             for c in by_group[group]
         )
         sections.append(f'<p class="sidebar-heading">{esc(group)}</p><ul>{items}</ul>')
