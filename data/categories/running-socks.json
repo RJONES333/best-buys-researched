@@ -1,0 +1,137 @@
+{
+  "slug": "running-socks",
+  "title": "Best Running Socks UK",
+  "short": "Merino, synthetic and blister-preventing running socks compared by fabric, cushioning and fit.",
+  "intro": "The right running sock is the cheapest way to avoid blisters and soggy feet. This guide compares socks that repeatedly show up in independent runner testing, covering fabric, cushioning, height and the conditions each one suits.",
+  "reviewed": "2026-09-21",
+  "verified": "2026-09-21",
+  "products": [
+    {
+      "brand": "Darn Tough",
+      "name": "Element Micro Crew Ultra-Lightweight",
+      "badge": "Best overall",
+      "best_for": "Everyday road and trail running in most conditions",
+      "key_spec": "53% merino wool, lifetime guarantee",
+      "summary": "Rated best overall running sock by Outdoors Magic. It combines merino wool with nylon for a hard-wearing, breathable sock, and it carries a lifetime guarantee.",
+      "specs": {"Material": "53% merino wool, 44% nylon, 3% Lycra", "Height": "Micro crew", "Cushion": "Ultra-lightweight"},
+      "pros": ["Hard wearing", "Breathable", "Lifetime guarantee"],
+      "cons": ["Higher price than most running socks"],
+      "asin": "",
+      "search": "Darn Tough Element Micro Crew Ultra-Lightweight running sock"
+    },
+    {
+      "brand": "Balega",
+      "name": "Silver No-Show",
+      "badge": "Best for a secure low-cut fit",
+      "best_for": "Runners who prefer a low-cut sock that stays put",
+      "key_spec": "No-show, secure heel fit",
+      "summary": "Testers found it had the most secure heel fit of any low-cut sock they tried, so it is a strong option if your no-show socks tend to slip.",
+      "specs": {"Height": "No-show"},
+      "pros": ["Most secure heel fit of the low-cut socks tested"],
+      "cons": ["Low cut offers less coverage than a crew sock"],
+      "asin": "",
+      "search": "Balega Silver No-Show running socks"
+    },
+    {
+      "brand": "On",
+      "name": "Elite Run Sock",
+      "badge": "Best for technical support",
+      "best_for": "Runners who want targeted support and ventilation",
+      "key_spec": "Arch support, ventilation panels",
+      "summary": "A technical sock with targeted compression zones, arch support, ventilation panels and reflective yarn for low-light running.",
+      "specs": {"Material": "91% polyamide, 6% elastane, 2% recycled polyamide, 1% polyester", "Features": "Compression zones, arch support, reflective yarn"},
+      "pros": ["Targeted compression and arch support", "Ventilation panels", "Reflective yarn"],
+      "cons": ["Expensive", "Can bunch slightly below the calf"],
+      "asin": "",
+      "search": "On Elite Run Sock"
+    },
+    {
+      "brand": "Injinji",
+      "name": "Ultra Run No-Show",
+      "badge": "Best for blister prevention",
+      "best_for": "Long-distance runners who get toe blisters",
+      "key_spec": "Individual toe design",
+      "summary": "The separate toe pockets keep toes from rubbing against each other, which is why it is a favourite for blister prevention on long runs.",
+      "specs": {"Material": "33% CoolMax, 64% nylon, 3% Lycra", "Height": "No-show", "Design": "Individual toe pockets"},
+      "pros": ["Anti-blister toe design", "Breathable"],
+      "cons": ["Fiddly to put on", "Odour control is lacking"],
+      "asin": "",
+      "search": "Injinji Ultra Run No-Show socks"
+    },
+    {
+      "brand": "Smartwool",
+      "name": "Run Cold Weather Targeted Cushion",
+      "badge": "Best for winter running",
+      "best_for": "Cold-weather runs where warmth and odour control matter",
+      "key_spec": "55% merino wool",
+      "summary": "A merino-rich winter sock with good arch support and excellent odour control, best kept for cold conditions.",
+      "specs": {"Material": "55% merino wool, 13% nylon, 29% recycled nylon, 3% elastane", "Cushion": "Targeted"},
+      "pros": ["Excellent odour control", "Good arch support"],
+      "cons": ["Best suited to cold conditions only"],
+      "asin": "",
+      "search": "Smartwool Run Cold Weather Targeted Cushion crew socks"
+    },
+    {
+      "brand": "inov-8",
+      "name": "Active Mid",
+      "badge": "Best for long distance",
+      "best_for": "Long runs where you want a balance of cushioning and breathability",
+      "key_spec": "97% recycled polyamide",
+      "summary": "A well-balanced mid-height sock with a good cushioning-to-breathability ratio, made from recycled polyamide.",
+      "specs": {"Material": "97% recycled polyamide, 3% elastane", "Height": "Mid"},
+      "pros": ["Good balance of cushioning and breathability", "Made from recycled material"],
+      "cons": []
+    ,
+      "asin": "",
+      "search": "inov-8 Active Mid socks"
+    },
+    {
+      "brand": "Arc'teryx",
+      "name": "Mid Crew Synthetic",
+      "badge": "Best for trail running",
+      "best_for": "Trail runners who want a fast-drying synthetic sock",
+      "key_spec": "Synthetic, fast drying",
+      "summary": "A durable, fast-drying synthetic crew sock that Outdoors Magic ranks as the best trail running sock.",
+      "specs": {"Material": "71% polyester, 26% nylon, 3% elastane", "Height": "Mid crew"},
+      "pros": ["Long lasting", "Fast drying", "Comfortable fit"],
+      "cons": ["Odours build up quickly"],
+      "asin": "",
+      "search": "Arc'teryx Mid Crew Synthetic socks"
+    },
+    {
+      "brand": "adidas",
+      "name": "Performance Climacool Cushioned Low Socks (3-pack)",
+      "badge": "Best budget pick",
+      "best_for": "Anyone wanting affordable socks for both running and gym use",
+      "key_spec": "3-pack, low cut",
+      "summary": "A value multipack that suits gym and running use. Women's Running notes it is more of a training sock than a dedicated running sock, but it wears well through repeated washing.",
+      "specs": {"Material": "55% recycled polyester, 42% cotton, 2% elastane, 1% recycled polyamide", "Height": "Low", "Pack": "3 pairs"},
+      "pros": ["Good value multipack", "Soft", "Durable in the wash"],
+      "cons": ["A training sock rather than a dedicated running sock"],
+      "asin": "",
+      "search": "adidas Performance Climacool Cushioned Low Socks 3 pack"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Merino wool or synthetic running socks?",
+      "a": "Merino wool controls odour well and feels comfortable across a wide temperature range. Synthetic socks tend to dry faster and often cost less. Many of the best socks blend both."
+    },
+    {
+      "q": "What height of running sock should I choose?",
+      "a": "No-show and low socks suit road running in warm weather. Crew and mid-height socks add protection against debris on trails and warmth in cold weather."
+    },
+    {
+      "q": "How can I stop blisters when running?",
+      "a": "Choose a snug sock that does not bunch or slide, avoid cotton-heavy fabrics that hold sweat, and consider toe-sock designs if you get blisters between toes. Break in new socks and shoes before a long run."
+    },
+    {
+      "q": "How often should I replace running socks?",
+      "a": "Replace them when the cushioning flattens, the fabric thins or holes appear. Frequent runners often go through a pair every few months."
+    }
+  ],
+  "sources": [
+    {"name": "Outdoors Magic: best running socks", "url": "https://outdoorsmagic.com/article/best-running-socks/"},
+    {"name": "Women's Running: best running socks for women", "url": "https://www.womensrunning.co.uk/gear/best-running-socks-for-women/"}
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "slug": "dehumidifiers",
+  "title": "Best Dehumidifiers UK",
+  "short": "Compressor and desiccant dehumidifiers compared by extraction rate, tank size, noise and the rooms they suit.",
+  "intro": "Damp, condensation and slow-drying laundry are a fact of UK autumns and winters, and a dehumidifier is one of the most effective fixes. This guide compares models from independent testing so you can match the type and capacity to your rooms.",
+  "reviewed": "2026-09-21",
+  "verified": "2026-09-21",
+  "products": [
+    {
+      "brand": "Meaco",
+      "name": "MeacoDry Arete One",
+      "badge": "Best overall (Mumsnet)",
+      "best_for": "Bedrooms to whole homes, depending on the model size",
+      "key_spec": "12L/day, 38dB, HEPA filter",
+      "summary": "Mumsnet's panel picked this as its overall winner. It is a quiet compressor unit that doubles as an air purifier, with a laundry mode and a five-year warranty. Larger 10, 20 and 25L versions also exist.",
+      "specs": {
+        "Type": "Compressor",
+        "Extraction": "12L/day (10, 20 and 25L models available)",
+        "Tank": "2.5L",
+        "Noise": "38dB",
+        "Room size": "50m2",
+        "Power": "151W, about 5p/hour (Mumsnet estimate)"
+      },
+      "pros": [
+        "Dehumidifier and air purifier in one",
+        "Quiet",
+        "Laundry mode",
+        "HEPA filter",
+        "Five-year warranty"
+      ],
+      "cons": [
+        "Expensive",
+        "Frequently sells out"
+      ],
+      "asin": "",
+      "search": "MeacoDry Arete One dehumidifier"
+    },
+    {
+      "brand": "Meaco",
+      "name": "Arete Two 20L",
+      "badge": "Best for large homes",
+      "best_for": "Whole-house damp and laundry in larger homes",
+      "key_spec": "20L/day, 4.8L tank, compressor",
+      "summary": "Expert Reviews lists this as its pick for larger homes. It is quiet for its power, efficient at drying laundry and energy efficient.",
+      "specs": {
+        "Type": "Compressor",
+        "Extraction": "20L/day",
+        "Tank": "4.8L",
+        "Max noise": "50dB"
+      },
+      "pros": [
+        "Quiet yet powerful",
+        "Efficient laundry drying",
+        "Energy efficient"
+      ],
+      "cons": [
+        "App interface is not intuitive",
+        "Scheduling features are hard to find"
+      ],
+      "asin": "",
+      "search": "Meaco Arete Two 20L dehumidifier"
+    },
+    {
+      "brand": "ProBreeze",
+      "name": "PB-08 20L",
+      "badge": "Best budget for laundry",
+      "best_for": "Drying laundry in larger homes on a tighter budget",
+      "key_spec": "20L/day, 5.5L tank, compressor",
+      "summary": "A cheaper alternative to the Arete Two with a larger tank and an excellent laundry mode, at the cost of higher power use and more noise.",
+      "specs": {
+        "Type": "Compressor",
+        "Extraction": "20L/day",
+        "Tank": "5.5L",
+        "Max noise": "47dB",
+        "Power": "Peaks at 284W"
+      },
+      "pros": [
+        "Cheaper than the Arete Two",
+        "Larger tank",
+        "Excellent laundry mode"
+      ],
+      "cons": [
+        "Higher power consumption",
+        "Louder in use"
+      ],
+      "asin": "",
+      "search": "ProBreeze PB-08 20L dehumidifier"
+    },
+    {
+      "brand": "Swan",
+      "name": "ActivAir SH16810N",
+      "badge": "Best for ease of use",
+      "best_for": "Anyone who wants a set-and-forget dehumidifier",
+      "key_spec": "20L/day, 4L tank, compressor",
+      "summary": "A minimalist, affordable compressor model with simple set-and-forget controls, at the cost of a small tank and limited features.",
+      "specs": {
+        "Type": "Compressor",
+        "Extraction": "20L/day",
+        "Tank": "4L",
+        "Noise": "45-49dB"
+      },
+      "pros": [
+        "Set-and-forget simplicity",
+        "Minimalist design",
+        "Affordable"
+      ],
+      "cons": [
+        "Small tank",
+        "Limited features",
+        "Moderate noise"
+      ],
+      "asin": "",
+      "search": "Swan ActivAir SH16810N dehumidifier"
+    },
+    {
+      "brand": "Princess",
+      "name": "368120 Smart Dehumidifier",
+      "badge": "Best smart features",
+      "best_for": "Buyers who want app control and scheduling",
+      "key_spec": "20L/day, app control",
+      "summary": "A compressor model with smartphone control and scheduling that copes with larger spaces, though it removes moisture more slowly than the best rivals.",
+      "specs": {
+        "Type": "Compressor",
+        "Extraction": "20L/day",
+        "Tank": "3.7L",
+        "Noise": "46-51dB",
+        "Control": "App and scheduling"
+      },
+      "pros": [
+        "Smartphone control",
+        "Scheduling",
+        "Handles larger spaces"
+      ],
+      "cons": [
+        "Slower moisture removal",
+        "Moderate noise"
+      ],
+      "asin": "",
+      "search": "Princess 368120 Smart Dehumidifier"
+    },
+    {
+      "brand": "De'Longhi",
+      "name": "AriaDry Multi",
+      "badge": "Best for style",
+      "best_for": "Small to mid-sized rooms and laundry drying",
+      "key_spec": "16L/day, 2.1L tank, compressor",
+      "summary": "A stylish compressor unit that removes moisture effectively and has an easy-to-empty tank, though it is noisy and the small tank needs frequent emptying.",
+      "specs": {
+        "Type": "Compressor",
+        "Extraction": "16L/day",
+        "Tank": "2.1L",
+        "Max noise": "50dB"
+      },
+      "pros": [
+        "Stylish design",
+        "Effective moisture removal",
+        "Easy tank emptying"
+      ],
+      "cons": [
+        "Noisy",
+        "Tank needs frequent emptying"
+      ],
+      "asin": "",
+      "search": "De'Longhi AriaDry Multi dehumidifier"
+    },
+    {
+      "brand": "VonHaus",
+      "name": "12L Dehumidifier",
+      "badge": "Best for small rooms",
+      "best_for": "Small rooms, bedrooms and portability",
+      "key_spec": "12L/day, 2L tank, quietest",
+      "summary": "Expert Reviews calls it the least obtrusive and quietest option it tested. It is portable and easy to use, but the small tank means frequent emptying.",
+      "specs": {
+        "Type": "Compressor",
+        "Extraction": "12L/day",
+        "Tank": "2L",
+        "Max noise": "39dB"
+      },
+      "pros": [
+        "Quietest of the group",
+        "Easy to use",
+        "Portable"
+      ],
+      "cons": [
+        "Small tank needs frequent emptying",
+        "Limited for larger areas"
+      ],
+      "asin": "",
+      "search": "VonHaus 12L dehumidifier"
+    },
+    {
+      "brand": "Meaco",
+      "name": "DD8L Zambezi",
+      "badge": "Best desiccant for cold rooms",
+      "best_for": "Cold spaces such as garages and conservatories where compressors struggle",
+      "key_spec": "7.5L/day, desiccant, low noise",
+      "summary": "A low-noise desiccant model that keeps working in cold temperatures and has an excellent laundry mode, though its peak power draw is high.",
+      "specs": {
+        "Type": "Desiccant",
+        "Extraction": "7.5L/day",
+        "Tank": "3L",
+        "Noise": "39-44dB"
+      },
+      "pros": [
+        "Low noise",
+        "Excellent laundry mode",
+        "Works in cold temperatures"
+      ],
+      "cons": [
+        "High peak power consumption (600W+)",
+        "Controls take some adjustment"
+      ],
+      "asin": "",
+      "search": "Meaco DD8L Zambezi dehumidifier"
+    },
+    {
+      "brand": "Blyss",
+      "name": "16L Dehumidifier WDH-316DB",
+      "badge": "Best budget compressor",
+      "best_for": "Buyers who want strong extraction without a premium price",
+      "key_spec": "16L/day, 2.4L tank",
+      "summary": "A budget compressor model with strong extraction, a laundry mode, a timer and a continuous drainage option, with castors and a handle.",
+      "specs": {
+        "Type": "Compressor",
+        "Extraction": "16L/day",
+        "Tank": "2.4L",
+        "Power": "300W, about 7p/hour (Mumsnet estimate)"
+      },
+      "pros": [
+        "Strong extraction",
+        "Laundry mode",
+        "Timer",
+        "Continuous drainage option"
+      ],
+      "cons": [
+        "Heavy",
+        "Noisy",
+        "No tank lid"
+      ],
+      "asin": "",
+      "search": "Blyss 16L Dehumidifier WDH-316DB"
+    },
+    {
+      "brand": "Wood's",
+      "name": "MRD25GW 25L",
+      "badge": "Best for very large capacity",
+      "best_for": "Large, damp homes that need maximum extraction",
+      "key_spec": "25L/day, 3.8L tank",
+      "summary": "A high-capacity compressor model that Mumsnet describes as fast and efficient, with a large tank, wheels and an available app.",
+      "specs": {
+        "Type": "Compressor",
+        "Extraction": "25L/day",
+        "Tank": "3.8L",
+        "Noise": "48dB",
+        "Room size": "120m2",
+        "Power": "410W, about 10p/hour (Mumsnet estimate)"
+      },
+      "pros": [
+        "Fast and efficient",
+        "Large tank",
+        "Wheeled",
+        "App available"
+      ],
+      "cons": [
+        "Heavy",
+        "Noisier than smaller models"
+      ],
+      "asin": "",
+      "search": "Wood's MRD25GW dehumidifier 25L"
+    },
+    {
+      "brand": "EcoAir",
+      "name": "Piccola Desiccant Dehumidifier",
+      "badge": "Best for small spaces",
+      "best_for": "Small rooms, cold spaces and wall-mounting",
+      "key_spec": "5L/day, desiccant, wall-mountable",
+      "summary": "A compact, quiet desiccant unit that works at low temperatures and can be wall-mounted, though it is expensive for its capacity.",
+      "specs": {
+        "Type": "Desiccant",
+        "Extraction": "5L/day",
+        "Tank": "1.5L",
+        "Noise": "31-47dB",
+        "Room size": "45m2",
+        "Power": "200W, about 5p/hour (Mumsnet estimate)"
+      },
+      "pros": [
+        "Compact",
+        "Wall-mountable",
+        "Works at low temperatures",
+        "Quiet"
+      ],
+      "cons": [
+        "Expensive"
+      ],
+      "asin": "",
+      "search": "EcoAir Piccola desiccant dehumidifier"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Compressor or desiccant dehumidifier?",
+      "a": "Compressor models are generally cheaper to run in heated rooms. Desiccant models keep working in cold spaces, such as garages, conservatories and unheated rooms, where compressors become less effective, but they tend to use more power."
+    },
+    {
+      "q": "What size dehumidifier do I need?",
+      "a": "Extraction rate (litres per day) is a rough capacity guide. Models in the 10-12L range suit a bedroom or small flat, while 20L models suit whole-house damp and drying large loads of laundry."
+    },
+    {
+      "q": "What humidity level should I aim for?",
+      "a": "Many manufacturers suggest keeping indoor humidity roughly between 40% and 60%. A cheap hygrometer helps you see whether the dehumidifier is working."
+    },
+    {
+      "q": "Will a dehumidifier get rid of mould?",
+      "a": "It reduces the damp that mould needs to grow, but it will not remove mould that is already there. Clean existing mould and fix leaks or ventilation problems at the source."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: the best dehumidifiers we've tested (page dated 2025)",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/air-treatment/best-dehumidifiers"
+    },
+    {
+      "name": "Mumsnet: best dehumidifiers",
+      "url": "https://www.mumsnet.com/swearsby/best-dehumidifiers"
+    }
+  ]
+}

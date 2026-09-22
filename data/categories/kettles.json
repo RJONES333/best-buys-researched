@@ -1,0 +1,135 @@
+{
+  "slug": "kettles",
+  "title": "Best Kettles UK",
+  "short": "Rapid-boil, temperature-control and filtered kettles compared, from budget picks to stovetop options.",
+  "intro": "A kettle is one of the most-used appliances in a British kitchen, and the right one depends on more than boil speed. This guide compares kettles from Mumsnet's testing of over 20 models, covering rapid boiling, precise temperature control for tea and coffee, and options for hard water areas.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Bosch",
+      "name": "Sky TWK7201GB",
+      "badge": "Best overall",
+      "best_for": "Buyers who want the strongest all-round performer",
+      "key_spec": "1.7L, 3000W, boils one cup in under 60 seconds",
+      "summary": "Mumsnet's overall winner. It boils quickly, has a cool-touch double-walled body and offers temperature control from 70°C to boiling, with a 30-minute keep-warm function.",
+      "specs": {"Capacity": "1.7L", "Power": "3000W", "Temperature control": "70°C to boiling", "Keep-warm": "30 minutes"},
+      "pros": ["Quick boiling", "Cool-touch double-walled body", "Smooth, controlled pour", "Clear water gauge"],
+      "cons": ["Wide base needs more counter space", "About £105"],
+      "asin": "",
+      "search": "Bosch Sky TWK7201GB kettle"
+    },
+    {
+      "brand": "Russell Hobbs",
+      "name": "Inspire 24360",
+      "badge": "Best budget",
+      "best_for": "Buyers who want a stylish, affordable everyday kettle",
+      "key_spec": "1.7L, 3000W, boils one cup in under 45 seconds",
+      "summary": "A stylish and quick-boiling budget kettle with a matching toaster available, though it has a removable top lid for filling and only basic features.",
+      "specs": {"Capacity": "1.7L", "Power": "3000W"},
+      "pros": ["Stylish design", "Quick boil", "Easy to pour", "Matching toaster available"],
+      "cons": ["Removable top lid for filling", "Basic features"],
+      "asin": "",
+      "search": "Russell Hobbs Inspire 24360 kettle"
+    },
+    {
+      "brand": "Sage",
+      "name": "Smart Kettle BKE820UK",
+      "badge": "Best for tea lovers",
+      "best_for": "Buyers who make different types of tea or coffee that need different temperatures",
+      "key_spec": "1.7L, five temperature settings (80-100°C)",
+      "summary": "A precise kettle with five temperature settings suited to different teas and coffee, a large capacity and a 20-minute keep-warm function, at a higher price.",
+      "specs": {"Capacity": "1.7L", "Power": "3000W", "Temperature settings": "Five, 80-100°C", "Keep-warm": "20 minutes"},
+      "pros": ["Customisable temperatures for different drinks", "Large capacity", "Elegant brushed steel finish"],
+      "cons": ["Expensive", "Water marks show on the exterior"],
+      "asin": "",
+      "search": "Sage Smart Kettle BKE820UK"
+    },
+    {
+      "brand": "Ninja",
+      "name": "Perfect Temperature Kettle",
+      "badge": "Best for precise temperature control",
+      "best_for": "Buyers who want fine-grained control over water temperature",
+      "key_spec": "1.7L, six temperature settings (60-100°C), adjustable mid-boil",
+      "summary": "A precision kettle that lets you adjust temperature manually in 5°C increments, even mid-boil, with a sleek design and compact base.",
+      "specs": {"Capacity": "1.7L", "Temperature settings": "Six, 60-100°C, adjustable in 5°C increments", "Keep-warm": "30 minutes"},
+      "pros": ["Manual temperature adjustment in fine increments", "Sleek design", "Compact base"],
+      "cons": ["Pricey", "Heavy when full", "Noisy operation"],
+      "asin": "",
+      "search": "Ninja Perfect Temperature Kettle"
+    },
+    {
+      "brand": "Dualit",
+      "name": "Lite Kettle",
+      "badge": "Best compact",
+      "best_for": "Small kitchens with limited counter space",
+      "key_spec": "1.5L, 3000W, dual water gauge",
+      "summary": "A stylish, sturdy compact kettle with splash-free pouring, though it has no temperature control and the exterior gets very hot.",
+      "specs": {"Capacity": "1.5L", "Power": "3000W", "Water gauge": "Litres and cups"},
+      "pros": ["Stylish classic design", "Sturdy build", "Splash-free pouring"],
+      "cons": ["No temperature control", "Stiff lid", "Exterior gets very hot", "About £90"],
+      "asin": "",
+      "search": "Dualit Lite Kettle"
+    },
+    {
+      "brand": "Russell Hobbs",
+      "name": "Brita Purity 20760-10",
+      "badge": "Best for hard water",
+      "best_for": "Areas with hard water and limescale problems",
+      "key_spec": "1L, integrated Brita filter",
+      "summary": "A kettle with a built-in Brita filter that reduces limescale and chlorine as it boils, though the filter reduces usable capacity and cartridges cost around £23 for six months.",
+      "specs": {"Capacity": "1L", "Power": "3000W", "Filter": "Integrated Brita water filter"},
+      "pros": ["Built-in filtration reduces limescale and chlorine", "Quiet boil", "Neat cord storage"],
+      "cons": ["Filter reduces usable capacity", "Replacement cartridges cost about £23 per six months"],
+      "asin": "",
+      "search": "Russell Hobbs Brita Purity 20760-10 kettle"
+    },
+    {
+      "brand": "Russell Hobbs",
+      "name": "Buckingham Quiet Boil",
+      "badge": "Best quiet kettle",
+      "best_for": "Noise-sensitive households, such as open-plan kitchens",
+      "key_spec": "1.7L, 3000W, boils one cup in 45 seconds",
+      "summary": "A genuinely quiet kettle with a large capacity and an energy-efficient one-cup setting, though it can become noisier as it ages.",
+      "specs": {"Capacity": "1.7L", "Power": "3000W"},
+      "pros": ["Genuinely quiet operation", "Large capacity", "Energy-efficient one-cup feature"],
+      "cons": ["Can become noisier over time", "Basic design"],
+      "asin": "",
+      "search": "Russell Hobbs Buckingham Quiet Boil kettle"
+    },
+    {
+      "brand": "Le Creuset",
+      "name": "Kone Stovetop Kettle",
+      "badge": "Best for gas or induction hobs",
+      "best_for": "Households without a plug socket near the hob, or who prefer stovetop kettles",
+      "key_spec": "2.1L, enamelled steel, whistles when ready",
+      "summary": "A stylish, long-lasting stovetop kettle available in a wide range of colours, with owners reporting 20-plus years of use, though it boils more slowly than electric models.",
+      "specs": {"Capacity": "2.1L", "Material": "Enamelled steel", "Warranty": "5 years"},
+      "pros": ["Stylish retro appearance", "Wide range of colours", "Long lifespan reported by owners", "Whistles when ready"],
+      "cons": ["Slower boiling than electric models", "Higher price point"],
+      "asin": "",
+      "search": "Le Creuset Kone Stovetop Kettle"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need a temperature-control kettle?",
+      "a": "Green tea and some coffee brewing methods taste better at lower temperatures than a full boil, typically 70-90°C. If you only drink builder's tea or instant coffee, a standard rapid-boil kettle is all you need."
+    },
+    {
+      "q": "How do I stop limescale building up?",
+      "a": "In hard water areas, descale your kettle regularly with a shop-bought descaler or a vinegar and water solution, or choose a kettle with a built-in filter like the Russell Hobbs Brita Purity."
+    },
+    {
+      "q": "Is a more powerful kettle always faster?",
+      "a": "Wattage matters, but so does how much water you actually boil. Filling only to the level you need, rather than to maximum, boils faster regardless of the kettle's power rating."
+    },
+    {
+      "q": "Electric or stovetop kettle?",
+      "a": "Electric kettles are faster and more convenient for most kitchens. A stovetop kettle like the Le Creuset Kone suits induction hobs well and can last for decades, but takes longer to boil and needs a hob to hand."
+    }
+  ],
+  "sources": [
+    {"name": "Mumsnet: best kettles", "url": "https://www.mumsnet.com/swearsby/best-kettles"}
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "womens-leggings",
+  "title": "Best Women's Leggings UK",
+  "short": "Running and gym leggings compared by fit, fabric, pockets and price, from budget to premium.",
+  "intro": "Good leggings should stay put, not go see-through when you squat, and suit whatever training you do. This guide compares leggings tested by Women's Running, from budget high-street picks to premium technical pairs, across running, the gym and specific features like pockets and period protection.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "M&S",
+      "name": "Goodmove High Waisted Leggings",
+      "badge": "Best value",
+      "best_for": "Buyers who want a reliable, affordable everyday pair",
+      "key_spec": "73% polyester, 27% elastane, from £27.50",
+      "summary": "An affordable, moisture-wicking legging with a secure drawstring fit, made from recycled polyester and available in multiple colours and prints.",
+      "specs": {"Material": "73% polyester, 27% elastane (recycled polyester)", "Waist": "High, with drawstring", "Price guide": "From about £27.50"},
+      "pros": ["Affordable", "Multiple colours and prints", "Moisture-wicking", "Secure drawstring fit"],
+      "cons": []
+    ,
+      "asin": "",
+      "search": "M&S Goodmove High Waisted Leggings"
+    },
+    {
+      "brand": "Sweaty Betty",
+      "name": "Zero Gravity High Waisted",
+      "badge": "Best overall fit",
+      "best_for": "Buyers who want a flattering fit built to last for years",
+      "key_spec": "59% polyamide, 41% elastane",
+      "summary": "Women's Running's tester has worn these for around 8 years, praising their durability and bum-sculpting fit. They cost more upfront but offer strong cost-per-wear value.",
+      "specs": {"Material": "59% polyamide, 41% elastane", "Waist": "High"},
+      "pros": ["Flattering, bum-sculpting fit", "Excellent long-term durability", "Strong cost-per-wear value"],
+      "cons": ["Pricey at about £95"],
+      "asin": "",
+      "search": "Sweaty Betty Zero Gravity High Waisted leggings"
+    },
+    {
+      "brand": "Gymshark",
+      "name": "Running Pocket Leggings",
+      "badge": "Best value for pockets",
+      "best_for": "Treadmill training and carrying a phone",
+      "key_spec": "78% nylon, 22% elastane, two thigh pockets",
+      "summary": "A compressive, flattering legging with two large thigh pockets at a good price, though it lacks a waist tie for very long runs.",
+      "specs": {"Material": "78% nylon, 22% elastane", "Pockets": "Two large thigh pockets"},
+      "pros": ["Compressive fit", "Two large thigh pockets", "Excellent value", "Flattering"],
+      "cons": ["No waist tie for long runs"],
+      "asin": "",
+      "search": "Gymshark Running Pocket Leggings"
+    },
+    {
+      "brand": "Bimble & Bolt",
+      "name": "Peaky Pockets 7/8",
+      "badge": "Best for storage",
+      "best_for": "Runners who want to carry a lot without a bag",
+      "key_spec": "68% recycled nylon, 32% spandex, 8 pockets",
+      "summary": "A medium-high compression legging with eight pockets in total and reflective elements, which stayed in place through marathon training.",
+      "specs": {"Material": "68% recycled nylon, 32% spandex", "Pockets": "Eight", "Compression": "Medium-high", "Extras": "Reflective elements"},
+      "pros": ["Eight pockets", "Stayed in place through marathon training", "Reflective elements"],
+      "cons": []
+    ,
+      "asin": "",
+      "search": "Bimble & Bolt Peaky Pockets 7/8 leggings"
+    },
+    {
+      "brand": "BAM",
+      "name": "Wonder Light Seamless",
+      "badge": "Best eco-friendly",
+      "best_for": "Runners who want a natural-fibre, sustainable legging",
+      "key_spec": "48% bamboo viscose, 47% Amni Soul Eco polyamide",
+      "summary": "A comfortable, seamless legging in eco-friendly fabric that stayed secure through a half marathon, though it has no drawstring.",
+      "specs": {"Material": "48% bamboo viscose, 47% Amni Soul Eco polyamide, 5% elastane"},
+      "pros": ["Very comfortable", "Eco-friendly fabric", "Stayed secure for a half marathon", "Machine washable as normal"],
+      "cons": ["No drawstring"],
+      "asin": "",
+      "search": "BAM Wonder Light Seamless leggings"
+    },
+    {
+      "brand": "On",
+      "name": "Lumos Long Tights",
+      "badge": "Best for winter running",
+      "best_for": "Dark, cold-weather runs where visibility matters",
+      "key_spec": "65% polyamide, 35% elastane, brushed interior",
+      "summary": "A brushed, warm winter tight with reflective detailing, ankle zips and three drop-in pockets, at a premium price.",
+      "specs": {"Material": "65% polyamide, 35% elastane", "Extras": "Brushed interior, reflective detailing, ankle zips, 3 pockets"},
+      "pros": ["Brushed interior for warmth", "Reflective detailing", "Ankle zips", "Three drop-in pockets"],
+      "cons": ["Expensive at about £130"],
+      "asin": "",
+      "search": "On Lumos Long Tights"
+    },
+    {
+      "brand": "Sweaty Betty",
+      "name": "Power Gym Leggings",
+      "badge": "Best for cross-training",
+      "best_for": "Gym sessions, HIIT and mixed training",
+      "key_spec": "62% polyamide, 38% elastane, squat-proof",
+      "summary": "A supportive, squat-proof legging suited to a wide range of gym activities, though testers found it not quite as secure as the Zero Gravity model for running.",
+      "specs": {"Material": "62% polyamide, 38% elastane"},
+      "pros": ["Comfortable and supportive balance", "Squat-proof", "Versatile for multiple activities"],
+      "cons": ["Not quite as secure as the Zero Gravity model for running"],
+      "asin": "",
+      "search": "Sweaty Betty Power Gym Leggings"
+    },
+    {
+      "brand": "PUMA x Modibodi",
+      "name": "Recycled Active Period Leggings",
+      "badge": "Best for period protection",
+      "best_for": "Runners who want built-in period protection",
+      "key_spec": "80% recycled nylon, merino gusset",
+      "summary": "A high-waisted legging with a merino wool gusset built in for period protection, which testers found held up well in colder weather.",
+      "specs": {"Material": "80% recycled nylon, 20% spandex; gusset of merino wool, polyester and polyamide"},
+      "pros": ["High waistband stays put", "Good for colder weather", "Merino gusset holds significant absorbency"],
+      "cons": ["Lacks thigh pocket storage"],
+      "asin": "",
+      "search": "PUMA x Modibodi Recycled Active Period leggings"
+    },
+    {
+      "brand": "Lululemon",
+      "name": "Fast & Free High-Rise 25\"",
+      "badge": "Best for style",
+      "best_for": "Buyers who want a premium look with useful pockets",
+      "key_spec": "Nulux weightless fabric, 5 pockets",
+      "summary": "A soft yet supportive legging with five pockets and a wide colour range that stays in place reliably, at a high price.",
+      "specs": {"Material": "Nulux weightless fabric", "Pockets": "Five"},
+      "pros": ["Soft yet supportive", "Five pockets", "Wide colour range", "Stays in place reliably"],
+      "cons": ["High price at about £118", "Lighter colours show marks easily"],
+      "asin": "",
+      "search": "Lululemon Fast and Free High-Rise 25 inch leggings"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What should I look for in gym vs running leggings?",
+      "a": "Gym leggings need to be squat-proof (not see-through when stretched) with strong four-way stretch. Running leggings benefit more from moisture-wicking fabric, a secure waistband and sometimes a UPF rating for sun protection."
+    },
+    {
+      "q": "How do I know if leggings will go see-through?",
+      "a": "Reviewers stretch the fabric or bend over in a mirror before buying. Thicker, squat-proof fabrics and darker colours are less likely to show through, and Women's Running notes lighter colours can show marks and sweat more easily."
+    },
+    {
+      "q": "Do I need pockets in running leggings?",
+      "a": "If you run with a phone, keys or gels, pockets save carrying a belt or bag. Thigh pockets suit phones, while smaller waist pockets suit cards and keys."
+    },
+    {
+      "q": "Are expensive leggings worth it?",
+      "a": "Premium leggings often last much longer, as the Sweaty Betty Zero Gravity example shows after 8 years of wear, which can make the cost per wear lower over time. Budget options like the M&S Goodmove range can still perform well for occasional use."
+    }
+  ],
+  "sources": [
+    {"name": "Women's Running: best women's running leggings & capris", "url": "https://www.womensrunning.co.uk/gear/the-best-womens-running-leggings/"}
+  ]
+}

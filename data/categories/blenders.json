@@ -1,0 +1,122 @@
+{
+  "slug": "blenders",
+  "title": "Best Blenders UK",
+  "short": "Portable, personal and full-size blenders compared by power, jug capacity and who they suit.",
+  "intro": "Blenders range from pocket-sized portable bottles to powerful full-size machines that grind nuts and crush ice. This guide compares blenders from Expert Reviews' testing, from budget personal blenders to premium countertop models, so you can match the power and capacity to what you actually blend.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Vitamix",
+      "name": "A2300i Ascent Series",
+      "badge": "Best premium",
+      "best_for": "Buyers who want maximum power and versatility",
+      "key_spec": "1,440W, 2L jug, 10 speeds",
+      "summary": "Expert Reviews' premium pick. It crushes ice effortlessly, makes nut butters and grinds coffee beans, with app connectivity and a 10-year warranty, at a high price.",
+      "specs": {"Power": "1,440W", "Jug capacity": "2,000ml", "Speeds": "10", "Extras": "Digital timer, app connectivity"},
+      "pros": ["High-powered performance", "Crushes ice effortlessly", "Makes nut butters and grinds beans", "10-year warranty"],
+      "cons": ["Expensive (£529 and up)", "Bulky"],
+      "asin": "",
+      "search": "Vitamix A2300i Ascent Series blender"
+    },
+    {
+      "brand": "KitchenAid",
+      "name": "K150",
+      "badge": "Best all-purpose",
+      "best_for": "Buyers who want strong build quality for everyday blending",
+      "key_spec": "650W, 1.4L jug, 3 speeds plus pulse",
+      "summary": "A well-built blender that crushed half an ice tray in 10 seconds in testing, with a classic design and a useful pulse function, though it is pricey for a fairly basic feature set.",
+      "specs": {"Power": "650W", "Jug capacity": "1,400ml", "Speeds": "3 plus pulse"},
+      "pros": ["Crushes half an ice tray in 10 seconds", "Exceptional build quality", "Pulse function for controlled blending"],
+      "cons": ["Pricey for the functionality (about £229)", "Limited attachments included"],
+      "asin": "",
+      "search": "KitchenAid K150 blender"
+    },
+    {
+      "brand": "Salter",
+      "name": "NutriPro 1000",
+      "badge": "Best mid-range",
+      "best_for": "Buyers who want strong performance without premium pricing",
+      "key_spec": "1,000W, 1L jug, 2 speeds",
+      "summary": "A well-built blender with a heavy, stable base and two lidded cups included, offering excellent value, though it is notably loud and struggles slightly with tough greens.",
+      "specs": {"Power": "1,000W", "Jug capacity": "1,000ml", "Speeds": "2", "Extras": "Two lidded cups (800ml and 1L)"},
+      "pros": ["Well-built with a heavy, stable base", "Two lidded cups included", "Excellent value"],
+      "cons": ["Notably loud", "Struggles slightly with tough greens like kale"],
+      "asin": "",
+      "search": "Salter NutriPro 1000 blender"
+    },
+    {
+      "brand": "Nutribullet",
+      "name": "600 Series",
+      "badge": "Best for everyday smoothies",
+      "best_for": "Most everyday users making smoothies",
+      "key_spec": "600W, 600ml jug",
+      "summary": "A personal blender that produces silky-smooth results and processes fibrous vegetables quickly, with small and large cups included, though its ice-crushing is limited.",
+      "specs": {"Power": "600W", "Jug capacity": "600ml", "Speeds": "1"},
+      "pros": ["Silky-smooth results", "Processes fibrous vegetables in under 30 seconds", "Smoothies keep their colour longer"],
+      "cons": ["Limited ice-crushing capability", "Not suited to heavy-duty tasks"],
+      "asin": "",
+      "search": "Nutribullet 600 Series blender"
+    },
+    {
+      "brand": "Breville",
+      "name": "Blend Active Personal",
+      "badge": "Best budget",
+      "best_for": "Buyers who want an affordable personal blender",
+      "key_spec": "300W, 600ml jug, from a low price",
+      "summary": "Expert Reviews' budget pick. It crushes ice and comes with two portable jugs with leak-proof lids, though its motor is less powerful than pricier rivals.",
+      "specs": {"Power": "300W", "Jug capacity": "600ml", "Speeds": "1 plus pulse"},
+      "pros": ["Affordable", "Crushes ice", "Two portable jugs with leak-proof lids", "Dishwasher-safe"],
+      "cons": ["Lower power", "Basic functionality"],
+      "asin": "",
+      "search": "Breville Blend Active Personal blender"
+    },
+    {
+      "brand": "BlendJet",
+      "name": "2",
+      "badge": "Best for portability",
+      "best_for": "Gym bags, travel and blending on the go",
+      "key_spec": "1,000W motor, 450ml, USB-C rechargeable",
+      "summary": "A compact, cordless, rechargeable blender that gives around 15 blends per charge, though it has only one speed and a small jug.",
+      "specs": {"Power": "1,000W motor", "Jug capacity": "450ml", "Speeds": "1", "Charging": "USB-C, about 15 blends per charge"},
+      "pros": ["Lightweight and compact", "Quiet", "Simple one-button design", "USB-C rechargeable"],
+      "cons": ["Single speed option", "Limited jug capacity"],
+      "asin": "",
+      "search": "BlendJet 2 portable blender"
+    },
+    {
+      "brand": "Philips",
+      "name": "Daily Collection Mini",
+      "badge": "Best compact",
+      "best_for": "Small kitchens that still want to grind nuts and coffee",
+      "key_spec": "350W, 600ml working capacity, glass jug",
+      "summary": "A compact blender that is powerful for its size and comes with a glass jug and an on-the-go tumbler, though its working capacity is limited for family-sized servings.",
+      "specs": {"Power": "350W", "Jug capacity": "600ml working capacity (900ml jug)", "Speeds": "2"},
+      "pros": ["Powerful for its size", "Handles nuts and coffee", "Compact footprint", "Glass jug"],
+      "cons": ["Small working capacity", "Limited for family-sized servings"],
+      "asin": "",
+      "search": "Philips Daily Collection Mini blender"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Personal or full-size blender?",
+      "a": "Personal blenders like the Nutribullet or BlendJet suit single smoothies you drink straight from the cup. Full-size blenders with a larger jug suit families, soups, and batch-making, and generally offer more power for ice and tough ingredients."
+    },
+    {
+      "q": "How much power do I actually need?",
+      "a": "For smoothies with soft fruit, 300-600W is usually enough. For crushing ice regularly, or grinding nuts, coffee beans or hard vegetables, look for 1,000W or more."
+    },
+    {
+      "q": "Do I need multiple speed settings?",
+      "a": "Multiple speeds and a pulse function give more control, useful for chopping rather than fully blending, or for building up to a smooth texture with tough ingredients. A single-speed blender is simpler but less flexible."
+    },
+    {
+      "q": "Is a portable blender worth it?",
+      "a": "A USB-rechargeable portable blender like the BlendJet is useful for the gym, travel or a desk, but has a small capacity and less power than a plugged-in blender, so it is best as a second blender rather than your only one."
+    }
+  ],
+  "sources": [
+    {"name": "Expert Reviews: best blenders and smoothie makers (2024)", "url": "https://www.expertreviews.co.uk/home-garden/small-appliances/best-blender-best-smoothie-maker"}
+  ]
+}

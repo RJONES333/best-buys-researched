@@ -1,0 +1,192 @@
+{
+  "slug": "electric-toothbrushes",
+  "title": "Best Electric Toothbrushes UK",
+  "short": "Sonic and rotary electric toothbrushes compared by cleaning, battery life and features.",
+  "intro": "An electric toothbrush is one of the simplest ways to improve your brushing. This guide compares sonic and rotary models from independent UK testing, from budget picks to high-end brushes with pressure sensors and apps.",
+  "reviewed": "2026-09-21",
+  "verified": "2026-09-21",
+  "products": [
+    {
+      "brand": "Suri",
+      "name": "2.0",
+      "badge": "Best overall",
+      "best_for": "Buyers who want a well-designed sonic brush without unnecessary extras",
+      "key_spec": "Sonic, 35-day battery",
+      "summary": "Expert Reviews' overall winner. It has a pressure sensor, a UV charging case and a magnetic mount, and it keeps the feature list focused.",
+      "specs": {
+        "Type": "Sonic",
+        "Battery": "35 days",
+        "Modes": "2",
+        "Extras": "Pressure sensor, UV charging case, magnetic mount"
+      },
+      "pros": [
+        "Looks lovely",
+        "Strong battery life",
+        "No bloated features"
+      ],
+      "cons": [
+        "Expensive"
+      ],
+      "asin": "",
+      "search": "Suri 2.0 sonic electric toothbrush"
+    },
+    {
+      "brand": "Oral-B",
+      "name": "iO4",
+      "badge": "Best rotary brush",
+      "best_for": "People who prefer a rotating brush head and want brushing guidance",
+      "key_spec": "Rotary, pressure sensor, app",
+      "summary": "A rotary brush with a pressure sensor and LED ring, plus app tracking. Expert Reviews rated it as the best rotary option and found it powerful at cleaning.",
+      "specs": {
+        "Type": "Rotary",
+        "Modes": "4",
+        "Extras": "Pressure sensor with LED ring, app tracking"
+      },
+      "pros": [
+        "Comprehensive brushing sensor",
+        "Powerful clean"
+      ],
+      "cons": [
+        "Slow charging"
+      ],
+      "asin": "",
+      "search": "Oral-B iO4 electric toothbrush"
+    },
+    {
+      "brand": "Philips",
+      "name": "Sonicare DiamondClean 9000",
+      "badge": "Best high-end sonic",
+      "best_for": "Buyers who want a premium sonic brush with a full feature set",
+      "key_spec": "Sonic, pressure sensor, app",
+      "summary": "A premium sonic brush with a pressure sensor, companion app and charging cradle. Expert Reviews praises its powerful cleaning and battery life.",
+      "specs": {
+        "Type": "Sonic",
+        "Modes": "4",
+        "Extras": "Pressure sensor, companion app, charging cradle"
+      },
+      "pros": [
+        "Powerful cleaning",
+        "Great battery life"
+      ],
+      "cons": [
+        "Expensive brush and replacement heads"
+      ],
+      "asin": "",
+      "search": "Philips Sonicare DiamondClean 9000 electric toothbrush"
+    },
+    {
+      "brand": "Oclean",
+      "name": "Flow",
+      "badge": "Best battery life",
+      "best_for": "Travellers and anyone who hates charging",
+      "key_spec": "Sonic, 180-day claimed battery",
+      "summary": "A reasonably priced sonic brush with a claimed 180-day battery, a 30-second timer and an IPX7 waterproof rating. It is not as strong as pricier models.",
+      "specs": {
+        "Type": "Sonic",
+        "Battery": "180 days (manufacturer claim)",
+        "Modes": "5",
+        "Extras": "30-second timer, IPX7 waterproof"
+      },
+      "pros": [
+        "Stonking battery life",
+        "Reasonably priced"
+      ],
+      "cons": [
+        "Not as strong as pricier models",
+        "No pressure sensor"
+      ],
+      "asin": "",
+      "search": "Oclean Flow electric toothbrush"
+    },
+    {
+      "brand": "BitVae",
+      "name": "D2",
+      "badge": "Best budget",
+      "best_for": "Buyers who want an affordable sonic brush with plenty of spare heads",
+      "key_spec": "Sonic, 8 heads included",
+      "summary": "An affordable sonic brush that comes with eight replacement heads and a USB charger, but it has no pressure sensor and softer heads than rivals.",
+      "specs": {
+        "Type": "Sonic",
+        "Modes": "5",
+        "Extras": "8 replacement heads, USB charger"
+      },
+      "pros": [
+        "Eight brush heads in the box",
+        "Affordable sonic option"
+      ],
+      "cons": [
+        "No pressure sensor",
+        "Softer heads than rivals"
+      ],
+      "asin": "",
+      "search": "BitVae D2 electric toothbrush"
+    },
+    {
+      "brand": "Philips",
+      "name": "Sonicare 9900 Prestige",
+      "badge": "Best premium Sonicare",
+      "best_for": "Buyers who want top-tier automatic brushing modes",
+      "key_spec": "Sonic, 5 modes, 62,000 strokes/min, Bluetooth",
+      "summary": "Stuff.tv's premium Sonicare pick, with automatic brushing modes and a sleek design, though changing settings requires the companion app.",
+      "specs": {"Type": "Sonic", "Modes": "5", "Speed": "62,000 strokes per minute", "Extras": "Pressure sensor, timer, Bluetooth"},
+      "pros": ["Automatic brushing modes", "Sleek design"],
+      "cons": ["Requires the app to change settings", "Expensive"],
+      "asin": "",
+      "search": "Philips Sonicare 9900 Prestige"
+    },
+    {
+      "brand": "Ordo",
+      "name": "Sonic+",
+      "badge": "Best budget sonic with strong battery",
+      "best_for": "Buyers who want good value without giving up battery life",
+      "key_spec": "Sonic, 4 modes, 40,000 pulses/min",
+      "summary": "A budget sonic brush that Stuff.tv rates for cleaning value and battery life in a premium-feeling design, though it has no pressure sensor.",
+      "specs": {"Type": "Sonic", "Modes": "4", "Speed": "40,000 pulses per minute", "Extras": "Timer only, no Bluetooth"},
+      "pros": ["Great cleaning value", "Impressive battery life", "Premium design"],
+      "cons": ["No pressure sensor"],
+      "asin": "",
+      "search": "Ordo Sonic+ electric toothbrush"
+    },
+    {
+      "brand": "Philips",
+      "name": "One by Sonicare",
+      "badge": "Best for travel",
+      "best_for": "Simple travel use, including AA battery option",
+      "key_spec": "Sonic, 1 mode, AA or USB-C",
+      "summary": "A simple, compact sonic brush that runs on AA batteries (up to 90 days) or USB-C, which Stuff.tv rates as a good travel option, though pricier brushes clean better.",
+      "specs": {"Type": "Sonic", "Modes": "1", "Speed": "13,000 micro-vibrations", "Power": "AA or USB-C"},
+      "pros": ["Simple design", "Long battery life (90 days on AA)", "Compact"],
+      "cons": ["More expensive brushes clean better", "Limited brush head options"],
+      "asin": "",
+      "search": "Philips One by Sonicare"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Sonic or rotary electric toothbrush?",
+      "a": "Sonic brushes vibrate the bristles at high speed, while rotary brushes use a small round head that spins or oscillates. Both can clean well when used properly, so choose the feel you prefer."
+    },
+    {
+      "q": "Do I need a pressure sensor?",
+      "a": "A pressure sensor warns you when you press too hard, which can help protect gums and enamel. It is useful if you tend to scrub, but not essential."
+    },
+    {
+      "q": "How often should I change the brush head?",
+      "a": "Manufacturers commonly recommend replacing the head about every three months, or sooner if the bristles look worn."
+    },
+    {
+      "q": "Are smart features worth paying for?",
+      "a": "Apps and tracking can help build good habits, but the core job is the same. If you brush well without prompts, a simpler model is often better value."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best electric toothbrushes",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/dental-care/best-electric-toothbrush"
+    },
+    {
+      "name": "Stuff: best electric toothbrush",
+      "url": "https://www.stuff.tv/features/best-electric-toothbrush/"
+    }
+  ]
+}

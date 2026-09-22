@@ -1,0 +1,136 @@
+{
+  "slug": "slow-cookers",
+  "title": "Best Slow Cookers UK",
+  "short": "Digital and manual slow cookers compared by capacity, features and price, from budget to multi-cooker.",
+  "intro": "A slow cooker turns cheap cuts of meat and store-cupboard ingredients into a proper meal for a few pence of electricity, with almost no hands-on effort. This guide compares slow cookers tested by Mumsnet's panel in real kitchens, from budget manual models to searing multi-cookers.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Crockpot",
+      "name": "Lift and Serve Digital Slow Cooker",
+      "badge": "Best overall",
+      "best_for": "Most households wanting an easy, reliable everyday slow cooker",
+      "key_spec": "4.7L, digital display, keep-warm",
+      "summary": "Mumsnet's overall winner. It has a digital display with a countdown timer and an automatic keep-warm function, and the bowl and lid are dishwasher-safe.",
+      "specs": {"Capacity": "4.7L", "Display": "Digital with countdown timer", "Keep-warm": "Automatic", "Settings": "3", "Power": "220W", "Price guide": "About £69"},
+      "pros": ["Easy to use", "Digital display and countdown timer", "Automatic keep-warm", "Large capacity"],
+      "cons": ["Bulky", "Hinged lid design lets condensation drip"],
+      "asin": "",
+      "search": "Crockpot Lift and Serve Digital Slow Cooker"
+    },
+    {
+      "brand": "Russell Hobbs",
+      "name": "Good-to-Go Multicooker",
+      "badge": "Best for families",
+      "best_for": "Families who want one pot that sears, slow-cooks and more",
+      "key_spec": "6.5L, 8 functions, digital",
+      "summary": "A versatile multicooker with eight settings and a searing function, so meat can be browned in the same pot before it slow-cooks. Mumsnet rates it excellent value.",
+      "specs": {"Capacity": "6.5L", "Display": "Digital", "Keep-warm": "Automatic", "Functions": "8", "Power": "750W", "Price guide": "About £90"},
+      "pros": ["Eight settings", "Can sear meat in the same pot", "Large capacity", "Excellent value"],
+      "cons": ["Bulky", "Control panel icons take getting used to"],
+      "asin": "",
+      "search": "Russell Hobbs Good-to-Go Multicooker"
+    },
+    {
+      "brand": "Morphy Richards",
+      "name": "461020 Sear and Stew",
+      "badge": "Best for searing meat",
+      "best_for": "Cooks who want to brown meat on the hob before slow-cooking",
+      "key_spec": "6.5L, hob-safe pot",
+      "summary": "A slow cooker with a hob-safe aluminium pot, so you can sear meat directly in it before switching to slow-cook mode, though it has no keep-warm setting.",
+      "specs": {"Capacity": "6.5L", "Display": "Manual dial", "Keep-warm": "No", "Settings": "3", "Power": "290W", "Price guide": "About £70"},
+      "pros": ["Large capacity", "Hob-safe pot for browning", "Dishwasher-safe pot and lid"],
+      "cons": ["Pricey for the feature set", "No keep-warm function"],
+      "asin": "",
+      "search": "Morphy Richards 461020 Sear and Stew"
+    },
+    {
+      "brand": "Cookworks",
+      "name": "6.5L Slow Cooker",
+      "badge": "Best budget",
+      "best_for": "Buyers who want maximum capacity for the lowest price",
+      "key_spec": "6.5L, manual dial",
+      "summary": "A large-capacity, low-cost slow cooker with a keep-warm setting, though it has no timer and the pot must be hand-washed.",
+      "specs": {"Capacity": "6.5L", "Display": "Manual dial", "Keep-warm": "Yes", "Settings": "3", "Power": "320W", "Price guide": "About £33"},
+      "pros": ["Excellent value", "Large capacity", "Easy to use"],
+      "cons": ["Hand-wash only", "No timer", "No automatic keep-warm"],
+      "asin": "",
+      "search": "Cookworks 6.5L Slow Cooker"
+    },
+    {
+      "brand": "Swan",
+      "name": "Retro Slow Cooker",
+      "badge": "Best for style",
+      "best_for": "Smaller households who want a slow cooker that looks good on the counter",
+      "key_spec": "3.5L, retro design",
+      "summary": "A stylish, smaller-capacity slow cooker at a low price, though its keep-warm setting is really just a low setting and the pot is not hob-safe.",
+      "specs": {"Capacity": "3.5L", "Display": "Manual dial", "Settings": "3", "Power": "200W", "Price guide": "About £32"},
+      "pros": ["Stylish retro design", "Excellent value", "Easy to use"],
+      "cons": ["Small capacity", "\"Keep warm\" is just a low setting", "Pot is not hob-safe"],
+      "asin": "",
+      "search": "Swan Retro Slow Cooker"
+    },
+    {
+      "brand": "Lakeland",
+      "name": "3.5L Slow Cooker",
+      "badge": "Best traditional design",
+      "best_for": "Smaller households who want a classic ceramic slow cooker",
+      "key_spec": "3.5L, oven-safe ceramic to 150°C",
+      "summary": "Expert Reviews' pick for small portions. Its ceramic pot retains heat well and the auto setting keeps food at serving temperature, and unlike most budget models here it is dishwasher-safe.",
+      "specs": {"Capacity": "3.5L", "Display": "Manual dial (high/low/auto)", "Pot": "Oven-safe ceramic to 150°C, dishwasher-safe"},
+      "pros": ["Retains heat well", "Auto setting maintains serving temperature", "Dishwasher-safe pot"],
+      "cons": ["Not non-stick", "Heavier ceramic bowl"],
+      "asin": "",
+      "search": "Lakeland 3.5L Slow Cooker"
+    },
+    {
+      "brand": "Russell Hobbs",
+      "name": "Chalk Board Slow Cooker",
+      "badge": "Best for a fun family touch",
+      "best_for": "Households who like labelling what's cooking",
+      "key_spec": "3.5L, hob-safe ceramic pot, chalkboard finish",
+      "summary": "Expert Reviews highlights the writable chalkboard surface, with a hob-safe ceramic pot (gas or electric hobs only) and a dishwasher-safe glass lid.",
+      "specs": {"Capacity": "3.5L (4 portions)", "Display": "Manual dial (high/low/keep-warm)", "Pot": "Hob-safe ceramic (not induction), dishwasher-safe"},
+      "pros": ["Writable chalkboard surface", "Glass lid and ceramic pot both dishwasher-safe"],
+      "cons": ["Lid seal lets condensation escape", "Exterior gets hot, needs oven gloves"],
+      "asin": "",
+      "search": "Russell Hobbs Chalk Board Slow Cooker"
+    },
+    {
+      "brand": "Tefal",
+      "name": "RK302E15 8-in-1 Multi Cooker",
+      "badge": "Best all-in-one multi-cooker",
+      "best_for": "Buyers who want a slow cooker that replaces several other appliances",
+      "key_spec": "5L, digital, 8 modes including rice and steam",
+      "summary": "Expert Reviews rates this excellent value for its versatility, with eight digital modes including slow cook, rice, steam and porridge, though its lightweight metal pot does not retain heat as well for serving.",
+      "specs": {"Capacity": "5L", "Display": "Digital, 8 modes", "Pot": "Non-stick metal, dishwasher-safe"},
+      "pros": ["Multiple functions in one appliance", "Excellent porridge setting", "Great value"],
+      "cons": ["Lightweight metal pot doesn't retain heat well for serving"],
+      "asin": "",
+      "search": "Tefal RK302E15 8-in-1 Multi Cooker"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What size slow cooker do I need?",
+      "a": "As a rough guide, 3-3.5L suits one or two people, 4.5-5L suits a small family, and 6.5L or more suits a larger household or anyone who wants to batch-cook and freeze portions."
+    },
+    {
+      "q": "Is a slow cooker cheap to run?",
+      "a": "Slow cookers use relatively low wattage, typically 200-750W depending on the model, over several hours, which usually costs a few pence to a low number of pounds per use depending on your electricity tariff and cooking time."
+    },
+    {
+      "q": "Do I need a searing function?",
+      "a": "Browning meat before it goes into the slow cooker improves flavour. Some models, like the Morphy Richards and Russell Hobbs here, let you sear directly in the pot, saving you from dirtying a separate frying pan."
+    },
+    {
+      "q": "Is it safe to leave a slow cooker on while out or overnight?",
+      "a": "Slow cookers are designed for long, low-temperature unattended cooking, which is their main purpose, but always follow the manufacturer's instructions, place it on a heatproof surface away from anything flammable, and make sure the plug and cable are in good condition."
+    }
+  ],
+  "sources": [
+    {"name": "Mumsnet: best slow cookers", "url": "https://www.mumsnet.com/swearsby/best-slow-cookers"},
+    {"name": "Expert Reviews: best slow cooker", "url": "https://www.expertreviews.co.uk/home-garden/small-appliances/best-slow-cookers"}
+  ]
+}

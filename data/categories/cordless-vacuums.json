@@ -1,0 +1,227 @@
+{
+  "slug": "cordless-vacuums",
+  "title": "Best Cordless Vacuum Cleaners UK",
+  "short": "Cordless stick vacuums compared by runtime, weight, bin size and who they suit.",
+  "intro": "Cordless vacuums have largely replaced corded uprights in UK homes. This guide compares the models Expert Reviews picked from its testing, from premium Dynsons to budget and self-emptying options, so you can match the machine to your floors and budget.",
+  "reviewed": "2026-09-21",
+  "verified": "2026-09-21",
+  "products": [
+    {
+      "brand": "Dyson",
+      "name": "V15 Detect Absolute",
+      "badge": "Best overall",
+      "best_for": "Buyers who want premium cleaning power and smart features",
+      "key_spec": "60 min, 3kg, laser dust detection",
+      "summary": "Expert Reviews' overall winner. It has superb cleaning power, a laser that reveals fine dust and a strong battery, but it is heavy and expensive and does not empty itself.",
+      "specs": {
+        "Runtime": "60 min",
+        "Weight": "3kg",
+        "Bin": "0.76L",
+        "Extras": "Laser dust detection"
+      },
+      "pros": [
+        "Superb cleaning power",
+        "Laser dust detection",
+        "Strong battery life"
+      ],
+      "cons": [
+        "Heavy",
+        "Expensive",
+        "No self-emptying"
+      ],
+      "asin": "",
+      "search": "Dyson V15 Detect Absolute cordless vacuum"
+    },
+    {
+      "brand": "Dyson",
+      "name": "Cyclone V10",
+      "badge": "Best value Dyson",
+      "best_for": "Buyers who want Dyson performance at a lower price than the V15",
+      "key_spec": "60 min, 2.68kg",
+      "summary": "A lighter, cheaper Dyson with excellent cleaning power and good battery life, though it is still expensive next to non-Dyson rivals.",
+      "specs": {
+        "Runtime": "60 min",
+        "Weight": "2.68kg",
+        "Bin": "0.76L"
+      },
+      "pros": [
+        "Excellent cleaning power",
+        "Good battery life"
+      ],
+      "cons": [
+        "Expensive",
+        "Heavy compared with some rivals"
+      ],
+      "asin": "",
+      "search": "Dyson Cyclone V10 cordless vacuum"
+    },
+    {
+      "brand": "Dyson",
+      "name": "V15s Detect Submarine",
+      "badge": "Best cordless with mop",
+      "best_for": "Buyers who want to vacuum and mop hard floors with one machine",
+      "key_spec": "60 min, 3.8kg, wet mop head",
+      "summary": "A cordless Dyson that vacuums and mops. It is powerful, but Expert Reviews notes it is expensive and the Submarine head needs substantial maintenance.",
+      "specs": {
+        "Runtime": "60 min",
+        "Weight": "3.8kg",
+        "Bin": "0.76L",
+        "Extras": "Vacuum and mop"
+      },
+      "pros": [
+        "Versatile vacuum and mop in one",
+        "Powerful vacuuming"
+      ],
+      "cons": [
+        "Expensive",
+        "Submarine head needs substantial maintenance"
+      ],
+      "asin": "",
+      "search": "Dyson V15s Detect Submarine"
+    },
+    {
+      "brand": "Shark",
+      "name": "PowerDetect IP3251UKT",
+      "badge": "Best self-emptying",
+      "best_for": "People who want to empty the bin as rarely as possible",
+      "key_spec": "70 min, 2L base station",
+      "summary": "A cordless vacuum with a self-emptying base station and competitive cleaning performance, and a long runtime, though it can feel stiff on some carpets.",
+      "specs": {
+        "Runtime": "70 min",
+        "Weight": "3.71kg",
+        "Bin": "2L",
+        "Extras": "Self-emptying base station"
+      },
+      "pros": [
+        "Self-emptying base station",
+        "Competitive cleaning performance"
+      ],
+      "cons": [
+        "Stiff movement on some carpet types"
+      ],
+      "asin": "",
+      "search": "Shark PowerDetect IP3251UKT cordless vacuum"
+    },
+    {
+      "brand": "Shark",
+      "name": "IZ300UKT",
+      "badge": "Best for hard floors",
+      "best_for": "Homes with mostly hard floors",
+      "key_spec": "37 min, 4.58kg, DuoClean",
+      "summary": "A cordless Shark with a dual-roller DuoClean head that copes well with controlled spills on hard floors, though it is heavy.",
+      "specs": {
+        "Runtime": "37 min",
+        "Weight": "4.58kg",
+        "Bin": "0.7L",
+        "Extras": "DuoClean head"
+      },
+      "pros": [
+        "DuoClean head",
+        "Performs well on controlled spills"
+      ],
+      "cons": [
+        "Heavy",
+        "Vacuum lifts when pulled backwards on carpet"
+      ],
+      "asin": "",
+      "search": "Shark IZ300UKT cordless vacuum"
+    },
+    {
+      "brand": "Shark",
+      "name": "ICZ300UKT",
+      "badge": "Best upright cordless",
+      "best_for": "Buyers who want a stand-alone upright and strong suction",
+      "key_spec": "30kPa suction, 6.2kg, stands upright",
+      "summary": "An upright-style cordless that stands on its own and has powerful suction. Expert Reviews found it difficult to assemble and weaker in corners.",
+      "specs": {
+        "Weight": "6.2kg",
+        "Bin": "0.6L",
+        "Suction": "30kPa"
+      },
+      "pros": [
+        "Stands independently",
+        "Powerful suction",
+        "Superb cleaning power"
+      ],
+      "cons": [
+        "Difficult assembly",
+        "Main brush struggles with corners"
+      ],
+      "asin": "",
+      "search": "Shark ICZ300UKT cordless vacuum"
+    },
+    {
+      "brand": "Henry",
+      "name": "Quick",
+      "badge": "Best high-capacity bags",
+      "best_for": "Long cleaning sessions and people who prefer bags to bins",
+      "key_spec": "60 min, 1L bag capacity",
+      "summary": "A bagged cordless with large dust bags and easy emptying, and good cleaning performance overall, though it has no anti-tangle head and weaker suction than rivals.",
+      "specs": {
+        "Runtime": "60 min",
+        "Weight": "3.2kg",
+        "Bag": "1L",
+        "Suction": "11kPa (full), 4kPa (low)"
+      },
+      "pros": [
+        "Large capacity dust bags",
+        "Easy emptying",
+        "Good cleaning performance"
+      ],
+      "cons": [
+        "No anti-tangle head",
+        "Weaker suction compared with rivals"
+      ],
+      "asin": "",
+      "search": "Henry Quick cordless vacuum"
+    },
+    {
+      "brand": "Hoover",
+      "name": "HF9",
+      "badge": "Best budget",
+      "best_for": "Smaller homes and tighter budgets",
+      "key_spec": "30 min, 3.4kg, stands upright",
+      "summary": "A cheap cordless with solid cleaning performance that stands upright. It has a short runtime, no eco mode and no soft roller for hard floors.",
+      "specs": {
+        "Runtime": "30 min",
+        "Weight": "3.4kg",
+        "Bin": "0.45L"
+      },
+      "pros": [
+        "Affordable",
+        "Decent cleaning",
+        "Stands upright"
+      ],
+      "cons": [
+        "No eco mode",
+        "No soft roller for hard floors"
+      ],
+      "asin": "",
+      "search": "Hoover HF9 cordless vacuum"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What runtime do I need from a cordless vacuum?",
+      "a": "Check the quoted runtime on the mode you will actually use. Maximum power runs the battery down much faster than the standard mode. For a small flat, around 30 minutes may be enough. Larger homes benefit from 60 minutes or more."
+    },
+    {
+      "q": "Bin or bag?",
+      "a": "Bins are cheaper to run and easier to empty into a bin bag, but can release dust. Bagged models like the Henry Quick keep dust contained and can be more hygienic to empty, at the cost of buying bags."
+    },
+    {
+      "q": "Are self-emptying bases worth it?",
+      "a": "They move dust into a larger bag or bin so you empty it only every few weeks. They cost more and need space near a socket, but they make cleaning far less of a chore, especially for allergy sufferers."
+    },
+    {
+      "q": "What weight is too heavy?",
+      "a": "Weight matters most if you will lift the machine to clean stairs or ceilings. The models here range from about 2.7kg to over 6kg, so try to pick the lightest one that meets your cleaning needs."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best cordless vacuum cleaners",
+      "url": "https://www.expertreviews.co.uk/home-garden/vacuums-cleaning/best-cordless-vacuum-cleaner"
+    }
+  ]
+}

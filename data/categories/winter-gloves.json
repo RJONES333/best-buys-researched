@@ -1,0 +1,135 @@
+{
+  "slug": "winter-gloves",
+  "title": "Best Winter Gloves UK",
+  "short": "Everyday, running and mountaineering gloves compared by warmth, touchscreen use and weight.",
+  "intro": "Winter gloves range from thin touchscreen-friendly liners to heavily insulated mountaineering mitts, and the right choice depends on how cold it gets and how much dexterity you need. This guide compares gloves tested by Outdoors Magic, from everyday value picks to technical winter kit.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Simond",
+      "name": "MT500 Stretch Gloves",
+      "badge": "Best value / everyday",
+      "best_for": "Hiking, dog walks and milder winter days on a budget",
+      "key_spec": "Touchscreen compatible, 77% recycled polyester, 50g",
+      "summary": "Outdoors Magic's best-value pick. It is touchscreen compatible, breathable and versatile for everyday cold, though it has limited warmth for harsher conditions.",
+      "specs": {"Materials": "77% recycled polyester, reinforced palms and fingertips", "Touchscreen": "Yes", "Warmth": "Moderate", "Weight": "About 50g"},
+      "pros": ["Great value", "Versatile", "Excellent dexterity", "Breathable"],
+      "cons": ["Not for technical use", "Limited warmth"],
+      "asin": "",
+      "search": "Simond MT500 Stretch Gloves"
+    },
+    {
+      "brand": "Arc'teryx",
+      "name": "Venta Gloves",
+      "badge": "Best everyday all-rounder",
+      "best_for": "Daily wear, commuting and general outdoor use",
+      "key_spec": "Touchscreen compatible, Gore-Tex Infinium, 63g",
+      "summary": "A lightweight, windproof and breathable glove with touchscreen fingers, well suited to everyday use rather than extreme cold.",
+      "specs": {"Materials": "Gore-Tex Infinium softshell, fleece lining, TPU reinforcements", "Touchscreen": "Yes", "Warmth": "Moderate", "Weight": "About 63g"},
+      "pros": ["Windproof", "Lightweight", "Breathable", "Versatile"],
+      "cons": ["Not ideal for extreme cold", "Expensive for the features offered"],
+      "asin": "",
+      "search": "Arc'teryx Venta Gloves"
+    },
+    {
+      "brand": "66°North",
+      "name": "Snaefell Gore-Tex Infinium",
+      "badge": "Best for winter running",
+      "best_for": "Winter running and casual outdoor activity",
+      "key_spec": "Touchscreen compatible, 120g",
+      "summary": "A comfortable, water-resistant softshell glove that Outdoors Magic rates for winter running, at the cost of limited warmth in extreme cold.",
+      "specs": {"Materials": "Gore-Tex Infinium softshell", "Touchscreen": "Yes", "Warmth": "Moderate", "Weight": "About 120g"},
+      "pros": ["Very comfortable", "Water-resistant", "Lightweight and packable", "Breathable"],
+      "cons": ["Expensive", "Limited warmth for extreme cold"],
+      "asin": "",
+      "search": "66 North Snaefell Gore-Tex Infinium gloves"
+    },
+    {
+      "brand": "Mammut",
+      "name": "Astro Gloves",
+      "badge": "Best all-rounder",
+      "best_for": "Fast hiking and everyday winter use in one glove",
+      "key_spec": "Touchscreen compatible, Gore-Tex Windstopper, 64g",
+      "summary": "A versatile glove with good wind and cold protection, suitable for both fast hiking and daily wear, though it is not the warmest option here.",
+      "specs": {"Materials": "Gore-Tex Windstopper, synthetic leather, recycled nylon cuff", "Touchscreen": "Yes", "Warmth": "Moderate", "Weight": "About 64g"},
+      "pros": ["Good wind and cold protection", "Suitable for fast hiking", "Capable for everyday use"],
+      "cons": ["Not the warmest option", "Moderate abrasion resistance"],
+      "asin": "",
+      "search": "Mammut Astro Gloves"
+    },
+    {
+      "brand": "Sealskinz",
+      "name": "Walcott Fusion Control Insulated",
+      "badge": "Best for wet weather",
+      "best_for": "Rain, sleet and generally wet UK winters",
+      "key_spec": "Waterproof, Primaloft and merino wool",
+      "summary": "A well-insulated, genuinely waterproof glove with good dexterity, though it can feel clammy and is not machine washable.",
+      "specs": {"Materials": "Polyester outer, leather palm, Primaloft Gold Bio insulation, 84% merino wool inner", "Touchscreen": "No", "Warmth": "Moderate-high"},
+      "pros": ["Excellent waterproofing", "Good dexterity", "Tough fabric"],
+      "cons": ["Can feel clammy", "Not suited to fast-paced activity", "Not machine washable"],
+      "asin": "",
+      "search": "Sealskinz Walcott Fusion Control Insulated gloves"
+    },
+    {
+      "brand": "Extremities",
+      "name": "Torres Peak Gloves",
+      "badge": "Best for extreme cold",
+      "best_for": "High-altitude mountaineering and skiing",
+      "key_spec": "Primaloft Gold Eco, very high warmth",
+      "summary": "A heavily insulated, durable glove built for extreme weather. Outdoors Magic rates it highly, though it may be too warm for milder days.",
+      "specs": {"Materials": "Primaloft Gold Eco insulation, polyester outer and inner, PU palm reinforcement", "Touchscreen": "No", "Warmth": "Very high", "Weight": "About 133g"},
+      "pros": ["Luxurious fleece lining", "Tough, durable exterior", "Sustainability features"],
+      "cons": ["May be too warm for milder use"],
+      "asin": "",
+      "search": "Extremities Torres Peak Gloves"
+    },
+    {
+      "brand": "Black Diamond",
+      "name": "Mercury Mitts",
+      "badge": "Best mitts for extreme warmth",
+      "best_for": "Mountaineering in very cold conditions",
+      "key_spec": "Removable liner, very high warmth",
+      "summary": "An ultra-warm mitt with a removable liner for versatility and strong cuff protection, at the cost of dexterity and weight.",
+      "specs": {"Materials": "Primaloft and fleece liner, waterproof shell, leather reinforcement, recycled shell fabric", "Touchscreen": "No", "Warmth": "Very high", "Weight": "About 268g"},
+      "pros": ["Ultra-warm", "Versatile removable liner", "Excellent cuff protection"],
+      "cons": ["Limited finger dexterity", "Bulky"],
+      "asin": "",
+      "search": "Black Diamond Mercury Mitts"
+    },
+    {
+      "brand": "Hestra",
+      "name": "Fall Line 5 Finger",
+      "badge": "Best for skiing and snowboarding",
+      "best_for": "Alpine sports",
+      "key_spec": "Leather, removable liner, very high warmth",
+      "summary": "A highly warm and windproof ski glove with excellent grip and a removable liner, though it uses leather and is expensive.",
+      "specs": {"Materials": "Impregnated cowhide, Bemberg fleece inner, G-Loft foam insulation", "Touchscreen": "No", "Warmth": "Very high", "Weight": "About 210g (size dependent)"},
+      "pros": ["Highly warm and windproof", "Excellent grip", "Removable liner"],
+      "cons": ["Uses leather", "Expensive"],
+      "asin": "",
+      "search": "Hestra Fall Line 5 Finger gloves"
+    }
+  ],
+  "guide": [
+    {
+      "q": "How warm a glove do I actually need?",
+      "a": "For everyday UK winter weather, a moderate-warmth touchscreen glove such as the Simond, Arc'teryx or Mammut options is usually enough. Save the heavily insulated mountaineering gloves and mitts for genuinely cold, high-altitude or long-exposure conditions."
+    },
+    {
+      "q": "Are touchscreen gloves worth it?",
+      "a": "If you need to use your phone without removing a glove, yes. Thinner gloves and those with a conductive patch on the fingertip tend to give better touch accuracy, but touchscreen fabric can add cost and slightly reduce warmth."
+    },
+    {
+      "q": "Gloves or mitts?",
+      "a": "Gloves give more dexterity for zips, straps and phones. Mitts keep fingers together, which traps more heat, so they suit very cold or static conditions better than gloves of similar insulation."
+    },
+    {
+      "q": "How do I keep winter gloves waterproof?",
+      "a": "Look for a genuine waterproof membrane, such as Gore-Tex, rather than just a water-resistant coating, if you expect rain or wet snow. Reproofing sprays can restore water resistance on gloves that have lost it over time."
+    }
+  ],
+  "sources": [
+    {"name": "Outdoors Magic: best winter gloves", "url": "https://outdoorsmagic.com/article/best-winter-gloves/"}
+  ]
+}

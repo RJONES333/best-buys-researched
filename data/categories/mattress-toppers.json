@@ -1,0 +1,122 @@
+{
+  "slug": "mattress-toppers",
+  "title": "Best Mattress Toppers UK",
+  "short": "Memory foam, wool, down and fibre mattress toppers compared by thickness, support and who they suit.",
+  "intro": "A mattress topper is one of the cheapest ways to refresh an ageing bed or change how firm or soft it feels. This guide compares toppers picked by Mumsnet's panel, from budget microfibre to natural wool and goose down, so you can match the material to your sleep needs and budget.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Panda",
+      "name": "Memory Foam Mattress Topper",
+      "badge": "Best overall",
+      "best_for": "Joint pain relief and overall comfort",
+      "key_spec": "5cm, gel-infused memory foam, bamboo cover",
+      "summary": "Mumsnet's overall winner, combining orthopaedic support with a cooling, moisture-wicking bamboo cover and a 10-year warranty.",
+      "specs": {"Material": "Gel-infused memory foam with bamboo cover", "Thickness": "5cm", "Washable": "Yes, removable cover", "Warranty": "10 years"},
+      "pros": ["Exceptional support", "Moisture-wicking cover", "Dual-securing system", "Eco-friendly materials"],
+      "cons": ["Premium pricing", "May retain some warmth"],
+      "asin": "",
+      "search": "Panda Memory Foam Mattress Topper"
+    },
+    {
+      "brand": "High Living",
+      "name": "Microfibre Mattress Topper",
+      "badge": "Best budget",
+      "best_for": "Buyers who want an affordable refresh",
+      "key_spec": "10cm, hollow fibre polyester",
+      "summary": "An affordable, hypoallergenic, fully machine-washable topper, though it compresses with use and offers less support than memory foam.",
+      "specs": {"Material": "Hollow fibre polyester", "Thickness": "10cm (compresses with use)", "Washable": "Yes, machine washable"},
+      "pros": ["Affordable", "Hypoallergenic", "Machine washable", "Secure straps"],
+      "cons": ["Compresses over time", "Less supportive than memory foam", "Shorter lifespan"],
+      "asin": "",
+      "search": "High Living Microfibre Mattress Topper"
+    },
+    {
+      "brand": "John Lewis",
+      "name": "Synthetic Soft Touch Dual Layer",
+      "badge": "Best for back pain",
+      "best_for": "Buyers who want a firmer base with a plush top layer",
+      "key_spec": "6cm, dual-layer polyester",
+      "summary": "A dual-layer topper with a firm base and plush top, giving balanced support that Mumsnet recommends for back pain.",
+      "specs": {"Material": "Polyester, dual-layer (firm base, plush top)", "Thickness": "6cm", "Washable": "Yes, top layer removable and machine washable"},
+      "pros": ["Balanced support and comfort", "Durable", "Machine washable", "Strong straps"],
+      "cons": ["Retains warmth", "Adjustment period needed"],
+      "asin": "",
+      "search": "John Lewis Synthetic Soft Touch Dual Layer mattress topper"
+    },
+    {
+      "brand": "Silentnight",
+      "name": "Airmax 1000 Mattress Topper",
+      "badge": "Best for temperature regulation",
+      "best_for": "Hot sleepers who want a cooler topper",
+      "key_spec": "10cm, air mesh panels",
+      "summary": "A hollowfibre topper with air mesh panels for cooling, that is lightweight, affordable and machine washable, though it offers less targeted support than foam.",
+      "specs": {"Material": "Hollowfibre with air mesh panels", "Thickness": "10cm (also available in 3cm and 5cm)", "Washable": "Yes, machine washable and quick-drying"},
+      "pros": ["Excellent cooling", "Hypoallergenic", "Lightweight", "Affordable"],
+      "cons": ["Less targeted support than memory foam", "May need earlier replacement"],
+      "asin": "",
+      "search": "Silentnight Airmax 1000 Mattress Topper"
+    },
+    {
+      "brand": "Soak & Sleep",
+      "name": "Goose Down Mattress Topper",
+      "badge": "Best luxury",
+      "best_for": "Buyers who want a hotel-style, plush feel",
+      "key_spec": "7cm, dual-chamber goose down and feather",
+      "summary": "A luxury dual-chamber down topper with a cloud-like feel and a 5-year warranty, though it needs professional cleaning and is unsuitable for feather allergies.",
+      "specs": {"Material": "Dual-chamber goose down and feather (85% feather/15% down base, 70% down/30% feather top)", "Thickness": "7cm at centre", "Washable": "No, professional cleaning required", "Warranty": "5 years"},
+      "pros": ["Cloud-like luxury feel", "Prevents filling shift", "Durable"],
+      "cons": ["Premium cost", "Requires professional cleaning", "Unsuitable for feather allergies"],
+      "asin": "",
+      "search": "Soak & Sleep Goose Down Mattress Topper"
+    },
+    {
+      "brand": "Floks",
+      "name": "Wool Mattress Topper",
+      "badge": "Best natural material",
+      "best_for": "Buyers who want a natural fibre topper for year-round use",
+      "key_spec": "5cm, 100% British wool, 2000gsm",
+      "summary": "A hypoallergenic, dust-mite-resistant wool topper that regulates temperature year-round, though it needs occasional airing rather than washing.",
+      "specs": {"Material": "100% British wool, 2000gsm", "Thickness": "About 5cm", "Washable": "No, requires occasional airing"},
+      "pros": ["Excellent temperature regulation year-round", "Hypoallergenic", "Dust mite resistant", "Durable"],
+      "cons": ["Premium pricing", "Needs airing maintenance", "Heavier than synthetic toppers"],
+      "asin": "",
+      "search": "Floks Wool Mattress Topper"
+    },
+    {
+      "brand": "Aidapt",
+      "name": "5.0cm Memory Foam Cool Mattress Topper",
+      "badge": "Best value memory foam",
+      "best_for": "Buyers who want foam support at a lower price",
+      "key_spec": "5cm, egg-box design, cooling gel",
+      "summary": "A reversible memory foam topper with cooling gel infusion at a good price, though its corner straps are weaker than premium options.",
+      "specs": {"Material": "Memory foam, egg-box design", "Thickness": "5cm", "Washable": "Yes, removable cover"},
+      "pros": ["Excellent value", "Reversible sides", "Cooling gel infusion", "Pressure relief"],
+      "cons": ["Weaker corner straps", "Limited durability", "Restricted size options"],
+      "asin": "",
+      "search": "Aidapt 5.0cm Memory Foam Cool Mattress Topper"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What thickness of mattress topper should I choose?",
+      "a": "Thinner toppers (around 2.5-3cm) refresh the feel of a mattress in good condition. Thicker toppers (5-10cm) do more to change firmness or add cushioning to an older, firmer mattress."
+    },
+    {
+      "q": "Memory foam or fibre or natural materials?",
+      "a": "Memory foam contours to your body and suits pressure or joint pain, but can retain heat. Fibre toppers are cheap and machine washable but compress faster. Wool and down are naturally temperature-regulating and long-lasting, but usually cost more and need special care rather than a standard wash."
+    },
+    {
+      "q": "Can a mattress topper fix an old, sagging mattress?",
+      "a": "A topper can improve comfort and add some cushioning, but it will not fix structural sagging or a mattress that has lost its support. If the mattress itself is worn out, a topper is a short-term improvement rather than a long-term fix."
+    },
+    {
+      "q": "How do I keep a mattress topper clean?",
+      "a": "Check the specific product, since washability varies a lot: some are fully machine washable, some have only a removable cover you can wash, and natural down or wool options usually need airing or professional cleaning instead."
+    }
+  ],
+  "sources": [
+    {"name": "Mumsnet: best mattress toppers", "url": "https://www.mumsnet.com/swearsby/best-mattress-toppers"}
+  ]
+}

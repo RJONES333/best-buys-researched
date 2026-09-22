@@ -1,0 +1,141 @@
+{
+  "slug": "electric-heaters",
+  "title": "Best Electric Heaters UK",
+  "short": "Oil-filled, convector, infrared and fan heaters compared by type, running cost and who they suit.",
+  "intro": "Electric heaters differ hugely in how they heat and what they cost to run. This guide compares the types and the models Mumsnet's panel picked, with their estimated running costs, so you can choose between whole-room warmth and heating just yourself. Safety guidance below comes from Electrical Safety First, a UK charity, not from the product reviews.",
+  "reviewed": "2026-09-21",
+  "verified": "2026-09-21",
+  "products": [
+    {
+      "brand": "De'Longhi",
+      "name": "Dragon 4 TRDX41025E",
+      "badge": "Best for whole-room warmth",
+      "best_for": "Heating a room steadily over long periods",
+      "key_spec": "Oil-filled, 2.5kW, thermostat and timer",
+      "summary": "An oil-filled radiator with three heat settings, a thermostat and a timer. Mumsnet says it gives steady heat and keeps warming after switch-off.",
+      "specs": {"Type": "Oil-filled radiator", "Power": "2.5kW", "Extras": "Thermostat, timer, wheels", "Running cost": "About 66p/hour (Mumsnet estimate)", "Guarantee": "10 years"},
+      "pros": ["Steady heat", "Continues warming after switch-off", "Sturdy wheels", "10-year guarantee"],
+      "cons": ["Expensive", "Heavy and bulky", "Surface gets very hot"],
+      "asin": "",
+      "search": "De'Longhi Dragon 4 TRDX41025E oil filled radiator"
+    },
+    {
+      "brand": "Daewoo",
+      "name": "Convector Heater 2kW",
+      "badge": "Best budget",
+      "best_for": "Cheap background warmth",
+      "key_spec": "2kW convector, thermostat",
+      "summary": "A very cheap, silent and lightweight convector with three heat settings and an adjustable thermostat, though it heats slowly and has no timer.",
+      "specs": {"Type": "Convector", "Power": "2kW", "Extras": "Adjustable thermostat", "Running cost": "About 53p/hour (Mumsnet estimate)"},
+      "pros": ["Very low price", "Silent", "Lightweight", "Simple controls"],
+      "cons": ["Slower heating", "No timer", "Basic build"],
+      "asin": "",
+      "search": "Daewoo 2kW convector heater"
+    },
+    {
+      "brand": "INVO",
+      "name": "Curved Panel Infrared Heater",
+      "badge": "Cheapest to run",
+      "best_for": "Personal warmth at a desk or beside furniture",
+      "key_spec": "300W infrared",
+      "summary": "A low-power infrared panel that warms people and objects directly rather than the whole room. It is silent and light but has a hot front panel and no tip-over cut-out, per Mumsnet.",
+      "specs": {"Type": "Infrared", "Power": "300W", "Running cost": "About 8p/hour (Mumsnet estimate)"},
+      "pros": ["Very low power draw", "Silent", "Lightweight and portable"],
+      "cons": ["Heats objects and people, not whole rooms", "Hot front panel", "No timer", "No tip-over cut-out"],
+      "asin": "",
+      "search": "INVO curved panel infrared heater 300W"
+    },
+    {
+      "brand": "Beldray",
+      "name": "Oscillating Halogen Heater",
+      "badge": "Best for quick personal heat",
+      "best_for": "Instant warmth for one person",
+      "key_spec": "400/800/1,200W halogen",
+      "summary": "A halogen heater with three settings and oscillation that gives instant warmth, and a tip-over shut-off. Mumsnet notes a short cable and flimsy construction.",
+      "specs": {"Type": "Halogen", "Power": "400W, 800W or 1,200W", "Extras": "75-degree oscillation, tip-over shut-off", "Running cost": "About 11p, 21p or 32p/hour by setting (Mumsnet estimate)"},
+      "pros": ["Instant warmth", "Three settings", "Lightweight", "Affordable"],
+      "cons": ["Short cable", "Patchy oscillation", "Flimsy construction", "Bright glow"],
+      "asin": "",
+      "search": "Beldray oscillating halogen heater"
+    },
+    {
+      "brand": "Dyson",
+      "name": "Hot+Cool HF1",
+      "badge": "Best hot and cool fan",
+      "best_for": "Buyers who want heating and cooling in one, with app control",
+      "key_spec": "2.25kW heat, app and remote",
+      "summary": "A premium fan that heats in winter and cools in summer, with Wi-Fi app scheduling and a remote. It is very expensive.",
+      "specs": {"Type": "Hot and cool fan", "Power": "2.25kW heating", "Extras": "Wi-Fi app, remote, 70-degree oscillation", "Running cost": "About 59p/hour at full heat (Mumsnet estimate)"},
+      "pros": ["Quick warmth", "Effective cooling", "App scheduling", "Remote control"],
+      "cons": ["Very expensive", "Hot outlet edges"],
+      "asin": "",
+      "search": "Dyson Hot+Cool HF1 fan heater"
+    },
+    {
+      "brand": "Dreamland",
+      "name": "Silent Power Eco Fan Heater",
+      "badge": "Best eco fan heater",
+      "best_for": "Powerful room heating with an eco mode",
+      "key_spec": "2.2kW, eco 1.85kW",
+      "summary": "A compact fan heater with four modes, a 1-9 hour timer and an eco setting, with a humid-room rating. Mumsnet notes it has not been independently tested.",
+      "specs": {"Type": "Fan heater", "Power": "2.2kW full, 1.85kW eco", "Extras": "1-9 hour timer, four modes, IP21", "Running cost": "About 49p/hour eco, 58p/hour full (Mumsnet estimate)", "Guarantee": "2 years"},
+      "pros": ["Multiple settings", "Two-year guarantee", "Rated for humid rooms", "Quiet"],
+      "cons": ["Not independently tested", "Industrial appearance"],
+      "asin": "",
+      "search": "Dreamland Silent Power Eco fan heater"
+    },
+    {
+      "brand": "VonHaus",
+      "name": "2500873 11 Fin Digital",
+      "badge": "Best budget for larger rooms",
+      "best_for": "Larger spaces on a budget, with app-free digital control",
+      "key_spec": "Oil-filled, 2.5kW max, 24-hour timer with remote",
+      "summary": "Expert Reviews found this reached 20°C in 30 minutes and held a consistent temperature, with a digital thermostat and remote-controlled 24-hour timer at a budget price.",
+      "specs": {"Type": "Oil-filled radiator", "Power": "2.5kW (maximum)", "Extras": "Digital thermostat, 24-hour timer with remote, Eco mode"},
+      "pros": ["Rapid heating (20°C in 30 minutes in testing)", "Maintains consistent temperature", "Solid, no-nonsense build"],
+      "cons": ["Makes clicking noises during warm-up"],
+      "asin": "",
+      "search": "VonHaus 2500873 11 Fin Digital oil filled radiator"
+    },
+    {
+      "brand": "Russell Hobbs",
+      "name": "RH0FR3001",
+      "badge": "Best for small rooms",
+      "best_for": "Small rooms and compact spaces where portability matters",
+      "key_spec": "Oil-filled, 650W, carrying handle",
+      "summary": "A lightweight, low-power oil-filled radiator with a carrying handle, well suited to a small room, though Expert Reviews found it struggles in larger spaces.",
+      "specs": {"Type": "Oil-filled radiator", "Power": "650W", "Extras": "Single thermostat dial, overheat protection, carrying handle"},
+      "pros": ["Lightweight and portable", "Low power consumption", "Affordable"],
+      "cons": ["Struggles to heat large spaces", "Slower heating than higher-wattage models"],
+      "asin": "",
+      "search": "Russell Hobbs RH0FR3001 oil filled radiator"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Which type of electric heater is cheapest to run?",
+      "a": "All electric heaters turn nearly all the electricity they use into heat, so running cost depends on wattage and how long you run them. Low-power infrared panels are cheapest for heating one person. For a whole room, a thermostat helps avoid heating for longer than needed."
+    },
+    {
+      "q": "Oil-filled, convector or fan heater?",
+      "a": "Oil-filled radiators heat slowly but steadily and keep giving off heat after switch-off. Convectors give background warmth. Fan heaters heat a room fastest but can be noisy."
+    },
+    {
+      "q": "What safety features should I look for?",
+      "a": "Electrical Safety First recommends a heater with a tip-over cut-off and, for halogen heaters especially, a cool-to-touch surface. Keep vents clear of dust so the heater does not overheat, and buy from a reputable retailer rather than secondhand."
+    },
+    {
+      "q": "Is it safe to leave an electric heater on overnight?",
+      "a": "Electrical Safety First advises against running any heater unattended or overnight. If you do need overnight background heat, an oil-filled radiator is a lower-risk choice than a fan or halogen heater, but check the manufacturer's own instructions first."
+    },
+    {
+      "q": "Where should I place a heater, and can I use an extension lead?",
+      "a": "Keep it at least a metre from curtains, furniture and paper, on a level surface out of the way of foot traffic. Electrical Safety First advises plugging heaters directly into a wall socket rather than an extension lead, which can overload and become a fire risk. Never dry clothes on or near a heater, and make sure you have working smoke alarms."
+    }
+  ],
+  "sources": [
+    {"name": "Mumsnet: best electric heaters", "url": "https://www.mumsnet.com/swearsby/best-electric-heaters"},
+    {"name": "Expert Reviews: best electric radiator (2024)", "url": "https://www.expertreviews.co.uk/home-garden/heating-energy/best-electric-radiator"},
+    {"name": "Electrical Safety First: portable heater safety guidance", "url": "https://www.electricalsafetyfirst.org.uk/guidance/product-safety/portable-heaters/"}
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "heated-airers",
+  "title": "Best Heated Clothes Airers UK",
+  "short": "Heated airers and drying pods compared by capacity, wattage, timers and running cost.",
+  "intro": "A heated clothes airer dries laundry indoors for a fraction of the cost of a tumble dryer, and without leaving a room full of damp air the way a plain rack does. This guide compares the models Mumsnet's panel picked, from slimline airers for small flats to drying pods for big loads.",
+  "reviewed": "2026-09-21",
+  "verified": "2026-09-21",
+  "products": [
+    {
+      "brand": "Dry:Soon",
+      "name": "3-Tier Heated Airer",
+      "badge": "Best overall",
+      "best_for": "Households drying full loads regularly",
+      "key_spec": "300W, 21m of rails, 15kg",
+      "summary": "Mumsnet's top pick has three tiers and 21 metres of heated rail, enough for a full load. It is light and folds away, though it has no timer and is often out of stock.",
+      "specs": {
+        "Power": "300W",
+        "Rails": "21m over 3 tiers",
+        "Capacity": "15kg",
+        "Timer": "No",
+        "Foldable": "Yes",
+        "Running cost": "About 10p/hour (Mumsnet estimate)"
+      },
+      "pros": [
+        "Large drying space for full loads",
+        "Lightweight",
+        "Easy to fold for storage"
+      ],
+      "cons": [
+        "No timer",
+        "Somewhat unstable",
+        "Frequently out of stock"
+      ],
+      "asin": "",
+      "search": "Dry:Soon 3 tier heated airer"
+    },
+    {
+      "brand": "Dry:Soon",
+      "name": "Deluxe 3-Tier Heated Airer",
+      "badge": "Best for large families",
+      "best_for": "Big households that want a built-in timer",
+      "key_spec": "300W, timer up to 12 hours",
+      "summary": "A step-up version with a timer of up to 12 hours and eye-level controls. Mumsnet says it can hold two large loads, and it folds compactly.",
+      "specs": {
+        "Power": "300W",
+        "Tiers": "3",
+        "Capacity": "15kg",
+        "Timer": "Up to 12 hours",
+        "Foldable": "Yes",
+        "Running cost": "About 10p/hour (Mumsnet estimate)"
+      },
+      "pros": [
+        "Holds two large loads",
+        "Compact when folded",
+        "Built-in timer",
+        "Sturdy"
+      ],
+      "cons": [
+        "Higher price",
+        "Cover and castors sold separately"
+      ],
+      "asin": "",
+      "search": "Dry:Soon Deluxe 3 tier heated airer"
+    },
+    {
+      "brand": "Minky",
+      "name": "Wing 12m Heated Airer with Cover",
+      "badge": "Best budget",
+      "best_for": "Anyone who wants a full-load airer at a lower price",
+      "key_spec": "230W, 12m rails, cover included",
+      "summary": "A sturdy yet lightweight winged airer that holds a full load and comes with a cover. It takes up a lot of room when open and can topple with heavy items.",
+      "specs": {
+        "Power": "230W",
+        "Rails": "12m",
+        "Capacity": "16kg",
+        "Timer": "No",
+        "Foldable": "Yes",
+        "Running cost": "About 8p/hour (Mumsnet estimate)"
+      },
+      "pros": [
+        "Affordable",
+        "Sturdy yet lightweight",
+        "Holds full loads"
+      ],
+      "cons": [
+        "Takes significant space when extended",
+        "Stiff folding mechanism",
+        "Can topple with heavy items"
+      ],
+      "asin": "",
+      "search": "Minky Wing 12m heated airer with cover"
+    },
+    {
+      "brand": "Dry:Soon",
+      "name": "Drying Pod",
+      "badge": "Best for quick drying",
+      "best_for": "Delicates and small loads that need drying fast",
+      "key_spec": "1,000W, timer up to 3 hours",
+      "summary": "A heated pod that fits over a rack and dries items in about 2-3 hours while reducing creases. It costs far more per hour to run and is loud.",
+      "specs": {
+        "Power": "1,000W",
+        "Capacity": "10kg",
+        "Timer": "Up to 3 hours",
+        "Foldable": "No",
+        "Running cost": "About 30p/hour (Mumsnet estimate)"
+      },
+      "pros": [
+        "Dries items in 2-3 hours",
+        "Reduces creases",
+        "Good for delicates"
+      ],
+      "cons": [
+        "Fiddly to assemble and take apart",
+        "Loud",
+        "Needs to be hung over rails"
+      ],
+      "asin": "",
+      "search": "Dry:Soon Drying Pod"
+    },
+    {
+      "brand": "Minky",
+      "name": "Sure Dri Heat Pod Drying System",
+      "badge": "Best for upgrading an airer",
+      "best_for": "People who already own a standard 3-tier airer",
+      "key_spec": "850W, timer up to 3 hours",
+      "summary": "A heated pod that turns an ordinary 3-tier airer into a drying pod, drying a full load in about three hours, at the cost of a fiddly setup.",
+      "specs": {
+        "Power": "850W",
+        "Timer": "Up to 3 hours",
+        "Works with": "Standard 3-tier airers",
+        "Running cost": "About 25-30p/hour (Mumsnet estimate)"
+      },
+      "pros": [
+        "Turns a standard airer into a heated pod",
+        "Dries full loads in about 3 hours"
+      ],
+      "cons": [
+        "Fiddly setup",
+        "Large frame to store",
+        "Short cable"
+      ],
+      "asin": "",
+      "search": "Minky Sure Dri Heat Pod Drying System"
+    },
+    {
+      "brand": "Homefront",
+      "name": "Slimline Heated Airer",
+      "badge": "Best for small spaces",
+      "best_for": "Flats and small households",
+      "key_spec": "90W, 2m rails, stores flat",
+      "summary": "A small, low-power airer with a minimal footprint that stores flat. It is very cheap to run but cannot cope with a full load.",
+      "specs": {
+        "Power": "90W",
+        "Rails": "2m over 6 rungs",
+        "Timer": "No",
+        "Storage": "Flat",
+        "Running cost": "About 3p/hour (Mumsnet estimate)"
+      },
+      "pros": [
+        "Minimal footprint",
+        "Lightweight",
+        "Economical",
+        "Simple to use"
+      ],
+      "cons": [
+        "Not suited to full loads",
+        "No timer",
+        "Larger items use all the space"
+      ],
+      "asin": "",
+      "search": "Homefront Slimline Heated Airer"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Is a heated airer cheaper than a tumble dryer?",
+      "a": "Usually yes. Heated airers use a few hundred watts, while tumble dryers draw much more. Mumsnet's estimates for the airers here run from about 3p to 10p an hour. Your actual cost depends on how long you run it and your tariff."
+    },
+    {
+      "q": "Do heated airers cause damp?",
+      "a": "Drying clothes indoors releases moisture into the air whatever you use. Ventilate the room, or use a dehumidifier in the same room, to avoid condensation building up."
+    },
+    {
+      "q": "What size of heated airer do I need?",
+      "a": "Look at the rail length and stated capacity. Around 15-16kg or 12-21m of rail handles a full family load. For a couple or one person, a slimline model is often enough."
+    },
+    {
+      "q": "Is it safe to leave a heated airer on?",
+      "a": "Follow the manufacturer's instructions, keep the cable clear, do not overload it, and do not cover it in ways the instructions do not allow. A timer is a useful safety feature if you like to leave it running."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Mumsnet: best heated clothes airers",
+      "url": "https://www.mumsnet.com/swearsby/best-heated-clothes-airers"
+    }
+  ]
+}

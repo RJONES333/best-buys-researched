@@ -1,0 +1,29 @@
+{
+  "slug": "example-category",
+  "title": "Best Example Products UK",
+  "short": "One sentence used on the home page and as the meta description.",
+  "intro": "Two or three sentences introducing what the buyer needs to decide.",
+  "reviewed": "2026-01-01",
+  "verified": "2026-01-01",
+  "products": [
+    {
+      "brand": "Brand",
+      "name": "Model name",
+      "badge": "Best overall",
+      "best_for": "Who it suits",
+      "key_spec": "One headline spec",
+      "summary": "Two sentences in your own words based on the sources listed below.",
+      "specs": {"Spec one": "Value", "Spec two": "Value"},
+      "pros": ["Pro one"],
+      "cons": ["Con one"],
+      "asin": "",
+      "search": "Brand Model name"
+    }
+  ],
+  "guide": [
+    {"q": "A question buyers ask?", "a": "A short, accurate answer."}
+  ],
+  "sources": [
+    {"name": "Publication: article title", "url": "https://example.com/article"}
+  ]
+}

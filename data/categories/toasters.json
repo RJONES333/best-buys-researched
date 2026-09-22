@@ -1,0 +1,122 @@
+{
+  "slug": "toasters",
+  "title": "Best Toasters UK",
+  "short": "2-slice and 4-slice toasters compared by settings, slot size and price, from budget to premium.",
+  "intro": "A toaster is a simple appliance, but slot depth, even browning and how long it lasts vary a lot between models. This guide compares toasters picked by Mumsnet, from a budget 4-slice option under £30 to premium models built to last for decades.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Dualit",
+      "name": "NewGen Toaster",
+      "badge": "Best overall / longevity",
+      "best_for": "Buyers who want a toaster built to last decades",
+      "key_spec": "2 or 4 slice, variable settings, 1200W",
+      "summary": "Mumsnet's overall pick, praised for its sleek design and Peek and Pop feature that lets you check toast without cancelling the cycle. Owners report it lasting for decades, though it is expensive.",
+      "specs": {"Type": "2-slice (£175) or 4-slice (£220)", "Power": "1200W", "Settings": "Variable"},
+      "pros": ["Sleek design", "Variable settings for different foods", "Peek and Pop feature", "Reported to last for decades"],
+      "cons": ["High price", "Peek and Pop struggles with thick crumpets"],
+      "asin": "",
+      "search": "Dualit NewGen Toaster"
+    },
+    {
+      "brand": "Cookworks",
+      "name": "Long-Slot Four-Slice Toaster",
+      "badge": "Best budget",
+      "best_for": "Buyers who want maximum capacity for a low price",
+      "key_spec": "4 slice, £25, 1400W",
+      "summary": "A very affordable long-slot toaster that fits large slices and pitta bread, with seven settings, though the design is basic.",
+      "specs": {"Type": "4-slice", "Price guide": "About £25", "Power": "1400W", "Settings": "Seven"},
+      "pros": ["Affordable", "Accommodates large slices and pitta bread", "Multiple toast settings"],
+      "cons": ["Basic design"],
+      "asin": "",
+      "search": "Cookworks Long-Slot Four-Slice Toaster"
+    },
+    {
+      "brand": "Russell Hobbs",
+      "name": "Inspire Toaster",
+      "badge": "Best mid-range value",
+      "best_for": "Buyers who want a stylish, reliable everyday toaster",
+      "key_spec": "2 or 4 slice, £23-£45, 1050W",
+      "summary": "A stylish, easy-to-use toaster with even toasting and good value across its price range, though it struggles with larger bread slices.",
+      "specs": {"Type": "2-slice or 4-slice", "Price guide": "About £23-£45 (on sale)", "Power": "1050W", "Settings": "Five"},
+      "pros": ["Stylish design", "Easy to use", "Even toasting", "Good value"],
+      "cons": ["Struggles with larger bread slices"],
+      "asin": "",
+      "search": "Russell Hobbs Inspire Toaster"
+    },
+    {
+      "brand": "Breville",
+      "name": "VTT981 Edge Two-Slice Toaster",
+      "badge": "Best for thick bread",
+      "best_for": "Buyers who regularly toast thick or homemade bread",
+      "key_spec": "2 slice, deep slots, £48",
+      "summary": "A toaster with deep slots designed for tall slices, with a lift-and-look feature and brushed stainless steel finish, though the casing gets very hot.",
+      "specs": {"Type": "2-slice", "Price guide": "About £48", "Power": "1050W", "Settings": "Variable"},
+      "pros": ["Deep slots for thick or tall slices", "Brushed stainless steel finish", "Lift-and-look feature"],
+      "cons": ["Casing gets very hot", "Some durability concerns"],
+      "asin": "",
+      "search": "Breville VTT981 Edge Two-Slice Toaster"
+    },
+    {
+      "brand": "Sage",
+      "name": "Smart Two-Slice Toaster",
+      "badge": "Best for features",
+      "best_for": "Buyers who want precise, tech-forward toasting",
+      "key_spec": "2 or 4 slice, £139-£160, wide slots",
+      "summary": "A high-tech toaster with a Quick Look setting and wide slots for even browning, at a premium price.",
+      "specs": {"Type": "2-slice or 4-slice", "Price guide": "About £139-£160", "Power": "1000W", "Settings": "Variable"},
+      "pros": ["Quick Look setting", "Sleek design", "Wide slots", "Even browning"],
+      "cons": ["Expensive"],
+      "asin": "",
+      "search": "Sage Smart Two-Slice Toaster"
+    },
+    {
+      "brand": "De'Longhi",
+      "name": "Icona Metallics Four-Slice Toaster",
+      "badge": "Best retro style",
+      "best_for": "Buyers who want a retro look with bagel and defrost settings",
+      "key_spec": "4 slice, £115, 1800W",
+      "summary": "A stylish retro-look toaster with a browning control dial and bagel, defrost and reheat settings, though it is bulky and the outer slots can toast unevenly.",
+      "specs": {"Type": "4-slice", "Price guide": "About £115", "Power": "1800W", "Settings": "Six"},
+      "pros": ["Stylish retro design", "Browning control dial", "Bagel, defrost and reheat settings"],
+      "cons": ["Bulky", "Outer slots sometimes uneven", "Pricey"],
+      "asin": "",
+      "search": "De'Longhi Icona Metallics Four-Slice Toaster"
+    },
+    {
+      "brand": "KitchenAid",
+      "name": "Breakfast Suite 2-Slice Toaster",
+      "badge": "Best for homemade bread",
+      "best_for": "Buyers with an eye on style who toast a variety of breads",
+      "key_spec": "2 slice, £143, wide slots",
+      "summary": "A stylish toaster with wide slots and seven settings that toasts quickly, well suited to varied and homemade bread, at a high price.",
+      "specs": {"Type": "2-slice", "Price guide": "About £143", "Settings": "Seven"},
+      "pros": ["Quick toasting", "Wide slots", "Variety of settings", "Stylish finish"],
+      "cons": ["High price point"],
+      "asin": "",
+      "search": "KitchenAid Breakfast Suite 2-Slice Toaster"
+    }
+  ],
+  "guide": [
+    {
+      "q": "2-slice or 4-slice toaster?",
+      "a": "A 2-slice toaster suits one or two people and takes up less counter space. A 4-slice toaster, or a long-slot model, suits families or anyone who often toasts more than two slices, bagels, or pitta bread at once."
+    },
+    {
+      "q": "What settings actually matter?",
+      "a": "A wide browning range helps you get everything from lightly toasted to well-done. Dedicated bagel, defrost and reheat settings are useful if you eat those regularly, but add cost if you never use them."
+    },
+    {
+      "q": "Are expensive toasters worth it?",
+      "a": "Premium toasters like the Dualit are built to last for many years and often toast more evenly, which can make the cost per year lower than replacing a cheap toaster every couple of years. A budget toaster is still fine for occasional or light use."
+    },
+    {
+      "q": "How do I keep a toaster in good condition?",
+      "a": "Empty and clean the crumb tray regularly to reduce fire risk and keep toasting even, and unplug it before cleaning."
+    }
+  ],
+  "sources": [
+    {"name": "Mumsnet: best toasters", "url": "https://www.mumsnet.com/swearsby/best-toasters"}
+  ]
+}
