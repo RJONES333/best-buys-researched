@@ -46,6 +46,32 @@ def group_for(slug):
     return "More guides"
 
 
+def sidebar_nav(categories, current_slug):
+    """A menu of every category, grouped. Sticky on the left on desktop; a plain
+    block below the article on mobile (no JS, no fragile <details> CSS override)."""
+    by_group = {}
+    for c in categories:
+        by_group.setdefault(group_for(c["slug"]), []).append(c)
+
+    group_order = list(GROUPS.keys())
+    ordered_groups = [g for g in group_order if g in by_group]
+    ordered_groups += [g for g in by_group if g not in ordered_groups]
+
+    sections = []
+    for group in ordered_groups:
+        items = "".join(
+            f'<li><a href="{BASE}/{c["slug"]}/"{" aria-current=\"page\"" if c["slug"] == current_slug else ""}>{esc(c["title"])}</a></li>'
+            for c in by_group[group]
+        )
+        sections.append(f'<p class="sidebar-heading">{esc(group)}</p><ul>{items}</ul>')
+    sections_html = "".join(sections)
+
+    return f"""<nav class="sidebar-nav" aria-label="All guides">
+  <p class="sidebar-title">Browse all guides</p>
+  {sections_html}
+</nav>"""
+
+
 def esc(value):
     return html.escape(str(value), quote=True)
 
@@ -88,7 +114,7 @@ DISCLOSURE = (
 )
 
 
-def layout(title, description, path, body, jsonld=None):
+def layout(title, description, path, body, jsonld=None, wide=False):
     canonical = f"{SITE_URL}{path}"
     ld = ""
     if jsonld:
@@ -97,6 +123,7 @@ def layout(title, description, path, body, jsonld=None):
             f'<script type="application/ld+json">{json.dumps(b, ensure_ascii=False)}</script>'
             for b in blocks
         )
+    main_class = "wrap wrap-wide" if wide else "wrap"
     return f"""<!doctype html>
 <html lang="{esc(CONFIG['language'])}">
 <head>
@@ -123,7 +150,7 @@ def layout(title, description, path, body, jsonld=None):
   </div>
 </header>
 <p class="disclosure-bar"><span class="wrap">{esc(DISCLOSURE)}</span></p>
-<main class="wrap" id="main">
+<main class="{main_class}" id="main">
 {body}
 </main>
 <footer class="site-footer">
@@ -256,7 +283,9 @@ def category_page(cat, all_categories):
         related_html = f"""<h2>Related guides</h2>
 <div class="tiles">{related_items}</div>"""
 
-    body = f"""<article>
+    body = f"""<div class="page-grid">
+{sidebar_nav(all_categories, cat['slug'])}
+<article>
 {crumb_html}
 <h1>{esc(cat['title'])} ({year})</h1>
 <p class="meta">Picks reviewed {esc(fmt_month(cat['reviewed']))} · Sources verified {esc(fmt_month(cat['verified']))}</p>
@@ -272,7 +301,8 @@ def category_page(cat, all_categories):
 <h2>Sources</h2>
 <ul class="sources">{sources}</ul>
 {related_html}
-</article>"""
+</article>
+</div>"""
 
     item_list = {
         "@context": "https://schema.org",
@@ -296,7 +326,7 @@ def category_page(cat, all_categories):
             for g in cat["guide"]
         ],
     }
-    return layout(title, cat["short"], f"/{cat['slug']}/", body, [item_list, faq_ld, crumb_ld])
+    return layout(title, cat["short"], f"/{cat['slug']}/", body, [item_list, faq_ld, crumb_ld], wide=True)
 
 
 def home_page(categories):
