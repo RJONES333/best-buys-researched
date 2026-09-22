@@ -4,7 +4,7 @@
   "short": "Bean-to-cup, pod, espresso and filter coffee machines compared by type, features and who they suit.",
   "intro": "The right coffee machine depends on how much fuss you want. This guide compares bean-to-cup, pod, espresso and filter machines picked by Mumsnet's panel and by Expert Reviews' testing, so you can match the machine to your budget and how you drink coffee.",
   "reviewed": "2026-09-21",
-  "verified": "2026-09-21",
+  "verified": "2026-09-22",
   "products": [
     {
       "brand": "De'Longhi",
@@ -13,9 +13,22 @@
       "best_for": "Everyday espresso-style coffee with little effort",
       "key_spec": "Bean-to-cup, 1.8L tank, milk frother",
       "summary": "The most recommended machine on Mumsnet's forums. It works with beans or pre-ground coffee, has adjustable strength and length, and descales automatically.",
-      "specs": {"Type": "Bean-to-cup", "Water tank": "1.8L", "Milk frother": "Yes", "Cup warmer": "Yes", "Warranty": "2 years"},
-      "pros": ["Beans or pre-ground coffee", "Customisable strength and length", "Quick and easy to clean", "Automatic descaling"],
-      "cons": ["Milk frother takes practice"],
+      "specs": {
+        "Type": "Bean-to-cup",
+        "Water tank": "1.8L",
+        "Milk frother": "Yes",
+        "Cup warmer": "Yes",
+        "Warranty": "2 years"
+      },
+      "pros": [
+        "Beans or pre-ground coffee",
+        "Customisable strength and length",
+        "Quick and easy to clean",
+        "Automatic descaling"
+      ],
+      "cons": [
+        "Milk frother takes practice"
+      ],
       "asin": "",
       "search": "De'Longhi Magnifica bean to cup coffee machine"
     },
@@ -26,9 +39,21 @@
       "best_for": "Barista-style espresso at home",
       "key_spec": "Bean-to-cup espresso, built-in grinder",
       "summary": "A bean-to-cup espresso machine with a built-in grinder, automatic and manual settings and a milk frother. It is a big investment and can be complex for beginners.",
-      "specs": {"Type": "Bean-to-cup espresso", "Water tank": "2L", "Milk frother": "Yes", "Cup warmer": "Yes"},
-      "pros": ["Grinds beans for strong coffee", "Automatic and manual settings", "Stainless steel body"],
-      "cons": ["Expensive initial investment", "Complex for beginners"],
+      "specs": {
+        "Type": "Bean-to-cup espresso",
+        "Water tank": "2L",
+        "Milk frother": "Yes",
+        "Cup warmer": "Yes"
+      },
+      "pros": [
+        "Grinds beans for strong coffee",
+        "Automatic and manual settings",
+        "Stainless steel body"
+      ],
+      "cons": [
+        "Expensive initial investment",
+        "Complex for beginners"
+      ],
       "asin": "",
       "search": "Sage The Barista Express coffee machine"
     },
@@ -39,9 +64,20 @@
       "best_for": "Learning traditional espresso-making",
       "key_spec": "Manual espresso, brushed stainless steel",
       "summary": "A professional-looking espresso machine with a crema attachment that works with pods and grounds. It rewards practice but has a steep learning curve.",
-      "specs": {"Type": "Espresso", "Water tank": "2.1L", "Milk frother": "Yes"},
-      "pros": ["Professional appearance", "Authentic Italian-style espresso", "Works with pods and grounds"],
-      "cons": ["High price", "Steep learning curve"],
+      "specs": {
+        "Type": "Espresso",
+        "Water tank": "2.1L",
+        "Milk frother": "Yes"
+      },
+      "pros": [
+        "Professional appearance",
+        "Authentic Italian-style espresso",
+        "Works with pods and grounds"
+      ],
+      "cons": [
+        "High price",
+        "Steep learning curve"
+      ],
       "asin": "",
       "search": "Gaggia Classic Pro espresso machine"
     },
@@ -52,10 +88,18 @@
       "best_for": "Households where people want either ground coffee or pods",
       "key_spec": "Ground coffee and pods, automatic milk frother",
       "summary": "A stylish machine that takes ground coffee or pods, with an automatic milk frother and a fridge-storable milk tank.",
-      "specs": {"Type": "Ground coffee and pod", "Water tank": "1.4L", "Milk frother": "Yes"},
-      "pros": ["Stylish design", "Works with grounds and pods", "Adjustable drip tray", "Automatic milk frother"],
-      "cons": []
-    ,
+      "specs": {
+        "Type": "Ground coffee and pod",
+        "Water tank": "1.4L",
+        "Milk frother": "Yes"
+      },
+      "pros": [
+        "Stylish design",
+        "Works with grounds and pods",
+        "Adjustable drip tray",
+        "Automatic milk frother"
+      ],
+      "cons": [],
       "asin": "",
       "search": "Breville One-Touch VCF108 coffee machine"
     },
@@ -66,9 +110,19 @@
       "best_for": "Costa-style lattes and hot chocolate on a budget",
       "key_spec": "Pod, self-cleaning",
       "summary": "A good-value pod machine that makes Costa lattes and Cadbury hot chocolate, is self-cleaning and has an adjustable drip tray. Pod waste is the main drawback.",
-      "specs": {"Type": "Pod", "Recycling": "About 130 UK recycling points (Mumsnet)"},
-      "pros": ["Brilliantly priced", "Costa lattes and Cadbury hot chocolate", "Self-cleaning", "Adjustable drip tray"],
-      "cons": ["Pod waste"],
+      "specs": {
+        "Type": "Pod",
+        "Recycling": "About 130 UK recycling points (Mumsnet)"
+      },
+      "pros": [
+        "Brilliantly priced",
+        "Costa lattes and Cadbury hot chocolate",
+        "Self-cleaning",
+        "Adjustable drip tray"
+      ],
+      "cons": [
+        "Pod waste"
+      ],
       "asin": "",
       "search": "Tassimo by Bosch Vivy 2 pod coffee machine"
     },
@@ -79,9 +133,21 @@
       "best_for": "Milky drinks from a pod machine",
       "key_spec": "Pod, built-in milk frother, 8 drinks",
       "summary": "A pod machine with a built-in milk frother, adjustable froth levels and eight drink options. Mumsnet rates the coffee highly, though pod machines at this level are pricey.",
-      "specs": {"Type": "Pod", "Water tank": "1.1L", "Milk frother": "Yes", "Drinks": "8 (3 black, 5 milky)"},
-      "pros": ["Built-in milk frother", "Adjustable froth levels", "Eight drink options", "Highly rated"],
-      "cons": ["Upper-end pricing for a pod machine"],
+      "specs": {
+        "Type": "Pod",
+        "Water tank": "1.1L",
+        "Milk frother": "Yes",
+        "Drinks": "8 (3 black, 5 milky)"
+      },
+      "pros": [
+        "Built-in milk frother",
+        "Adjustable froth levels",
+        "Eight drink options",
+        "Highly rated"
+      ],
+      "cons": [
+        "Upper-end pricing for a pod machine"
+      ],
       "asin": "",
       "search": "Lavazza A Modo Mio Desea coffee machine"
     },
@@ -92,9 +158,19 @@
       "best_for": "Brewing several cups at once",
       "key_spec": "10 large or 15 small cups",
       "summary": "A filter machine that makes 10 large or 15 small cups, with adjustable strength and a reinforced thermal jug that keeps coffee warm for two hours.",
-      "specs": {"Type": "Filter", "Water tank": "1.2L", "Jug": "Thermal, keeps coffee warm for two hours"},
-      "pros": ["Makes 10 large or 15 small cups", "Adjustable strength", "Thermal jug"],
-      "cons": ["Functional rather than stylish"],
+      "specs": {
+        "Type": "Filter",
+        "Water tank": "1.2L",
+        "Jug": "Thermal, keeps coffee warm for two hours"
+      },
+      "pros": [
+        "Makes 10 large or 15 small cups",
+        "Adjustable strength",
+        "Thermal jug"
+      ],
+      "cons": [
+        "Functional rather than stylish"
+      ],
       "asin": "",
       "search": "Melitta filter coffee machine thermal jug"
     },
@@ -105,9 +181,20 @@
       "best_for": "One cup at a time on a small budget",
       "key_spec": "Manual, ready in about 30 seconds",
       "summary": "A compact manual coffee maker that Mumsnet says makes great coffee and takes up little space. It makes one cup at a time.",
-      "specs": {"Type": "Manual", "Water capacity": "0.35L"},
-      "pros": ["Great coffee for the price", "Takes up little space", "Ready in about 30 seconds", "Easy to clean"],
-      "cons": ["Manual operation", "One cup at a time"],
+      "specs": {
+        "Type": "Manual",
+        "Water capacity": "0.35L"
+      },
+      "pros": [
+        "Great coffee for the price",
+        "Takes up little space",
+        "Ready in about 30 seconds",
+        "Easy to clean"
+      ],
+      "cons": [
+        "Manual operation",
+        "One cup at a time"
+      ],
       "asin": "",
       "search": "AeroPress coffee maker"
     },
@@ -118,9 +205,21 @@
       "best_for": "Buyers who put coffee quality above everything else",
       "key_spec": "Bean-to-cup, 200g hopper, automatic milk frothing",
       "summary": "Expert Reviews' premium pick. It produces excellent coffee quality with an easy-to-use automatic milk system, though it is expensive and limited to four drink options.",
-      "specs": {"Type": "Bean-to-cup", "Bean hopper": "200g", "Water tank": "1.6L", "Milk frother": "Automatic"},
-      "pros": ["Excellent coffee quality", "Easy to use", "Great milk system"],
-      "cons": ["Expensive", "Only four drink options"],
+      "specs": {
+        "Type": "Bean-to-cup",
+        "Bean hopper": "200g",
+        "Water tank": "1.6L",
+        "Milk frother": "Automatic"
+      },
+      "pros": [
+        "Excellent coffee quality",
+        "Easy to use",
+        "Great milk system"
+      ],
+      "cons": [
+        "Expensive",
+        "Only four drink options"
+      ],
       "asin": "",
       "search": "Jura C8 bean to cup coffee machine"
     },
@@ -131,9 +230,20 @@
       "best_for": "Small kitchens and simple pod coffee",
       "key_spec": "Pod, 600ml tank, 8-capsule bin",
       "summary": "Expert Reviews' pick for compact spaces. It is small, comes in several colours and offers various drink sizes, though its water tank and mug clearance are limited.",
-      "specs": {"Type": "Pod", "Water tank": "600ml", "Capsule bin": "8 capsules"},
-      "pros": ["Compact", "Various drink sizes", "Several colour options"],
-      "cons": ["Limited mug clearance", "Small water tank"],
+      "specs": {
+        "Type": "Pod",
+        "Water tank": "600ml",
+        "Capsule bin": "8 capsules"
+      },
+      "pros": [
+        "Compact",
+        "Various drink sizes",
+        "Several colour options"
+      ],
+      "cons": [
+        "Limited mug clearance",
+        "Small water tank"
+      ],
       "asin": "",
       "search": "Nespresso Vertuo Pop coffee machine"
     }
@@ -153,7 +263,13 @@
     }
   ],
   "sources": [
-    {"name": "Mumsnet: best coffee machines", "url": "https://www.mumsnet.com/swearsby/best-coffee-machines"},
-    {"name": "Expert Reviews: best coffee machine", "url": "https://www.expertreviews.co.uk/home-garden/small-appliances/coffee-machines/best-coffee-machine"}
+    {
+      "name": "Mumsnet: best coffee machines",
+      "url": "https://www.mumsnet.com/swearsby/best-coffee-machines"
+    },
+    {
+      "name": "Expert Reviews: best coffee machine",
+      "url": "https://www.expertreviews.co.uk/home-garden/small-appliances/coffee-machines/best-coffee-machine"
+    }
   ]
 }
