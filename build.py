@@ -26,21 +26,22 @@ GROUPS = {
     "Home & kitchen": [
         "air-fryers", "coffee-machines", "slow-cookers", "kettles", "blenders",
         "toasters", "dehumidifiers", "air-purifiers", "heated-airers",
-        "electric-blankets", "electric-heaters",
+        "electric-blankets", "electric-heaters", "kitchen-knives",
     ],
     "Cleaning": ["robot-vacuums", "cordless-vacuums"],
     "Tech & gadgets": [
         "samsung-chargers", "wireless-earbuds", "standing-desks",
         "over-ear-headphones", "gaming-headsets", "iphone-charging-cables",
     ],
-    "Sleep & comfort": ["mattress-toppers", "pillows"],
+    "Sleep & comfort": ["mattress-toppers", "pillows", "duvets"],
+    "Bathroom": ["bath-towels"],
     "Fitness & outdoors": [
         "running-socks", "walking-socks", "winter-gloves", "womens-leggings",
         "bike-lights",
     ],
     "Clothing": ["mens-down-jackets", "womens-puffer-jackets"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets"],
-    "Personal care": ["electric-toothbrushes"],
+    "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners"],
     "Kids": ["trending-kids-toys"],
 }
 

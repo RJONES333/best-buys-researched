@@ -1,0 +1,135 @@
+{
+  "slug": "hair-straighteners",
+  "title": "Best Hair Straighteners UK",
+  "short": "Hair straighteners compared by plate width, heat control and price, from budget buys to cordless and steam options.",
+  "intro": "A straightener's plate width and heat consistency matter more than raw brand name for how well it performs on your specific hair type. This guide compares straighteners tested by Marie Claire UK, spanning budget picks, cordless options and steam-based tools for damaged hair.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "ghd",
+      "name": "Chronos Hair Straightener",
+      "badge": "Best all-rounder",
+      "best_for": "Buyers who want the most complete, reliable straightener",
+      "key_spec": "£299",
+      "summary": "Marie Claire's pick for the best all-rounder, delivering consistent, salon-quality results across hair types.",
+      "specs": {"Price guide": "£299"},
+      "pros": ["Consistent, reliable results", "Well suited to most hair types"],
+      "cons": ["Expensive"],
+      "asin": "",
+      "search": "ghd Chronos Hair Straightener"
+    },
+    {
+      "brand": "Cloud Nine",
+      "name": "The Contouring Wide Iron",
+      "badge": "Best for versatility",
+      "best_for": "Buyers who want to both straighten and create waves or curls",
+      "key_spec": "£229, wide contoured plates",
+      "summary": "Wide, contoured plates that make it easy to both straighten hair and create waves or curls with the same tool.",
+      "specs": {"Price guide": "£229"},
+      "pros": ["Versatile for straightening and styling curls or waves", "Wide plates cover more hair per pass"],
+      "cons": ["Premium price"],
+      "asin": "",
+      "search": "Cloud Nine The Contouring Wide Iron"
+    },
+    {
+      "brand": "Remington",
+      "name": "Shine Therapy",
+      "badge": "Best budget",
+      "best_for": "Buyers who want a reliable straightener at a lower price",
+      "key_spec": "Budget pick",
+      "summary": "Marie Claire's recommended budget buy, offering solid everyday performance without the premium price tag of salon brands.",
+      "specs": {},
+      "pros": ["Affordable"],
+      "cons": [],
+      "asin": "",
+      "search": "Remington Shine Therapy hair straightener"
+    },
+    {
+      "brand": "Dyson",
+      "name": "Corrale",
+      "badge": "Best luxury",
+      "best_for": "Buyers who want cordless freedom and flexible plates",
+      "key_spec": "Cordless, flexing plates",
+      "summary": "Marie Claire's luxury pick, with flexing plates designed to gather more hair per pass and cordless operation for use anywhere.",
+      "specs": {"Design": "Cordless, flexing plates"},
+      "pros": ["Cordless operation", "Flexing plates gather more hair per pass"],
+      "cons": ["Expensive"],
+      "asin": "",
+      "search": "Dyson Corrale hair straightener"
+    },
+    {
+      "brand": "Shark",
+      "name": "SilkiPro Straight",
+      "badge": "Best 2-in-1 dry and straighten",
+      "best_for": "Buyers who want to dry and straighten in fewer steps",
+      "key_spec": "Dries and straightens in one tool",
+      "summary": "A combined dryer and straightener that reduces the number of tools and steps needed to finish a style.",
+      "specs": {"Function": "Dries and straightens"},
+      "pros": ["Combines drying and straightening in one tool", "Saves styling time"],
+      "cons": [],
+      "asin": "",
+      "search": "Shark SilkiPro Straight"
+    },
+    {
+      "brand": "ghd",
+      "name": "Unplugged",
+      "badge": "Best cordless",
+      "best_for": "Buyers who want to style without being tied to a socket",
+      "key_spec": "Cordless",
+      "summary": "Marie Claire's pick for the best cordless straightener, giving freedom to style anywhere without a nearby plug socket.",
+      "specs": {"Design": "Cordless"},
+      "pros": ["Fully cordless", "Freedom to style anywhere"],
+      "cons": ["Battery life limits continuous use"],
+      "asin": "",
+      "search": "ghd Unplugged hair straightener"
+    },
+    {
+      "brand": "ghd",
+      "name": "Chronos Max",
+      "badge": "Best for thick hair",
+      "best_for": "Thick hair that needs wider plates to style efficiently",
+      "key_spec": "Wide plate styling",
+      "summary": "Marie Claire's pick for thick hair, with wider plates that cover more hair per pass to cut down styling time.",
+      "specs": {"Plates": "Wide"},
+      "pros": ["Wide plates suit thick hair", "Reduces styling time"],
+      "cons": ["Premium price"],
+      "asin": "",
+      "search": "ghd Chronos Max hair straightener"
+    },
+    {
+      "brand": "L'Oreal",
+      "name": "Steampod 3.0",
+      "badge": "Best for damaged hair",
+      "best_for": "Damaged hair that needs added moisture rather than just heat",
+      "key_spec": "Steam-based styling",
+      "summary": "Uses steam alongside heat to add moisture while styling, rather than just applying dry heat, which Marie Claire recommends specifically for damaged hair.",
+      "specs": {"Technology": "Steam-based"},
+      "pros": ["Adds moisture while styling", "Gentler option for damaged hair"],
+      "cons": ["Premium price"],
+      "asin": "",
+      "search": "L'Oreal Steampod 3.0"
+    }
+  ],
+  "guide": [
+    {
+      "q": "How wide should the plates be?",
+      "a": "Narrower plates suit shorter or finer hair and give more precision for smaller sections. Wider plates cover more hair per pass, which suits thicker or longer hair and can cut down overall styling time."
+    },
+    {
+      "q": "Ceramic, titanium or tourmaline plates?",
+      "a": "Ceramic plates heat evenly and are gentle on hair. Titanium heats up faster and reaches higher temperatures, suiting thick or coarse hair. Tourmaline-coated plates are designed to reduce frizz and add shine as you style."
+    },
+    {
+      "q": "Is a steam straightener worth it for damaged hair?",
+      "a": "Steam-based tools like the L'Oreal Steampod add moisture while styling rather than relying purely on dry heat, which can be gentler on hair that's already damaged or prone to dryness."
+    },
+    {
+      "q": "Is a cordless straightener practical for everyday use?",
+      "a": "Cordless straighteners are useful for travel or styling away from a socket, but battery life limits how long you can use them continuously. For daily use at home, a corded model gives unlimited styling time."
+    }
+  ],
+  "sources": [
+    {"name": "Marie Claire UK: best hair straighteners", "url": "https://www.marieclaire.co.uk/beauty/hair/best-hair-straighteners-210931"}
+  ]
+}

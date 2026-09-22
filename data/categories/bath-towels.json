@@ -1,0 +1,135 @@
+{
+  "slug": "bath-towels",
+  "title": "Best Bath Towels UK",
+  "short": "Egyptian cotton and everyday bath towels compared by GSM, absorbency and price, from budget to luxury.",
+  "intro": "A towel's GSM (grams per square metre) is the single biggest clue to how thick, absorbent and long-lasting it will be, though material and weave matter too. This guide compares towels tested by Ideal Home's team, from affordable everyday sets to luxury Egyptian cotton.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Christy",
+      "name": "Renaissance Egyptian Cotton Towels",
+      "badge": "Best overall",
+      "best_for": "Buyers who want the best balance of quality and price",
+      "key_spec": "675gsm, 100% Egyptian cotton, 12 colours",
+      "summary": "Ideal Home's Kitchen Appliances Editor rates these as fluffy, luxurious and long-lasting without shedding, calling them the perfect balance of quality and affordability, with a decent colour range.",
+      "specs": {"Material": "100% Egyptian cotton", "GSM": "675", "Colours": "12", "Sizes": "Face cloth to bath sheet and bath mat"},
+      "pros": ["Fluffy and luxurious", "Doesn't shed", "Good colour range", "Great value for money"],
+      "cons": [],
+      "asin": "",
+      "search": "Christy Renaissance Egyptian Cotton Towels"
+    },
+    {
+      "brand": "Marks & Spencer",
+      "name": "Egyptian Cotton Luxury Towel",
+      "badge": "Best budget luxury",
+      "best_for": "Buyers who want a hotel feel without a hotel price",
+      "key_spec": "600gsm, 100% Egyptian cotton, 46 colours",
+      "summary": "An M&S bestseller with almost 5,000 positive reviews and a 4.5-star average rating, treated with StayNEW technology to stay fresh-feeling after repeated washes, with an exceptionally wide colour range.",
+      "specs": {"Material": "100% Egyptian cotton", "GSM": "600", "Colours": "46"},
+      "pros": ["StayNEW technology keeps towels feeling fresh", "Huge colour range", "Budget-friendly for Egyptian cotton"],
+      "cons": [],
+      "asin": "",
+      "search": "Marks and Spencer Egyptian Cotton Luxury Towel"
+    },
+    {
+      "brand": "John Lewis",
+      "name": "Egyptian Cotton Towels",
+      "badge": "Best bestseller",
+      "best_for": "Buyers who want proven softness and strong drying power",
+      "key_spec": "700gsm, 100% Egyptian cotton, 35 colours",
+      "summary": "One of John Lewis's bestselling ranges, rated 4.5 out of 5 by over 2,000 customers, praised for softness, thickness, generous sizing and superb drying power.",
+      "specs": {"Material": "100% Egyptian cotton", "GSM": "700", "Colours": "35"},
+      "pros": ["Rated highly for softness and thickness", "Generous size", "Superb drying power", "35 colour options"],
+      "cons": [],
+      "asin": "",
+      "search": "John Lewis Egyptian Cotton Towels"
+    },
+    {
+      "brand": "Scooms",
+      "name": "Egyptian Cotton Bath Sheet Pair",
+      "badge": "Best premium",
+      "best_for": "Buyers who want the highest-GSM towels in this guide",
+      "key_spec": "720gsm, 100% Egyptian cotton, 4 colours",
+      "summary": "Ideal Home's Sleep Editor says these thick, soft towels wash brilliantly and still look new after a year of use, and are cut slightly longer than most for a better drape, though they're expensive with limited colour choice.",
+      "specs": {"Material": "100% Egyptian cotton", "GSM": "720", "Colours": "4"},
+      "pros": ["Thick and soft", "Washes well long-term", "Longer than most for better drape"],
+      "cons": ["Expensive", "Only 4 colour options"],
+      "asin": "",
+      "search": "Scooms Egyptian Cotton Bath Sheet Pair"
+    },
+    {
+      "brand": "Dunelm",
+      "name": "White Egyptian Cotton Towel",
+      "badge": "Best budget",
+      "best_for": "Buyers who want the lowest price with a huge size and colour range",
+      "key_spec": "570gsm, 100% cotton, 48 colours, from £11",
+      "summary": "The most affordable towels in Ideal Home's round-up, with over 11,000 positive reviews averaging 4.7 out of 5. They don't feel as luxurious as higher-GSM options, but the size and colour range make them a strong budget pick.",
+      "specs": {"Material": "100% cotton", "GSM": "570", "Colours": "48", "Price guide": "From £11"},
+      "pros": ["Very affordable", "Huge size and colour range", "Highly rated by customers"],
+      "cons": ["Doesn't feel as luxurious as higher-GSM towels"],
+      "asin": "",
+      "search": "Dunelm White Egyptian Cotton Towel"
+    },
+    {
+      "brand": "Panda",
+      "name": "Bamboo Towel",
+      "badge": "Best for softness",
+      "best_for": "Buyers who want an especially soft, eco-friendly towel",
+      "key_spec": "600gsm, cotton/bamboo blend, 3 colours",
+      "summary": "Ideal Home calls this among the softest towels tested, fluffy and durable with a substantial 600gsm weight, and it's said to get softer with every wash.",
+      "specs": {"Material": "Cotton/bamboo blend", "GSM": "600", "Colours": "3"},
+      "pros": ["Extremely soft", "Very absorbent", "Gets softer with each wash"],
+      "cons": ["Limited colour range"],
+      "asin": "",
+      "search": "Panda Bamboo Towel"
+    },
+    {
+      "brand": "H&M",
+      "name": "Cotton Terry Bath Towel",
+      "badge": "Best quick-dry",
+      "best_for": "Buyers who want a thinner, faster-drying everyday towel",
+      "key_spec": "480gsm, 100% cotton, 7 colours",
+      "summary": "A stylish terry towel with a thick decorative rim and a hanging loop. It's thinner than the higher-GSM towels here, which means faster drying, at an affordable price.",
+      "specs": {"Material": "100% cotton", "GSM": "480", "Colours": "7"},
+      "pros": ["High absorption for its weight", "Quick-drying", "Stylish design", "Affordable"],
+      "cons": ["Thinner than premium options"],
+      "asin": "",
+      "search": "H&M Cotton Terry Bath Towel"
+    },
+    {
+      "brand": "Bed Threads",
+      "name": "Linen Terry Bath Towel",
+      "badge": "Best for temperature regulation",
+      "best_for": "Buyers who want a natural-fibre towel that softens over time",
+      "key_spec": "500gsm, 100% French flax linen, 6 colours",
+      "summary": "Made from French flax linen that softens with every use and helps regulate body temperature, keeping you cosy in winter and cool in summer. The brand is also carbon neutral.",
+      "specs": {"Material": "100% French flax linen", "GSM": "500", "Colours": "6"},
+      "pros": ["Softens with every wash", "Regulates temperature well", "Carbon-neutral brand"],
+      "cons": [],
+      "asin": "",
+      "search": "Bed Threads Linen Terry Bath Towel"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What GSM should I look for in a bath towel?",
+      "a": "GSM (grams per square metre) is a rough guide to thickness and absorbency. Around 400-500gsm suits a lighter, quicker-drying towel. 500-700gsm gives a thicker, more absorbent, hotel-style feel, though it also takes longer to dry."
+    },
+    {
+      "q": "Egyptian cotton or regular cotton?",
+      "a": "Egyptian cotton has longer fibres, which generally makes for a softer, more durable towel that holds up better over repeated washes. Regular cotton towels can still perform well, especially at higher GSM, but tend to feel coarser sooner."
+    },
+    {
+      "q": "How do I keep towels soft and absorbent?",
+      "a": "Avoid fabric softener, which coats the fibres and reduces absorbency over time. Wash new towels before first use to remove manufacturing residues, and tumble dry on a low heat or line dry to help maintain fluffiness."
+    },
+    {
+      "q": "How often should I replace bath towels?",
+      "a": "Well-made towels can last several years with good care. Replace them once they feel thin, stop absorbing water well, or develop a persistent musty smell that washing doesn't fix."
+    }
+  ],
+  "sources": [
+    {"name": "Ideal Home: best bath towels", "url": "https://www.idealhome.co.uk/bathroom/best-bath-towels-bathroom-towels-192357"}
+  ]
+}

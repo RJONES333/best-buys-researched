@@ -1,0 +1,135 @@
+{
+  "slug": "kitchen-knives",
+  "title": "Best Kitchen Knives UK",
+  "short": "Knife sets and individual chef's, santoku, paring and bread knives compared by sharpness, comfort and price.",
+  "intro": "A good knife set covers most kitchen tasks, but a few individual specialist knives often outperform what comes in a block. This guide compares both, tested by Expert Reviews, from budget sets to knives with built-in sharpeners.",
+  "reviewed": "2026-09-22",
+  "verified": "2026-09-22",
+  "products": [
+    {
+      "brand": "Elevate Knives",
+      "name": "SlimBlock 5-Piece",
+      "badge": "Best all-in-one",
+      "best_for": "Buyers who want knives and sharpening covered in one purchase",
+      "key_spec": "£100, Japanese stainless steel, integrated ceramic sharpener",
+      "summary": "Weighted handles and Japanese stainless steel blades, with a built-in ceramic sharpener so you never need a separate sharpening tool, though it takes some practice to use and isn't dishwasher safe.",
+      "specs": {"Price guide": "£100", "Material": "Japanese stainless steel", "Extras": "Integrated ceramic sharpener"},
+      "pros": ["Weighted handles", "Ceramic sharpener included", "Japanese stainless steel"],
+      "cons": ["Sharpener has a learning curve", "Not dishwasher safe"],
+      "asin": "",
+      "search": "Elevate Knives SlimBlock 5-Piece"
+    },
+    {
+      "brand": "BergHOFF",
+      "name": "Leo 5-Piece Set",
+      "badge": "Best space-saving",
+      "best_for": "Small kitchens that need a compact, versatile set",
+      "key_spec": "£55, slimline block, reversible insert",
+      "summary": "A slimline block with a reversible pink or grey insert and multi-function tools, backed by a 15-year warranty, though cutting precision trails premium options.",
+      "specs": {"Price guide": "£55", "Warranty": "15 years"},
+      "pros": ["Slimline, space-saving block", "Reversible colour insert", "Multi-function tools included", "15-year warranty"],
+      "cons": ["Less precise cutting than premium options"],
+      "asin": "",
+      "search": "BergHOFF Leo 5-Piece Knife Set"
+    },
+    {
+      "brand": "Lakeland",
+      "name": "Fully Forged Stainless Steel Five-Piece Block",
+      "badge": "Best for durability",
+      "best_for": "Everyday, heavy use over many years",
+      "key_spec": "£110, fully forged construction, dishwasher safe",
+      "summary": "A fully forged, sturdy set that's dishwasher safe for easy everyday care, though the blade variety is more limited than some rivals.",
+      "specs": {"Price guide": "£110", "Construction": "Fully forged", "Dishwasher safe": "Yes"},
+      "pros": ["Fully forged construction", "Dishwasher safe", "Sturdy"],
+      "cons": ["Limited blade variety"],
+      "asin": "",
+      "search": "Lakeland Fully Forged Stainless Steel Five-Piece Block"
+    },
+    {
+      "brand": "Stellar",
+      "name": "Poise 5-Piece Wooden Block",
+      "badge": "Best value",
+      "best_for": "Buyers who want quality at a reasonable price with a lifetime warranty",
+      "key_spec": "£100, lifetime warranty",
+      "summary": "Sharp and precise, with an especially good bread knife, backed by a lifetime warranty, though the 6-inch cook's knife could do with a wider blade.",
+      "specs": {"Price guide": "£100", "Warranty": "Lifetime"},
+      "pros": ["Sharp, precise cutting", "Excellent bread knife", "Lifetime warranty"],
+      "cons": ["6-inch cook's knife could be wider-bladed"],
+      "asin": "",
+      "search": "Stellar Poise 5-Piece Wooden Block Knife Set"
+    },
+    {
+      "brand": "Viners",
+      "name": "Assure Four Piece Knife Set",
+      "badge": "Best budget",
+      "best_for": "Households with young children, or anyone on a tight budget",
+      "key_spec": "£13, flat safety tips",
+      "summary": "Flat, rounded tips reduce the risk of injury, making this a sensible choice for family kitchens, with lightweight, non-slip handles and a 10-year warranty, though the tips struggle with harder vegetables.",
+      "specs": {"Price guide": "£13", "Warranty": "10 years", "Feature": "Flat safety tips"},
+      "pros": ["Flat tips reduce injury risk", "Lightweight", "Non-slip handles", "10-year warranty"],
+      "cons": ["Flat tips look unusual", "Struggles with hard vegetables"],
+      "asin": "",
+      "search": "Viners Assure Four Piece Knife Set"
+    },
+    {
+      "brand": "Ninja",
+      "name": "Foodi StaySharp Knife Block",
+      "badge": "Best built-in sharpening",
+      "best_for": "Buyers who want knives that stay sharp with minimal effort",
+      "key_spec": "£170, forged stainless steel, integrated sharpener",
+      "summary": "A stylish set with an integrated sharpener that keeps blades handling tough vegetables well, though it requires some practice and the blade selection is limited.",
+      "specs": {"Price guide": "£170", "Material": "Forged stainless steel"},
+      "pros": ["Forged stainless steel", "Integrated sharpener", "Handles tough vegetables well"],
+      "cons": ["Sharpener requires practice", "Limited blade selection"],
+      "asin": "",
+      "search": "Ninja Foodi StaySharp Knife Block"
+    },
+    {
+      "brand": "Le Creuset",
+      "name": "Vegetable Knife",
+      "badge": "Best individual paring knife",
+      "best_for": "Precision vegetable and fruit prep",
+      "key_spec": "£56, Damascus steel",
+      "summary": "Expert Reviews calls this the sharpest, most precise paring option tested, made from durable Damascus steel, though it needs hand-washing and shouldn't be handled with wet hands.",
+      "specs": {"Price guide": "£56", "Material": "Damascus steel"},
+      "pros": ["Sharpest, most precise paring knife tested", "Durable Damascus steel"],
+      "cons": ["Hand-wash only", "Not safe to use with wet hands"],
+      "asin": "",
+      "search": "Le Creuset Vegetable Knife"
+    },
+    {
+      "brand": "Victorinox",
+      "name": "Santoku Knife 17cm",
+      "badge": "Best budget individual knife",
+      "best_for": "Buyers who want a Santoku knife without a premium price",
+      "key_spec": "£51, fluted blade",
+      "summary": "A lightweight, affordable Santoku with a fluted blade that helps prevent food sticking, though the rosewood handle needs careful hand-cleaning and isn't dishwasher safe.",
+      "specs": {"Price guide": "£51", "Blade": "Fluted"},
+      "pros": ["Lightweight", "Fluted blade prevents sticking", "Affordable for the category"],
+      "cons": ["Rosewood handle needs careful cleaning", "Not dishwasher safe"],
+      "asin": "",
+      "search": "Victorinox Santoku Knife 17cm"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need a knife set or individual knives?",
+      "a": "A set covers most everyday tasks in one purchase and usually works out cheaper overall. Buying individual knives lets you choose the best option for each specific job, such as a dedicated paring or bread knife, but costs more to build a full collection."
+    },
+    {
+      "q": "Forged or stamped knives?",
+      "a": "Forged knives are made from a single piece of heated, shaped steel and tend to be heavier, more durable and better balanced. Stamped knives are cut from a sheet of steel, making them lighter and usually cheaper, though generally less long-lasting."
+    },
+    {
+      "q": "Are built-in knife sharpeners worth it?",
+      "a": "A block with an integrated sharpener, like the Elevate Knives or Ninja sets here, keeps blades sharp with minimal extra effort or cost, though it takes some practice to use correctly and can add to the price."
+    },
+    {
+      "q": "Can I put my kitchen knives in the dishwasher?",
+      "a": "Check each knife's care instructions individually, as it varies a lot even within a set. Dishwasher detergent and heat can dull blades and damage some handle materials, particularly wood, so many premium knives recommend hand-washing even if others in the same set are dishwasher safe."
+    }
+  ],
+  "sources": [
+    {"name": "Expert Reviews: best kitchen knives and knife sets", "url": "https://www.expertreviews.co.uk/home-garden/kitchen/best-kitchen-knives-best-kitchen-knife-sets"}
+  ]
+}
