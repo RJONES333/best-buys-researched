@@ -49,6 +49,8 @@ GROUPS = {
     "Kids": ["trending-kids-toys"],
     "Garden": ["lawn-mowers", "pressure-washers", "bbqs"],
     "DIY & tools": ["cordless-drills"],
+    "Automotive": ["dash-cams"],
+    "Luggage & travel": ["suitcases"],
 }
 
 
