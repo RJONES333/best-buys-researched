@@ -41,7 +41,7 @@ GROUPS = {
     "Bathroom": ["bath-towels"],
     "Fitness & outdoors": [
         "running-socks", "walking-socks", "winter-gloves", "womens-leggings",
-        "bike-lights",
+        "bike-lights", "yoga-mats", "adjustable-dumbbells",
     ],
     "Clothing": ["mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets"],
