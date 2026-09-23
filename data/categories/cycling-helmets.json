@@ -1,0 +1,135 @@
+{
+  "slug": "cycling-helmets",
+  "title": "Best Road Cycling Helmets UK",
+  "short": "Road bike helmets compared by weight, ventilation and safety features, from budget commuter helmets to premium aero designs.",
+  "intro": "A helmet's price mostly buys weight savings, ventilation and rotational-impact protection like MIPS, not more fundamental safety, since all helmets sold must pass the same safety standards. This guide compares helmets tested on real rides by BikeRadar across price brackets, weighing fit, ventilation, aerodynamics and weight.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Van Rysel",
+      "name": "FCR",
+      "badge": "Best under £100",
+      "best_for": "Buyers who want aero performance without a premium price",
+      "key_spec": "Wind-tunnel-developed aero shape, Fidlock Snap magnetic buckle",
+      "summary": "Delivers top-level performance at a low price, developed using wind tunnel data for a WorldTour team. BikeRadar found it comfortable and high quality with a clever magnetic buckle, with ventilation only slightly behind the very best aero helmets as the main compromise.",
+      "specs": {"Price guide": "£89.99", "Buckle": "Fidlock Snap magnetic"},
+      "pros": ["Aero design developed with wind tunnel data", "Comfortable and well made", "Magnetic Fidlock Snap buckle"],
+      "cons": ["Slightly less airy than the best aero helmets"],
+      "asin": "",
+      "search": "Van Rysel FCR cycling helmet"
+    },
+    {
+      "brand": "ABUS",
+      "name": "Macator",
+      "badge": "Best budget",
+      "best_for": "Buyers who want an excellent fit and colour choice on a tight budget",
+      "key_spec": "276g, ponytail compatible, three sizes, detachable peak",
+      "summary": "A well-priced budget helmet with an excellent fit and an impressive range of sizes and colours, plus an adjustable retention system and ponytail-friendly design not always found this cheap. BikeRadar noted it feels a little bulky above the brow where the foam is more exposed than pricier designs.",
+      "specs": {"Weight": "276g", "Price guide": "£55", "Sizes": "3"},
+      "pros": ["Excellent fit for the price", "Huge range of sizes and colours", "Ponytail compatible", "Adjustable retention system"],
+      "cons": ["Feels a little bulky above the brow"],
+      "asin": "",
+      "search": "ABUS Macator cycling helmet"
+    },
+    {
+      "brand": "Lazer",
+      "name": "Tonic KinetiCore",
+      "badge": "Best for rotational protection on a budget",
+      "best_for": "Buyers who want proprietary rotational impact tech at a low price",
+      "key_spec": "240g, KinetiCore rotational impact protection, sunglasses port",
+      "summary": "Packs an impressive amount of technology into an affordable helmet, with BikeRadar praising the comfortable fit, light 240g build and adjustable retention system across four sizes. Lazer's KinetiCore rotational protection is a standout at this price, though it only scored three stars in Virginia Tech's safety testing.",
+      "specs": {"Weight": "240g", "Price guide": "£59.99", "Safety tech": "KinetiCore rotational impact protection"},
+      "pros": ["Rotational impact protection at a low price", "Fairly light", "Lots of colour and size options", "Sunglasses port and integrated LED mount"],
+      "cons": ["Only three-star Virginia Tech safety rating"],
+      "asin": "",
+      "search": "Lazer Tonic KinetiCore cycling helmet"
+    },
+    {
+      "brand": "ABUS",
+      "name": "PowerDome",
+      "badge": "Best under £200",
+      "best_for": "Buyers who want a light, aerodynamic helmet with MIPS included",
+      "key_spec": "248g, sculpted aero shape, MIPS included",
+      "summary": "An impressive performer for under £150 that includes MIPS rotational protection in a reasonably light, aerodynamically sculpted shape. BikeRadar's tester found the straps prone to twisting, and colour choice is limited to four options.",
+      "specs": {"Weight": "248g", "Price guide": "£130", "Safety tech": "MIPS"},
+      "pros": ["Good balance of low weight and aerodynamics", "Competitive price with MIPS included"],
+      "cons": ["Straps prone to twisting", "Only four colour options"],
+      "asin": "",
+      "search": "ABUS PowerDome cycling helmet"
+    },
+    {
+      "brand": "Specialized",
+      "name": "Propero 4",
+      "badge": "Highly rated under £200",
+      "best_for": "Buyers who want a comfortable, highly-rated all-rounder",
+      "key_spec": "High safety rating, wide colour range, sunglasses storage",
+      "summary": "A very good overall performer that BikeRadar felt could be the only helmet you need below 20°C, highly rated for safety with weight-saving and drag-reducing design. It's comfortable and fits well, though the retention dial sits a little high at the back and it runs warm in higher temperatures.",
+      "specs": {"Price guide": "£165", "Safety tech": "High Virginia Tech safety rating"},
+      "pros": ["Well fitting and very comfortable", "High safety rating", "Wide colour range", "Holds different kinds of sunglasses"],
+      "cons": ["Fit sits high at the back", "Runs warm in higher temperatures"],
+      "asin": "",
+      "search": "Specialized Propero 4 cycling helmet"
+    },
+    {
+      "brand": "Trek",
+      "name": "Velocis MIPS",
+      "badge": "Best under £300",
+      "best_for": "Buyers who want a light, cool helmet without S-Works pricing",
+      "key_spec": "Lightweight construction, MIPS, cheaper than the Specialized S-Works Prevail 3",
+      "summary": "One of the best lightweight road bike helmets on the market according to BikeRadar, keeping heads cool and looking good without weighing riders down. It's noticeably cheaper than its main premium competitor with no discernible performance dip, bar a slightly delicate-feeling adjustment mechanism.",
+      "specs": {"Price guide": "£230", "Safety tech": "MIPS"},
+      "pros": ["Light and cool to wear", "Stylish looks", "Cheaper than its closest premium rival"],
+      "cons": ["Adjustment mechanism feels a little delicate"],
+      "asin": "",
+      "search": "Trek Velocis MIPS cycling helmet"
+    },
+    {
+      "brand": "Kask",
+      "name": "Protone Icon",
+      "badge": "Best for all-season comfort",
+      "best_for": "Buyers who want a stylish, well-ventilated all-rounder",
+      "key_spec": "Updated aerodynamic design, strong ventilation, lightweight",
+      "summary": "An updated version of Kask's acclaimed Protone, bringing modern safety credentials while keeping the original's comfort and looks. BikeRadar found the vents allow plenty of airflow in a relaxed riding position, though the retention system isn't the most sophisticated available.",
+      "specs": {"Price guide": "£245"},
+      "pros": ["Comfortable", "Well ventilated", "Lightweight", "Stylish, versatile design suited to all seasons"],
+      "cons": ["Retention system is fairly basic"],
+      "asin": "",
+      "search": "Kask Protone Icon cycling helmet"
+    },
+    {
+      "brand": "Specialized",
+      "name": "S-Works Evade 3",
+      "badge": "Best aero all-rounder",
+      "best_for": "Buyers who want genuine aero performance without looking like a time-trial helmet",
+      "key_spec": "Front vents double as sunglasses storage, high safety rating",
+      "summary": "Still an excellent aero helmet even after the launch of its successor, with great ventilation for an aero design including front vents that double as sunglasses storage. BikeRadar called it a brilliant all-rounder that scores highly for safety and looks reasonably conventional, though it carries a high price.",
+      "specs": {"Price guide": "£275"},
+      "pros": ["Brilliant aero all-rounder", "Great ventilation for an aero helmet", "Fairly conventional looks", "High safety score"],
+      "cons": ["High price"],
+      "asin": "",
+      "search": "Specialized S-Works Evade 3 cycling helmet"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need MIPS or a similar rotational-impact system?",
+      "a": "MIPS (and alternatives like Lazer's KinetiCore or HJC's SLID) is designed to reduce rotational forces on the brain during an angled impact, which is common in real-world falls. It's increasingly available even on budget helmets, like the Lazer Tonic here, so it's worth prioritising where the price difference is small."
+    },
+    {
+      "q": "How much does an aero helmet actually help?",
+      "a": "Aero helmets, like the Van Rysel FCR or Specialized S-Works Evade 3 here, reduce drag and can genuinely save time over longer rides at speed, which matters most for racing or fast group rides. For commuting or casual riding, the ventilation and comfort of a standard road helmet usually matters more than aerodynamics."
+    },
+    {
+      "q": "How important is helmet weight?",
+      "a": "A lighter helmet is more comfortable over long rides and less fatiguing on the neck, but the weight difference between budget and premium helmets is often only 30-50g. It's a genuine but secondary factor compared to fit, ventilation and safety features."
+    },
+    {
+      "q": "How do I get the right fit?",
+      "a": "A good helmet should sit level on your head, roughly two finger-widths above your eyebrows, with the retention system snug but not tight. Since fit is highly personal and BikeRadar notes helmets can run 'round' or 'long', trying a helmet on, or checking a brand's typical fit, matters more than any spec on paper."
+    }
+  ],
+  "sources": [
+    {"name": "BikeRadar: best road bike helmets", "url": "https://www.bikeradar.com/advice/buyers-guides/best-road-bike-helmets"}
+  ]
+}
