@@ -43,7 +43,7 @@ GROUPS = {
         "running-socks", "walking-socks", "winter-gloves", "womens-leggings",
         "bike-lights",
     ],
-    "Clothing": ["mens-down-jackets", "womens-puffer-jackets", "mens-belts"],
+    "Clothing": ["mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets"],
     "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners"],
     "Kids": ["trending-kids-toys"],

@@ -1,8 +1,8 @@
 {
   "slug": "womens-leggings",
   "title": "Best Women's Leggings UK",
-  "short": "Running and gym leggings compared by fit, fabric, pockets and price, from budget to premium.",
-  "intro": "Good leggings should stay put, not go see-through when you squat, and suit whatever training you do. This guide compares leggings tested by Women's Running, from budget high-street picks to premium technical pairs, across running, the gym and specific features like pockets and period protection.",
+  "short": "Running, gym, maternity and everyday leggings compared by fit, fabric, pockets and price, from budget to premium.",
+  "intro": "Good leggings should stay put, not go see-through when you squat, and suit whatever you're doing in them. This guide compares leggings tested by Women's Running and Marie Claire UK, spanning running, the gym, maternity wear and everyday styling, from budget high-street picks to premium technical pairs.",
   "reviewed": "2026-09-22",
   "verified": "2026-09-23",
   "products": [
@@ -205,6 +205,52 @@
       ],
       "asin": "",
       "search": "Lululemon Fast and Free High-Rise 25 inch leggings"
+    },
+    {
+      "brand": "Seraphine",
+      "name": "Ultimate Seamless Over Bump Maternity Leggings",
+      "badge": "Best maternity",
+      "best_for": "Pregnancy, from early bump through to full term and lounging",
+      "key_spec": "Seamless over-bump design, from £35",
+      "summary": "Marie Claire UK's shopping editor tested these throughout her pregnancy and found them incredibly stretchy and soft, working just as well over an 8-month bump as in early pregnancy. The seamless design suits both workouts like Pilates and everyday lounging, though it's not the best choice for high-impact training.",
+      "specs": {
+        "Design": "Seamless, over-bump panel",
+        "Price guide": "From about £35"
+      },
+      "pros": [
+        "Incredibly stretchy and comfortable",
+        "Stretches from early bump to full term",
+        "Versatile for workouts and everyday lounging",
+        "Affordable for a maternity-specific style"
+      ],
+      "cons": [
+        "Not the best for high-impact workouts"
+      ],
+      "asin": "",
+      "search": "Seraphine Ultimate Seamless Over Bump Maternity Leggings"
+    },
+    {
+      "brand": "CRZ YOGA",
+      "name": "Butterluxe Maternity Leggings",
+      "badge": "Best affordable maternity",
+      "best_for": "Pregnant buyers who want soft, budget-friendly leggings for yoga and Pilates",
+      "key_spec": "Buttery-soft fabric, available in 25in and 28in lengths, from £31",
+      "summary": "Highly rated on Amazon and tested by Marie Claire UK through pregnancy, these didn't dig into the bump or roll down during Pilates, yoga and stretching sessions. They come in multiple colours and two leg lengths for petite frames, though lighter colours can show sweat marks.",
+      "specs": {
+        "Price guide": "From about £31",
+        "Lengths": "25in and 28in"
+      },
+      "pros": [
+        "Affordable for maternity-specific leggings",
+        "Buttery-soft fabric",
+        "Doesn't dig into the bump or roll down",
+        "Available in two leg lengths and multiple colours"
+      ],
+      "cons": [
+        "Sweat marks can show on lighter colours"
+      ],
+      "asin": "",
+      "search": "CRZ YOGA Butterluxe Maternity Leggings"
     }
   ],
   "guide": [
@@ -223,12 +269,20 @@
     {
       "q": "Are expensive leggings worth it?",
       "a": "Premium leggings often last much longer, as the Sweaty Betty Zero Gravity example shows after 8 years of wear, which can make the cost per wear lower over time. Budget options like the M&S Goodmove range can still perform well for occasional use."
+    },
+    {
+      "q": "What should I look for in maternity leggings?",
+      "a": "A good maternity legging needs enough stretch to grow with you from early pregnancy to full term without digging in, plus a supportive over-bump or under-bump panel. Seamless styles, like the Seraphine Ultimate here, tend to be the most versatile, working for both light workouts and everyday lounging or postpartum wear."
     }
   ],
   "sources": [
     {
       "name": "Women's Running: best women's running leggings & capris",
       "url": "https://www.womensrunning.co.uk/gear/the-best-womens-running-leggings/"
+    },
+    {
+      "name": "Marie Claire UK: best maternity workout clothes",
+      "url": "https://www.marieclaire.co.uk/life/health-fitness/best-maternity-workout-clothes"
     }
   ]
 }
