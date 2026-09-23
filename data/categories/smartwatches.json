@@ -1,0 +1,135 @@
+{
+  "slug": "smartwatches",
+  "title": "Best Smartwatches and Fitness Watches UK",
+  "short": "Fitness and sports watches compared by GPS accuracy, heart rate tracking and battery life, from budget training watches to premium adventure watches.",
+  "intro": "The right fitness watch depends heavily on what you train for: runners want accurate GPS and pace metrics, while heart rate accuracy or battery life matter more for others. This guide compares watches tested by Men's Fitness, whose team of tech journalists tested 10 watches for running, training and health tracking.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Garmin",
+      "name": "Forerunner 970",
+      "badge": "Best overall",
+      "best_for": "Serious runners who want Garmin's full training and recovery insights",
+      "key_spec": "AMOLED touchscreen, up to 26hrs GPS / 15 days battery",
+      "summary": "Men's Fitness's overall pick, with a crisp AMOLED touchscreen and new running metrics on top of Garmin's market-leading training and recovery insights. Battery life drops slightly from the previous Forerunner 965, and the new running metrics need an additional accessory.",
+      "specs": {"Display": "AMOLED, 454x454px", "Weight": "56g", "Battery life": "Up to 26hrs GPS / 15 days without", "Waterproof": "5ATM"},
+      "pros": ["Great tracking performance for runs and more", "Useful built-in LED flashlight", "Valuable new metrics for runners"],
+      "cons": ["New running metrics require an additional accessory", "Shorter battery life than the previous Forerunner 965"],
+      "asin": "",
+      "search": "Garmin Forerunner 970 watch"
+    },
+    {
+      "brand": "COROS",
+      "name": "Pace 4",
+      "badge": "Best budget",
+      "best_for": "Beginners who want serious training tools at a low price",
+      "key_spec": "AMOLED, up to 41hrs GPS / 19 days battery",
+      "summary": "Men's Fitness calls this brilliant all-round value, with advanced tools like Race Predictor, Virtual Pacer and blood oxygen monitoring rarely found this cheap, plus reliable multi-band GPS and great battery life. The design feels a bit plastic and basic, and heart rate measurements were patchy in testing.",
+      "specs": {"Display": "AMOLED, 390x390px", "Weight": "40g (silicon band)", "Battery life": "Up to 41hrs GPS / 19 days without", "Waterproof": "5ATM"},
+      "pros": ["Brilliant all-round value", "Reliable multi-band GPS", "Great battery life for the price"],
+      "cons": ["Design feels plastic and basic", "Patchy heart rate measurements"],
+      "asin": "",
+      "search": "COROS Pace 4 watch"
+    },
+    {
+      "brand": "Polar",
+      "name": "Vantage V3",
+      "badge": "Best for heart rate accuracy",
+      "best_for": "Buyers who prioritise reliable heart rate data above all else",
+      "key_spec": "AMOLED, multiband GPS, Gen 4 heart rate sensor",
+      "summary": "Men's Fitness found this delivered one of the most reliably accurate heart rate measurements of any watch tested, with a bright AMOLED display and free Strava and Komoot subscriptions included. Phone pairing and syncing was buggy in testing, and there's no Spotify or Deezer playback.",
+      "specs": {"Display": "AMOLED, 454x454px", "Weight": "57g", "Battery life": "Up to 43hrs GPS / 10 days without", "Waterproof": "WR50"},
+      "pros": ["Excellent, bright AMOLED display", "Reliable multiband GPS", "Free Komoot and Strava subscriptions included"],
+      "cons": ["Phone pairing and syncing can be buggy", "No Spotify or Deezer playback"],
+      "asin": "",
+      "search": "Polar Vantage V3 watch"
+    },
+    {
+      "brand": "Suunto",
+      "name": "Race 2",
+      "badge": "Best Suunto watch",
+      "best_for": "Buyers who want strong GPS battery life across many sports",
+      "key_spec": "1.5in LTPO AMOLED, up to 65hrs GPS / 18 days battery",
+      "summary": "Men's Fitness's top Suunto pick, with over 100 sport modes, dual-frequency GPS, offline maps and routing, plus a bigger, brighter display than the original Race. Training insights can feel complicated, and there's no offline music support.",
+      "specs": {"Display": "1.5in LTPO AMOLED, 466x466px", "Weight": "76g", "Battery life": "Up to 65hrs GPS / 18 days without", "Waterproof": "100m"},
+      "pros": ["Excellent max-accuracy GPS battery life", "Bigger, brighter display than its predecessor", "Dual-frequency GPS with offline maps and routing"],
+      "cons": ["Lacks broader smartwatch features", "No offline music", "Training insights can feel complicated"],
+      "asin": "",
+      "search": "Suunto Race 2 watch"
+    },
+    {
+      "brand": "Huawei",
+      "name": "Watch Fit 4 Pro",
+      "badge": "Best Apple Watch alternative",
+      "best_for": "Buyers who like the Apple Watch style without the price",
+      "key_spec": "AMOLED, 40m dive-grade water resistance, up to 10 days battery",
+      "summary": "A robustly built alternative for buyers who want a fitness-focused smartwatch without Apple pricing, with a titanium bezel, sapphire glass and over 15,000 golf courses mapped, plus real-time dive tracking. Men's Fitness found GPS and heart-rate accuracy can waver, and it's less customisable than some smartwatches.",
+      "specs": {"Display": "AMOLED, 408x480px", "Weight": "30.4g", "Battery life": "Up to 10 days", "Waterproof": "5ATM, 40m dive-grade"},
+      "pros": ["Robust titanium and sapphire glass construction", "Reliable offline navigation", "Strong golf and diving-specific features"],
+      "cons": ["GPS and heart-rate accuracy can waver", "Less customisable than some rivals"],
+      "asin": "",
+      "search": "Huawei Watch Fit 4 Pro"
+    },
+    {
+      "brand": "OnePlus",
+      "name": "Watch 3",
+      "badge": "Best for GPS battery life",
+      "best_for": "Buyers who don't want to charge their watch every couple of days",
+      "key_spec": "AMOLED, up to 120hrs GPS / 7 days battery",
+      "summary": "Men's Fitness highlights market-leading battery life at up to five days in GPS mode, built with a stainless steel case, sapphire crystal display and titanium alloy bezel, at a price under £320. It has a big face that may not suit smaller wrists and is a little weighty.",
+      "specs": {"Display": "AMOLED, 466x466px", "Weight": "81g", "Battery life": "Up to 120hrs GPS / 7 days without", "Waterproof": "5ATM"},
+      "pros": ["Market-leading GPS battery life", "Premium stainless steel and sapphire crystal build", "Strong value for the feature set"],
+      "cons": ["Large face may not suit smaller wrists", "A little heavy on the wrist"],
+      "asin": "",
+      "search": "OnePlus Watch 3"
+    },
+    {
+      "brand": "Apple",
+      "name": "Watch Ultra 3",
+      "badge": "Best fitness smartwatch",
+      "best_for": "Buyers who want the best all-round smartwatch experience with fitness credentials",
+      "key_spec": "Retina LTPO OLED, 3000 nits peak, up to 72hrs GPS battery",
+      "summary": "Men's Fitness's pick for buyers who want smartwatch features alongside fitness tracking, with a wider screen than the Ultra 2, satellite connectivity for off-grid situations, and improved battery life and charging speed. Fitness tracking itself isn't hugely different from the Ultra 2, and it still won't last a full week without charging.",
+      "specs": {"Display": "Retina LTPO OLED, 422x514px, 3000 nits", "Weight": "61.6g", "Battery life": "Up to 72hrs GPS", "Waterproof": "WR100"},
+      "pros": ["Wider, brighter screen for outdoor visibility", "Improved battery life and faster charging", "Satellite connectivity for off-grid use"],
+      "cons": ["Fitness tracking not hugely different from the Ultra 2", "Still needs charging within a week"],
+      "asin": "",
+      "search": "Apple Watch Ultra 3"
+    },
+    {
+      "brand": "Polar",
+      "name": "Grit X2 Pro",
+      "badge": "Best for adventure",
+      "best_for": "Buyers who want a rugged watch for off-grid exploring",
+      "key_spec": "AMOLED, dual-frequency GPS, offline maps, up to 30hrs GPS battery",
+      "summary": "Men's Fitness's top adventure pick, built to handle training, racing and off-grid exploring with a punchy AMOLED display, accuracy-enhancing dual-frequency GPS and offline maps with Strava route sync. App connectivity was flaky in testing, and it's lighter on general smartwatch features.",
+      "specs": {"Display": "AMOLED, 466x466px", "Weight": "83g", "Battery life": "Up to 30hrs GPS / 7 days without", "Waterproof": "WR50"},
+      "pros": ["Stunning, bright display", "Comprehensive offline navigation tools", "Long battery life for an adventure watch"],
+      "cons": ["App connectivity can be flaky", "Fewer smartwatch features than rivals"],
+      "asin": "",
+      "search": "Polar Grit X2 Pro watch"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need a dedicated fitness watch or would a regular smartwatch do?",
+      "a": "A dedicated fitness watch, like the Garmin or COROS models here, typically offers more accurate GPS, longer battery life and deeper training and recovery insights. A general smartwatch like the Apple Watch Ultra 3 covers fitness well too, but usually needs more frequent charging and leans more toward everyday smartwatch features."
+    },
+    {
+      "q": "How much does wrist-based heart rate accuracy vary?",
+      "a": "It varies more than most buyers expect, and no wrist sensor is as accurate as a chest strap. If heart rate accuracy is a priority, a watch specifically praised for it, like the Polar Vantage V3 here, is worth prioritising over one with only average results."
+    },
+    {
+      "q": "What battery life should I expect in GPS mode versus everyday use?",
+      "a": "GPS tracking drains battery much faster than everyday smartwatch use, so a watch's advertised multi-day battery life usually assumes GPS is off. If you do long GPS-tracked activities regularly, check the specific GPS battery life figure, which can range from under a day to several days depending on the watch."
+    },
+    {
+      "q": "Is multiband or dual-frequency GPS worth having?",
+      "a": "Multiband or dual-frequency GPS, found on watches like the Polar Vantage V3 and Suunto Race 2 here, improves accuracy in tricky conditions like dense cities or under tree cover, at some cost to battery life. It's most valuable for runners who train in built-up areas or woodland trails."
+    }
+  ],
+  "sources": [
+    {"name": "Men's Fitness: the best fitness watches", "url": "https://mensfitness.co.uk/review/best-fitness-watches/"}
+  ]
+}

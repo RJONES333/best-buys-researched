@@ -35,7 +35,7 @@ GROUPS = {
         "over-ear-headphones", "gaming-headsets", "iphone-charging-cables",
         "gaming-mice", "tvs", "laptops", "power-banks", "bluetooth-speakers",
         "pc-monitors", "mechanical-keyboards", "webcams", "monitor-arms",
-        "external-ssds",
+        "external-ssds", "wifi-routers", "smartwatches",
     ],
     "Sleep & comfort": ["mattress-toppers", "pillows", "duvets"],
     "Bathroom": ["bath-towels"],
