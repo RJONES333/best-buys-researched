@@ -4,7 +4,7 @@
   "short": "The toys and franchises UK kids are asking for this year, from Lego and Pokemon to plush and STEM building sets.",
   "intro": "Every year a handful of toys and franchises dominate kids' wish lists, and this year is no exception. This guide rounds up what Which? and John Lewis identify as the trending toys for 2026, spanning ages, budgets and interests, along with the safety marks worth checking before you buy.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "Lego",
@@ -13,8 +13,16 @@
       "best_for": "Star Wars fans who want interactive building play",
       "key_spec": "£59.99, Smart Brick with lights and sounds",
       "summary": "Part of Lego's new Smart Play range, this training-scene set includes Luke and Yoda minifigures and uses motion-activated Smart Bricks for sounds and lights as you play.",
-      "specs": {"Price guide": "£59.99", "Includes": "Luke and Yoda minifigures", "Features": "Smart Brick lights and sounds"},
-      "pros": ["Interactive Smart Brick technology", "Recognisable Star Wars scene", "Includes two minifigures"],
+      "specs": {
+        "Price guide": "£59.99",
+        "Includes": "Luke and Yoda minifigures",
+        "Features": "Smart Brick lights and sounds"
+      },
+      "pros": [
+        "Interactive Smart Brick technology",
+        "Recognisable Star Wars scene",
+        "Includes two minifigures"
+      ],
       "cons": [],
       "asin": "",
       "search": "Lego Star Wars Smart Play Yoda's Hut 75422"
@@ -26,8 +34,14 @@
       "best_for": "Kids new to the Pokemon Trading Card Game",
       "key_spec": "Starter set with three 60-card decks",
       "summary": "Which? flags Pokemon's resurgence as it marks its 30th anniversary. This starter set includes three ready-to-play decks, a board and tutorials, making it a solid entry point for beginners.",
-      "specs": {"Includes": "Three 60-card decks, board, tutorials, accessories"},
-      "pros": ["Complete starter set", "Built-in tutorials for beginners", "Multiple decks included"],
+      "specs": {
+        "Includes": "Three 60-card decks, board, tutorials, accessories"
+      },
+      "pros": [
+        "Complete starter set",
+        "Built-in tutorials for beginners",
+        "Multiple decks included"
+      ],
       "cons": [],
       "asin": "",
       "search": "Pokemon Trading Card Game Battle Academy"
@@ -39,8 +53,15 @@
       "best_for": "Kids who already have magnetic tiles and want to expand their set",
       "key_spec": "46 pieces, includes launcher and 2 wooden balls",
       "summary": "A magnetic tile expansion pack with a ball launcher, tubes, connectors and an inspiration book, letting kids build and experiment with custom tracks for speed, height and direction.",
-      "specs": {"Pieces": "46", "Includes": "Launcher, tubes, connectors, tiles, 2 wooden balls, inspiration book"},
-      "pros": ["Customisable tracks", "Encourages experimentation with speed and direction", "Compatible with existing magnetic tile sets"],
+      "specs": {
+        "Pieces": "46",
+        "Includes": "Launcher, tubes, connectors, tiles, 2 wooden balls, inspiration book"
+      },
+      "pros": [
+        "Customisable tracks",
+        "Encourages experimentation with speed and direction",
+        "Compatible with existing magnetic tile sets"
+      ],
       "cons": [],
       "asin": "",
       "search": "Connetix Ball Run Launcher Pack"
@@ -52,8 +73,15 @@
       "best_for": "Kids who enjoy construction and space themes",
       "key_spec": "1,000 pieces, baseplates and wheels included",
       "summary": "Which? notes UK parents are increasingly looking for skill-building toys. This large space-themed construction set includes baseplates, wheels and hubs for both 2D and 3D builds, including rockets and astronauts.",
-      "specs": {"Pieces": "1,000", "Theme": "Space"},
-      "pros": ["Large piece count for extended play", "Supports both 2D and 3D building", "STEM-focused"],
+      "specs": {
+        "Pieces": "1,000",
+        "Theme": "Space"
+      },
+      "pros": [
+        "Large piece count for extended play",
+        "Supports both 2D and 3D building",
+        "STEM-focused"
+      ],
       "cons": [],
       "asin": "",
       "search": "Plus-Plus Learn To Build Space Superset"
@@ -65,8 +93,13 @@
       "best_for": "Younger children and soft toy collectors",
       "key_spec": "28cm classic teddy bear",
       "summary": "A classic Jellycat teddy bear in their popular plush range, which Which? highlights as an ongoing trend across age groups.",
-      "specs": {"Size": "28cm"},
-      "pros": ["Classic, well-loved design", "Popular collectible brand"],
+      "specs": {
+        "Size": "28cm"
+      },
+      "pros": [
+        "Classic, well-loved design",
+        "Popular collectible brand"
+      ],
       "cons": [],
       "asin": "",
       "search": "Jellycat Bartholomew Bear 28cm"
@@ -78,8 +111,13 @@
       "best_for": "A hands-on introduction to magic tricks",
       "key_spec": "Wooden set with wand, cards and props",
       "summary": "A traditional wooden magic set including a wand, cards and magic props, offering screen-free, hands-on play.",
-      "specs": {"Includes": "Wand, cards, magic props"},
-      "pros": ["Hands-on, screen-free play", "Traditional wooden construction"],
+      "specs": {
+        "Includes": "Wand, cards, magic props"
+      },
+      "pros": [
+        "Hands-on, screen-free play",
+        "Traditional wooden construction"
+      ],
       "cons": [],
       "asin": "",
       "search": "Marvin's Magic Treasured Tricks Wooden Set"
@@ -91,8 +129,15 @@
       "best_for": "Toddlers aged two to five",
       "key_spec": "£117, age 2-5, Gruffalo detailing",
       "summary": "A foldable, LED-equipped scooter for toddlers with Gruffalo book character detailing and grip tape inspired by the story, encouraging active outdoor play.",
-      "specs": {"Price guide": "£117", "Age range": "2-5 years"},
-      "pros": ["Foldable for storage and travel", "LED lights", "Licensed Gruffalo design"],
+      "specs": {
+        "Price guide": "£117",
+        "Age range": "2-5 years"
+      },
+      "pros": [
+        "Foldable for storage and travel",
+        "LED lights",
+        "Licensed Gruffalo design"
+      ],
       "cons": [],
       "asin": "",
       "search": "Micro Scooters Mini Micro Eco Gruffalo Foldable LED Scooter"
@@ -104,9 +149,18 @@
       "best_for": "Detailed imaginative play and Paddington fans",
       "key_spec": "£300, four-storey wooden house",
       "summary": "A detailed, four-storey wooden doll's house inspired by the Paddington films, with opening doors and windows, a removable roof, and illustrated stonework.",
-      "specs": {"Price guide": "£300", "Storeys": "4"},
-      "pros": ["Highly detailed design", "Opening doors, windows and roof", "Licensed Paddington theme"],
-      "cons": ["Premium price"],
+      "specs": {
+        "Price guide": "£300",
+        "Storeys": "4"
+      },
+      "pros": [
+        "Highly detailed design",
+        "Opening doors, windows and roof",
+        "Licensed Paddington theme"
+      ],
+      "cons": [
+        "Premium price"
+      ],
       "asin": "",
       "search": "Le Toy Van Paddington Doll's House"
     },
@@ -117,8 +171,13 @@
       "best_for": "Active outdoor play",
       "key_spec": "2-in-1 foam dart and water blaster",
       "summary": "A dual-function blaster that switches between foam darts and water, with an adjustable strap, part of the current wave of Spider-Man themed toys.",
-      "specs": {"Function": "Foam dart and water blaster, 2-in-1"},
-      "pros": ["Two play modes in one toy", "Adjustable strap for comfort"],
+      "specs": {
+        "Function": "Foam dart and water blaster, 2-in-1"
+      },
+      "pros": [
+        "Two play modes in one toy",
+        "Adjustable strap for comfort"
+      ],
       "cons": [],
       "asin": "",
       "search": "Nerf Marvel Spider-Man Strike N Splash Blaster"
@@ -131,7 +190,10 @@
       "key_spec": "Figurine set for younger children",
       "summary": "A toddler-friendly Mario figure set from Fisher-Price's Little People range, letting younger fans join in the Mario trend before they're ready for a Nintendo Switch.",
       "specs": {},
-      "pros": ["Designed specifically for toddlers", "Introduces a popular character early"],
+      "pros": [
+        "Designed specifically for toddlers",
+        "Introduces a popular character early"
+      ],
       "cons": [],
       "asin": "",
       "search": "Fisher-Price Little People My Mario Character Figure Set"
@@ -156,7 +218,13 @@
     }
   ],
   "sources": [
-    {"name": "Which?: trending toys for 2026", "url": "https://www.which.co.uk/news/article/toy-trends-for-2026-allFx4G2N0mT"},
-    {"name": "Toy Retailers Association: approval marks explained", "url": "https://www.toyretailersassociation.co.uk/approval-marks/"}
+    {
+      "name": "Which?: trending toys for 2026",
+      "url": "https://www.which.co.uk/news/article/toy-trends-for-2026-allFx4G2N0mT"
+    },
+    {
+      "name": "Toy Retailers Association: approval marks explained",
+      "url": "https://www.toyretailersassociation.co.uk/approval-marks/"
+    }
   ]
 }

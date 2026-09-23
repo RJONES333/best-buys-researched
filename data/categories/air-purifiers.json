@@ -4,7 +4,7 @@
   "short": "HEPA air purifiers compared by CADR, room size, noise and who they suit, including allergy and baby-safe picks.",
   "intro": "An air purifier can help with dust, pet dander, pollen and general indoor air quality, but the right size and features depend on the room. This guide compares purifiers from Expert Reviews' testing, from compact bedroom units to models built for large living rooms.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "Dyson",
@@ -13,9 +13,21 @@
       "best_for": "Buyers who want the strongest all-round performer regardless of price",
       "key_spec": "100m2 room size, HEPA and carbon filters",
       "summary": "Expert Reviews' top pick overall. Its HEPA and carbon filter combination removes a wide range of pollutants including formaldehyde, and it doubles as a cooling fan.",
-      "specs": {"Filter type": "HEPA and carbon", "Max room size": "100m2", "Noise": "32-53 dBA", "Weight": "11.9kg"},
-      "pros": ["Easy to use", "Quiet operation", "Fan provides summer cooling"],
-      "cons": ["Very large", "Very expensive (about £900)"],
+      "specs": {
+        "Filter type": "HEPA and carbon",
+        "Max room size": "100m2",
+        "Noise": "32-53 dBA",
+        "Weight": "11.9kg"
+      },
+      "pros": [
+        "Easy to use",
+        "Quiet operation",
+        "Fan provides summer cooling"
+      ],
+      "cons": [
+        "Very large",
+        "Very expensive (about £900)"
+      ],
       "asin": "",
       "search": "Dyson Big+Quiet Formaldehyde air purifier"
     },
@@ -26,8 +38,17 @@
       "best_for": "Large living rooms and open-plan spaces",
       "key_spec": "110m2 room size, CADR 330m3/h",
       "summary": "A powerful purifier with an Allergy UK-approved three-filter system and a comprehensive app, well suited to large rooms.",
-      "specs": {"CADR": "330m3/h", "Filter type": "Three-filter system, Allergy UK approved", "Max room size": "110m2", "Noise": "31 dBA (sleep mode)"},
-      "pros": ["Powerful purification", "Good automatic mode", "Comprehensive app"],
+      "specs": {
+        "CADR": "330m3/h",
+        "Filter type": "Three-filter system, Allergy UK approved",
+        "Max room size": "110m2",
+        "Noise": "31 dBA (sleep mode)"
+      },
+      "pros": [
+        "Powerful purification",
+        "Good automatic mode",
+        "Comprehensive app"
+      ],
       "cons": [],
       "asin": "",
       "search": "Hoover H-Purifier 500"
@@ -39,9 +60,22 @@
       "best_for": "Stylish living spaces that need fast air cleaning",
       "key_spec": "314m2 rated coverage, CADR 295m3/h",
       "summary": "An attractive, easy-to-use purifier that cleared a room in under two minutes in testing, though it gets loud on its highest setting and the fabric filter attracts pet hair.",
-      "specs": {"CADR": "295m3/h", "Max room size": "314m2", "Noise": "33-63 dBA", "Weight": "6kg"},
-      "pros": ["Attractive design", "Easy to use", "Rapid cleaning (1min 33sec in testing)"],
-      "cons": ["Expensive", "Loud at highest setting", "Fabric filter attracts pet hair"],
+      "specs": {
+        "CADR": "295m3/h",
+        "Max room size": "314m2",
+        "Noise": "33-63 dBA",
+        "Weight": "6kg"
+      },
+      "pros": [
+        "Attractive design",
+        "Easy to use",
+        "Rapid cleaning (1min 33sec in testing)"
+      ],
+      "cons": [
+        "Expensive",
+        "Loud at highest setting",
+        "Fabric filter attracts pet hair"
+      ],
       "asin": "",
       "search": "Blueair Blue Signature air purifier"
     },
@@ -52,9 +86,22 @@
       "best_for": "Buyers who want smart controls and a responsive auto mode",
       "key_spec": "48m2 room size, WiFi, 5 power settings",
       "summary": "A powerful, quiet purifier with WiFi, a night mode and a responsive auto mode, though replacing the filter is fiddly and Alexa commands can be awkward.",
-      "specs": {"CADR": "239m3/h", "Max room size": "48m2", "Noise": "27.6-49 dBA", "Extras": "WiFi and smart features"},
-      "pros": ["Powerful filtering", "Quiet", "WiFi and smart features", "Responsive auto mode"],
-      "cons": ["Filter replacement is fiddly", "Awkward Alexa commands"],
+      "specs": {
+        "CADR": "239m3/h",
+        "Max room size": "48m2",
+        "Noise": "27.6-49 dBA",
+        "Extras": "WiFi and smart features"
+      },
+      "pros": [
+        "Powerful filtering",
+        "Quiet",
+        "WiFi and smart features",
+        "Responsive auto mode"
+      ],
+      "cons": [
+        "Filter replacement is fiddly",
+        "Awkward Alexa commands"
+      ],
       "asin": "",
       "search": "Blueair Blue Max 3250i"
     },
@@ -65,9 +112,20 @@
       "best_for": "Bedrooms and smaller rooms",
       "key_spec": "38m2 room size, quiet and compact",
       "summary": "A quiet, compact and cost-effective purifier well suited to a bedroom, though it is not as fast as some larger rivals.",
-      "specs": {"CADR": "191m3/h", "Max room size": "38m2", "Noise": "47 dBA maximum", "Weight": "1.9kg"},
-      "pros": ["Quiet", "Compact", "Cost-effective"],
-      "cons": ["Not as fast as some rivals"],
+      "specs": {
+        "CADR": "191m3/h",
+        "Max room size": "38m2",
+        "Noise": "47 dBA maximum",
+        "Weight": "1.9kg"
+      },
+      "pros": [
+        "Quiet",
+        "Compact",
+        "Cost-effective"
+      ],
+      "cons": [
+        "Not as fast as some rivals"
+      ],
       "asin": "",
       "search": "Blueair Blue Pure 511"
     },
@@ -78,9 +136,20 @@
       "best_for": "Buyers who want a simple, no-fuss purifier",
       "key_spec": "65m2 room size, compact",
       "summary": "An incredibly easy to set up and compact purifier at a competitive price, though it lacks WiFi, Bluetooth or an app.",
-      "specs": {"CADR": "250m3/h", "Max room size": "65m2", "Power settings": "Four", "Weight": "3.6kg"},
-      "pros": ["Incredibly easy setup", "Compact", "Competitively priced"],
-      "cons": ["No WiFi, Bluetooth or app"],
+      "specs": {
+        "CADR": "250m3/h",
+        "Max room size": "65m2",
+        "Power settings": "Four",
+        "Weight": "3.6kg"
+      },
+      "pros": [
+        "Incredibly easy setup",
+        "Compact",
+        "Competitively priced"
+      ],
+      "cons": [
+        "No WiFi, Bluetooth or app"
+      ],
       "asin": "",
       "search": "Philips PureProtect Mini 900 Series AC0290"
     },
@@ -91,9 +160,21 @@
       "best_for": "Buyers who want to avoid frequently buying replacement filters",
       "key_spec": "60m2 room size, long-life filter",
       "summary": "Strong cleaning performance and long filter life relative to its price, though it is noisier than comparable models and has no carry handle.",
-      "specs": {"CADR": "147.8m3/h", "Max room size": "60m2", "Power settings": "Four", "Weight": "3.32kg"},
-      "pros": ["Strong performance (2min 34sec in testing)", "Great filter value", "Clear display"],
-      "cons": ["Noisier than comparable models", "No carry handle"],
+      "specs": {
+        "CADR": "147.8m3/h",
+        "Max room size": "60m2",
+        "Power settings": "Four",
+        "Weight": "3.32kg"
+      },
+      "pros": [
+        "Strong performance (2min 34sec in testing)",
+        "Great filter value",
+        "Clear display"
+      ],
+      "cons": [
+        "Noisier than comparable models",
+        "No carry handle"
+      ],
       "asin": "",
       "search": "Shark NeverChange 5 air purifier"
     },
@@ -104,9 +185,21 @@
       "best_for": "Nurseries and rooms with a baby or young child",
       "key_spec": "30m2 room size, night light and sounds",
       "summary": "A quiet, compact purifier designed with nurseries in mind, including a night light, soothing sounds and monitoring of CO2, temperature and humidity.",
-      "specs": {"CADR": "144.5-185.2m3/h (varies by particle type)", "Max room size": "30m2", "Noise": "38 dBA (middle settings)", "Extras": "Night light, soothing sounds, air quality monitor"},
-      "pros": ["Quiet and compact", "Night light and soothing sounds", "Monitors CO2, temperature and humidity"],
-      "cons": ["Display can be hard to read", "Air quality monitor can be sluggish"],
+      "specs": {
+        "CADR": "144.5-185.2m3/h (varies by particle type)",
+        "Max room size": "30m2",
+        "Noise": "38 dBA (middle settings)",
+        "Extras": "Night light, soothing sounds, air quality monitor"
+      },
+      "pros": [
+        "Quiet and compact",
+        "Night light and soothing sounds",
+        "Monitors CO2, temperature and humidity"
+      ],
+      "cons": [
+        "Display can be hard to read",
+        "Air quality monitor can be sluggish"
+      ],
       "asin": "",
       "search": "Levoit Sprout air purifier"
     }
@@ -130,6 +223,9 @@
     }
   ],
   "sources": [
-    {"name": "Expert Reviews: best air purifier", "url": "https://www.expertreviews.co.uk/beauty-wellness/air-treatment/best-air-purifier"}
+    {
+      "name": "Expert Reviews: best air purifier",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/air-treatment/best-air-purifier"
+    }
   ]
 }

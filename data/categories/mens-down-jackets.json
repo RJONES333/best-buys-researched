@@ -4,7 +4,7 @@
   "short": "Down and puffer jackets compared by fill power, weight and warmth, from everyday high street to technical mountain kit.",
   "intro": "Down jackets range from thin everyday puffers to technical mountain layers rated for sub-zero conditions. This guide compares jackets tested by Live for the Outdoors (Trail magazine) in winter mountain conditions, alongside a high-street budget option, so you can match the warmth and price to how you'll actually wear it.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "Haglofs",
@@ -13,9 +13,20 @@
       "best_for": "Year-round layering, from autumn walks to winter under a shell",
       "key_spec": "800 fill power, 220g (men's medium)",
       "summary": "Live for the Outdoors rates this for year-round versatility and a comfortable, flattering cut, making it the most useful all-round pick here, though the base model has no hood and it isn't warm enough for the coldest days.",
-      "specs": {"Fill": "800 fill power ExpeDRY goose down (90/10)", "Weight": "220g (men's medium)"},
-      "pros": ["Excellent layering piece", "Year-round versatility", "Comfortable, nice cut"],
-      "cons": ["Pricey", "Not warm enough for the coldest days", "No hood on the base model"],
+      "specs": {
+        "Fill": "800 fill power ExpeDRY goose down (90/10)",
+        "Weight": "220g (men's medium)"
+      },
+      "pros": [
+        "Excellent layering piece",
+        "Year-round versatility",
+        "Comfortable, nice cut"
+      ],
+      "cons": [
+        "Pricey",
+        "Not warm enough for the coldest days",
+        "No hood on the base model"
+      ],
       "asin": "",
       "search": "Haglofs L.I.M Down II Jacket men's"
     },
@@ -26,9 +37,17 @@
       "best_for": "Hikers who want a highly adjustable jacket that packs down small",
       "key_spec": "750 fill power, PFC-free hydrophobic treatment",
       "summary": "A technical, packable jacket that stays comfortable in the cold and is highly adjustable, though the cuffs lack secure adjustment.",
-      "specs": {"Fill": "RDS 750-fill down with PFC-free HyperDRY treatment"},
-      "pros": ["Comfortable in the cold", "Packs down small", "Highly adjustable"],
-      "cons": ["Cuffs lack secure adjustment"],
+      "specs": {
+        "Fill": "RDS 750-fill down with PFC-free HyperDRY treatment"
+      },
+      "pros": [
+        "Comfortable in the cold",
+        "Packs down small",
+        "Highly adjustable"
+      ],
+      "cons": [
+        "Cuffs lack secure adjustment"
+      ],
       "asin": "",
       "search": "Montane Anti-Freeze Hooded Down Jacket men's"
     },
@@ -39,9 +58,19 @@
       "best_for": "Big mountain use and genuinely bitter conditions",
       "key_spec": "800 fill power, 557g (men's small)",
       "summary": "A robust, seriously warm jacket built for the coldest conditions, with strong weather protection, though it is too warm for most of the year and limits layering underneath.",
-      "specs": {"Fill": "800-fill-power Nikwax Hydrophobic goose down", "Weight": "557g (men's small)"},
-      "pros": ["800 fill power", "Robust weather protection", "Superb warmth"],
-      "cons": ["Too warm for much of the year", "Limited layering capability"],
+      "specs": {
+        "Fill": "800-fill-power Nikwax Hydrophobic goose down",
+        "Weight": "557g (men's small)"
+      },
+      "pros": [
+        "800 fill power",
+        "Robust weather protection",
+        "Superb warmth"
+      ],
+      "cons": [
+        "Too warm for much of the year",
+        "Limited layering capability"
+      ],
       "asin": "",
       "search": "Rab Neutrino Pro Down Jacket men's"
     },
@@ -52,9 +81,20 @@
       "best_for": "Fast-paced mountain use where weight matters",
       "key_spec": "800 fill power ProDown, 428g (men's small)",
       "summary": "An alpine-fit jacket with an excellent warmth-to-weight ratio, comfortable for fast-moving days on the hill, though it is expensive and its slim fit won't suit everyone.",
-      "specs": {"Fill": "800 fill power ProDown", "Weight": "428g (men's small)"},
-      "pros": ["Excellent warmth-to-weight", "800 fill power", "Comfortable, alpine fit"],
-      "cons": ["Expensive", "Not ultralight", "Slim fit limits appeal"],
+      "specs": {
+        "Fill": "800 fill power ProDown",
+        "Weight": "428g (men's small)"
+      },
+      "pros": [
+        "Excellent warmth-to-weight",
+        "800 fill power",
+        "Comfortable, alpine fit"
+      ],
+      "cons": [
+        "Expensive",
+        "Not ultralight",
+        "Slim fit limits appeal"
+      ],
       "asin": "",
       "search": "The North Face Summit Breithorn jacket men's"
     },
@@ -65,9 +105,19 @@
       "best_for": "Buyers who want a jacket built to last for years",
       "key_spec": "700-fill ethically sourced goose down, 435g",
       "summary": "A very warm, well-made jacket with a helmet-compatible hood, built for long-term use, though it has a boxier fit and a higher price.",
-      "specs": {"Fill": "700-fill ethically sourced goose down", "Weight": "435g"},
-      "pros": ["Very warm", "Well-made", "Helmet-compatible hood"],
-      "cons": ["Higher price", "Boxier fit"],
+      "specs": {
+        "Fill": "700-fill ethically sourced goose down",
+        "Weight": "435g"
+      },
+      "pros": [
+        "Very warm",
+        "Well-made",
+        "Helmet-compatible hood"
+      ],
+      "cons": [
+        "Higher price",
+        "Boxier fit"
+      ],
       "asin": "",
       "search": "Fjallraven Expedition Pack Down Hoody men's"
     },
@@ -78,9 +128,20 @@
       "best_for": "Buyers who want strong eco credentials without giving up performance",
       "key_spec": "700 fill power, 100% recycled down, 411g",
       "summary": "A comfortable jacket with excellent sustainability credentials, using 100% recycled down, though it runs tight and could be warmer for the price.",
-      "specs": {"Fill": "700 fill power, 100% recycled down", "Weight": "411g (men's small)"},
-      "pros": ["Superb eco credentials", "Comfortable", "Good features"],
-      "cons": ["Expensive", "Tight, athletic fit", "Only 700 fill power"],
+      "specs": {
+        "Fill": "700 fill power, 100% recycled down",
+        "Weight": "411g (men's small)"
+      },
+      "pros": [
+        "Superb eco credentials",
+        "Comfortable",
+        "Good features"
+      ],
+      "cons": [
+        "Expensive",
+        "Tight, athletic fit",
+        "Only 700 fill power"
+      ],
       "asin": "",
       "search": "Mountain Equipment Earthrise Hooded Jacket men's"
     },
@@ -91,9 +152,19 @@
       "best_for": "Buyers who prioritise comfort and pocket design",
       "key_spec": "800-fill down, 451g",
       "summary": "A comfortable jacket with heat-reflective technology and good pockets, using PFC-free water repellency, though its fit is boxier than some rivals.",
-      "specs": {"Fill": "RDS 800-fill down", "Weight": "451g"},
-      "pros": ["Excellent comfort", "Heat-reflective technology", "Good pockets", "PFC-free DWR"],
-      "cons": ["Boxier fit than some alternatives"],
+      "specs": {
+        "Fill": "RDS 800-fill down",
+        "Weight": "451g"
+      },
+      "pros": [
+        "Excellent comfort",
+        "Heat-reflective technology",
+        "Good pockets",
+        "PFC-free DWR"
+      ],
+      "cons": [
+        "Boxier fit than some alternatives"
+      ],
       "asin": "",
       "search": "Salomon Elixir Ultra Down jacket men's"
     },
@@ -104,8 +175,15 @@
       "best_for": "Everyday city wear on a tight budget",
       "key_spec": "Lightweight, multiple colours",
       "summary": "A widely available, affordable high-street down parka in a fitted silhouette and several colours, well suited to everyday wear rather than technical mountain use.",
-      "specs": {"Style": "Fitted silhouette", "Colours": "Multiple"},
-      "pros": ["Affordable", "Multiple colours", "Fitted silhouette"],
+      "specs": {
+        "Style": "Fitted silhouette",
+        "Colours": "Multiple"
+      },
+      "pros": [
+        "Affordable",
+        "Multiple colours",
+        "Fitted silhouette"
+      ],
       "cons": [],
       "asin": "",
       "search": "Uniqlo Ultra Light Down Parka men's"
@@ -130,7 +208,13 @@
     }
   ],
   "sources": [
-    {"name": "Live for the Outdoors (Trail magazine): best down jackets", "url": "https://www.livefortheoutdoors.com/hiking/jackets/best-down-jacket/"},
-    {"name": "FashionBeans: best men's puffer jackets", "url": "https://www.fashionbeans.com/article/mens-puffer-jackets/"}
+    {
+      "name": "Live for the Outdoors (Trail magazine): best down jackets",
+      "url": "https://www.livefortheoutdoors.com/hiking/jackets/best-down-jacket/"
+    },
+    {
+      "name": "FashionBeans: best men's puffer jackets",
+      "url": "https://www.fashionbeans.com/article/mens-puffer-jackets/"
+    }
   ]
 }

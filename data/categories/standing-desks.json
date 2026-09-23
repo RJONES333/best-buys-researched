@@ -4,7 +4,7 @@
   "short": "Electric, manual and desk-riser standing desks compared by height range, weight capacity and price.",
   "intro": "A standing desk can be a full electric frame, a simple riser that sits on your existing desk, or something in between. This guide compares desks tested by Expert Reviews, from budget risers to heavy-duty dual-motor frames, so you can match the option to your space and budget.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "FlexiSpot",
@@ -13,9 +13,21 @@
       "best_for": "Buyers who want a full-size, sturdy electric desk",
       "key_spec": "60-125cm height, 125kg capacity, dual motor",
       "summary": "Expert Reviews' all-round pick. A dual-motor hydraulic frame with a smooth, quiet gliding motion, four memory presets and strong build quality.",
-      "specs": {"Height range": "60-125cm", "Weight capacity": "125kg", "Motor": "Dual-motor hydraulic", "Memory presets": "4", "Desktop size range": "120-200cm wide, 60-80cm deep"},
-      "pros": ["Smooth, barely audible gliding motion", "Strong build quality"],
-      "cons": ["Heavy desk that needs assembling in its final location", "Lengthy assembly process"],
+      "specs": {
+        "Height range": "60-125cm",
+        "Weight capacity": "125kg",
+        "Motor": "Dual-motor hydraulic",
+        "Memory presets": "4",
+        "Desktop size range": "120-200cm wide, 60-80cm deep"
+      },
+      "pros": [
+        "Smooth, barely audible gliding motion",
+        "Strong build quality"
+      ],
+      "cons": [
+        "Heavy desk that needs assembling in its final location",
+        "Lengthy assembly process"
+      ],
       "asin": "",
       "search": "FlexiSpot E8 Standing Desk"
     },
@@ -26,9 +38,20 @@
       "best_for": "Buyers who already have a tabletop or want to choose their own",
       "key_spec": "68-120cm height, 158kg capacity",
       "summary": "A sturdy, customisable frame with powered motors in each leg and the highest weight capacity here, sold without a tabletop so you can fit your preferred surface.",
-      "specs": {"Height range": "68-120cm", "Weight capacity": "158kg", "Motor": "Powered motors in each leg", "Compatible tabletop": "112-208cm wide, 69-91cm deep"},
-      "pros": ["Sturdy construction", "Customisable accessories available", "Works with your preferred surface"],
-      "cons": ["Tabletop must be bought separately"],
+      "specs": {
+        "Height range": "68-120cm",
+        "Weight capacity": "158kg",
+        "Motor": "Powered motors in each leg",
+        "Compatible tabletop": "112-208cm wide, 69-91cm deep"
+      },
+      "pros": [
+        "Sturdy construction",
+        "Customisable accessories available",
+        "Works with your preferred surface"
+      ],
+      "cons": [
+        "Tabletop must be bought separately"
+      ],
       "asin": "",
       "search": "Fully Jarvis standing desk frame"
     },
@@ -39,9 +62,20 @@
       "best_for": "Buyers who want motorised height adjustment on a budget",
       "key_spec": "73-119cm height, 80kg capacity, from £220",
       "summary": "A budget-friendly electric standing desk with a quiet motor, cable management and a cup holder and headphone hook included.",
-      "specs": {"Height range": "73-119cm", "Weight capacity": "80kg", "Motor": "Electric, quiet", "Extras": "Cup holder, headphones hook"},
-      "pros": ["Budget-friendly motorised option", "Cable management included", "Useful accessories included"],
-      "cons": ["Keyboard shelf may be too small for full-sized ergonomic keyboards"],
+      "specs": {
+        "Height range": "73-119cm",
+        "Weight capacity": "80kg",
+        "Motor": "Electric, quiet",
+        "Extras": "Cup holder, headphones hook"
+      },
+      "pros": [
+        "Budget-friendly motorised option",
+        "Cable management included",
+        "Useful accessories included"
+      ],
+      "cons": [
+        "Keyboard shelf may be too small for full-sized ergonomic keyboards"
+      ],
       "asin": "",
       "search": "EZ Desk Air standing desk"
     },
@@ -52,9 +86,20 @@
       "best_for": "Buyers who want to keep their existing desk and add a riser",
       "key_spec": "16-49cm rise, 90x59cm platform, £220",
       "summary": "An electric riser that sits on your existing desk. Expert Reviews found very little wobbling even at maximum height, and it folds flat for storage.",
-      "specs": {"Height range": "16-49cm (riser height)", "Platform capacity": "15kg (keyboard tray 2kg)", "Platform size": "90 x 59cm", "Motor": "Electric, two-way button control", "Collapsed height": "16cm"},
-      "pros": ["Very little wobbling at maximum height", "Compact for storage"],
-      "cons": ["Keyboard shelf too small for some ergonomic keyboards"],
+      "specs": {
+        "Height range": "16-49cm (riser height)",
+        "Platform capacity": "15kg (keyboard tray 2kg)",
+        "Platform size": "90 x 59cm",
+        "Motor": "Electric, two-way button control",
+        "Collapsed height": "16cm"
+      },
+      "pros": [
+        "Very little wobbling at maximum height",
+        "Compact for storage"
+      ],
+      "cons": [
+        "Keyboard shelf too small for some ergonomic keyboards"
+      ],
       "asin": "",
       "search": "Duronic Sit-Stand Electric Height Adjustable Workstation"
     },
@@ -65,9 +110,21 @@
       "best_for": "Buyers who want a tool-free, wooden desktop riser",
       "key_spec": "70cm height, birchwood, £199",
       "summary": "A simple wooden riser that needs no tools to assemble, with an elegant look, though its keyboard space and weight capacity are limited.",
-      "specs": {"Height": "70cm", "Weight capacity": "5kg", "Material": "Birchwood", "Top shelf": "40 x 23.5cm (fits screens up to 15in)"},
-      "pros": ["No tools needed to assemble", "Elegant wooden appearance"],
-      "cons": ["Limited keyboard and mouse space", "Requires an existing desk", "Lower weight capacity"],
+      "specs": {
+        "Height": "70cm",
+        "Weight capacity": "5kg",
+        "Material": "Birchwood",
+        "Top shelf": "40 x 23.5cm (fits screens up to 15in)"
+      },
+      "pros": [
+        "No tools needed to assemble",
+        "Elegant wooden appearance"
+      ],
+      "cons": [
+        "Limited keyboard and mouse space",
+        "Requires an existing desk",
+        "Lower weight capacity"
+      ],
       "asin": "",
       "search": "Humbleworks Sit Stand Workstation"
     },
@@ -78,9 +135,20 @@
       "best_for": "Buyers who want drawers and a traditional look alongside height adjustment",
       "key_spec": "71.6 x 50cm platform, drawers and shelf, £390",
       "summary": "A standing desk with two side drawers, a centre drawer and a bottom shelf, with a smooth rising mechanism, though clearance may not suit taller users.",
-      "specs": {"Rising platform": "71.6 x 50cm", "Weight capacity": "45kg on the lifting section", "Storage": "Two side drawers, centre drawer, bottom shelf", "Underside clearance": "58cm"},
-      "pros": ["Functional storage", "Elegant design", "Smooth rising mechanism"],
-      "cons": ["Limited height clearance may not suit users over about 5ft 10in"],
+      "specs": {
+        "Rising platform": "71.6 x 50cm",
+        "Weight capacity": "45kg on the lifting section",
+        "Storage": "Two side drawers, centre drawer, bottom shelf",
+        "Underside clearance": "58cm"
+      },
+      "pros": [
+        "Functional storage",
+        "Elegant design",
+        "Smooth rising mechanism"
+      ],
+      "cons": [
+        "Limited height clearance may not suit users over about 5ft 10in"
+      ],
       "asin": "",
       "search": "Westerleigh Height Adjustable Standing Desk"
     }
@@ -104,6 +172,9 @@
     }
   ],
   "sources": [
-    {"name": "Expert Reviews: best standing desk", "url": "https://www.expertreviews.co.uk/beauty-wellness/ergonomic-furniture/best-standing-desk"}
+    {
+      "name": "Expert Reviews: best standing desk",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/ergonomic-furniture/best-standing-desk"
+    }
   ]
 }

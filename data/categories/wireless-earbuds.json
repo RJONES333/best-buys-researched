@@ -4,7 +4,7 @@
   "short": "True wireless earbuds compared by noise cancelling, battery life and sound quality, from budget to premium.",
   "intro": "Wireless earbuds range from sub-£50 budget picks to premium models with lossless audio and spatial sound. This guide compares earbuds tested by Expert Reviews, whose reviewers say they have tested over 300 pairs in the past five years, so you can match the features to what you actually use them for.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "Sony",
@@ -13,9 +13,20 @@
       "best_for": "Buyers who want the strongest all-round package",
       "key_spec": "24hr battery, ANC, LDAC, IPX4",
       "summary": "Expert Reviews' overall winner. It combines superb noise cancelling with excellent audio quality and an extensive feature set.",
-      "specs": {"Battery life": "24 hours total", "ANC": "Yes", "Water resistance": "IPX4", "Codecs": "LDAC"},
-      "pros": ["Superb ANC", "Excellent audio quality", "Extensive features"],
-      "cons": ["Bulbous fit"],
+      "specs": {
+        "Battery life": "24 hours total",
+        "ANC": "Yes",
+        "Water resistance": "IPX4",
+        "Codecs": "LDAC"
+      },
+      "pros": [
+        "Superb ANC",
+        "Excellent audio quality",
+        "Extensive features"
+      ],
+      "cons": [
+        "Bulbous fit"
+      ],
       "asin": "",
       "search": "Sony WF-1000XM6 wireless earbuds"
     },
@@ -26,9 +37,22 @@
       "best_for": "Buyers who want high-end sound specs without the high-end price",
       "key_spec": "39hr battery, LDAC and aptX Lossless, IPX5",
       "summary": "Detailed, effective-sounding earbuds with noise cancelling and specs that punch above their price. Expert Reviews notes the bass integration is only average.",
-      "specs": {"Battery life": "39 hours total", "ANC": "Yes", "Water resistance": "IPX5", "Codecs": "LDAC, aptX Lossless", "Drivers": "10mm"},
-      "pros": ["Detailed sound", "Effective noise cancelling", "Excellent specs for the price"],
-      "cons": ["Average bass integration", "Competitive market at this price"],
+      "specs": {
+        "Battery life": "39 hours total",
+        "ANC": "Yes",
+        "Water resistance": "IPX5",
+        "Codecs": "LDAC, aptX Lossless",
+        "Drivers": "10mm"
+      },
+      "pros": [
+        "Detailed sound",
+        "Effective noise cancelling",
+        "Excellent specs for the price"
+      ],
+      "cons": [
+        "Average bass integration",
+        "Competitive market at this price"
+      ],
       "asin": "",
       "search": "Cambridge Audio Melomania A100 earbuds"
     },
@@ -39,9 +63,21 @@
       "best_for": "Buyers on a tight budget who still want ANC",
       "key_spec": "55hr battery, ANC, IP55",
       "summary": "A feature-rich budget pair with noise cancelling, spatial audio and a gaming mode, though the ANC has limitations and there's no hi-res codec support.",
-      "specs": {"Battery life": "55 hours total", "ANC": "Yes", "Water resistance": "IP55", "Extras": "Spatial audio, gaming mode"},
-      "pros": ["Feature-rich for the price", "Clear sound", "Excellent battery life"],
-      "cons": ["ANC limitations", "No hi-res codec support"],
+      "specs": {
+        "Battery life": "55 hours total",
+        "ANC": "Yes",
+        "Water resistance": "IP55",
+        "Extras": "Spatial audio, gaming mode"
+      },
+      "pros": [
+        "Feature-rich for the price",
+        "Clear sound",
+        "Excellent battery life"
+      ],
+      "cons": [
+        "ANC limitations",
+        "No hi-res codec support"
+      ],
       "asin": "",
       "search": "CMF by Nothing Buds 2"
     },
@@ -52,9 +88,20 @@
       "best_for": "Buyers who switch between several devices during the day",
       "key_spec": "28hr battery, 3-device multipoint, Dolby Atmos",
       "summary": "Class-leading multipoint pairing across three devices, with strong sound quality and call clarity, though the eartip selection is limited.",
-      "specs": {"Battery life": "28 hours total", "Multipoint": "3 devices", "Water resistance": "IPX4", "Extras": "Dolby Atmos with head tracking"},
-      "pros": ["Class-leading multipoint connectivity", "Sound quality", "Call clarity"],
-      "cons": ["Limited eartip selection"],
+      "specs": {
+        "Battery life": "28 hours total",
+        "Multipoint": "3 devices",
+        "Water resistance": "IPX4",
+        "Extras": "Dolby Atmos with head tracking"
+      },
+      "pros": [
+        "Class-leading multipoint connectivity",
+        "Sound quality",
+        "Call clarity"
+      ],
+      "cons": [
+        "Limited eartip selection"
+      ],
       "asin": "",
       "search": "Technics EAH-AZ100 earbuds"
     },
@@ -65,9 +112,20 @@
       "best_for": "Buyers who prioritise blocking out noise above all else",
       "key_spec": "24hr battery, spatial audio, IPX4",
       "summary": "Expert Reviews' pick for noise cancelling, with a comfortable fit and immersive spatial sound, though battery life is only average for the category.",
-      "specs": {"Battery life": "24 hours total", "ANC": "Yes", "Water resistance": "IPX4", "Extras": "Spatial audio"},
-      "pros": ["Superior ANC", "Comfortable fit", "Spatial sound"],
-      "cons": ["Average battery life"],
+      "specs": {
+        "Battery life": "24 hours total",
+        "ANC": "Yes",
+        "Water resistance": "IPX4",
+        "Extras": "Spatial audio"
+      },
+      "pros": [
+        "Superior ANC",
+        "Comfortable fit",
+        "Spatial sound"
+      ],
+      "cons": [
+        "Average battery life"
+      ],
       "asin": "",
       "search": "Bose QuietComfort Ultra Earbuds 2nd Gen"
     },
@@ -78,9 +136,20 @@
       "best_for": "iPhone owners who make a lot of calls",
       "key_spec": "24hr battery, heart rate sensor, IP57",
       "summary": "Expert Reviews rates these highest for call quality, with strong ANC and a comfortable design, though pure audio quality trails some rivals.",
-      "specs": {"Battery life": "24 hours total", "ANC": "Yes", "Water resistance": "IP57", "Extras": "Heart rate monitoring, spatial audio"},
-      "pros": ["Excellent call quality", "Superior ANC", "Comfortable design"],
-      "cons": ["Audio quality could improve versus rivals"],
+      "specs": {
+        "Battery life": "24 hours total",
+        "ANC": "Yes",
+        "Water resistance": "IP57",
+        "Extras": "Heart rate monitoring, spatial audio"
+      },
+      "pros": [
+        "Excellent call quality",
+        "Superior ANC",
+        "Comfortable design"
+      ],
+      "cons": [
+        "Audio quality could improve versus rivals"
+      ],
       "asin": "",
       "search": "Apple AirPods Pro 3"
     },
@@ -91,9 +160,21 @@
       "best_for": "Runners and gym-goers who want to stay aware of their surroundings",
       "key_spec": "48hr battery, air-conduction, IP55",
       "summary": "An open-ear design that sits outside the ear canal, with loud and punchy audio and a lightweight feel, though bass is modest and codec support limited.",
-      "specs": {"Battery life": "48 hours total", "Design": "Air-conduction, open-ear", "Water resistance": "IP55", "Extras": "Dolby Atmos, wireless charging"},
-      "pros": ["Loud, punchy audio", "Lightweight", "Strong battery life"],
-      "cons": ["Limited codec support", "Modest bass"],
+      "specs": {
+        "Battery life": "48 hours total",
+        "Design": "Air-conduction, open-ear",
+        "Water resistance": "IP55",
+        "Extras": "Dolby Atmos, wireless charging"
+      },
+      "pros": [
+        "Loud, punchy audio",
+        "Lightweight",
+        "Strong battery life"
+      ],
+      "cons": [
+        "Limited codec support",
+        "Modest bass"
+      ],
       "asin": "",
       "search": "Shokz OpenFit 2 Plus"
     },
@@ -104,9 +185,21 @@
       "best_for": "Gym and running use where a secure fit matters",
       "key_spec": "45hr battery, earhook design, heart rate sensor",
       "summary": "An earhook design built for a stable fit during exercise, with heart rate tracking and excellent battery life, though ANC affects audio quality.",
-      "specs": {"Battery life": "45 hours total", "Design": "Earhook", "Water resistance": "IPX4", "Extras": "Heart rate monitoring"},
-      "pros": ["Stable fit during exercise", "Excellent battery life", "Heart rate tracking"],
-      "cons": ["ANC affects audio quality", "IPX4 is a lower water resistance rating"],
+      "specs": {
+        "Battery life": "45 hours total",
+        "Design": "Earhook",
+        "Water resistance": "IPX4",
+        "Extras": "Heart rate monitoring"
+      },
+      "pros": [
+        "Stable fit during exercise",
+        "Excellent battery life",
+        "Heart rate tracking"
+      ],
+      "cons": [
+        "ANC affects audio quality",
+        "IPX4 is a lower water resistance rating"
+      ],
       "asin": "",
       "search": "Beats Powerbeats Pro 2"
     }
@@ -130,6 +223,9 @@
     }
   ],
   "sources": [
-    {"name": "Expert Reviews: best wireless earbuds", "url": "https://www.expertreviews.co.uk/technology/headphones-audio/best-wireless-earbuds"}
+    {
+      "name": "Expert Reviews: best wireless earbuds",
+      "url": "https://www.expertreviews.co.uk/technology/headphones-audio/best-wireless-earbuds"
+    }
   ]
 }
