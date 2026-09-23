@@ -1,0 +1,122 @@
+{
+  "slug": "bbqs",
+  "title": "Best BBQs UK",
+  "short": "Gas, charcoal, electric and smart BBQs compared by cooking power, ease of use and design, tested in real gardens.",
+  "intro": "The right BBQ depends on how much convenience you want to trade for flavour: gas heats fast and cleans easily, charcoal takes more skill but gives classic smoky results, and electric suits small outdoor spaces. This guide compares BBQs tested by Ideal Home, which builds, cooks on and reviews each model in real gardens.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Weber",
+      "name": "Spirit E-310 Gas Barbecue",
+      "badge": "Best gas",
+      "best_for": "Buyers who want fuss-free, powerful gas grilling",
+      "key_spec": "3-burner gas, 46cm cooking area, digital thermometer",
+      "summary": "Ideal Home found this flawless in testing, reaching optimal grilling temperatures quickly and holding heat consistently across everything from veggies to a whole spatchcock chicken. Boost burners, a digital thermometer and Snap-Jet ignition make it easy to use, and a new door hides the gas canister neatly, though it is quite large.",
+      "specs": {"Fuel": "Gas", "Cooking area": "46cm", "Weight": "51.9kg", "Price guide": "£549"},
+      "pros": ["Versatile direct and indirect heat", "Easy to use with fast, consistent heat-up", "Good build quality, fairly easy to assemble", "Easy to clean"],
+      "cons": ["Quite large"],
+      "asin": "",
+      "search": "Weber Spirit E-310 Gas Barbecue"
+    },
+    {
+      "brand": "Weber",
+      "name": "Original Kettle",
+      "badge": "Best charcoal",
+      "best_for": "Buyers who want a classic, long-lasting charcoal BBQ",
+      "key_spec": "47cm diameter charcoal kettle, no-faff ash cleaning system",
+      "summary": "Ideal Home's expert reviewer calls this a 'great buy' that suits just about anyone wanting a quality charcoal barbecue from a brand with an excellent pedigree. Simple, well-made and affordable, with an easy cleaning system, though charcoal takes more skill to master than gas and it's on the small side for larger families.",
+      "specs": {"Fuel": "Charcoal", "Cooking area": "47cm diameter", "Weight": "13kg", "Price guide": "£250"},
+      "pros": ["Iconic, proven BBQ brand and design", "Excellent, no-faff ash cleaning system", "Available in larger sizes", "Built to last many years"],
+      "cons": ["Too small for larger families", "Charcoal cooking takes time to master"],
+      "asin": "",
+      "search": "Weber Original Kettle BBQ"
+    },
+    {
+      "brand": "Ninja",
+      "name": "Woodfire Electric BBQ Grill & Smoker",
+      "badge": "Best electric",
+      "best_for": "Small gardens, patios or city spaces without room for gas or charcoal",
+      "key_spec": "Electric, 6 cooking functions, built-in smoker and air-fryer function",
+      "summary": "Ideal Home calls this the most functional and versatile electric BBQ tested, the easiest to set up of any BBQ on the list since it simply plugs in. A smoker function burns pellets for authentic smoky flavour, and an air-fryer setting cooks sides like chips outdoors, though it needs outdoor electrical access and isn't weatherproof if left out.",
+      "specs": {"Fuel": "Electric", "Cooking area": "28cm x 37cm", "Weight": "12kg", "Price guide": "£350"},
+      "pros": ["Easiest BBQ to set up and use", "Six cooking functions including smoker and air fryer", "Compact, suits smaller outdoor spaces", "Easy to clean"],
+      "cons": ["Requires outdoor electrical access", "No stand/base or cover included", "Smaller cooking capacity than gas or charcoal"],
+      "asin": "",
+      "search": "Ninja Woodfire Electric BBQ Grill and Smoker"
+    },
+    {
+      "brand": "Char-Broil",
+      "name": "All Star Gas Barbecue",
+      "badge": "Best affordable gas",
+      "best_for": "Small families who want gas convenience without a big spend",
+      "key_spec": "Gas, 45cm cooking area, ready to cook in 10 minutes",
+      "summary": "Sits at a happy price point with plenty of features for fuss-free cooking, quick to heat up and turning out succulent, flavoursome results in Ideal Home's tests, including a whole roast chicken. Cleaning is genuinely easy, though assembly is described as painstakingly complicated and temperatures can run a little inconsistent.",
+      "specs": {"Fuel": "Gas", "Cooking area": "45cm", "Weight": "30kg", "Price guide": "£489.99"},
+      "pros": ["Quick to heat up", "Easy to clean", "Ideal size for a small family", "Two foldout shelves with tool hooks"],
+      "cons": ["Complicated assembly", "Temperatures can be inconsistent"],
+      "asin": "",
+      "search": "Char-Broil All Star Gas Barbecue"
+    },
+    {
+      "brand": "Everdure",
+      "name": "Cube 360 Charcoal Portable BBQ",
+      "badge": "Best luxury portable",
+      "best_for": "Buyers who want a stylish, easy-to-use portable charcoal BBQ",
+      "key_spec": "Charcoal, 745cm² cooking area, temperature gauge, arrives pre-assembled",
+      "summary": "A sleek, high-end-feeling portable BBQ that arrived pre-assembled in Ideal Home's testing, ready to use within seconds once the grills were fitted. A roasting hood and temperature gauge add versatility, and the food cooked on it tasted delicious, though temperature control could be tricky at times.",
+      "specs": {"Fuel": "Charcoal", "Cooking area": "745cm2", "Weight": "7kg", "Price guide": "£229"},
+      "pros": ["Sleek, attractive, high-end design", "Set up in seconds", "Handy built-in temperature gauge"],
+      "cons": ["Difficult to control temperature at times"],
+      "asin": "",
+      "search": "Everdure Cube 360 Charcoal Portable BBQ"
+    },
+    {
+      "brand": "Everdure by Heston Blumenthal",
+      "name": "Force 2 Burner Gas BBQ",
+      "badge": "Best design",
+      "best_for": "Buyers who want standout looks alongside serious cooking power",
+      "key_spec": "Gas, 2,440cm² cooking area, extra-high hood for convection cooking",
+      "summary": "Earned an easy five-star rating from Ideal Home for stunning design paired with unbelievably powerful independent burners, heating hot enough to cook in around 4 minutes. The extra-high hood suits convection cooking and roasting, though it only has two burners for the price and the open base could look neater.",
+      "specs": {"Fuel": "Gas", "Cooking area": "2440cm2", "Weight": "33kg", "Price guide": "£749"},
+      "pros": ["Near perfect, standout design", "Unbelievably powerful, fast heat-up", "Even grilling with convection-style hood", "Enamel-coated, rust-proof build"],
+      "cons": ["Only two burners for the price", "Open bottom half could look better"],
+      "asin": "",
+      "search": "Everdure by Heston Blumenthal Force 2 Burner Gas BBQ"
+    },
+    {
+      "brand": "Masterbuilt",
+      "name": "Autoignite Series 545 Digital Charcoal Grill and Smoker",
+      "badge": "Best smart",
+      "best_for": "Buyers who want app-guided charcoal smoking and grilling",
+      "key_spec": "Charcoal with digital automation, 3,516cm² cooking area, app-controlled vents",
+      "summary": "Earned 4.5 stars from Ideal Home for making charcoal BBQ automation feel seamless, connecting to a phone app that gives detailed instructions on vents and fuel for long smoking sessions. It's simple to use once set up, though initial setup was described as slightly arduous.",
+      "specs": {"Fuel": "Charcoal (app-automated)", "Cooking dimensions": "3516cm2", "Weight": "59kg", "Price guide": "£499.99"},
+      "pros": ["Seamless app-guided automation for smoking", "Wide range of cooking settings", "Huge cooking capacity"],
+      "cons": ["Slightly arduous initial setup"],
+      "asin": "",
+      "search": "Masterbuilt Autoignite Series 545"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Gas, charcoal or electric?",
+      "a": "Gas heats up fast, holds a consistent temperature and cleans easily, making it the most convenient for regular use. Charcoal gives a more traditional smoky flavour but takes practice to control heat well. Electric, like the Ninja here, suits small gardens, patios or balconies without gas or charcoal storage space, and is the simplest to set up."
+    },
+    {
+      "q": "How much cooking area do I need?",
+      "a": "As a rough guide, a compact BBQ around 45cm suits 2-4 people, while anything above 2,000cm² comfortably feeds larger groups or lets you cook multiple dishes at once, such as two whole chickens side by side."
+    },
+    {
+      "q": "Is a smart or app-connected BBQ worth the extra cost?",
+      "a": "A smart charcoal BBQ like the Masterbuilt here takes much of the guesswork out of temperature and airflow management, which is especially useful for long, low-and-slow smoking sessions. For quick weeknight grilling, a simple gas or charcoal BBQ gives most of the benefit without the added cost or setup complexity."
+    },
+    {
+      "q": "How important is easy assembly and cleaning?",
+      "a": "Worth checking before you buy, since some BBQs that perform brilliantly, like the Char-Broil here, have notably fiddly assembly. Look out for features like a self-cleaning burn-off mode or a simple scraper tool, which make the regular maintenance side of BBQ ownership far less of a chore."
+    }
+  ],
+  "sources": [
+    {"name": "Ideal Home: best BBQs", "url": "https://www.idealhome.co.uk/buying-guide-reviews/best-bbqs-199688"}
+  ]
+}
