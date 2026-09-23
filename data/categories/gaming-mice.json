@@ -1,0 +1,148 @@
+{
+  "slug": "gaming-mice",
+  "title": "Best Gaming Mice UK",
+  "short": "Wireless and wired gaming mice compared by weight, sensor and grip style, for FPS, MMO and all-round use.",
+  "intro": "The right gaming mouse depends heavily on grip style and genre: FPS players usually want the lightest, simplest mouse possible, while MMO players want buttons within reach of every finger. This guide compares mice tested by Tom's Hardware, which says it has tested hundreds of gaming mice, across budget, wireless, compact and specialist picks.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Logitech",
+      "name": "G Pro X Superlight 2 SE",
+      "badge": "Best for FPS",
+      "best_for": "Competitive FPS players who want the lightest, simplest mouse possible",
+      "key_spec": "60g, Hero 2 sensor, 32,000 DPI, up to 2,000Hz polling",
+      "summary": "Tom's Hardware's best FPS pick. The SE is a special-edition colourway of the standard Superlight 2, which the reviewer found very light, comfortable across multiple grip types, and smooth, speedy and low-latency, upgrading the original Superlight with USB-C charging, a faster Hero 2 sensor and 95 hours of battery life, about 35% more than its predecessor.",
+      "specs": {"Sensor": "Hero 2", "Max DPI": "32,000", "Max speed": "500 IPS", "Polling rate": "Up to 2,000Hz", "Weight": "60g (2.12oz)", "Connectivity": "2.4GHz wireless, wired USB-C", "Battery": "About 95 hours at 1,000Hz polling"},
+      "pros": ["Very light", "Comfortable for multiple grip types", "Smooth, speedy, low-latency"],
+      "cons": ["No DPI switch on the mouse itself", "Expensive"],
+      "asin": "",
+      "search": "Logitech G Pro X Superlight 2 SE gaming mouse"
+    },
+    {
+      "brand": "Razer",
+      "name": "Basilisk V3 Pro 35K",
+      "badge": "Best overall",
+      "best_for": "Buyers who want one all-purpose mouse for any genre",
+      "key_spec": "112g, Focus Pro 35K sensor, 11 buttons, RGB",
+      "summary": "A comfortable, ergonomic all-purpose mouse with 11 programmable buttons and bright customisable RGB, hitting a sweet spot between performance, comfort and looks, though it's heavy and expensive for what's fundamentally an update to the previous model.",
+      "specs": {"Sensor": "Razer Focus Pro 35K optical", "Max DPI": "35,000", "Max speed": "750 IPS", "Weight": "112g", "Connectivity": "2.4GHz wireless, Bluetooth, wired USB-C", "Buttons": "11", "Battery": "Up to 150 hours"},
+      "pros": ["New sensor and better battery life", "Comfortable, attractive, versatile design", "Predecessor now cheaper as an alternative"],
+      "cons": ["Expensive", "Broadly the same as the previous model", "Heavy"],
+      "asin": "",
+      "search": "Razer Basilisk V3 Pro 35K gaming mouse"
+    },
+    {
+      "brand": "Razer",
+      "name": "DeathAdder V4 Pro",
+      "badge": "Best wireless",
+      "best_for": "Buyers who want a stripped-down, ultra-comfortable shape",
+      "key_spec": "56g, Focus Pro 45K sensor, up to 150hr battery",
+      "summary": "Tom's Hardware calls this the best mouse shape it has tested. It's 10% lighter than its predecessor with a better sensor, switches, scroll wheel and battery life, though it doesn't have Bluetooth or RGB, and it's expensive for a simple mouse.",
+      "specs": {"Sensor": "Focus Pro 45K optical Gen-2", "Max DPI": "45,000", "Max speed": "900 IPS", "Weight": "56g", "Connectivity": "2.4GHz wireless, wired USB-C", "Buttons": "6", "Battery": "Up to 150 hours"},
+      "pros": ["Excellent shape and feel", "Comes with an 8K wireless dongle", "Lightweight"],
+      "cons": ["Expensive", "Only a modest upgrade over the V3 Pro"],
+      "asin": "",
+      "search": "Razer DeathAdder V4 Pro gaming mouse"
+    },
+    {
+      "brand": "Corsair",
+      "name": "Katar Pro XT",
+      "badge": "Best budget",
+      "best_for": "Buyers who want a comfortable, reliable mouse on a tight budget",
+      "key_spec": "73g, wired, around £30",
+      "summary": "A lightweight, comfortable, ambidextrous budget mouse that doesn't feel cheap, with a paracord cable that glides without drag, though the wireless version often costs barely more.",
+      "specs": {"Sensor": "PixArt PMW3391", "Max DPI": "18,000", "Max speed": "400 IPS", "Weight": "73g", "Connectivity": "Wired USB-A", "Buttons": "6"},
+      "pros": ["Comfortable, familiar design", "Feels light without honeycomb cutouts"],
+      "cons": ["Wireless version often costs about the same", "Not as light as pricier alternatives"],
+      "asin": "",
+      "search": "Corsair Katar Pro XT gaming mouse"
+    },
+    {
+      "brand": "Redragon",
+      "name": "M686 Vampire Elite",
+      "badge": "Best budget wireless",
+      "best_for": "Budget buyers who want wireless with a good feature set",
+      "key_spec": "124g, 8 buttons, USB-C charging, around £36",
+      "summary": "A well-built budget wireless mouse with grooves for the ring and pinky fingers, USB-C charging and 8 programmable buttons, though the scroll wheel feels imprecise and the software is close to mandatory to reprogram default button assignments.",
+      "specs": {"Sensor": "PixArt PMW3335", "Max DPI": "16,000", "Max speed": "450 IPS", "Weight": "124g", "Connectivity": "USB-A dongle or wired", "Buttons": "8", "Battery": "Up to 45 hours claimed (Eco Mode)"},
+      "pros": ["Unique ring and pinky finger grooves", "USB-C charging", "8 programmable buttons", "Strong feature set for the price"],
+      "cons": ["Imprecise scroll wheel", "Imprecise battery reading", "Side buttons oddly programmed out of the box"],
+      "asin": "",
+      "search": "Redragon M686 Vampire Elite gaming mouse"
+    },
+    {
+      "brand": "Logitech",
+      "name": "G502 X Plus",
+      "badge": "Best RGB",
+      "best_for": "Buyers who want striking lighting and lots of buttons",
+      "key_spec": "106g, Hero 25K sensor, 13 buttons, 8-zone RGB",
+      "summary": "Tom's Hardware calls its RGB lighting among the prettiest it has seen on a mouse, with 13 programmable buttons and hybrid optical-mechanical switches, though it's expensive, large, and the scroll wheel can feel twitchy.",
+      "specs": {"Sensor": "Logitech Hero 25K", "Max DPI": "25,600", "Max speed": "400 IPS", "Weight": "106g", "Connectivity": "2.4GHz wireless, wired USB-C", "Buttons": "13"},
+      "pros": ["Striking RGB lighting", "13 programmable buttons", "Low click latency", "Optical-mechanical switches"],
+      "cons": ["Expensive and large", "Twitchy scroll wheel"],
+      "asin": "",
+      "search": "Logitech G502 X Plus gaming mouse"
+    },
+    {
+      "brand": "Logitech",
+      "name": "G Pro Wireless",
+      "badge": "Best ambidextrous",
+      "best_for": "Left-handed players, or anyone who wants true symmetry",
+      "key_spec": "80g, Hero 16K sensor, 5 onboard profiles",
+      "summary": "One of the few truly ambidextrous gaming mice, with thumb buttons on both sides, a light matte shell, and claimed battery life of up to 60 hours, though Tom's Hardware noted some users report accidental double-clicks developing after around two years of use.",
+      "specs": {"Sensor": "Logitech HERO 16K", "Max DPI": "16,000 (25,600 via software)", "Max speed": "450 IPS", "Weight": "80g", "Connectivity": "USB-A dongle or wired", "Onboard profiles": "5"},
+      "pros": ["Comfortable for left and right hands", "Lightweight", "Removable left and right side buttons", "5 onboard memory profiles"],
+      "cons": ["Questionable long-term durability", "Shallow scroll wheel click", "Expensive"],
+      "asin": "",
+      "search": "Logitech G Pro Wireless gaming mouse"
+    },
+    {
+      "brand": "Razer",
+      "name": "Cobra Pro",
+      "badge": "Best compact",
+      "best_for": "Smaller hands who still want flagship-level features",
+      "key_spec": "77g, Focus Pro 30K sensor, up to 170hr battery over Bluetooth",
+      "summary": "A smaller, lighter mouse than most flagships, without stripping out RGB or features, well suited to smaller hands, though Tom's Hardware felt it's too small for some and has fewer buttons than rivals.",
+      "specs": {"Sensor": "Razer Focus Pro 30K optical", "Max DPI": "30,000", "Max speed": "750 IPS", "Weight": "77g", "Connectivity": "2.4GHz wireless, Bluetooth", "Buttons": "5", "Battery": "100+ hours (2.4GHz), up to 170 hours (Bluetooth)"},
+      "pros": ["Attractive lighting", "Small and lightweight", "Smart Dimming feature"],
+      "cons": ["Too small for some hands", "Fairly pricey", "Fewer buttons than rivals"],
+      "asin": "",
+      "search": "Razer Cobra Pro gaming mouse"
+    },
+    {
+      "brand": "Razer",
+      "name": "Naga V2 Pro",
+      "badge": "Best for MMO",
+      "best_for": "MMO and MOBA players who want many programmable buttons",
+      "key_spec": "134g, swappable side plates, up to 20 buttons",
+      "summary": "A versatile MMO mouse with three swappable side plates (2, 6 or 12 buttons) and a uniquely customisable scroll wheel that lets you tweak tension, steps and haptic feel, though it's heavy and very expensive.",
+      "specs": {"Sensor": "Focus Pro 30K optical", "Max DPI": "30,000", "Max speed": "750 IPS", "Weight": "134g", "Connectivity": "2.4GHz, Bluetooth, wired USB-C", "Buttons": "Up to 20 (swappable side plates)"},
+      "pros": ["Unique customisable scroll wheel", "Swappable 12-, 6- and 2-button side plates", "Excellent overall performance", "Comfortable"],
+      "cons": ["Very expensive", "Heavy"],
+      "asin": "",
+      "search": "Razer Naga V2 Pro gaming mouse"
+    }
+  ],
+  "guide": [
+    {
+      "q": "How light a mouse do I actually need?",
+      "a": "Competitive FPS players tend to favour the lightest mice available, often under 65g, for fast, low-fatigue flicks. For general gaming, MMO or productivity use, a heavier mouse (80-130g) with more buttons is often more comfortable and practical."
+    },
+    {
+      "q": "Does higher DPI matter?",
+      "a": "Maximum DPI figures are largely a marketing number, since most players use well under 5,000 DPI in practice. Sensor accuracy, consistent tracking and low latency matter far more to actual performance than the maximum DPI on the box."
+    },
+    {
+      "q": "What does polling rate mean?",
+      "a": "Polling rate is how often the mouse reports its position to your PC, measured in Hz. A standard 1,000Hz polling rate is enough for the vast majority of players; higher rates like 2,000-8,000Hz mainly benefit top-level competitive players and often need a specific wireless dongle to unlock."
+    },
+    {
+      "q": "Wireless or wired for competitive gaming?",
+      "a": "Modern wireless gaming mice, like several here, offer latency that's indistinguishable from wired for practical purposes, while removing cable drag entirely. Wired remains a safe, cheaper option if you'd rather not think about charging a mouse."
+    }
+  ],
+  "sources": [
+    {"name": "Tom's Hardware: best gaming mouse", "url": "https://www.tomshardware.com/best-picks/best-gaming-mouse"}
+  ]
+}

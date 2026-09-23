@@ -32,6 +32,7 @@ GROUPS = {
     "Tech & gadgets": [
         "samsung-chargers", "wireless-earbuds", "standing-desks",
         "over-ear-headphones", "gaming-headsets", "iphone-charging-cables",
+        "gaming-mice",
     ],
     "Sleep & comfort": ["mattress-toppers", "pillows", "duvets"],
     "Bathroom": ["bath-towels"],
