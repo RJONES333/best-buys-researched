@@ -41,11 +41,11 @@ GROUPS = {
     "Bathroom": ["bath-towels"],
     "Fitness & outdoors": [
         "running-socks", "walking-socks", "winter-gloves", "womens-leggings",
-        "bike-lights", "yoga-mats", "adjustable-dumbbells",
+        "bike-lights", "yoga-mats", "adjustable-dumbbells", "hiking-boots",
     ],
     "Clothing": ["mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets"],
-    "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners"],
+    "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "electric-shavers"],
     "Kids": ["trending-kids-toys"],
     "Garden": ["lawn-mowers", "pressure-washers", "bbqs"],
     "DIY & tools": ["cordless-drills"],
