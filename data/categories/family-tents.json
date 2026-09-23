@@ -1,0 +1,135 @@
+{
+  "slug": "family-tents",
+  "title": "Best Family Camping Tents UK",
+  "short": "Family and group camping tents compared by living space, weatherproofing and ease of pitching, from budget tunnel tents to premium inflatables.",
+  "intro": "A family tent needs to balance living space against weight, pack size and how easy it actually is to pitch after a long drive. This guide compares tents tested by Live for the Outdoors, whose testers pitch, sleep in and pack away every tent themselves, often with their own kids in tow.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Robens",
+      "name": "Klondike Tent",
+      "badge": "Best overall",
+      "best_for": "Buyers who want maximum space and the simplest possible pitching",
+      "key_spec": "Teepee-style, 3.5m+ tall, nearly 4m across, polycotton fabric",
+      "summary": "LFTO's top-rated tent, a teepee-style design with a single large room that's fantastically spacious, fitting two double airbeds with room to spare. Testers loved how easily it pitches, needing just pegs and a central pole raised by one person, and found it built to a quality that justifies the high price.",
+      "specs": {"Style": "Teepee/bell tent", "Height": "3.5m+", "Footprint": "~4m across", "Fabric": "Polycotton"},
+      "pros": ["Huge, versatile living area", "Exceptionally easy to pitch", "Packable and portable", "Excellent weatherproofing and quality materials"],
+      "cons": ["No obvious sustainability credentials", "Expensive upfront"],
+      "asin": "",
+      "search": "Robens Klondike tent"
+    },
+    {
+      "brand": "Quechua",
+      "name": "Arpenaz 4.1 F&B",
+      "badge": "Best value",
+      "best_for": "Families who want an affordable, well-made first family tent",
+      "key_spec": "4.6m x 2.6m, 5m² living space, 200mm HH waterproof rating",
+      "summary": "Beat out rivals from Coleman and Vango on LFTO's value award by focusing on quality and practicality, with 60cm of bedroom width per person and a 5m² living space. Its 200mm hydrostatic head and 50kph wind rating suit mild conditions only, but within those limits it's genuinely well made.",
+      "specs": {"Size": "4.6m x 2.6m", "Living space": "5m2", "Waterproofing": "200mm HH", "Wind rating": "50kph"},
+      "pros": ["Very well priced", "Stable and well made", "Compact pack size, not overly heavy", "Comfortable living space for the size"],
+      "cons": ["Blackout bedroom fiddly to unclip from the floor", "Waterproof rating lower than pricier tents"],
+      "asin": "",
+      "search": "Quechua Arpenaz 4.1 F&B tent"
+    },
+    {
+      "brand": "Outwell",
+      "name": "Colorado 5 Air",
+      "badge": "Best inflatable",
+      "best_for": "Families who want fast pitching and flexible bedroom layouts",
+      "key_spec": "5-person, air beam structure, 4,000mm HH, two customisable bedrooms",
+      "summary": "A spacious, premium inflatable tent that LFTO had fully pitched in 20 minutes using air beams instead of traditional poles. Magnetic bedroom doors and two flexible darkened rooms that combine into a larger space stood out, though at 26.6kg it's heavy with a fiddly stuff sack.",
+      "specs": {"Capacity": "5-person", "Waterproofing": "4,000mm HH", "Weight": "26.6kg"},
+      "pros": ["Innovative magnetic bedroom opening", "Customisable bedroom layout", "Premium feel and design touches", "Solid weather protection"],
+      "cons": ["Heavy at 26.6kg", "Stuff sack and peg bags could be better"],
+      "asin": "",
+      "search": "Outwell Colorado 5 Air tent"
+    },
+    {
+      "brand": "TentBox",
+      "name": "Lite XL",
+      "badge": "Best roof tent",
+      "best_for": "Families who want to pitch anywhere their car can park",
+      "key_spec": "4-person, 240 x 183cm sleeping area, dual-layer memory foam mattress",
+      "summary": "A roof tent that attaches to the car and pops open on arrival, with LFTO praising its brilliant engineering and durability, plus a memory foam mattress and two skylights for stargazing. It's expensive and bulky to store when not fitted, with no porch or separate living area.",
+      "specs": {"Capacity": "4-person", "Sleeping area": "240 x 183cm", "Mattress": "Dual-layer memory foam"},
+      "pros": ["Pitches in seconds", "High-quality materials", "Memory foam mattress included", "Can pitch anywhere you can park"],
+      "cons": ["Bulky to store when not in use", "No porch or living area"],
+      "asin": "",
+      "search": "TentBox Lite XL roof tent"
+    },
+    {
+      "brand": "Coleman",
+      "name": "Rocky Mountain 5 Plus BlackOut",
+      "badge": "Best for blackout sleeping",
+      "best_for": "Families who want the darkest possible bedroom for lie-ins",
+      "key_spec": "5-person, blackout bedroom fabric, 4,500mm HH, 16kg",
+      "summary": "Stood out to LFTO for genuinely excellent blackout bedrooms that block the vast majority of daylight, held firm through squally showers, hail and gusty winds in testing. Despite being sold as a five-person tent, it feels better suited to two or three people, with a modest living area and no proper porch.",
+      "specs": {"Capacity": "5-person (feels like 2-3)", "Waterproofing": "4,500mm HH", "Weight": "16kg"},
+      "pros": ["Excellent blackout bedrooms", "Easy to pitch with colour-coded poles", "Good internal gear storage", "Strong weather protection"],
+      "cons": ["Feels small for a five-person tent", "No dedicated porch", "Bedrooms too narrow for some mattresses"],
+      "asin": "",
+      "search": "Coleman Rocky Mountain 5 Plus BlackOut tent"
+    },
+    {
+      "brand": "Vango",
+      "name": "Sierra Air 500",
+      "badge": "Best for hot weather",
+      "best_for": "Families who want fast pitching and strong ventilation",
+      "key_spec": "5-person inflatable, removable bedroom divider, 4,000mm HH",
+      "summary": "Quick to pitch in around 20 minutes solo, with generous ventilation from mesh panels and vents that LFTO found kept things cool on hot nights, plus an extended porch canopy for shoes or cooking kit. The living area can feel tight in rainy weather once furniture is added, and it's best thought of as a warm-weather tent.",
+      "specs": {"Capacity": "5-person", "Waterproofing": "4,000mm HH", "Weight": "19kg"},
+      "pros": ["Great ventilation for hot days", "Decent pack size and weight", "Easy to pitch and pack down", "Genuinely useful extended canopy"],
+      "cons": ["Living area feels small once furnished", "Only one entrance"],
+      "asin": "",
+      "search": "Vango Sierra Air 500 tent"
+    },
+    {
+      "brand": "Outwell",
+      "name": "Sacramento Air 6",
+      "badge": "Family tent of the year",
+      "best_for": "Regular family campers who want quality and comfort for the long haul",
+      "key_spec": "655 x 310cm, 215cm peak height, 4,000mm HH, air beam structure",
+      "summary": "Winner of LFTO's 'family tent of the year' award, roomy from the moment you step inside with a bright central living area and thoughtful touches like power access and hook tracks. Pitching was habitable in around 13 minutes, though at 31kg it's heavy and needs two people to move comfortably.",
+      "specs": {"Size": "655 x 310cm", "Peak height": "215cm", "Waterproofing": "4,000mm HH", "Weight": "31kg"},
+      "pros": ["Quality materials and components", "Easy to pitch and pack away for its size", "Thoughtful design touches throughout", "Large, bright living space"],
+      "cons": ["At the higher end of the price range", "Bedroom customisation could be better", "Large, heavy package when packed"],
+      "asin": "",
+      "search": "Outwell Sacramento Air 6 tent"
+    },
+    {
+      "brand": "Vango",
+      "name": "Savannah 600XL",
+      "badge": "Best for long stays",
+      "best_for": "Families who want extra communal space for longer campsite trips",
+      "key_spec": "3 bedrooms, 385 x 280cm living area, integrated 385 x 195cm awning",
+      "summary": "A generously sized tunnel tent built for longer stays, with three bedrooms and an integrated awning that LFTO found genuinely practical as a second communal space for boots, muddy kit or shaded seating. The large living area and 205cm peak height make it feel airy, suiting campers who bring plenty of furniture.",
+      "specs": {"Bedrooms": "3", "Living area": "385 x 280cm", "Awning": "385 x 195cm", "Peak height": "205cm"},
+      "pros": ["Huge main living area", "Genuinely useful integrated awning", "Three separate bedrooms", "Feels airy thanks to good peak height"],
+      "cons": ["Large tunnel design takes longer to pitch"],
+      "asin": "",
+      "search": "Vango Savannah 600XL tent"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Poled, air (inflatable) or roof tent?",
+      "a": "Poled tunnel tents, like the Vango Savannah here, are generally the most affordable and offer the most configuration options. Inflatable tents, like the Outwell Colorado 5 Air, pitch much faster using air beams instead of poles. Roof tents, like the TentBox here, let you pitch anywhere you can park but sacrifice a separate living area."
+    },
+    {
+      "q": "What waterproof rating (hydrostatic head) do I need?",
+      "a": "For occasional summer UK camping, 2,000-3,000mm is a reasonable minimum. For more reliable protection through unpredictable British weather, look for 4,000mm or higher, like most tents in this guide, which held up well even in testing through squally showers and gusty winds."
+    },
+    {
+      "q": "How much bigger than my group size should a tent be?",
+      "a": "LFTO's testers often deliberately pitch a tent rated for more people than needed for extra comfort, since many 'X-person' capacity ratings assume sleeping bags packed in tightly with no gear storage. A 5-person tent for a family of four, for example, generally leaves useful room for bags and equipment."
+    },
+    {
+      "q": "Do blackout bedrooms actually matter?",
+      "a": "Blackout bedroom fabric, like the Coleman Rocky Mountain's here, genuinely helps with lie-ins and can make a real difference to sleep quality on bright summer mornings or with young children who wake early with the light. It's a worthwhile feature to look for if you camp mostly in summer."
+    }
+  ],
+  "sources": [
+    {"name": "Live for the Outdoors: best family tents", "url": "https://www.livefortheoutdoors.com/camping/tents/best-family-tents/"}
+  ]
+}
