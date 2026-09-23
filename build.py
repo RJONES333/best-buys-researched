@@ -34,7 +34,7 @@ GROUPS = {
         "samsung-chargers", "wireless-earbuds", "standing-desks",
         "over-ear-headphones", "gaming-headsets", "iphone-charging-cables",
         "gaming-mice", "tvs", "laptops", "power-banks", "bluetooth-speakers",
-        "pc-monitors",
+        "pc-monitors", "mechanical-keyboards", "webcams",
     ],
     "Sleep & comfort": ["mattress-toppers", "pillows", "duvets"],
     "Bathroom": ["bath-towels"],
