@@ -4,7 +4,7 @@
   "short": "Memory foam, wool and adjustable pillows compared by sleep position, firmness and who they suit.",
   "intro": "The wrong pillow height is a common cause of morning neck and shoulder pain, and the right pillow depends heavily on whether you sleep on your side, back or front. This guide compares pillows tested by Mumsnet, including adjustable options that let you fine-tune the height yourself.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "Emma",
@@ -13,9 +13,20 @@
       "best_for": "Buyers who want to fine-tune the height themselves",
       "key_spec": "Adjustable 3-layer foam, machine washable",
       "summary": "An adjustable three-layer pillow made from gel memory foam, HRX foam and visco memory foam, so you can add or remove layers to get the right height and firmness.",
-      "specs": {"Material": "Gel memory foam, HRX foam, visco memory foam", "Design": "Adjustable three-layer", "Washable": "Machine washable"},
-      "pros": ["Adjustable three-layer design", "Firmer feel available", "Machine washable"],
-      "cons": ["Foam feel is not for everyone", "Requires some trial and error with the layers"],
+      "specs": {
+        "Material": "Gel memory foam, HRX foam, visco memory foam",
+        "Design": "Adjustable three-layer",
+        "Washable": "Machine washable"
+      },
+      "pros": [
+        "Adjustable three-layer design",
+        "Firmer feel available",
+        "Machine washable"
+      ],
+      "cons": [
+        "Foam feel is not for everyone",
+        "Requires some trial and error with the layers"
+      ],
       "asin": "",
       "search": "Emma Adapt Pillow"
     },
@@ -26,9 +37,19 @@
       "best_for": "Side sleepers who want a tall, firm pillow that holds its shape",
       "key_spec": "Charcoal-infused memory foam, 10-year guarantee",
       "summary": "A tall, firm block-style pillow with charcoal-infused memory foam and cooling micro-pods, which keeps its shape overnight and comes with a long guarantee.",
-      "specs": {"Material": "Charcoal-infused memory foam with O2 micro-pods", "Guarantee": "10 years"},
-      "pros": ["Keeps its shape overnight", "Tall profile suits side sleepers", "10-year guarantee"],
-      "cons": ["Solid block feel", "Heavier pillow"],
+      "specs": {
+        "Material": "Charcoal-infused memory foam with O2 micro-pods",
+        "Guarantee": "10 years"
+      },
+      "pros": [
+        "Keeps its shape overnight",
+        "Tall profile suits side sleepers",
+        "10-year guarantee"
+      ],
+      "cons": [
+        "Solid block feel",
+        "Heavier pillow"
+      ],
       "asin": "",
       "search": "Panda Hybrid Bamboo Pillow"
     },
@@ -39,9 +60,20 @@
       "best_for": "Neck pain sufferers who also sleep hot",
       "key_spec": "TEMPUR Adapt viscoelastic foam, cooling cover",
       "summary": "A viscoelastic foam pillow with a SmartCool cover designed to absorb excess heat, available in soft and medium options, at a premium price.",
-      "specs": {"Material": "TEMPUR Adapt viscoelastic foam", "Cover": "SmartCool cooling cover", "Firmness options": "Soft, medium"},
-      "pros": ["SmartCool cooling cover", "Choice of soft or medium", "Absorbs excess heat"],
-      "cons": ["Foam core is not washable", "Premium price"],
+      "specs": {
+        "Material": "TEMPUR Adapt viscoelastic foam",
+        "Cover": "SmartCool cooling cover",
+        "Firmness options": "Soft, medium"
+      },
+      "pros": [
+        "SmartCool cooling cover",
+        "Choice of soft or medium",
+        "Absorbs excess heat"
+      ],
+      "cons": [
+        "Foam core is not washable",
+        "Premium price"
+      ],
       "asin": "",
       "search": "TEMPUR Cloud SmartCool pillow"
     },
@@ -52,9 +84,20 @@
       "best_for": "Buyers unsure what loft they need",
       "key_spec": "Nanocube memory foam plus fibre, customisable loft",
       "summary": "A hybrid pillow filled with Nanocube memory foam and fibre that you can remove to adjust the loft, with cooling technology built in.",
-      "specs": {"Material": "Nanocube memory foam and fibre", "Design": "Customisable loft", "Guarantee": "1 year"},
-      "pros": ["Customisable loft", "Hybrid feel", "Cooling technology"],
-      "cons": ["Removed filling needs somewhere to be stored", "Shorter guarantee than some rivals"],
+      "specs": {
+        "Material": "Nanocube memory foam and fibre",
+        "Design": "Customisable loft",
+        "Guarantee": "1 year"
+      },
+      "pros": [
+        "Customisable loft",
+        "Hybrid feel",
+        "Cooling technology"
+      ],
+      "cons": [
+        "Removed filling needs somewhere to be stored",
+        "Shorter guarantee than some rivals"
+      ],
       "asin": "",
       "search": "Simba Hybrid Pillow"
     },
@@ -65,9 +108,20 @@
       "best_for": "Buyers who want a dedicated contour shape for the neck",
       "key_spec": "Polyurethane foam, contoured cervical ridge",
       "summary": "An orthopaedic pillow with a firm contoured ridge designed to support the neck, with a machine-washable cover and a five-year guarantee.",
-      "specs": {"Material": "Polyurethane foam", "Design": "Contoured cervical ridge", "Guarantee": "5 years"},
-      "pros": ["Firm cervical ridge support", "Machine-washable cover", "Five-year guarantee"],
-      "cons": ["Needs an adjustment period", "Can feel too firm for some sleepers"],
+      "specs": {
+        "Material": "Polyurethane foam",
+        "Design": "Contoured cervical ridge",
+        "Guarantee": "5 years"
+      },
+      "pros": [
+        "Firm cervical ridge support",
+        "Machine-washable cover",
+        "Five-year guarantee"
+      ],
+      "cons": [
+        "Needs an adjustment period",
+        "Can feel too firm for some sleepers"
+      ],
       "asin": "",
       "search": "SISSEL Classic Large Orthopaedic Pillow"
     },
@@ -78,9 +132,19 @@
       "best_for": "Buyers who want a natural, hypoallergenic pillow",
       "key_spec": "100% British wool pearls, adjustable loft",
       "summary": "A wool-filled pillow with an adjustable loft, naturally temperature-regulating and hypoallergenic, though it has a light wool scent when new.",
-      "specs": {"Material": "100% British wool pearls", "Design": "Adjustable loft"},
-      "pros": ["Adjustable loft", "Naturally temperature-regulating", "Hypoallergenic"],
-      "cons": ["Light wool scent at first", "Fill needs some tweaking to get right"],
+      "specs": {
+        "Material": "100% British wool pearls",
+        "Design": "Adjustable loft"
+      },
+      "pros": [
+        "Adjustable loft",
+        "Naturally temperature-regulating",
+        "Hypoallergenic"
+      ],
+      "cons": [
+        "Light wool scent at first",
+        "Fill needs some tweaking to get right"
+      ],
       "asin": "",
       "search": "Woolroom Deluxe Washable Wool Pillow"
     },
@@ -91,9 +155,20 @@
       "best_for": "Side sleepers on a tight budget",
       "key_spec": "Polyester fibre fill, contoured shape, about £22",
       "summary": "An affordable, firmly contoured pillow shaped specifically for side sleeping, with a 100% cotton cover, though it only comes in one size.",
-      "specs": {"Material": "Polyester fibre fill", "Cover": "100% cotton", "Price guide": "About £22"},
-      "pros": ["Firm contoured shape for side sleeping", "100% cotton cover", "Affordable"],
-      "cons": ["Very specific shape may not suit everyone", "Single size only"],
+      "specs": {
+        "Material": "Polyester fibre fill",
+        "Cover": "100% cotton",
+        "Price guide": "About £22"
+      },
+      "pros": [
+        "Firm contoured shape for side sleeping",
+        "100% cotton cover",
+        "Affordable"
+      ],
+      "cons": [
+        "Very specific shape may not suit everyone",
+        "Single size only"
+      ],
       "asin": "",
       "search": "Dunelm Comfortzone Side Sleeper Contour Pillow"
     },
@@ -104,9 +179,21 @@
       "best_for": "Side sleepers who want to adjust the fill without paying a premium",
       "key_spec": "Shredded gel memory foam, about £30, 100-night trial",
       "summary": "A budget-friendly pillow with adjustable shredded gel memory foam fill and a dual-sided cover, backed by a 100-night trial.",
-      "specs": {"Material": "Shredded gel memory foam", "Cover": "Dual-sided", "Trial": "100 nights"},
-      "pros": ["Adjustable fill", "Dual-sided cover", "Affordable", "100-night trial"],
-      "cons": ["New foam smell at first", "Needs fill adjustment to get comfortable"],
+      "specs": {
+        "Material": "Shredded gel memory foam",
+        "Cover": "Dual-sided",
+        "Trial": "100 nights"
+      },
+      "pros": [
+        "Adjustable fill",
+        "Dual-sided cover",
+        "Affordable",
+        "100-night trial"
+      ],
+      "cons": [
+        "New foam smell at first",
+        "Needs fill adjustment to get comfortable"
+      ],
       "asin": "",
       "search": "SKYNY Cooling Side Sleeper Pillow"
     }
@@ -130,6 +217,9 @@
     }
   ],
   "sources": [
-    {"name": "Mumsnet: best pillows for neck pain", "url": "https://www.mumsnet.com/reviews/best-pillows-for-neck-pain"}
+    {
+      "name": "Mumsnet: best pillows for neck pain",
+      "url": "https://www.mumsnet.com/reviews/best-pillows-for-neck-pain"
+    }
   ]
 }

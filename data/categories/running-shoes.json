@@ -4,7 +4,7 @@
   "short": "Road, racing and daily-trainer running shoes compared by weight, cushioning and energy return.",
   "intro": "The right running shoe depends heavily on what you actually run: easy daily miles, tempo sessions, or race day. This guide compares shoes lab-tested by RunRepeat, which measures weight, cushioning stack height and energy return rather than relying on impressions alone.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "Adidas",
@@ -13,9 +13,23 @@
       "best_for": "Versatile running across a range of distances",
       "key_spec": "223g, Lightstrike Pro foam, 74.3% energy return",
       "summary": "RunRepeat's overall winner, lightweight with a breathable upper and exceptional energy return, versatile enough for various distances, though the midsole is narrow with minimal support.",
-      "specs": {"Weight": "7.9oz (223g)", "Cushioning": "Lightstrike Pro foam", "Energy return": "74.3% heel, 70.3% forefoot"},
-      "pros": ["Lightweight", "Breathable upper", "Versatile for various distances", "Exceptional energy return"],
-      "cons": ["Narrow midsole", "Minimal support", "Poor laces", "Short tongue"],
+      "specs": {
+        "Weight": "7.9oz (223g)",
+        "Cushioning": "Lightstrike Pro foam",
+        "Energy return": "74.3% heel, 70.3% forefoot"
+      },
+      "pros": [
+        "Lightweight",
+        "Breathable upper",
+        "Versatile for various distances",
+        "Exceptional energy return"
+      ],
+      "cons": [
+        "Narrow midsole",
+        "Minimal support",
+        "Poor laces",
+        "Short tongue"
+      ],
       "asin": "",
       "search": "Adidas Adizero EVO SL running shoes"
     },
@@ -26,9 +40,23 @@
       "best_for": "Comfortable everyday training miles",
       "key_spec": "255g, Infinion foam, 37mm stack",
       "summary": "A plush, comfortable daily trainer with a premium knit upper, lightweight and flexible for easy miles, though the midsole is narrower than previous versions.",
-      "specs": {"Weight": "9.0oz (255g)", "Cushioning": "Infinion foam", "Stack height": "37.0/30.6mm", "Energy return": "65.9% heel"},
-      "pros": ["Plush comfort", "Lightweight", "Flexible", "Premium knit upper"],
-      "cons": ["Narrower midsole than previous versions", "Limited stability", "Disappointing breathability"],
+      "specs": {
+        "Weight": "9.0oz (255g)",
+        "Cushioning": "Infinion foam",
+        "Stack height": "37.0/30.6mm",
+        "Energy return": "65.9% heel"
+      },
+      "pros": [
+        "Plush comfort",
+        "Lightweight",
+        "Flexible",
+        "Premium knit upper"
+      ],
+      "cons": [
+        "Narrower midsole than previous versions",
+        "Limited stability",
+        "Disappointing breathability"
+      ],
       "asin": "",
       "search": "New Balance 1080 v15 running shoes"
     },
@@ -39,9 +67,20 @@
       "best_for": "Faster training sessions between easy runs and race day",
       "key_spec": "PWRRUN PB foam with nylon plate, 73.2% energy return",
       "summary": "A tempo shoe RunRepeat says has supershoe-like energy return and excellent ventilation, versatile across paces, though it's pricier and has some durability concerns.",
-      "specs": {"Cushioning": "PWRRUN PB foam with nylon plate", "Energy return": "73.2% heel, 78.2% forefoot"},
-      "pros": ["Supershoe-like energy return", "Excellent ventilation", "Versatile for multiple paces"],
-      "cons": ["Higher price", "Less agile than predecessors", "Durability concerns"],
+      "specs": {
+        "Cushioning": "PWRRUN PB foam with nylon plate",
+        "Energy return": "73.2% heel, 78.2% forefoot"
+      },
+      "pros": [
+        "Supershoe-like energy return",
+        "Excellent ventilation",
+        "Versatile for multiple paces"
+      ],
+      "cons": [
+        "Higher price",
+        "Less agile than predecessors",
+        "Durability concerns"
+      ],
       "asin": "",
       "search": "Saucony Endorphin Speed 5 running shoes"
     },
@@ -52,9 +91,22 @@
       "best_for": "Race day, where every gram and every percent of energy return counts",
       "key_spec": "166g, full ZoomX midsole, carbon-fibre plate",
       "summary": "An ultra-lightweight racing shoe with high stiffness and a carbon plate for propulsion, though the stack is reduced versus earlier versions and it's less suited to marathon distances.",
-      "specs": {"Weight": "5.6oz (166g)", "Cushioning": "Full ZoomX midsole (34.7mm)", "Plate": "Carbon-fibre FlyPlate"},
-      "pros": ["Ultra-lightweight", "High stiffness", "Excellent breathability", "Carbon plate propulsion"],
-      "cons": ["Reduced stack versus earlier versions", "Narrow midfoot and heel", "Less suitable for marathons"],
+      "specs": {
+        "Weight": "5.6oz (166g)",
+        "Cushioning": "Full ZoomX midsole (34.7mm)",
+        "Plate": "Carbon-fibre FlyPlate"
+      },
+      "pros": [
+        "Ultra-lightweight",
+        "High stiffness",
+        "Excellent breathability",
+        "Carbon plate propulsion"
+      ],
+      "cons": [
+        "Reduced stack versus earlier versions",
+        "Narrow midfoot and heel",
+        "Less suitable for marathons"
+      ],
       "asin": "",
       "search": "Nike Vaporfly 4 running shoes"
     },
@@ -65,9 +117,23 @@
       "best_for": "Runners who want maximum cushioning underfoot",
       "key_spec": "264g, Enerzy NXT foam, 46mm stack",
       "summary": "The maximum stack height and plush feel in RunRepeat's testing, with the highest recorded shock absorption score, though energy return and responsiveness are limited.",
-      "specs": {"Weight": "9.3oz (264g)", "Cushioning": "Enerzy NXT foam", "Stack height": "46.0/37.5mm", "Shock absorption": "170 SA heel (highest recorded)"},
-      "pros": ["Maximum stack height", "Plush feel", "Lightweight for its size", "Durable"],
-      "cons": ["Low energy return", "Limited responsiveness", "Stability issues for heel strikers"],
+      "specs": {
+        "Weight": "9.3oz (264g)",
+        "Cushioning": "Enerzy NXT foam",
+        "Stack height": "46.0/37.5mm",
+        "Shock absorption": "170 SA heel (highest recorded)"
+      },
+      "pros": [
+        "Maximum stack height",
+        "Plush feel",
+        "Lightweight for its size",
+        "Durable"
+      ],
+      "cons": [
+        "Low energy return",
+        "Limited responsiveness",
+        "Stability issues for heel strikers"
+      ],
       "asin": "",
       "search": "Mizuno Neo Vista 2 running shoes"
     },
@@ -78,9 +144,21 @@
       "best_for": "Runners chasing the most propulsive ride available",
       "key_spec": "210g, IncrediRUN foam with forked carbon plate, 80.6% energy return",
       "summary": "RunRepeat's pick for energy return, with a record-breaking result in testing and exceptional shock absorption, though it's heavier than competitors and can feel unstable for overpronators.",
-      "specs": {"Weight": "7.4oz (210g)", "Cushioning": "IncrediRUN foam with forked carbon plate", "Energy return": "80.6% heel, 81.0% forefoot"},
-      "pros": ["Record-breaking energy return", "Exceptional shock absorption", "Explosive ride"],
-      "cons": ["Heavier than competitors", "Unstable for overpronators", "Premium pricing"],
+      "specs": {
+        "Weight": "7.4oz (210g)",
+        "Cushioning": "IncrediRUN foam with forked carbon plate",
+        "Energy return": "80.6% heel, 81.0% forefoot"
+      },
+      "pros": [
+        "Record-breaking energy return",
+        "Exceptional shock absorption",
+        "Explosive ride"
+      ],
+      "cons": [
+        "Heavier than competitors",
+        "Unstable for overpronators",
+        "Premium pricing"
+      ],
       "asin": "",
       "search": "Saucony Endorphin Elite 3 running shoes"
     },
@@ -91,9 +169,21 @@
       "best_for": "Runners who need extra support and overpronation control",
       "key_spec": "FluidSupport system, 132 SA heel shock absorption",
       "summary": "A stability shoe with reliable support and excellent grip in testing, well suited to runners who need extra structure, though RunRepeat found its energy return low and underwhelming for speed work.",
-      "specs": {"Cushioning": "FluidSupport system", "Midsole": "120.7/97.1mm", "Shock absorption": "132 SA heel"},
-      "pros": ["Reliable stability support", "Excellent grip", "Lasting comfort"],
-      "cons": ["Low energy return", "Feels underwhelming", "Doesn't suit speed-focused training"],
+      "specs": {
+        "Cushioning": "FluidSupport system",
+        "Midsole": "120.7/97.1mm",
+        "Shock absorption": "132 SA heel"
+      },
+      "pros": [
+        "Reliable stability support",
+        "Excellent grip",
+        "Lasting comfort"
+      ],
+      "cons": [
+        "Low energy return",
+        "Feels underwhelming",
+        "Doesn't suit speed-focused training"
+      ],
       "asin": "",
       "search": "ASICS Gel Kayano 33 running shoes"
     }
@@ -117,6 +207,9 @@
     }
   ],
   "sources": [
-    {"name": "RunRepeat: best running shoes", "url": "https://runrepeat.com/guides/best-running-shoes"}
+    {
+      "name": "RunRepeat: best running shoes",
+      "url": "https://runrepeat.com/guides/best-running-shoes"
+    }
   ]
 }

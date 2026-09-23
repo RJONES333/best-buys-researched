@@ -4,7 +4,7 @@
   "short": "Wired and wireless PC gaming headsets compared by battery life, comfort, mic quality and platform support.",
   "intro": "A gaming headset needs to balance comfortable long sessions, clear voice chat and audio that helps you place footsteps, and the best choice depends heavily on how you play. This guide compares headsets tested by Stuff, covering wireless multi-platform sets, wired budget options and dedicated PlayStation and Xbox picks.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "SteelSeries",
@@ -13,9 +13,22 @@
       "best_for": "Buyers who game across PC, consoles and want instant switching",
       "key_spec": "Wireless (2.4GHz/Bluetooth/USB-C), 30hr battery, hot-swappable batteries",
       "summary": "Stuff's overall pick, with great gaming connectivity, effective ANC and precise audio. It supports PC, Mac, PlayStation and Switch, and batteries can be hot-swapped mid-session, though it is very expensive.",
-      "specs": {"Connection": "2.4GHz, Bluetooth, USB-C", "Battery life": "30 hours", "Drivers": "40mm carbon-fibre", "Platforms": "PC, Mac, PS4/PS5, Nintendo Switch"},
-      "pros": ["Great gaming connectivity", "Effective ANC", "Precise audio", "Hot-swappable batteries"],
-      "cons": ["Very expensive", "May be overkill for single-console gamers"],
+      "specs": {
+        "Connection": "2.4GHz, Bluetooth, USB-C",
+        "Battery life": "30 hours",
+        "Drivers": "40mm carbon-fibre",
+        "Platforms": "PC, Mac, PS4/PS5, Nintendo Switch"
+      },
+      "pros": [
+        "Great gaming connectivity",
+        "Effective ANC",
+        "Precise audio",
+        "Hot-swappable batteries"
+      ],
+      "cons": [
+        "Very expensive",
+        "May be overkill for single-console gamers"
+      ],
       "asin": "",
       "search": "SteelSeries Arctis Nova Elite gaming headset"
     },
@@ -26,9 +39,20 @@
       "best_for": "Buyers who want a simple, affordable wired headset",
       "key_spec": "Wired 3.5mm, 53mm drivers, 304g",
       "summary": "Good sound quality at a reasonable price in a lightweight, comfortable and durable build, though spatial audio is weak and software customisation is limited.",
-      "specs": {"Connection": "Wired 3.5mm jack", "Drivers": "53mm", "Weight": "304g"},
-      "pros": ["Good sound quality for the price", "Lightweight and comfortable", "Durable construction"],
-      "cons": ["Weak spatial audio", "Limited software customisation"],
+      "specs": {
+        "Connection": "Wired 3.5mm jack",
+        "Drivers": "53mm",
+        "Weight": "304g"
+      },
+      "pros": [
+        "Good sound quality for the price",
+        "Lightweight and comfortable",
+        "Durable construction"
+      ],
+      "cons": [
+        "Weak spatial audio",
+        "Limited software customisation"
+      ],
       "asin": "",
       "search": "HyperX Cloud III gaming headset"
     },
@@ -39,9 +63,20 @@
       "best_for": "Buyers who want to tune their audio via software",
       "key_spec": "Wireless or wired, 7.1 surround, 50mm drivers",
       "summary": "An affordable headset with customisable audio via SoundID software and a comfortable fit, though its design is understated.",
-      "specs": {"Connection": "Wireless or wired", "Drivers": "50mm", "Weight": "282g", "Surround": "7.1"},
-      "pros": ["Affordable", "Customisable audio via software", "Comfortable fit"],
-      "cons": ["Understated design lacks visual appeal"],
+      "specs": {
+        "Connection": "Wireless or wired",
+        "Drivers": "50mm",
+        "Weight": "282g",
+        "Surround": "7.1"
+      },
+      "pros": [
+        "Affordable",
+        "Customisable audio via software",
+        "Comfortable fit"
+      ],
+      "cons": [
+        "Understated design lacks visual appeal"
+      ],
       "asin": "",
       "search": "Corsair HS65 gaming headset"
     },
@@ -52,9 +87,21 @@
       "best_for": "Marathon gaming sessions without recharging",
       "key_spec": "Wireless, 300hr battery, 50mm Dual Chamber drivers",
       "summary": "An unprecedented 300-hour battery life with crisp audio and two years of DTS Headphone:X spatial audio included, though the microphone clarity could be better.",
-      "specs": {"Connection": "Wireless", "Battery life": "300 hours", "Drivers": "50mm Dual Chamber", "Platforms": "PC, PS4/PS5, Xbox, Nintendo Switch"},
-      "pros": ["Unprecedented battery longevity", "Crisp audio quality", "DTS Headphone:X spatial audio included"],
-      "cons": ["Microphone clarity could be better", "Limited connectivity options"],
+      "specs": {
+        "Connection": "Wireless",
+        "Battery life": "300 hours",
+        "Drivers": "50mm Dual Chamber",
+        "Platforms": "PC, PS4/PS5, Xbox, Nintendo Switch"
+      },
+      "pros": [
+        "Unprecedented battery longevity",
+        "Crisp audio quality",
+        "DTS Headphone:X spatial audio included"
+      ],
+      "cons": [
+        "Microphone clarity could be better",
+        "Limited connectivity options"
+      ],
       "asin": "",
       "search": "HyperX Cloud Alpha Wireless gaming headset"
     },
@@ -65,9 +112,20 @@
       "best_for": "Serious esports and competitive players",
       "key_spec": "Wireless (2.4GHz/Bluetooth), 50hr battery, graphene drivers",
       "summary": "Outstanding clarity and detail in a comfortable, sturdy build with expanded connectivity, though the microphone is only adequate and battery life trails some rivals.",
-      "specs": {"Connection": "2.4GHz, Bluetooth", "Battery life": "50 hours", "Drivers": "50mm graphene"},
-      "pros": ["Outstanding clarity and detail", "Comfortable and sturdy build", "Expanded connectivity options"],
-      "cons": ["Microphone quality only adequate", "Battery life trails some competitors"],
+      "specs": {
+        "Connection": "2.4GHz, Bluetooth",
+        "Battery life": "50 hours",
+        "Drivers": "50mm graphene"
+      },
+      "pros": [
+        "Outstanding clarity and detail",
+        "Comfortable and sturdy build",
+        "Expanded connectivity options"
+      ],
+      "cons": [
+        "Microphone quality only adequate",
+        "Battery life trails some competitors"
+      ],
       "asin": "",
       "search": "Logitech G Pro X 2 gaming headset"
     },
@@ -78,9 +136,21 @@
       "best_for": "PC gamers who want deep software customisation",
       "key_spec": "Wireless (2.4GHz/Bluetooth), swappable battery, ANC",
       "summary": "Excellent active noise cancellation and comprehensive device support with detailed audio across genres, though it has an overwhelming number of settings and shorter battery life than rivals.",
-      "specs": {"Connection": "2.4GHz, Bluetooth", "Battery life": "10-12 hours", "Drivers": "50mm", "ANC": "Yes"},
-      "pros": ["Excellent active noise cancellation", "Comprehensive device support", "Detailed audio across genres"],
-      "cons": ["Overwhelming number of settings", "Shorter battery life than rivals"],
+      "specs": {
+        "Connection": "2.4GHz, Bluetooth",
+        "Battery life": "10-12 hours",
+        "Drivers": "50mm",
+        "ANC": "Yes"
+      },
+      "pros": [
+        "Excellent active noise cancellation",
+        "Comprehensive device support",
+        "Detailed audio across genres"
+      ],
+      "cons": [
+        "Overwhelming number of settings",
+        "Shorter battery life than rivals"
+      ],
       "asin": "",
       "search": "Turtle Beach Stealth Pro gaming headset"
     },
@@ -91,9 +161,21 @@
       "best_for": "Buyers who want ANC that actually performs",
       "key_spec": "Bluetooth 5.3, 2.4GHz dongle, 30hr battery (ANC off)",
       "summary": "Industry-leading active noise cancellation and one of the best boom mics on any gaming headset, in a lightweight design, though software EQ customisation is limited.",
-      "specs": {"Connection": "Bluetooth 5.3, 2.4GHz USB dongle", "Battery life": "30 hours (ANC off)", "Drivers": "30mm carbon-fibre", "Weight": "260g"},
-      "pros": ["Industry-leading active noise cancellation", "Lightweight design", "One of the best boom mics available"],
-      "cons": ["Limited software EQ customisation", "Music quality doesn't justify premium drivers"],
+      "specs": {
+        "Connection": "Bluetooth 5.3, 2.4GHz USB dongle",
+        "Battery life": "30 hours (ANC off)",
+        "Drivers": "30mm carbon-fibre",
+        "Weight": "260g"
+      },
+      "pros": [
+        "Industry-leading active noise cancellation",
+        "Lightweight design",
+        "One of the best boom mics available"
+      ],
+      "cons": [
+        "Limited software EQ customisation",
+        "Music quality doesn't justify premium drivers"
+      ],
       "asin": "",
       "search": "Sony InZone H9 II gaming headset"
     },
@@ -104,9 +186,20 @@
       "best_for": "Comfort-focused casual gamers on a budget",
       "key_spec": "Wireless or wired, dual-device connection, 40mm drivers",
       "summary": "An affordable wireless headset that's lightweight and can connect to two devices at once, though Stuff found audio distortion at high volumes and battery claims overstated in practice.",
-      "specs": {"Connection": "Wireless or wired", "Drivers": "40mm", "Weight": "250g"},
-      "pros": ["Affordable wireless option", "Lightweight", "Connects to two devices simultaneously"],
-      "cons": ["Audio distortion at high volumes", "Overstated battery claims (closer to 25hr in practice vs 59hr claimed)"],
+      "specs": {
+        "Connection": "Wireless or wired",
+        "Drivers": "40mm",
+        "Weight": "250g"
+      },
+      "pros": [
+        "Affordable wireless option",
+        "Lightweight",
+        "Connects to two devices simultaneously"
+      ],
+      "cons": [
+        "Audio distortion at high volumes",
+        "Overstated battery claims (closer to 25hr in practice vs 59hr claimed)"
+      ],
       "asin": "",
       "search": "Razer Barracuda X gaming headset"
     }
@@ -130,6 +223,9 @@
     }
   ],
   "sources": [
-    {"name": "Stuff: best gaming headsets", "url": "https://www.stuff.tv/features/best-gaming-headsets/"}
+    {
+      "name": "Stuff: best gaming headsets",
+      "url": "https://www.stuff.tv/features/best-gaming-headsets/"
+    }
   ]
 }

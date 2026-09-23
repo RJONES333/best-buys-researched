@@ -4,7 +4,7 @@
   "short": "Wool, feather and down, and synthetic duvets compared by tog rating, breathability and season.",
   "intro": "The right duvet depends on more than tog rating alone. This guide compares duvets Ideal Home's Sleep Editor says the team tested over 10,000 hours across more than 30 bestsellers, covering winter, summer and all-season options across wool, feather and down, and synthetic fills.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "Woolroom",
@@ -13,9 +13,23 @@
       "best_for": "Cold sleepers and couples who overheat unevenly",
       "key_spec": "British wool fill, machine-washable, 30-night sleep trial",
       "summary": "Ideal Home's top winter pick and best for cold sleepers. It kept the tester warm in a room that struggled to stay above 16°C, with excellent breathability that avoided the overheating other winter duvets caused.",
-      "specs": {"Materials": "Organic cotton cover, British wool fill", "Tog ratings": "Light, medium, warm, all-seasons", "Care": "Machine-washable at 40°C, line dry", "Sleep trial": "30 nights", "Price guide": "From £229.99"},
-      "pros": ["Excellent temperature regulation", "Excellent breathability", "30-night sleep trial"],
-      "cons": ["An investment", "Doesn't feel very luxurious", "Line dry only"],
+      "specs": {
+        "Materials": "Organic cotton cover, British wool fill",
+        "Tog ratings": "Light, medium, warm, all-seasons",
+        "Care": "Machine-washable at 40°C, line dry",
+        "Sleep trial": "30 nights",
+        "Price guide": "From £229.99"
+      },
+      "pros": [
+        "Excellent temperature regulation",
+        "Excellent breathability",
+        "30-night sleep trial"
+      ],
+      "cons": [
+        "An investment",
+        "Doesn't feel very luxurious",
+        "Line dry only"
+      ],
       "asin": "",
       "search": "Woolroom Deluxe Washable Wool Duvet Warm"
     },
@@ -26,9 +40,23 @@
       "best_for": "Year-round use with luxury feel",
       "key_spec": "RDS-certified Hungarian goose down, 3 tog combinations, 60-night sleep trial",
       "summary": "Unlike most all-season duvets which offer only one tog mix, this comes in three combinations for a good warmth match across the year, with a super luxurious, light and airy feel and the longest sleep trial here.",
-      "specs": {"Materials": "Cotton cover, RDS-certified Hungarian goose down and feather", "Tog ratings": "2.5, 4.5, 9, plus 3 all-season combinations", "Care": "Machine-washable at 40°C, low tumble dry", "Sleep trial": "60 nights", "Price guide": "From £370"},
-      "pros": ["Three all-season tog combinations", "Feels super luxurious", "Excellent warmth", "60-night sleep trial"],
-      "cons": ["An investment", "Lacks breathability compared with wool"],
+      "specs": {
+        "Materials": "Cotton cover, RDS-certified Hungarian goose down and feather",
+        "Tog ratings": "2.5, 4.5, 9, plus 3 all-season combinations",
+        "Care": "Machine-washable at 40°C, low tumble dry",
+        "Sleep trial": "60 nights",
+        "Price guide": "From £370"
+      },
+      "pros": [
+        "Three all-season tog combinations",
+        "Feels super luxurious",
+        "Excellent warmth",
+        "60-night sleep trial"
+      ],
+      "cons": [
+        "An investment",
+        "Lacks breathability compared with wool"
+      ],
       "asin": "",
       "search": "scooms Hungarian Goose Down Duvet all-season"
     },
@@ -39,9 +67,22 @@
       "best_for": "Buyers who want an affordable, easy-care duvet",
       "key_spec": "Recycled polyester fill, multiple tog options, from £49.50",
       "summary": "Ideal Home's best budget pick, and the easiest duvet in the guide to care for. It's vegan-friendly and machine washable, though its polyester fill lacks the temperature regulation of natural fills.",
-      "specs": {"Materials": "Polyester cover, recycled polyester fill", "Tog ratings": "1, 4.5, 7.5, 10.5, 13.5, all-seasons", "Care": "Machine-washable at 40°C, low tumble dry", "Sleep trial": "No", "Price guide": "From £49.50"},
-      "pros": ["Budget-friendly", "Easy to wash and care for", "Feels like a premium product", "Vegan friendly"],
-      "cons": ["Lacks temperature regulation and breathability"],
+      "specs": {
+        "Materials": "Polyester cover, recycled polyester fill",
+        "Tog ratings": "1, 4.5, 7.5, 10.5, 13.5, all-seasons",
+        "Care": "Machine-washable at 40°C, low tumble dry",
+        "Sleep trial": "No",
+        "Price guide": "From £49.50"
+      },
+      "pros": [
+        "Budget-friendly",
+        "Easy to wash and care for",
+        "Feels like a premium product",
+        "Vegan friendly"
+      ],
+      "cons": [
+        "Lacks temperature regulation and breathability"
+      ],
       "asin": "",
       "search": "Marks and Spencer Smart Wash and Dry Duvet"
     },
@@ -52,9 +93,20 @@
       "best_for": "Buyers who want the most luxurious, cloud-like feel",
       "key_spec": "90% Hungarian goose down, 13.5 tog winter",
       "summary": "Described by Ideal Home as feeling super puffy, squashy and airy, like sleeping under a cloud, and very warm, though it was found less breathable than wool options and prone to overheating hot sleepers by the early hours.",
-      "specs": {"Fill": "90% Hungarian goose down", "Tog ratings": "3, 4.5, 9, 13.5, all-seasons", "Price guide": "From £330"},
-      "pros": ["Super puffy, squashy and airy feel", "Very warm and cosy", "Luxurious hotel-style comfort"],
-      "cons": ["Less breathable than wool", "Can overheat hot sleepers"],
+      "specs": {
+        "Fill": "90% Hungarian goose down",
+        "Tog ratings": "3, 4.5, 9, 13.5, all-seasons",
+        "Price guide": "From £330"
+      },
+      "pros": [
+        "Super puffy, squashy and airy feel",
+        "Very warm and cosy",
+        "Luxurious hotel-style comfort"
+      ],
+      "cons": [
+        "Less breathable than wool",
+        "Can overheat hot sleepers"
+      ],
       "asin": "",
       "search": "Soak & Sleep 90% Hungarian Goose Down 13.5 Tog Winter Duvet"
     },
@@ -65,9 +117,21 @@
       "best_for": "Hot sleepers who want wool's breathability at a lower price",
       "key_spec": "Wool fill, light/medium/heavy tog options, from £59",
       "summary": "A far more affordable alternative to premium wool duvets, still kept the tester toasty at its heaviest setting, though it feels more basic, can't be washed, and doesn't include a sleep trial.",
-      "specs": {"Tog ratings": "Light, medium, heavy", "Price guide": "From £59"},
-      "pros": ["Affordable wool option", "Good warmth at heaviest setting", "Breathable"],
-      "cons": ["Feels more basic than premium options", "Not washable", "No sleep trial", "Cover found noisy and crinkly"],
+      "specs": {
+        "Tog ratings": "Light, medium, heavy",
+        "Price guide": "From £59"
+      },
+      "pros": [
+        "Affordable wool option",
+        "Good warmth at heaviest setting",
+        "Breathable"
+      ],
+      "cons": [
+        "Feels more basic than premium options",
+        "Not washable",
+        "No sleep trial",
+        "Cover found noisy and crinkly"
+      ],
       "asin": "",
       "search": "Slumberdown Wonderful Wool Heavyweight Duvet"
     },
@@ -78,8 +142,17 @@
       "best_for": "Buyers who want an affordable, easy-care all-season duvet",
       "key_spec": "13.5 tog (4.5+9 combo), recycled polyester, from £60",
       "summary": "A budget-friendly all-season option made from recycled polyester, providing separate 4.5 and 9 tog duvets that connect for a warmer 13.5 tog. Machine washable at 60°C and tumble-dryable.",
-      "specs": {"Materials": "Recycled polyester", "Tog rating": "All-season 13.5 tog (4.5 + 9 tog)", "Care": "Machine-washable at 60°C, tumble dry", "Price guide": "From £60"},
-      "pros": ["Budget-friendly all-season option", "Easy to wash and dry", "Made from recycled polyester"],
+      "specs": {
+        "Materials": "Recycled polyester",
+        "Tog rating": "All-season 13.5 tog (4.5 + 9 tog)",
+        "Care": "Machine-washable at 60°C, tumble dry",
+        "Price guide": "From £60"
+      },
+      "pros": [
+        "Budget-friendly all-season option",
+        "Easy to wash and dry",
+        "Made from recycled polyester"
+      ],
       "cons": [],
       "asin": "",
       "search": "John Lewis Synthetic Soft Touch Washable 3-in-1 Duvet"
@@ -91,9 +164,24 @@
       "best_for": "Summer sleeping, and menopause or night sweats",
       "key_spec": "British wool fill, machine-washable, 30-night sleep trial",
       "summary": "Ideal Home's pick for summer and for menopause or night sweats. Both a hot and a cold sleeper found it the best-regulating duvet tested, staying comfortable through heatwaves and unseasonably cool nights alike.",
-      "specs": {"Materials": "Organic cotton cover, British wool fill", "Tog ratings": "Light, medium, warm, all-seasons", "Care": "Machine-washable at 40°C, line dry", "Sleep trial": "30 nights", "Price guide": "From £144.99"},
-      "pros": ["Excellent temperature regulation for hot and cold sleepers", "Ideal for couples", "Natural, biodegradable materials", "30-night sleep trial"],
-      "cons": ["An investment", "Feels a bit flat", "Washing and drying needs some care"],
+      "specs": {
+        "Materials": "Organic cotton cover, British wool fill",
+        "Tog ratings": "Light, medium, warm, all-seasons",
+        "Care": "Machine-washable at 40°C, line dry",
+        "Sleep trial": "30 nights",
+        "Price guide": "From £144.99"
+      },
+      "pros": [
+        "Excellent temperature regulation for hot and cold sleepers",
+        "Ideal for couples",
+        "Natural, biodegradable materials",
+        "30-night sleep trial"
+      ],
+      "cons": [
+        "An investment",
+        "Feels a bit flat",
+        "Washing and drying needs some care"
+      ],
       "asin": "",
       "search": "Woolroom Deluxe Washable Wool Duvet Light Medium"
     },
@@ -104,9 +192,19 @@
       "best_for": "Buyers who want a more luxurious feel than a budget wool duvet",
       "key_spec": "Wool fill, from £180",
       "summary": "A more premium summer wool duvet with noticeably more squish and luxury feel than the Woolroom Deluxe, though it costs more, isn't machine washable, and has no sleep trial.",
-      "specs": {"Tog ratings": "4.5, 13.5, all-seasons", "Price guide": "From £180"},
-      "pros": ["More premium, luxurious feel", "Good breathability and temperature regulation"],
-      "cons": ["More expensive", "Not machine washable", "No sleep trial"],
+      "specs": {
+        "Tog ratings": "4.5, 13.5, all-seasons",
+        "Price guide": "From £180"
+      },
+      "pros": [
+        "More premium, luxurious feel",
+        "Good breathability and temperature regulation"
+      ],
+      "cons": [
+        "More expensive",
+        "Not machine washable",
+        "No sleep trial"
+      ],
       "asin": "",
       "search": "Floks Luxury British Summer Wool 4-5 Tog Duvet"
     }
@@ -130,6 +228,9 @@
     }
   ],
   "sources": [
-    {"name": "Ideal Home: best duvets", "url": "https://www.idealhome.co.uk/buying-guide-reviews/best-duvets-224921"}
+    {
+      "name": "Ideal Home: best duvets",
+      "url": "https://www.idealhome.co.uk/buying-guide-reviews/best-duvets-224921"
+    }
   ]
 }

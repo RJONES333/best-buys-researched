@@ -4,7 +4,7 @@
   "short": "Hair dryers compared by hair type, power and weight, from travel-friendly picks to salon-grade dryers.",
   "intro": "The best hair dryer for you depends heavily on your hair type as much as raw power. This guide compares dryers tested by Marie Claire UK's beauty team, covering different hair types, budgets and needs like travel and attachments.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "mdlondon",
@@ -13,9 +13,23 @@
       "best_for": "Most people who want strong all-round performance",
       "key_spec": "1600W, 360g, 3 speed settings, ionic",
       "summary": "Marie Claire's overall winner and a Marie Claire UK Hair Awards winner. One of the lightest dryers tested at 360g, with a silent motor, self-cleaning function and both a diffuser and two nozzle options included.",
-      "specs": {"Power": "1600W", "Weight": "360g", "Speed settings": "3", "Ionic technology": "Yes", "Cool shot": "Yes", "Price guide": "£199"},
-      "pros": ["Great colours", "Lightweight and travel-friendly", "Quieter than most"],
-      "cons": ["Not quite the fastest or most powerful tested", "Quite expensive"],
+      "specs": {
+        "Power": "1600W",
+        "Weight": "360g",
+        "Speed settings": "3",
+        "Ionic technology": "Yes",
+        "Cool shot": "Yes",
+        "Price guide": "£199"
+      },
+      "pros": [
+        "Great colours",
+        "Lightweight and travel-friendly",
+        "Quieter than most"
+      ],
+      "cons": [
+        "Not quite the fastest or most powerful tested",
+        "Quite expensive"
+      ],
       "asin": "",
       "search": "mdlondon Blow Hair Dryer"
     },
@@ -26,9 +40,23 @@
       "best_for": "Curly hair that needs diffused, even heat",
       "key_spec": "650W, built-in diffuser, ionic",
       "summary": "A hairdryer and diffuser combined in one tool, easy to hold and shape curls with, and gentle enough to rest against the scalp without burning, though it's not useful for straightening and is fairly noisy.",
-      "specs": {"Power": "650W", "Speed settings": "2", "Ionic technology": "Yes", "Cool shot": "Yes", "Price guide": "£150"},
-      "pros": ["Specifically designed for curly hair", "Wide nozzle covers more hair at once", "Easy to hold", "Doesn't feel too hot on the scalp"],
-      "cons": ["Not useful for straight styling", "Quite noisy"],
+      "specs": {
+        "Power": "650W",
+        "Speed settings": "2",
+        "Ionic technology": "Yes",
+        "Cool shot": "Yes",
+        "Price guide": "£150"
+      },
+      "pros": [
+        "Specifically designed for curly hair",
+        "Wide nozzle covers more hair at once",
+        "Easy to hold",
+        "Doesn't feel too hot on the scalp"
+      ],
+      "cons": [
+        "Not useful for straight styling",
+        "Quite noisy"
+      ],
       "asin": "",
       "search": "Bellissima Italia Diffon Supreme"
     },
@@ -39,9 +67,23 @@
       "best_for": "Frequent travellers who don't want to compromise on power",
       "key_spec": "1600W, folds in half, dual voltage",
       "summary": "A compact travel dryer that folds down small without compromising on power, and switches between 120V and 240V, with a chic travel case included.",
-      "specs": {"Power": "1600W", "Speed settings": "2", "Ionic technology": "Yes", "Cool shot": "Yes", "Cord length": "1.8m", "Price guide": "£79"},
-      "pros": ["Compact and folds in half", "Comes with a travel case", "Switches between 120V and 240V"],
-      "cons": ["Some rivals are lighter", "Expensive if not used often"],
+      "specs": {
+        "Power": "1600W",
+        "Speed settings": "2",
+        "Ionic technology": "Yes",
+        "Cool shot": "Yes",
+        "Cord length": "1.8m",
+        "Price guide": "£79"
+      },
+      "pros": [
+        "Compact and folds in half",
+        "Comes with a travel case",
+        "Switches between 120V and 240V"
+      ],
+      "cons": [
+        "Some rivals are lighter",
+        "Expensive if not used often"
+      ],
       "asin": "",
       "search": "ghd Flight+ Travel Hair Dryer"
     },
@@ -52,9 +94,21 @@
       "best_for": "Fine hair that needs controlled, gentle drying",
       "key_spec": "2200W, ionic, cool shot",
       "summary": "A salon-grade dryer well suited to fine hair, with a long 3m cord for ease of use around a mirror.",
-      "specs": {"Power": "2200W", "Speed settings": "2", "Ionic technology": "Yes", "Cool shot": "Yes", "Cord length": "3m", "Price guide": "£189"},
-      "pros": ["Salon-grade power", "Long cord for easier styling"],
-      "cons": ["Expensive"],
+      "specs": {
+        "Power": "2200W",
+        "Speed settings": "2",
+        "Ionic technology": "Yes",
+        "Cool shot": "Yes",
+        "Cord length": "3m",
+        "Price guide": "£189"
+      },
+      "pros": [
+        "Salon-grade power",
+        "Long cord for easier styling"
+      ],
+      "cons": [
+        "Expensive"
+      ],
       "asin": "",
       "search": "ghd Helios Professional Hair Dryer"
     },
@@ -65,9 +119,16 @@
       "best_for": "Thick hair that takes a long time to dry",
       "key_spec": "High airflow, magnetic attachments",
       "summary": "Marie Claire's pick for thick hair, built to dry faster without excessive heat damage, at a premium price point.",
-      "specs": {"Price guide": "£299.99"},
-      "pros": ["Fast drying for thick hair", "Magnetic attachments"],
-      "cons": ["Expensive"],
+      "specs": {
+        "Price guide": "£299.99"
+      },
+      "pros": [
+        "Fast drying for thick hair",
+        "Magnetic attachments"
+      ],
+      "cons": [
+        "Expensive"
+      ],
       "asin": "",
       "search": "Dyson Supersonic Hair Dryer"
     },
@@ -78,8 +139,12 @@
       "best_for": "Hair that needs gentler, less damaging heat styling",
       "key_spec": "Adjustable heat and speed settings",
       "summary": "Marie Claire's pick for damaged hair, designed to style with reduced heat damage compared with standard dryers.",
-      "specs": {"Price guide": "£159"},
-      "pros": ["Designed to reduce heat damage"],
+      "specs": {
+        "Price guide": "£159"
+      },
+      "pros": [
+        "Designed to reduce heat damage"
+      ],
       "cons": [],
       "asin": "",
       "search": "Cloud Nine The Airshot Hair Dryer"
@@ -91,9 +156,16 @@
       "best_for": "Buyers who want drying and styling tools in one device",
       "key_spec": "5-in-1 styling attachments",
       "summary": "Marie Claire's pick for a multi-purpose styler, combining a hair dryer with five styling attachments to replace several separate tools.",
-      "specs": {"Price guide": "£219.99"},
-      "pros": ["5-in-1 styling attachments", "Replaces multiple separate tools"],
-      "cons": ["Higher price for the added versatility"],
+      "specs": {
+        "Price guide": "£219.99"
+      },
+      "pros": [
+        "5-in-1 styling attachments",
+        "Replaces multiple separate tools"
+      ],
+      "cons": [
+        "Higher price for the added versatility"
+      ],
       "asin": "",
       "search": "Shark SpeedStyle 5-in-1 Hair Dryer"
     },
@@ -104,8 +176,14 @@
       "best_for": "Buyers who want solid performance on a budget",
       "key_spec": "2300W",
       "summary": "Marie Claire's top pick for buyers wanting to stay under £100, offering decent power at an accessible price.",
-      "specs": {"Power": "2300W", "Price guide": "£67.50"},
-      "pros": ["Affordable", "Decent power for the price"],
+      "specs": {
+        "Power": "2300W",
+        "Price guide": "£67.50"
+      },
+      "pros": [
+        "Affordable",
+        "Decent power for the price"
+      ],
       "cons": [],
       "asin": "",
       "search": "BaByliss 2300 Hair Styler Dryer"
@@ -130,6 +208,9 @@
     }
   ],
   "sources": [
-    {"name": "Marie Claire UK: best hair dryers", "url": "https://www.marieclaire.co.uk/beauty/hair/best-hair-dryers-86387"}
+    {
+      "name": "Marie Claire UK: best hair dryers",
+      "url": "https://www.marieclaire.co.uk/beauty/hair/best-hair-dryers-86387"
+    }
   ]
 }

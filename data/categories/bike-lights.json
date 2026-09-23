@@ -4,7 +4,7 @@
   "short": "Front and rear bike lights compared by lumens, battery life and who they suit, for commuting, road and trail.",
   "intro": "Once the clocks change, a decent set of bike lights stops being optional. This guide compares front and rear lights tested by BikeRadar, which says it has tested more than 500 lights over 17 years, so you can pick lights matched to how dark and how fast you ride.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "Knog",
@@ -13,9 +13,20 @@
       "best_for": "On- and off-road riding where you want one capable light",
       "key_spec": "1,300 lumens, 2hr battery at max",
       "summary": "BikeRadar's overall winner. A compact, well-made front light with a low handlebar profile, though it has a relatively short runtime at peak brightness.",
-      "specs": {"Type": "Front", "Lumens": "1,300", "Battery life": "2 hours (max output)"},
-      "pros": ["Compact handlebar profile", "Quality construction", "Includes GoPro mount"],
-      "cons": ["Sharp edges", "Relatively short peak runtime"],
+      "specs": {
+        "Type": "Front",
+        "Lumens": "1,300",
+        "Battery life": "2 hours (max output)"
+      },
+      "pros": [
+        "Compact handlebar profile",
+        "Quality construction",
+        "Includes GoPro mount"
+      ],
+      "cons": [
+        "Sharp edges",
+        "Relatively short peak runtime"
+      ],
       "asin": "",
       "search": "Knog Blinder 1300 front bike light"
     },
@@ -26,9 +37,19 @@
       "best_for": "Urban commuting on a budget",
       "key_spec": "500 lumens, 1.5hr battery at max",
       "summary": "A user-friendly, durable and waterproof front light well suited to commuting, though side illumination is limited and BikeRadar found the claimed runtime inaccurate.",
-      "specs": {"Type": "Front", "Lumens": "500", "Battery life": "1.5 hours (max power)"},
-      "pros": ["User-friendly", "Durable, waterproof design"],
-      "cons": ["Limited side illumination", "Claimed runtime found to be inaccurate"],
+      "specs": {
+        "Type": "Front",
+        "Lumens": "500",
+        "Battery life": "1.5 hours (max power)"
+      },
+      "pros": [
+        "User-friendly",
+        "Durable, waterproof design"
+      ],
+      "cons": [
+        "Limited side illumination",
+        "Claimed runtime found to be inaccurate"
+      ],
       "asin": "",
       "search": "NiteRider Swift 500 front bike light"
     },
@@ -39,9 +60,18 @@
       "best_for": "Road cyclists who want strong sustained output",
       "key_spec": "1,400 lumens, 3hr battery at max",
       "summary": "A robustly built road light with strong extended high-output performance, though it has fewer customisation options than some rivals.",
-      "specs": {"Type": "Front", "Lumens": "1,400", "Battery life": "3 hours (max power)"},
-      "pros": ["Extended high-output performance", "Robust build quality"],
-      "cons": ["Fewer customisation options than competitors"],
+      "specs": {
+        "Type": "Front",
+        "Lumens": "1,400",
+        "Battery life": "3 hours (max power)"
+      },
+      "pros": [
+        "Extended high-output performance",
+        "Robust build quality"
+      ],
+      "cons": [
+        "Fewer customisation options than competitors"
+      ],
       "asin": "",
       "search": "Lezyne Macro Drive 1400+ bike light"
     },
@@ -52,9 +82,21 @@
       "best_for": "Riders who prioritise being seen over maximum brightness",
       "key_spec": "950 lumens, compact, premium build",
       "summary": "A premium, compact light with a practical beam designed for visibility, though mode switching is more complex and it uses a proprietary charging cable.",
-      "specs": {"Type": "Front", "Lumens": "950", "Battery life": "1.5 hours (max power)"},
-      "pros": ["Premium build", "Practical beam quality", "Compact size"],
-      "cons": ["Complex mode switching", "Lengthy charging time", "Proprietary charging cable"],
+      "specs": {
+        "Type": "Front",
+        "Lumens": "950",
+        "Battery life": "1.5 hours (max power)"
+      },
+      "pros": [
+        "Premium build",
+        "Practical beam quality",
+        "Compact size"
+      ],
+      "cons": [
+        "Complex mode switching",
+        "Lengthy charging time",
+        "Proprietary charging cable"
+      ],
       "asin": "",
       "search": "Exposure Sirius Mk10 Daybright bike light"
     },
@@ -65,9 +107,20 @@
       "best_for": "Off-road and gravel riding in the dark",
       "key_spec": "2,600 lumens, handlebar remote included",
       "summary": "A very bright light suited to trail brightness needs, with an extended runtime and a handlebar remote, though BikeRadar found the companion app unreliable.",
-      "specs": {"Type": "Front", "Lumens": "2,600", "Battery life": "1 hour 15 minutes (max power)"},
-      "pros": ["Extended runtime", "Trail-suitable brightness", "Handlebar remote included"],
-      "cons": ["Unreliable app", "No mode indicator light"],
+      "specs": {
+        "Type": "Front",
+        "Lumens": "2,600",
+        "Battery life": "1 hour 15 minutes (max power)"
+      },
+      "pros": [
+        "Extended runtime",
+        "Trail-suitable brightness",
+        "Handlebar remote included"
+      ],
+      "cons": [
+        "Unreliable app",
+        "No mode indicator light"
+      ],
       "asin": "",
       "search": "Magicshine Ray 2600B Smart Remote bike light"
     },
@@ -78,9 +131,20 @@
       "best_for": "Riders who want strong, visible output with several modes",
       "key_spec": "400 lumens, 5.5hr battery, 7 modes",
       "summary": "BikeRadar's top rear light. Powerful output with seven mode options and a memory function, though the charging cable is not included.",
-      "specs": {"Type": "Rear", "Lumens": "400", "Battery life": "5.5 hours (claimed)", "Modes": "7"},
-      "pros": ["Powerful output", "Seven mode options", "Memory function"],
-      "cons": ["Charging cable not included"],
+      "specs": {
+        "Type": "Rear",
+        "Lumens": "400",
+        "Battery life": "5.5 hours (claimed)",
+        "Modes": "7"
+      },
+      "pros": [
+        "Powerful output",
+        "Seven mode options",
+        "Memory function"
+      ],
+      "cons": [
+        "Charging cable not included"
+      ],
       "asin": "",
       "search": "Lezyne Strip Drive Pro 400+ rear bike light"
     },
@@ -91,9 +155,20 @@
       "best_for": "Budget-conscious commuters",
       "key_spec": "150 lumens, 4hr battery, brake detection",
       "summary": "A compact, straightforward rear light with a brake detection mode, at a budget-friendly price, though its output is only moderate.",
-      "specs": {"Type": "Rear", "Lumens": "150", "Battery life": "4 hours (max power)", "Extras": "Brake detection mode"},
-      "pros": ["Straightforward operation", "Compact form", "Brake detection mode"],
-      "cons": ["Moderate output power"],
+      "specs": {
+        "Type": "Rear",
+        "Lumens": "150",
+        "Battery life": "4 hours (max power)",
+        "Extras": "Brake detection mode"
+      },
+      "pros": [
+        "Straightforward operation",
+        "Compact form",
+        "Brake detection mode"
+      ],
+      "cons": [
+        "Moderate output power"
+      ],
       "asin": "",
       "search": "Sigma Buster RL 150 rear bike light"
     },
@@ -104,9 +179,19 @@
       "best_for": "Riders who want auto-on and brake alert features at a reasonable price",
       "key_spec": "250 lumens, up to 18.5hr battery, brake function",
       "summary": "A rear light with responsive brake activation, auto-on capability and multiple mounting options, offering strong value for the features included.",
-      "specs": {"Type": "Rear", "Lumens": "250", "Battery life": "Up to 18.5 hours"},
-      "pros": ["Responsive brake activation", "Auto-on capability", "Multiple mounting options"],
-      "cons": ["Runtime can be variable depending on riding style"],
+      "specs": {
+        "Type": "Rear",
+        "Lumens": "250",
+        "Battery life": "Up to 18.5 hours"
+      },
+      "pros": [
+        "Responsive brake activation",
+        "Auto-on capability",
+        "Multiple mounting options"
+      ],
+      "cons": [
+        "Runtime can be variable depending on riding style"
+      ],
       "asin": "",
       "search": "Ravemen TR250 rear bike light"
     }
@@ -130,6 +215,9 @@
     }
   ],
   "sources": [
-    {"name": "BikeRadar: best bike lights for road cycling", "url": "https://www.bikeradar.com/advice/buyers-guides/best-bike-lights-for-road-cycling"}
+    {
+      "name": "BikeRadar: best bike lights for road cycling",
+      "url": "https://www.bikeradar.com/advice/buyers-guides/best-bike-lights-for-road-cycling"
+    }
   ]
 }

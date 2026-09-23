@@ -4,7 +4,7 @@
   "short": "USB-C GaN chargers compared by wattage, ports and Samsung Super Fast Charging (PPS) support.",
   "intro": "Most Samsung Galaxy phones do not come with a charger in the box, and not every USB-C charger actually delivers full speed to a Galaxy phone. This guide compares GaN chargers tested by Android Authority, and explains the PPS detail that determines whether you get Samsung's fastest charging speed.",
   "reviewed": "2026-09-22",
-  "verified": "2026-09-22",
+  "verified": "2026-09-23",
   "products": [
     {
       "brand": "Anker",
@@ -13,9 +13,22 @@
       "best_for": "Everyday charging for one Galaxy phone",
       "key_spec": "30W, 1 USB-C port, PPS",
       "summary": "A compact, affordable single-port charger with foldable plug pins and PPS support for Samsung fast charging. Android Authority notes the device can get warm during charging.",
-      "specs": {"Wattage": "30W", "Ports": "1 (USB-C)", "Samsung PPS support": "Yes (older version)", "Plug": "Foldable"},
-      "pros": ["Compact", "Foldable plug", "Multiple colours", "Budget-friendly"],
-      "cons": ["Single port only", "Device can get warm while charging"],
+      "specs": {
+        "Wattage": "30W",
+        "Ports": "1 (USB-C)",
+        "Samsung PPS support": "Yes (older version)",
+        "Plug": "Foldable"
+      },
+      "pros": [
+        "Compact",
+        "Foldable plug",
+        "Multiple colours",
+        "Budget-friendly"
+      ],
+      "cons": [
+        "Single port only",
+        "Device can get warm while charging"
+      ],
       "asin": "",
       "search": "Anker Nano 3 30W GaN charger"
     },
@@ -26,9 +39,21 @@
       "best_for": "Buyers who want to charge a phone and other devices from one charger",
       "key_spec": "67W, 3 ports, PPS, 93% efficient",
       "summary": "Android Authority's overall pick. It balances power and portability across three ports, supports Samsung fast charging and is highly efficient, though it costs more than single-port options.",
-      "specs": {"Wattage": "67W", "Ports": "3 (2 USB-C, 1 USB-A)", "Samsung PPS support": "Yes", "Efficiency": "93% (tested)"},
-      "pros": ["Very portable for its power", "Three ports", "Efficient", "Supports Samsung fast charging"],
-      "cons": ["Relatively expensive"],
+      "specs": {
+        "Wattage": "67W",
+        "Ports": "3 (2 USB-C, 1 USB-A)",
+        "Samsung PPS support": "Yes",
+        "Efficiency": "93% (tested)"
+      },
+      "pros": [
+        "Very portable for its power",
+        "Three ports",
+        "Efficient",
+        "Supports Samsung fast charging"
+      ],
+      "cons": [
+        "Relatively expensive"
+      ],
       "asin": "",
       "search": "Anker Prime 67W GaN wall charger"
     },
@@ -39,9 +64,21 @@
       "best_for": "Charging a Galaxy phone and a laptop from the same charger",
       "key_spec": "100W, 3 ports, PPS, 93% efficient",
       "summary": "A powerful, compact charger that can run multiple devices including laptops, with strong efficiency, though it is expensive and Android Authority notes the newer model has reduced efficiency versus the original.",
-      "specs": {"Wattage": "100W", "Ports": "3 (2 USB-C, 1 USB-A)", "Samsung PPS support": "Yes", "Efficiency": "93% (tested, original model)"},
-      "pros": ["Compact for its power", "Excellent efficiency", "Powerful enough for laptops too"],
-      "cons": ["Expensive", "Newer 2024 model has reduced efficiency"],
+      "specs": {
+        "Wattage": "100W",
+        "Ports": "3 (2 USB-C, 1 USB-A)",
+        "Samsung PPS support": "Yes",
+        "Efficiency": "93% (tested, original model)"
+      },
+      "pros": [
+        "Compact for its power",
+        "Excellent efficiency",
+        "Powerful enough for laptops too"
+      ],
+      "cons": [
+        "Expensive",
+        "Newer 2024 model has reduced efficiency"
+      ],
       "asin": "",
       "search": "Anker Prime 100W GaN wall charger"
     },
@@ -52,9 +89,21 @@
       "best_for": "Travellers who want a charger and cable in one unit",
       "key_spec": "67W, built-in retractable cable plus 2 USB-C ports",
       "summary": "A compact travel charger with a built-in retractable cable alongside two USB-C ports. It is not powerful enough for demanding laptops.",
-      "specs": {"Wattage": "67W", "Ports": "Built-in retractable cable plus 2 USB-C", "Plug": "Foldable"},
-      "pros": ["Compact", "Foldable plug", "Built-in retractable cable", "Fast charging speeds"],
-      "cons": ["Not enough power for demanding laptops", "Some cable durability concerns"],
+      "specs": {
+        "Wattage": "67W",
+        "Ports": "Built-in retractable cable plus 2 USB-C",
+        "Plug": "Foldable"
+      },
+      "pros": [
+        "Compact",
+        "Foldable plug",
+        "Built-in retractable cable",
+        "Fast charging speeds"
+      ],
+      "cons": [
+        "Not enough power for demanding laptops",
+        "Some cable durability concerns"
+      ],
       "asin": "",
       "search": "Baseus Enercore CJ11 67W charger"
     },
@@ -65,9 +114,21 @@
       "best_for": "Households or desks charging several phones and laptops at once",
       "key_spec": "500W combined, 6 ports, PPS",
       "summary": "A desktop charging station that can power several laptops and phones at once with wide protocol support, including Samsung fast charging. It is expensive, heavy and oversized for a single user.",
-      "specs": {"Wattage": "500W combined", "Ports": "6 (5 USB-C, 1 USB-A)", "Samsung PPS support": "Yes"},
-      "pros": ["Supports multiple laptops at once", "Wide protocol support", "Hot-swapping between devices"],
-      "cons": ["Expensive", "Heavy", "Oversized for most single users"],
+      "specs": {
+        "Wattage": "500W combined",
+        "Ports": "6 (5 USB-C, 1 USB-A)",
+        "Samsung PPS support": "Yes"
+      },
+      "pros": [
+        "Supports multiple laptops at once",
+        "Wide protocol support",
+        "Hot-swapping between devices"
+      ],
+      "cons": [
+        "Expensive",
+        "Heavy",
+        "Oversized for most single users"
+      ],
       "asin": "",
       "search": "UGREEN Nexode 500W 6-Port Desktop Charger"
     },
@@ -78,9 +139,18 @@
       "best_for": "Buyers who want a first-party charger guaranteed to work correctly",
       "key_spec": "45W, 1 USB-C port, PPS",
       "summary": "Samsung's own 45W charger, which Android Authority calls a surprisingly affordable first-party option with full PPS support for Samsung fast charging.",
-      "specs": {"Wattage": "45W", "Ports": "1 (USB-C)", "Samsung PPS support": "Yes"},
-      "pros": ["Surprisingly affordable for a first-party charger", "Guaranteed Samsung compatibility"],
-      "cons": ["Single port only"],
+      "specs": {
+        "Wattage": "45W",
+        "Ports": "1 (USB-C)",
+        "Samsung PPS support": "Yes"
+      },
+      "pros": [
+        "Surprisingly affordable for a first-party charger",
+        "Guaranteed Samsung compatibility"
+      ],
+      "cons": [
+        "Single port only"
+      ],
       "asin": "",
       "search": "Samsung 45W Travel Adapter"
     },
@@ -91,9 +161,18 @@
       "best_for": "Buyers who want a low-cost single-port charger with PPS",
       "key_spec": "30W, 1 USB-C port, PPS",
       "summary": "A power-efficient single-port charger with the essential features covered and PPS support, though Android Authority found its dot-matrix screen more gimmick than useful.",
-      "specs": {"Wattage": "30W", "Ports": "1 (USB-C)", "Samsung PPS support": "Yes (older version)"},
-      "pros": ["Power-efficient", "Covers the essential features"],
-      "cons": ["Dot-matrix screen is more gimmick than useful"],
+      "specs": {
+        "Wattage": "30W",
+        "Ports": "1 (USB-C)",
+        "Samsung PPS support": "Yes (older version)"
+      },
+      "pros": [
+        "Power-efficient",
+        "Covers the essential features"
+      ],
+      "cons": [
+        "Dot-matrix screen is more gimmick than useful"
+      ],
       "asin": "",
       "search": "UGREEN Nexode RG 30W charger"
     },
@@ -104,9 +183,19 @@
       "best_for": "Buyers who want one charger for a Galaxy phone, a laptop and more on the go",
       "key_spec": "130W total, 4 ports, PPS",
       "summary": "A high-power multi-port charger with swappable international prongs, useful for anyone travelling with a Galaxy phone and a laptop who wants to pack one charger instead of several.",
-      "specs": {"Wattage": "130W total (100W per port)", "Ports": "4 (2 USB-C, 2 USB-A)", "Samsung PPS support": "Yes"},
-      "pros": ["Swappable international prongs", "Lightweight for its power level", "Charges phone and laptop together"],
-      "cons": ["Not the smallest option available"],
+      "specs": {
+        "Wattage": "130W total (100W per port)",
+        "Ports": "4 (2 USB-C, 2 USB-A)",
+        "Samsung PPS support": "Yes"
+      },
+      "pros": [
+        "Swappable international prongs",
+        "Lightweight for its power level",
+        "Charges phone and laptop together"
+      ],
+      "cons": [
+        "Not the smallest option available"
+      ],
       "asin": "",
       "search": "Razer USB-C 130W GaN charger"
     }
@@ -130,6 +219,9 @@
     }
   ],
   "sources": [
-    {"name": "Android Authority: best USB-C wall chargers", "url": "https://www.androidauthority.com/best-usb-c-wall-chargers-3496950/"}
+    {
+      "name": "Android Authority: best USB-C wall chargers",
+      "url": "https://www.androidauthority.com/best-usb-c-wall-chargers-3496950/"
+    }
   ]
 }
