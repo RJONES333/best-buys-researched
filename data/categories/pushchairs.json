@@ -1,0 +1,109 @@
+{
+  "slug": "pushchairs",
+  "title": "Best Pushchairs and Prams UK",
+  "short": "Pushchairs, prams and travel systems compared by weight, storage and terrain handling, from budget travel systems to premium lightweight strollers.",
+  "intro": "The right pushchair depends on your lifestyle as much as your baby's age: city dwellers want something light and compact, while off-road walkers need proper suspension and storage. This guide compares pushchairs tested by Mumsnet's panel of parent testers over weeks of real everyday use, combined with lab results from Which?.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "iCandy",
+      "name": "Core 2",
+      "badge": "Best overall",
+      "best_for": "Families who want a premium all-terrain pushchair that grows with their child",
+      "key_spec": "Birth to 25kg, 11.7kg, lie-flat seat, 10kg storage basket",
+      "summary": "Mumsnet's top pick, tested over five weeks across nursery runs, shopping trips and muddy paths, described by the tester as 'very durable, practical and robust, yet stylish'. Advanced suspension and puncture-proof wheels make it feel surprisingly light to push despite a sturdy build, though the one-handed fold takes practice.",
+      "specs": {"Suitable from": "Birth to 25kg (~4 years)", "Weight": "11.7kg", "Storage basket": "10kg", "Car seat compatible": "Yes"},
+      "pros": ["Smooth suspension on all terrains", "Lightweight yet sturdy", "Fully lie-flat seat from birth", "Large 10kg storage basket"],
+      "cons": ["One-handed fold isn't as easy as claimed", "Carrycot doesn't fold flat for storage"],
+      "asin": "",
+      "search": "iCandy Core 2 pushchair"
+    },
+    {
+      "brand": "Maxi-Cosi",
+      "name": "Zelia 3 Luxe",
+      "badge": "Best budget",
+      "best_for": "Families who want a complete travel system without a high price",
+      "key_spec": "Birth to 22kg, 10.7kg, 2-in-1 bassinet-to-seat conversion",
+      "summary": "One of the cheapest complete travel systems on the market, performing well on quality and design despite the low price. Mumsnet highlights the light 10.7kg frame that's easy to push, fold and carry, with a seat that converts from a newborn bassinet to a regular seat from six months.",
+      "specs": {"Suitable from": "Birth to 22kg (~4 years)", "Weight": "10.7kg", "Storage basket": "10kg", "Extras": "Rain cover and boot cover included"},
+      "pros": ["Excellent value for a complete travel system", "Converts from bassinet to seat", "Height-adjustable handlebar", "Generous storage basket"],
+      "cons": ["Some parents report a fiddly fold", "Wide frame can be hard to fit through narrow doorways"],
+      "asin": "",
+      "search": "Maxi-Cosi Zelia 3 Luxe pushchair"
+    },
+    {
+      "brand": "Nuna",
+      "name": "Mixx Next",
+      "badge": "Best versatile",
+      "best_for": "Families who want maximum configuration options",
+      "key_spec": "Birth to 22kg, reversible seat, 5-position recline, all-terrain wheels",
+      "summary": "Comfort and style combined, with a reversible seat that can be parent- or world-facing, or swapped for a car seat or carrycot with adaptors. Mumsnet found the sturdy frame with improved suspension a dream to push over all terrain, though it's on the heavier side and buckles can be a bit fiddly.",
+      "specs": {"Suitable from": "Birth to 22kg (~4 years)", "Weight": "11.09kg", "Storage basket": "4.5kg", "Car seat compatible": "Yes"},
+      "pros": ["Suitable from birth", "Reversible seat with five-position recline", "Travel system compatible", "Easy to manoeuvre over all terrain"],
+      "cons": ["Quite heavy", "Buckles can be a bit fiddly"],
+      "asin": "",
+      "search": "Nuna Mixx Next pushchair"
+    },
+    {
+      "brand": "Stokke",
+      "name": "YOYO³",
+      "badge": "Best lightweight for travel",
+      "best_for": "City living, public transport and air travel",
+      "key_spec": "6.2kg, folds to 52 x 44 x 18cm, cabin-bag size, airline carry-on approved",
+      "summary": "At just 6.2kg, Mumsnet's tester called the quick-fold feature 'a game changer', easy to steer one-handed and effortless to navigate through busy streets and public transport. It's cabin-bag sized and most airlines approve it as carry-on, though small wheels mean it fares less well on grass or gravel.",
+      "specs": {"Weight": "6.2kg", "Folded dimensions": "52 x 44 x 18cm", "Suitable from": "Birth with newborn pack, to 22kg"},
+      "pros": ["Super compact when folded", "Cabin-bag size, approved by most airlines", "Extremely lightweight", "Great for city life and public transport"],
+      "cons": ["Pricey", "Fold takes a bit of practice", "Rain cover and footrest not included"],
+      "asin": "",
+      "search": "Stokke YOYO3 pushchair"
+    },
+    {
+      "brand": "Bugaboo",
+      "name": "Dragonfly",
+      "badge": "Best for newborns",
+      "best_for": "Parents who want a city-sized stroller that performs especially well with newborns",
+      "key_spec": "Birth to 22kg, 13kg storage capacity, carrycot folds with the pram",
+      "summary": "Tested with a seven-week-old, Mumsnet's tester found the carrycot roomy and well padded, with a generously extendable sun canopy. The standout feature is that the carrycot folds down with the pram itself, meaning it never needs removing for the car boot or public transport, though the overall fold isn't especially compact.",
+      "specs": {"Suitable from": "Birth to 22kg (~4 years)", "Weight": "7.9-10.4kg", "Storage": "13kg (detachable rear pocket)"},
+      "pros": ["Carrycot can be collapsed with the buggy", "Generous storage space", "Huge sun canopy", "Performs well on most terrain"],
+      "cons": ["Some find it tricky to fold and unfold", "No rain cover included", "Doesn't bump up kerbs easily"],
+      "asin": "",
+      "search": "Bugaboo Dragonfly pushchair"
+    },
+    {
+      "brand": "Bugaboo",
+      "name": "Fox 5 Renew",
+      "badge": "Best for storage",
+      "best_for": "Families who prioritise storage space and eco-friendly materials",
+      "key_spec": "Birth to 22kg, 10kg under-seat basket, one-handed fold, 12 colourways",
+      "summary": "Built with eco-friendly materials and a sliding five-point safety harness, with advanced suspension rated for all terrain. Mumsnet liked the 10kg under-seat basket with hidden pockets and extendable flaps, plus a genuinely one-handed fold, though it's expensive and a bit bulky once folded.",
+      "specs": {"Suitable from": "Birth to 22kg (~4 years)", "Storage basket": "10kg", "Fold": "One-handed"},
+      "pros": ["Eco-friendly materials", "Sliding five-point safety harness", "Advanced all-terrain suspension", "Large storage basket with hidden pockets"],
+      "cons": ["Pricey", "Bit bulky when folded", "Footmuff not included"],
+      "asin": "",
+      "search": "Bugaboo Fox 5 Renew pushchair"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Pram, pushchair or buggy: what's the difference?",
+      "a": "A pram is designed for newborns who need to lie fully flat, and tends to be bulkier. A pushchair suits older babies and toddlers who can sit upright, with adjustable reclining positions and more robust, often all-terrain wheels. A buggy is generally a lighter, more compact version aimed at toddlers, easy to fold for quick trips or travel."
+    },
+    {
+      "q": "Do I need a travel system?",
+      "a": "A travel system lets a car seat click directly onto the pushchair frame, useful for transferring a sleeping baby from car to pushchair without waking them. If you don't drive often with your baby, a standalone pushchair with a separate car seat, bought individually, can work out cheaper."
+    },
+    {
+      "q": "How much does weight matter?",
+      "a": "A lighter pushchair, like the 6.2kg Stokke YOYO³ here, is far easier to lift in and out of a car boot, up stairs or onto public transport, which matters most for city living or frequent travel. A heavier pushchair, like the Nuna Mixx Next, often trades that convenience for sturdier build and better suspension on rough terrain."
+    },
+    {
+      "q": "What should I check about storage and fold size?",
+      "a": "Check the storage basket's weight limit against your actual needs, since a small basket fills quickly with shopping or baby essentials. Also check folded dimensions against your car boot and any public transport you use regularly, as a compact fold like the Stokke YOYO³'s can matter more than any other feature for daily convenience."
+    }
+  ],
+  "sources": [
+    {"name": "Mumsnet: best prams, pushchairs and buggies", "url": "https://www.mumsnet.com/reviews/pushchairs"}
+  ]
+}

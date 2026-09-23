@@ -1,0 +1,109 @@
+{
+  "slug": "cat-carriers",
+  "title": "Best Cat Carriers UK",
+  "short": "Cat carriers compared by comfort, ventilation and ease of getting your cat in and out, from budget soft carriers to crash-tested car seats.",
+  "intro": "A good cat carrier makes vet trips and travel dramatically less stressful for both of you, and the number and position of doors matters as much as size. This guide compares carriers tested hands-on by PetsRadar's team on their own cats, with veterinary input from Dr Hannah Godfrey.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Howsehold",
+      "name": "Expandable Pet Carrier",
+      "badge": "Best expandable",
+      "best_for": "Longer journeys where your cat needs room to stretch out",
+      "key_spec": "Expandable sides add 10in on each end, 5 doors, removable base",
+      "summary": "Gives cats plenty of room to move once unzipped, with an extra 10 inches on both ends for stretching out on longer journeys, and folds away to save space when not in use. PetsRadar's tester found it lightweight to carry yet comfortable for her cat, with five doors making vet examinations easier without a full removal.",
+      "specs": {"Size": "17.9 x 10.9 x 10.9in", "Weight": "3.7lbs", "Doors": "5"},
+      "pros": ["Expandable for extra space on longer trips", "Easy to fold away and store", "Removable base for cleaning", "Multiple doors ease vet examinations"],
+      "cons": ["Not crash-tested for car travel"],
+      "asin": "",
+      "search": "Howsehold Expandable Pet Carrier"
+    },
+    {
+      "brand": "Tavo",
+      "name": "Maeve",
+      "badge": "Best for car journeys",
+      "best_for": "Buyers who want a crash-tested, multi-use carrier",
+      "key_spec": "3-in-1 stroller/car seat/bed, UN ECE crash-test certified, UPF 50+ canopy",
+      "summary": "Converts between a stroller, car seat and cosy bed, secured in the car with its own base and stability leg. PetsRadar's tester said her cat barely gets out of it since it arrived, praising the easy-to-clean materials and swappable interior, though the instructions are tricky to follow and it's the priciest option.",
+      "specs": {"Doors": "1", "Safety": "UN ECE Child Restraint Standard crash-tested", "Sizes": "3 available"},
+      "pros": ["Versatile 3-in-1 design", "UPF 50+ sun protection", "Crash-test certified", "Includes two removable mattresses"],
+      "cons": ["Most expensive option", "Unclear setup instructions", "A little bulky to store"],
+      "asin": "",
+      "search": "Tavo Maeve cat carrier"
+    },
+    {
+      "brand": "Frisco",
+      "name": "Two Door Top Load Plastic Dog & Cat Kennel",
+      "badge": "Best hard carrier",
+      "best_for": "Shy cats who want privacy, or multi-cat households",
+      "key_spec": "95% recycled plastic, top-load door, airline approved",
+      "summary": "Made from durable recycled plastic that's quick to wipe clean and suits cats who chew or scratch, with enough coverage to give shy cats privacy. PetsRadar's tester loved the top-loading door for placing resistant cats inside, and found it big enough for two cats at once despite being surprisingly light.",
+      "specs": {"Size": "24 x 16.8 x 14.5in", "Doors": "2", "Airline approved": "Yes"},
+      "pros": ["Gives privacy for shy cats", "Easy to clean", "Secure and sturdy", "Easy tool-free assembly"],
+      "cons": ["Harder to store than a soft carrier", "Might be too big for smaller cats"],
+      "asin": "",
+      "search": "Frisco Two Door Top Load Plastic Cat Kennel"
+    },
+    {
+      "brand": "Morpilot",
+      "name": "Cat Carrier with Wheels",
+      "badge": "Best for plane journeys",
+      "best_for": "Air travel or long walks through busy airports",
+      "key_spec": "Detachable trolley, 360° spinning wheels, airline approved",
+      "summary": "A detachable trolley with a retractable handle and 360°-spinning wheels makes moving through an airport far easier than carrying by strap. PetsRadar found it airline-approved with breathable mesh ventilation, foldable for storage, though it costs more than other soft carriers in the guide.",
+      "specs": {"Size": "17 x 11 x 11in", "Weight": "4.42lbs", "Airline approved": "Yes"},
+      "pros": ["Airline approved", "Comes with trolley and wheels", "Easy to clean", "Foldable for storage"],
+      "cons": ["More expensive than other soft carriers"],
+      "asin": "",
+      "search": "Morpilot Cat Carrier with Wheels"
+    },
+    {
+      "brand": "Pet Gear",
+      "name": "Signature Dog & Cat Car Seat & Carrier Bag",
+      "badge": "Best soft carrier",
+      "best_for": "Cats who like to see out during car journeys",
+      "key_spec": "Mesh windows on sides, top and front, seatbelt attachment, interior tether",
+      "summary": "A soft-fabric carrier with mesh windows on three sides for cats who like to look around, plus a fleecy base pad. PetsRadar found it works well for car journeys thanks to seatbelt attachment and an interior tether, with a rear storage pouch for treats or vet paperwork, though it isn't foldable or crash-tested.",
+      "specs": {"Size": "19 x 12.5 x 12in", "Doors": "2"},
+      "pros": ["Easy to clean, machine-washable base", "Attaches to car seat belts", "Rear storage pouches", "Mesh windows for ventilation and visibility"],
+      "cons": ["Not foldable", "Not crash-tested"],
+      "asin": "",
+      "search": "Pet Gear Signature Car Seat and Carrier Bag"
+    },
+    {
+      "brand": "Bella & Pal",
+      "name": "Portable Pet Travel Carrier",
+      "badge": "Best affordable",
+      "best_for": "Budget-conscious owners who still want the essential features",
+      "key_spec": "Under £30, removable base, long strap, name card for vet details",
+      "summary": "Covers all the basic features needed at a low price, with a long strap alternative to the short handles and a name card for filling in vet details. PetsRadar's tester liked the two doors for curious cats and the foldable design for easy storage, noting only that the base pad is a little hard without an added blanket.",
+      "specs": {"Sizes": "M (16.14 x 11.02 x 11.02in) or L (19.7 x 12.2 x 12.2in)", "Doors": "2", "Airline approved": "M size only"},
+      "pros": ["Affordable", "Removable base", "Comes with a long strap", "Foldable and breathable mesh design"],
+      "cons": ["Base pad is a little hard without extra padding"],
+      "asin": "",
+      "search": "Bella and Pal Portable Pet Travel Carrier"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Soft or hard carrier?",
+      "a": "Soft carriers, like the Pet Gear or Bella & Pal here, are lighter, foldable and often more comfortable for nervous cats, while hard carriers, like the Frisco, give more structural protection and are easier to wipe clean, which particularly suits cats who chew or scratch at fabric."
+    },
+    {
+      "q": "How many doors do I actually need?",
+      "a": "A single-door carrier is fine for a calm cat, but a top-loading or multi-door design, like the Howsehold or Frisco here, makes it far easier to lower a resistant cat in bottom-first, and lets a vet examine them without a full removal from the carrier."
+    },
+    {
+      "q": "Do I need a crash-tested carrier for the car?",
+      "a": "If your cat travels in the car regularly, a crash-tested carrier like the Tavo Maeve here, certified to the UN ECE Child Restraint Standard, gives genuine extra protection in an accident. For occasional short trips to the vet, a standard secured carrier is usually sufficient."
+    },
+    {
+      "q": "Should I cover the carrier when travelling?",
+      "a": "Many cats feel calmer with a light cover over part of the carrier, since it reduces visual stimulation and the stress of unfamiliar surroundings. Make sure ventilation isn't blocked, and remove the cover in warm conditions to avoid overheating."
+    }
+  ],
+  "sources": [
+    {"name": "PetsRadar: the best cat carriers", "url": "https://www.petsradar.com/buying-guide/best-cat-carriers"}
+  ]
+}

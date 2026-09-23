@@ -52,8 +52,8 @@ GROUPS = {
     "DIY & tools": ["cordless-drills"],
     "Automotive": ["dash-cams"],
     "Luggage & travel": ["suitcases"],
-    "Pet supplies": ["dog-beds"],
-    "Baby": ["baby-monitors"],
+    "Pet supplies": ["dog-beds", "cat-carriers"],
+    "Baby": ["baby-monitors", "pushchairs"],
 }
 
 
