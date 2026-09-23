@@ -1,0 +1,148 @@
+{
+  "slug": "lawn-mowers",
+  "title": "Best Lawn Mowers UK",
+  "short": "Cordless, electric, petrol and manual lawn mowers compared by cutting width, battery life and power, for lawns of every size.",
+  "intro": "The right lawn mower depends heavily on your lawn's size and how much cable-free convenience you want to pay for. This guide compares mowers tested by Expert Reviews on the same two lawns, one small and flat, one large and uneven, to judge handling, blockages and mulching.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Ego",
+      "name": "LM2236E-SP",
+      "badge": "Best cordless overall",
+      "best_for": "Large gardens that want petrol-rivalling power without the fumes",
+      "key_spec": "56V 10Ah battery, self-propelled, 55cm cutting width, cuts up to 2,000m2 per charge",
+      "summary": "Expert Reviews' favourite mower, with the most powerful lawn mower battery it's tested giving torque that easily rivals a petrol model, plus a 1-hour full recharge. It's self-propelled with variable speeds and handles bumps and inclines well, though at 31kg and with a £469 battery, it's a serious investment.",
+      "specs": {"Weight": "31.2kg", "Height of cut": "2.5-10.5cm", "Grass box": "85l", "Width of cut": "55cm", "Charge time": "1hr"},
+      "pros": ["Best mower battery Expert Reviews has tested", "Torque rivals petrol mowers", "Self-propelled with variable speeds", "Fast 1-hour recharge"],
+      "cons": ["Very expensive, largely due to the battery", "Heavy at 31kg"],
+      "asin": "",
+      "search": "Ego LM2236E-SP lawn mower"
+    },
+    {
+      "brand": "Stihl",
+      "name": "RMA 235",
+      "badge": "Best value",
+      "best_for": "Small to medium gardens on a budget",
+      "key_spec": "36V AK20 battery, 33cm cutting width, 77-minute runtime",
+      "summary": "Expert Reviews called this a 'veritable bargain', lightweight, easy to use and relatively quiet at 75dBA, mowing well even on damp grass with an excellent 77-minute runtime per charge. The grass collector is bulky and fiddly to empty, and the handle doesn't fold flat for storage.",
+      "specs": {"Weight": "13kg (without battery)", "Height of cut": "2.5-6cm", "Grass box": "30l", "Width of cut": "33cm", "Runtime": "77 minutes"},
+      "pros": ["Excellent value, especially if you already own an AK20 battery", "Lightweight and quiet", "Excellent runtime per charge"],
+      "cons": ["Bulky, fiddly grass collector", "Handle doesn't fold flat for storage"],
+      "asin": "",
+      "search": "Stihl RMA 235 lawn mower"
+    },
+    {
+      "brand": "Worx",
+      "name": "Nitro WG737E",
+      "badge": "Best mid-range cordless",
+      "best_for": "Medium to large lawns, including rougher or overgrown grass",
+      "key_spec": "2x 20V 4Ah batteries, 37cm cutting width, 40l grass box",
+      "summary": "Gives petrol-rivalling cutting power with cordless convenience, handling seriously long, stringy and unruly grass with only occasional jamming in Expert Reviews' testing. Construction feels sturdy and semi-pro, though it's a relatively big, heavy mower and runtime drops to 25 minutes in tough conditions.",
+      "specs": {"Weight": "15.3kg", "Height of cut": "2-7cm", "Grass box": "40l", "Width of cut": "37cm", "Runtime": "Up to 40 minutes (25 in tough conditions)"},
+      "pros": ["Petrol-rivalling power in a cordless mower", "Handles long, unruly grass well", "Sturdy, semi-pro build quality"],
+      "cons": ["Runtime drops significantly in tough conditions", "Large and fairly heavy", "Quick-release handle bolts can pop loose"],
+      "asin": "",
+      "search": "Worx Nitro WG737E lawn mower"
+    },
+    {
+      "brand": "Bosch",
+      "name": "Rotak 34R",
+      "badge": "Best electric for small gardens",
+      "best_for": "Small to medium gardens that want a roller for lawn stripes",
+      "key_spec": "1,300W mains-powered, 34cm cutting width, integrated roller",
+      "summary": "A capable all-rounder with an integrated roller for classic lawn stripes, comfortable to push and easy to manoeuvre with one hand in Expert Reviews' tests. It tackled longer grass with ease despite modest power on paper, though the 10m cord can be limiting on longer gardens.",
+      "specs": {"Weight": "11.1kg", "Height of cut": "2-7cm", "Grass box": "40l", "Width of cut": "34cm", "Power": "Mains, 1,300W"},
+      "pros": ["Produces neat lawn stripes via integrated roller", "Comfortable, easy to manoeuvre", "Copes well with longer grass despite modest power"],
+      "cons": ["10m cord limits reach on larger gardens"],
+      "asin": "",
+      "search": "Bosch Rotak 34R lawn mower"
+    },
+    {
+      "brand": "Bosch",
+      "name": "AdvancedRotak 44-750",
+      "badge": "Best electric for larger gardens",
+      "best_for": "Medium to large lawns on a budget who don't mind a cable",
+      "key_spec": "1,800W mains-powered, 44cm cutting width, 50l grass box",
+      "summary": "A powerful, fairly affordable mower that gave a fantastic clean cut on well-treated lawns while still chomping through thick, wet grass without much jamming in testing. Ergoflex handles made it comfortable on slopes and corners, and it's relatively quiet for an electric mower, though the cable requires care.",
+      "specs": {"Weight": "17.8kg", "Height of cut": "2.5-8cm", "Grass box": "50l", "Width of cut": "44cm", "Power": "Mains, 1,800W"},
+      "pros": ["Fantastic clean cut on flat, well-treated lawns", "Chomps through thick, wet grass with little jamming", "Relatively quiet for an electric mower", "Removable, brightly coloured cable"],
+      "cons": ["Cable limits convenience compared to cordless models"],
+      "asin": "",
+      "search": "Bosch AdvancedRotak 44-750 lawn mower"
+    },
+    {
+      "brand": "Husqvarna",
+      "name": "Aspire LC34-P4A",
+      "badge": "Best cordless for convenience",
+      "best_for": "Buyers who want a mower that stores away neatly",
+      "key_spec": "18V battery, 34cm cutting width, folds for upright/wall storage",
+      "summary": "A robust cordless mower that folds up compactly enough to hang on a shed wall, with quick lever-based cutting height adjustment. Expert Reviews found it lightweight, manoeuvrable and brilliant on small-to-medium flat lawns, though it occasionally jammed on longer, thicker clumps.",
+      "specs": {"Weight": "11.8kg", "Height of cut": "2.5-6.5cm", "Grass box": "30l", "Width of cut": "34cm", "Runtime": "Up to 25 minutes"},
+      "pros": ["Folds compactly for upright or wall storage", "Lightweight and manoeuvrable", "Quick, easy cutting height adjustment", "Fairly quiet for a cordless mower"],
+      "cons": ["Can occasionally jam on longer, thicker grass clumps", "Modest 25-minute runtime"],
+      "asin": "",
+      "search": "Husqvarna Aspire LC34-P4A lawn mower"
+    },
+    {
+      "brand": "Einhell",
+      "name": "GC-HM30",
+      "badge": "Best manual",
+      "best_for": "Small gardens and buyers who want a cheap, fume-free mower",
+      "key_spec": "30cm cutting width, cylinder blade, no battery or cable required",
+      "summary": "A cheap, no-frills, entirely manual mower that's the lightest on this list at 7.5kg, with solid build quality for the price. Expert Reviews notes it's fine for a quick trim on a cool evening, but the first cut of spring or longer grass can be genuinely hard work.",
+      "specs": {"Weight": "7.5kg", "Height of cut": "1.5-4.2cm", "Grass box": "16l", "Width of cut": "30cm", "Power": "Manual"},
+      "pros": ["Very cheap", "Lightest mower on test", "No fuel, battery or cable needed", "Solid build quality for the price"],
+      "cons": ["Hard, sweaty work on longer or thicker grass"],
+      "asin": "",
+      "search": "Einhell GC-HM30 manual lawn mower"
+    },
+    {
+      "brand": "Honda",
+      "name": "Izy HRG 466 PK",
+      "badge": "Best petrol for large lawns",
+      "best_for": "Large or lumpy lawns needing sustained, stress-free power",
+      "key_spec": "145cc Honda petrol engine, 46cm cutting width, steel deck",
+      "summary": "A rugged, long-lasting petrol mower that Expert Reviews found worked as well on lumpy lawns with longer grass as on a pancake-flat show garden. The latest engine is easier to start and more forgiving of lower-quality fuel, though it's loud at 94dB and the steel deck adds weight.",
+      "specs": {"Weight": "31kg", "Height of cut": "2-7.4cm", "Grass box": "50l", "Width of cut": "46cm", "Power": "Petrol, 145cc"},
+      "pros": ["Handles lumpy lawns and longer grass with ease", "Rugged, long-lasting steel deck build", "Large 50l grass box", "Easier starting and fuel tolerance on the latest engine"],
+      "cons": ["Loud at 94dB", "Heavy steel deck takes effort to manoeuvre", "Petrol running costs and emissions"],
+      "asin": "",
+      "search": "Honda Izy HRG 466 PK lawn mower"
+    },
+    {
+      "brand": "Flymo",
+      "name": "EasiGlide Plus 330V",
+      "badge": "Best hover mower",
+      "best_for": "Small gardens with sloping or uneven lawns",
+      "key_spec": "1,700W mains-powered, 33cm cutting width, hovers on an air cushion",
+      "summary": "An affordable hover mower that Expert Reviews found rode smoothly on a cushion of air and dealt impressively with rough grass, overgrown sections and slopes. It doesn't give as neat a cut as a rotary mower, and changing the cutting height requires unscrewing the blade with a supplied spanner.",
+      "specs": {"Weight": "8.4kg", "Height of cut": "1-3cm", "Grass box": "20l", "Width of cut": "33cm", "Power": "Mains, 1,700W"},
+      "pros": ["Excellent on sloping or uneven lawns", "Lightweight and easy to manoeuvre", "Good value for a small garden"],
+      "cons": ["Less neat, orderly cut than rotary mowers", "Fiddly cutting height adjustment"],
+      "asin": "",
+      "search": "Flymo EasiGlide Plus 330V lawn mower"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Cordless, electric or petrol?",
+      "a": "Cordless mowers offer the most convenience with no cable or fumes, but cost more upfront for the battery. Corded electric mowers are cheaper and never run out of charge mid-mow, but you're tied to a cable and socket. Petrol mowers suit large or difficult gardens where sustained power matters more than convenience or noise."
+    },
+    {
+      "q": "What cutting width do I need?",
+      "a": "A narrower cutting width (30-35cm) suits smaller gardens and gives more manoeuvrability around borders and obstacles. A wider cut (40cm-plus) covers a large, open lawn faster but is bulkier to store and turn in tight spaces."
+    },
+    {
+      "q": "Rotary, hover or manual mower?",
+      "a": "Rotary mowers, the most common type, give a good all-round cut on most lawns. Hover mowers glide on an air cushion, making them ideal for sloped or uneven lawns. Manual cylinder mowers need your own power but are cheap, quiet and fume-free, best suited to small, flat, regularly-mown lawns."
+    },
+    {
+      "q": "How much battery runtime do I actually need?",
+      "a": "As a rough guide, small lawns are comfortably covered by 20-30 minutes of runtime, while larger or more demanding lawns benefit from a mower like the Ego or Stihl here with 40 minutes or more, or a spare battery to swap in partway through."
+    }
+  ],
+  "sources": [
+    {"name": "Expert Reviews: best lawn mowers", "url": "https://www.expertreviews.co.uk/home-garden/lawn-mowers/best-lawn-mower-electric-cordless-petrol-and-manual"}
+  ]
+}

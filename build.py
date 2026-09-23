@@ -47,6 +47,8 @@ GROUPS = {
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets"],
     "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners"],
     "Kids": ["trending-kids-toys"],
+    "Garden": ["lawn-mowers"],
+    "DIY & tools": ["cordless-drills"],
 }
 
 

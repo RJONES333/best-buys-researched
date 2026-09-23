@@ -1,0 +1,148 @@
+{
+  "slug": "cordless-drills",
+  "title": "Best Cordless Drills UK",
+  "short": "Drill drivers, combi drills, hammer drills and SDS drills compared by power, torque and battery life, for everyday DIY to heavy-duty jobs.",
+  "intro": "The right cordless drill depends on the job: a light drill driver suits flat-pack furniture, while masonry or concrete needs a hammer or SDS drill. This guide compares drills tested by Expert Reviews across softwood, hardwood, brick and concrete, with a screwdriving test on every model.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Bosch",
+      "name": "UniversalImpact 18V",
+      "badge": "Best for most DIY tasks",
+      "best_for": "Buyers who want one do-it-all drill",
+      "key_spec": "18V, two-speed, 20 torque settings, impact mode",
+      "summary": "Expert Reviews' Best Buy, taking on everything from driving screws into softwood to Rawlplug holes in brick, only slowing down (but still succeeding) in tough concrete. The keyless chuck locks bits securely, and the standard 18V Power-4-All battery charges in about an hour.",
+      "specs": {"Weight": "1.3kg", "Battery": "18V li-ion, 1.5Ah", "Max speed": "1,450rpm", "Torque settings": "20", "Max torque": "34Nm"},
+      "pros": ["Handles nearly any household drilling or screwdriving task", "Clever keyless chuck design", "Widely available for under £100", "Compatible with Bosch's wider 18V tool range"],
+      "cons": ["Struggles (though still succeeds) in tough concrete", "Slightly heavier than the lightest combi drills"],
+      "asin": "",
+      "search": "Bosch UniversalImpact 18V drill"
+    },
+    {
+      "brand": "Makita",
+      "name": "DHP458Z",
+      "badge": "Best for bigger DIY projects",
+      "best_for": "Buyers tackling more demanding or frequent DIY work",
+      "key_spec": "18V, screwdriver/drill/hammer settings, 2,000rpm max speed",
+      "summary": "Gives pro-level features at a reasonable price, speeding through softwood, hardwood and brick, with even concrete not holding it off for long in Expert Reviews' testing. A sliding side grip with a depth rod adds control, though it's a relatively heavy, loud tool.",
+      "specs": {"Weight": "2kg", "Battery": "18V li-ion, 2Ah (not supplied)", "Max speed": "2,000rpm", "Torque settings": "21", "Max torque": "88Nm"},
+      "pros": ["Strong performance across wood, brick and concrete", "Adjustable side grip with depth-stop rod", "Efficient keyless chuck grips slender bits well", "Well-balanced despite its weight"],
+      "cons": ["Fairly heavy", "Noisy in use, especially on hammer mode"],
+      "asin": "",
+      "search": "Makita DHP458Z drill"
+    },
+    {
+      "brand": "Terratek",
+      "name": "13 Piece 18V Cordless Drill Driver",
+      "badge": "Best budget",
+      "best_for": "Light repairs and flat-pack furniture on a tight budget",
+      "key_spec": "18V, 16 torque settings, includes 13-piece bit set",
+      "summary": "A cheap drill that comes with six drill bits, six screwdriver bits and an adaptor, doing a great job on basic household needs and light repairs in Expert Reviews' testing. It isn't powerful enough for metal or brickwork, and the battery is slow to charge and modest in capacity.",
+      "specs": {"Weight": "1kg", "Battery": "18V li-ion, 800mAh", "Max speed": "650rpm", "Torque settings": "16"},
+      "pros": ["Very cheap, ready to use out of the box", "Generous bundled bit set", "Lightweight and versatile for basic tasks"],
+      "cons": ["Not powerful enough for metal or brickwork", "Slow 3-5 hour battery charge time", "Short battery life"],
+      "asin": "",
+      "search": "Terratek 18V cordless drill driver"
+    },
+    {
+      "brand": "Bosch",
+      "name": "UniversalDrill 18V",
+      "badge": "Best entry-level",
+      "best_for": "Buyers who want a quiet, reliable all-rounder without an impact function",
+      "key_spec": "18V, two-speed planetary gearbox, 20 torque settings",
+      "summary": "A reliable all-rounder that Expert Reviews measured at just 72dB drilling into concrete, notably quieter than rivals, with minimal vibration and a comfortable one-handed grip. It struggles with solid concrete or thick screws, where a hammer or impact drill would do better.",
+      "specs": {"Weight": "1.2kg", "Battery": "18V Power For All, 1.5Ah", "Max speed": "1,450rpm", "Max torque": "40Nm"},
+      "pros": ["Notably quiet in use", "Comfortable, well-balanced, low vibration", "Two-speed gearbox suits both screws and fast drilling"],
+      "cons": ["Struggles with solid concrete or thick screws", "The similarly-priced UniversalImpact offers more versatility"],
+      "asin": "",
+      "search": "Bosch UniversalDrill 18V"
+    },
+    {
+      "brand": "Makita",
+      "name": "CLX228AJ",
+      "badge": "Best all-in-one drill set",
+      "best_for": "Buyers who want a combi drill and impact driver in one kit",
+      "key_spec": "12V Max, combi drill + impact driver, batteries and charger included",
+      "summary": "Bundles a combi drill and an impact driver with batteries and a charger in one case, covering most DIY needs short of boring large holes through brick or concrete. Expert Reviews found both tools solidly built with LED lights, though the combi drill can be loud in use.",
+      "specs": {"Weight": "1kg (each tool)", "Battery": "12V Max li-ion, 2Ah (x2 supplied)", "Max speed (drill)": "1,700rpm", "Max torque (driver)": "110Nm"},
+      "pros": ["Combi drill and impact driver in one kit", "Both tools solidly built with LED lights", "No corners cut for the price"],
+      "cons": ["Combi drill can be loud in use", "Not intended for large holes in brick or concrete"],
+      "asin": "",
+      "search": "Makita CLX228AJ drill set"
+    },
+    {
+      "brand": "Black+Decker",
+      "name": "18V Cordless 2-Gear Combi Hammer Drill",
+      "badge": "Best budget hammer drill",
+      "best_for": "Buyers who occasionally need light masonry or metalwork",
+      "key_spec": "18V, 21,000BPM hammer speed, 10 torque settings",
+      "summary": "A terrific all-rounder for household jobs that's also tough enough for light masonry and metalwork thanks to its high hammer-drilling speed. Expert Reviews notes the battery holds 80% of its charge over 90 days, though for the most heavy-duty tasks a proper rotary hammer drill is still recommended.",
+      "specs": {"Weight": "1.2kg", "Battery": "18V li-ion, 1.5Ah", "Max speed": "1,400rpm", "Torque settings": "10", "Max torque": "40Nm"},
+      "pros": ["Good value for a hammer-function drill", "Handles light masonry and metalwork", "Battery retains charge well over time"],
+      "cons": ["Not intended for the most heavy-duty masonry jobs"],
+      "asin": "",
+      "search": "Black+Decker 18V cordless hammer drill"
+    },
+    {
+      "brand": "Worx",
+      "name": "WX354 SlammerDrill",
+      "badge": "Best for masonry and more",
+      "best_for": "Buyers who want extra hammer-drilling power without a full SDS drill",
+      "key_spec": "20V (2x10V), hammer action, 18 torque settings",
+      "summary": "Punches above its weight with a hammer action that easily puts holes into brick or concrete, and effortless performance on wood, in Expert Reviews' tests. It comes bundled with two batteries and a charger, which helps justify a price that otherwise looks steep for its size.",
+      "specs": {"Weight": "1.7kg", "Battery": "2x li-ion, 2Ah supplied", "Max speed": "2,000rpm", "Torque settings": "18", "Max torque": "60Nm"},
+      "pros": ["Strong hammer action for brick and concrete", "Effortless on wood, with plenty of control", "Comes bundled with two batteries and a charger"],
+      "cons": ["Pricier than its size might suggest"],
+      "asin": "",
+      "search": "Worx WX354 SlammerDrill"
+    },
+    {
+      "brand": "DeWalt",
+      "name": "18V XR Lithium-Ion SDS",
+      "badge": "Best SDS rotary hammer",
+      "best_for": "Regular, heavy-duty work through masonry, concrete or steel",
+      "key_spec": "18V, SDS+, hammer-only mode, 4,500rpm max speed",
+      "summary": "A surprisingly powerful SDS drill for its size, packing corded-level power into a 3kg tool. Expert Reviews found low vibration levels made long sessions easier on the arm, with a useful hammer-only mode not found on cheaper models, though it isn't intended for occasional DIYers.",
+      "specs": {"Weight": "3.1kg", "Battery": "18V li-ion, 4Ah (not supplied)", "Max speed": "4,500rpm", "Max drilling (wood/brick/steel)": "26mm/24mm/13mm"},
+      "pros": ["Corded-level power in a lightweight, portable tool", "Low vibration for long drilling sessions", "Useful hammer-only mode"],
+      "cons": ["Overkill and pricier than needed for occasional DIY"],
+      "asin": "",
+      "search": "DeWalt 18V XR SDS drill"
+    },
+    {
+      "brand": "Ryobi",
+      "name": "One+ R18IDBL",
+      "badge": "Best impact driver",
+      "best_for": "Driving lots of screws quickly, including decking",
+      "key_spec": "18V brushless, up to 270Nm torque, DeckDrive mode",
+      "summary": "Delivers huge torque that drove screws through decking with barely any effort in Expert Reviews' testing, including a specialised DeckDrive mode that slows down as the screw head nears the surface to avoid splitting. It's heavier than a standard combi drill once fitted with a battery, and isn't designed to drill holes.",
+      "specs": {"Weight": "1.54kg", "Battery": "18V li-ion, 2.5Ah (not supplied)", "Max speed": "3,000rpm", "Max torque": "270Nm"},
+      "pros": ["Huge torque for driving screws and loosening stuck bolts", "DeckDrive mode avoids splitting timber", "Three power levels for precise control"],
+      "cons": ["Not designed for drilling holes", "Heavier than a standard combi drill once battery is fitted"],
+      "asin": "",
+      "search": "Ryobi One+ R18IDBL impact driver"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need a combi drill, drill driver or impact driver?",
+      "a": "A basic drill driver suits light drilling and screwdriving around the home. A combi drill adds a hammer function for masonry, making it the most versatile all-rounder. An impact driver, like the Ryobi here, is a specialist tool for driving screws quickly and shouldn't be used for drilling precise holes."
+    },
+    {
+      "q": "When do I need a hammer drill or SDS drill instead of a combi drill?",
+      "a": "A combi drill's hammer function handles occasional light masonry work fine. If you're regularly drilling into brick, concrete or stone, a dedicated hammer drill or, for the toughest jobs, an SDS rotary hammer like the DeWalt here will get through faster and with less strain on the tool."
+    },
+    {
+      "q": "How much battery capacity (Ah) do I actually need?",
+      "a": "A smaller battery (1.5-2Ah) is lighter and fine for occasional use around the home. A larger battery (4Ah and above) lasts longer between charges and suits frequent use or bigger projects, though it adds weight to the tool."
+    },
+    {
+      "q": "Does it matter if I already own batteries from a brand's tool range?",
+      "a": "Yes, it's worth checking first. Buying a bare tool (no battery) from a brand whose batteries you already own, such as Bosch's Power-4-All or DeWalt's XR range, can save a significant amount versus buying a drill with batteries and charger included."
+    }
+  ],
+  "sources": [
+    {"name": "Expert Reviews: best cordless drills", "url": "https://www.expertreviews.co.uk/home-garden/diy-power-tools/best-cordless-drill"}
+  ]
+}
