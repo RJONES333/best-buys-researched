@@ -1,0 +1,96 @@
+{
+  "slug": "power-banks",
+  "title": "Best Power Banks UK",
+  "short": "Portable chargers compared by capacity, output speed and weight, from pocket-sized to laptop-charging capacity.",
+  "intro": "A power bank's capacity and output wattage both matter: capacity determines how many charges you get, while wattage determines how fast. This guide compares power banks tested by Expert Reviews, from ultra-portable budget picks to laptop-charging capacity units.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Anker",
+      "name": "Prime A110A",
+      "badge": "Best overall",
+      "best_for": "Buyers who want maximum capacity and charging speed in one unit",
+      "key_spec": "26,250mAh, 300W total, digital display",
+      "summary": "Expert Reviews praises the outstanding charging speeds and useful digital display, with touchscreen monitoring and Bluetooth app connectivity, though it's expensive and bulky at 600g.",
+      "specs": {"Capacity": "26,250mAh", "Output": "300W total (2x USB-C at 140W, USB-A at 20W)", "Weight": "600g", "Price guide": "£180"},
+      "pros": ["Outstanding charging speeds", "Useful digital display", "Bluetooth app connectivity"],
+      "cons": ["High cost", "Bulky at 600g"],
+      "asin": "",
+      "search": "Anker Prime A110A power bank"
+    },
+    {
+      "brand": "Cuktech",
+      "name": "10 Mini",
+      "badge": "Best budget",
+      "best_for": "Buyers who want an affordable, pocketable everyday charger",
+      "key_spec": "10,000mAh, 55W peak, 216g",
+      "summary": "Highly portable with an LED display and excellent value, though it has no wireless charging and its peak speeds are limited to specific devices.",
+      "specs": {"Capacity": "10,000mAh", "Output": "55W peak (dual USB-C), 33W USB-A", "Weight": "216g", "Price guide": "£24"},
+      "pros": ["Highly portable", "LED display", "Excellent value"],
+      "cons": ["No wireless charging", "Peak speeds limited to specific devices"],
+      "asin": "",
+      "search": "Cuktech 10 Mini power bank"
+    },
+    {
+      "brand": "UGreen",
+      "name": "Nexode PB771",
+      "badge": "Best for multi-device charging",
+      "best_for": "Buyers who regularly charge several devices from one bank",
+      "key_spec": "20,000mAh, 145W combined, wireless",
+      "summary": "A feature-rich charger built for simultaneous multi-device charging, with USB-C, USB-A and Qi2 wireless outputs, though it's bulkier and heavier at 555g.",
+      "specs": {"Capacity": "20,000mAh", "Output": "145W combined (100W USB-C, 45W USB-C, 22.5W USB-A, 15W wireless)", "Weight": "555g", "Price guide": "£90"},
+      "pros": ["Feature-rich for multi-device charging", "Simultaneous charging of several devices"],
+      "cons": ["Bulkier design", "Heavier at 555g"],
+      "asin": "",
+      "search": "UGreen Nexode PB771 power bank"
+    },
+    {
+      "brand": "Iniu",
+      "name": "SnapGo Air",
+      "badge": "Best for MagSafe",
+      "best_for": "iPhone users who want fast magnetic wireless charging",
+      "key_spec": "10,000mAh, 45W USB-C, 25W Qi2.2 wireless",
+      "summary": "Speedy Qi2.2 wireless charging in a lightweight, slim design at 196g, though wireless speed was found inconsistent on some phones.",
+      "specs": {"Capacity": "10,000mAh", "Output": "45W USB-C (dual ports), 25W wireless", "Weight": "196g", "Price guide": "£45"},
+      "pros": ["Speedy Qi2.2 wireless charging", "Lightweight", "Slim design"],
+      "cons": ["Wireless speed inconsistent on some phones"],
+      "asin": "",
+      "search": "Iniu SnapGo Air power bank"
+    },
+    {
+      "brand": "Anker",
+      "name": "Laptop Power Bank (A1695)",
+      "badge": "Best for air travel",
+      "best_for": "Buyers who want to charge a laptop on the go",
+      "key_spec": "25,000mAh (90Wh), 165W total",
+      "summary": "High capacity with rapid laptop charging via multiple USB-C options, kept just under the common 100Wh airline carry-on limit, though it has no wireless charging and is bulky for a pocket.",
+      "specs": {"Capacity": "25,000mAh (90Wh)", "Output": "165W total (multiple USB-C, USB-A at 33W)", "Price guide": "£75"},
+      "pros": ["High capacity", "Rapid laptop charging"],
+      "cons": ["No wireless charging", "Bulky for pockets"],
+      "asin": "",
+      "search": "Anker Laptop Power Bank A1695"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What capacity power bank do I need?",
+      "a": "As a rough guide, 10,000mAh gives most phones 2-3 full charges in a pocketable size. 20,000mAh-plus suits longer trips, multiple devices, or charging a tablet. Laptop charging generally needs at least 20,000mAh (around 74Wh or more) and a high-wattage USB-C output."
+    },
+    {
+      "q": "Can I take a power bank on a plane?",
+      "a": "Airlines generally require power banks to be carried in hand luggage, not the hold, and most cap capacity at 100Wh (roughly 27,000mAh) without special permission. Always check your specific airline's rules before flying, as they can vary."
+    },
+    {
+      "q": "Does wattage matter as much as capacity?",
+      "a": "Yes. A higher-capacity bank with low wattage output will charge your phone slowly. Match the output wattage to what your device can actually accept for fast charging, since exceeding your phone's own charging limit provides no extra speed."
+    },
+    {
+      "q": "Is wireless charging worth having on a power bank?",
+      "a": "Wireless charging is convenient, particularly with MagSafe-style magnetic attachment, but it's generally slower and less efficient than a cable. It's a nice-to-have rather than essential if you always have a cable to hand."
+    }
+  ],
+  "sources": [
+    {"name": "Expert Reviews: best power banks", "url": "https://www.expertreviews.co.uk/technology/batteries-charging/best-power-bank-uk-portable-charger"}
+  ]
+}

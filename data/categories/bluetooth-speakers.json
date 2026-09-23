@@ -1,0 +1,148 @@
+{
+  "slug": "bluetooth-speakers",
+  "title": "Best Bluetooth Speakers UK",
+  "short": "Portable and smart Bluetooth speakers compared by sound quality, battery life and durability, from budget to premium.",
+  "intro": "A good Bluetooth speaker balances sound quality, portability and durability, and the right choice depends on where you'll use it most. This guide compares speakers tested by Expert Reviews, which says it has tested more than 40 speakers since 2023, from budget picks to premium party speakers.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "JBL",
+      "name": "Flip 7",
+      "badge": "Best overall",
+      "best_for": "Most people who want a great everyday portable speaker",
+      "key_spec": "14hr battery, waterproof, £130",
+      "summary": "Expert Reviews' overall favourite, balancing price, performance and portability better than anything else it has tested. Awesome power for its size with a super-durable design, though no USB-C cable is included.",
+      "specs": {"Battery life": "14 hours", "Waterproofing": "Waterproof", "Price guide": "£130"},
+      "pros": ["Awesome power for its size", "Super-durable design", "Lossless audio via USB-C"],
+      "cons": ["No USB-C cable included"],
+      "asin": "",
+      "search": "JBL Flip 7 Bluetooth speaker"
+    },
+    {
+      "brand": "Sonos",
+      "name": "Play",
+      "badge": "Best for indoor and outdoor use",
+      "best_for": "Buyers who want both Wi-Fi and Bluetooth flexibility",
+      "key_spec": "19hr battery, Wi-Fi and Bluetooth, £299",
+      "summary": "Supports both Wi-Fi and Bluetooth with an included charging dock, delivering impactful, balanced sound, though the stereo presentation is unconvincing.",
+      "specs": {"Battery life": "19 hours", "Connectivity": "Wi-Fi and Bluetooth", "Price guide": "£299"},
+      "pros": ["Wi-Fi and Bluetooth support", "Includes charging dock", "Impactful, balanced sound"],
+      "cons": ["Unconvincing stereo presentation"],
+      "asin": "",
+      "search": "Sonos Play Bluetooth speaker"
+    },
+    {
+      "brand": "Bang & Olufsen",
+      "name": "Beosound A1 3rd Gen",
+      "badge": "Most stylish",
+      "best_for": "Buyers who want a design-led speaker that's also genuinely waterproof",
+      "key_spec": "Up to 24hr battery, IP67, £299",
+      "summary": "A gorgeous design paired with refined sound and IP67 waterproof and dropproof durability, at a premium price.",
+      "specs": {"Battery life": "Up to 24 hours", "Waterproofing": "IP67", "Price guide": "£299"},
+      "pros": ["Gorgeous design", "Refined sound", "Waterproof and dropproof"],
+      "cons": ["Expensive"],
+      "asin": "",
+      "search": "Bang & Olufsen Beosound A1 3rd Gen"
+    },
+    {
+      "brand": "JBL",
+      "name": "Grip",
+      "badge": "Best budget",
+      "best_for": "Buyers who want a fun, affordable speaker under £100",
+      "key_spec": "Built-in ambient lighting, £90",
+      "summary": "A portable, budget-friendly speaker with punchy sound and built-in ambient lighting, though bass response is limited.",
+      "specs": {"Price guide": "£90"},
+      "pros": ["Built-in ambient lighting", "Punchy sound", "Portable"],
+      "cons": ["Limited bass response"],
+      "asin": "",
+      "search": "JBL Grip Bluetooth speaker"
+    },
+    {
+      "brand": "Bowers & Wilkins",
+      "name": "Zeppelin Pro",
+      "badge": "Best premium audio quality",
+      "best_for": "Buyers who prioritise sound quality above all else",
+      "key_spec": "Multiple streaming options, £699",
+      "summary": "Sensational sound quality in a stylish design with multiple streaming options, though there's no remote control included.",
+      "specs": {"Price guide": "£699"},
+      "pros": ["Sensational sound quality", "Stylish appearance", "Multiple streaming options"],
+      "cons": ["No remote control"],
+      "asin": "",
+      "search": "Bowers & Wilkins Zeppelin Pro"
+    },
+    {
+      "brand": "Ruark Audio",
+      "name": "MR1 Mk3",
+      "badge": "Best desktop speaker",
+      "best_for": "Buyers who want a speaker built for a desk rather than portability",
+      "key_spec": "Multiple connectivity options, £399",
+      "summary": "A desktop-friendly design with beautifully balanced sound and multiple connectivity options, though bass lacks depth.",
+      "specs": {"Price guide": "£399"},
+      "pros": ["Desktop-friendly design", "Beautifully balanced sound", "Multiple connectivity options"],
+      "cons": ["Bass lacks depth"],
+      "asin": "",
+      "search": "Ruark Audio MR1 Mk3"
+    },
+    {
+      "brand": "Ultimate Ears",
+      "name": "Hyperboom",
+      "badge": "Best for parties",
+      "best_for": "Large gatherings where volume matters most",
+      "key_spec": "5.9kg, connects with other Boom speakers, £359",
+      "summary": "Loud and enjoyable sound with long-lasting battery, and the ability to pair with other UE Boom speakers, though it's large and heavy at 5.9kg.",
+      "specs": {"Weight": "5.9kg", "Price guide": "£359"},
+      "pros": ["Loud and enjoyable sound", "Long-lasting battery", "Can connect with other Boom speakers"],
+      "cons": ["Large and heavy"],
+      "asin": "",
+      "search": "Ultimate Ears Hyperboom"
+    },
+    {
+      "brand": "Amazon",
+      "name": "Echo Dot Max",
+      "badge": "Best budget with Alexa",
+      "best_for": "Buyers who want smart assistant features built in",
+      "key_spec": "Alexa built in, £80",
+      "summary": "Effective Alexa integration with smart features and good sound quality for the price, though the light ring placement is a little awkward.",
+      "specs": {"Price guide": "£80"},
+      "pros": ["Alexa integration works effectively", "Smart features", "Good sound quality"],
+      "cons": ["Light ring placement is awkward"],
+      "asin": "",
+      "search": "Amazon Echo Dot Max"
+    },
+    {
+      "brand": "LG",
+      "name": "XBOOM XL7S",
+      "badge": "Best for karaoke",
+      "best_for": "Buyers who want karaoke and DJ effects built in",
+      "key_spec": "20hr battery, IPX4, £299",
+      "summary": "Fun karaoke and DJ effects with excellent lighting and powerful bass, splash-resistant to IPX4, though a microphone isn't included.",
+      "specs": {"Battery life": "20 hours", "Waterproofing": "IPX4", "Price guide": "£299"},
+      "pros": ["Fun karaoke and DJ effects", "Excellent lighting effects", "Powerful bass"],
+      "cons": ["Microphone not included"],
+      "asin": "",
+      "search": "LG XBOOM XL7S"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What waterproof rating do I need?",
+      "a": "An IPX4 rating handles splashes, which suits a kitchen or a poolside table away from direct water. A full IP67 rating, like the Bang & Olufsen here, means the speaker can be briefly submerged, better suited to actually taking it in the pool or leaving it out in the rain."
+    },
+    {
+      "q": "Bluetooth or Wi-Fi speaker?",
+      "a": "Bluetooth speakers pair directly with a phone or laptop and work anywhere, with no home network needed. Wi-Fi speakers, or hybrid models like the Sonos Play here, can offer higher audio quality and multi-room features, but need a home network to unlock those extras."
+    },
+    {
+      "q": "How much does size affect sound?",
+      "a": "Larger speakers generally produce deeper bass and higher maximum volume, which suits parties or outdoor gatherings. Smaller speakers trade some bass and volume for portability, better suited to a single room or travel."
+    },
+    {
+      "q": "Is a smart speaker with Alexa or Google worth it?",
+      "a": "A built-in assistant like the Amazon Echo Dot Max here adds voice control, smart home integration and hands-free features, at the cost of some privacy considerations around an always-listening microphone. If you just want music playback, a standard Bluetooth speaker is simpler."
+    }
+  ],
+  "sources": [
+    {"name": "Expert Reviews: best Bluetooth speaker", "url": "https://www.expertreviews.co.uk/technology/headphones-audio/best-bluetooth-speaker"}
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "pc-monitors",
+  "title": "Best PC and Gaming Monitors UK",
+  "short": "Gaming, ultrawide, curved and portable monitors compared by refresh rate, panel type and resolution.",
+  "intro": "The right monitor depends on what you'll use it for: gaming wants a high refresh rate and low response time, creative work wants colour accuracy, and general use benefits most from strong contrast. This guide compares monitors tested by Tom's Hardware, using their own instrumented contrast and colour measurements rather than just impressions.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Samsung",
+      "name": "49-Inch Odyssey G9",
+      "badge": "Best overall / best ultrawide",
+      "best_for": "Buyers who want maximum immersion and desk real estate",
+      "key_spec": "49in, 5120x1440, VA, 240Hz, 1000R curve",
+      "summary": "An enormous ultrawide effectively combining two 27in 1440p screens, with a tight 1000R curve and accurate colour out of the box. Tom's Hardware measured 2,152.9:1 contrast after calibration, though it has no motion blur reduction and no built-in speakers.",
+      "specs": {"Screen size": "49in, 32:9", "Resolution": "5120 x 1440", "Panel": "VA", "Refresh rate": "240Hz", "Response time": "1ms", "Adaptive-Sync": "G-Sync Compatible, FreeSync"},
+      "pros": ["Accurate colour out of the box", "Tight curve delivers maximum immersion", "Excellent measured contrast"],
+      "cons": ["No motion blur reduction", "No speakers"],
+      "asin": "",
+      "search": "Samsung 49 Inch Odyssey G9 monitor"
+    },
+    {
+      "brand": "Dell",
+      "name": "S3222DGM",
+      "badge": "Best for gaming",
+      "best_for": "Gamers who want strong contrast and value in one screen",
+      "key_spec": "32in, 1440p, VA, 165Hz",
+      "summary": "Tom's Hardware's pick for gaming, with a sharp, vivid and accurate image and premium-level contrast measured at 4,000:1, a third better than its rated spec. Also praised for general productivity use, though it lacks HDR.",
+      "specs": {"Screen size": "32in, 16:9", "Resolution": "2560 x 1440 @ 165Hz", "Panel": "VA", "Response time": "4ms", "Adaptive-Sync": "FreeSync Premium Pro"},
+      "pros": ["Sharp image with vivid, accurate colour", "Premium-level contrast", "Solid video processing", "Excellent build quality"],
+      "cons": ["No HDR"],
+      "asin": "",
+      "search": "Dell S3222DGM monitor"
+    },
+    {
+      "brand": "Alienware",
+      "name": "AW3423DWF",
+      "badge": "Best ultrawide OLED",
+      "best_for": "Buyers who want the best possible image quality in an ultrawide",
+      "key_spec": "34in, 3440x1440, QD-OLED, 165Hz",
+      "summary": "A QD-OLED ultrawide with stunning SDR and HDR images, deep contrast, a wide colour gamut and calibration dialled in straight out of the box. Tom's Hardware found no flaws of consequence, at a premium price.",
+      "specs": {"Screen size": "34in, 21:9", "Resolution": "3440 x 1440", "Panel": "QD-OLED", "Refresh rate": "165Hz", "Response time": "0.5ms", "Adaptive-Sync": "FreeSync and G-Sync Compatible"},
+      "pros": ["Stunning SDR and HDR images", "Deep contrast and colour saturation", "Super smooth motion processing", "No need for calibration"],
+      "cons": ["Premium price"],
+      "asin": "",
+      "search": "Alienware AW3423DWF monitor"
+    },
+    {
+      "brand": "Samsung",
+      "name": "Odyssey Neo G8",
+      "badge": "Best curved",
+      "best_for": "Buyers who want 4K resolution with fast refresh and deep contrast",
+      "key_spec": "32in, 4K, VA Mini LED, 240Hz, 1000R curve",
+      "summary": "Combines Mini LED lighting with a Quantum Dot film for contrast Tom's Hardware measured at 25,000:1, far above a typical VA panel, at a rare 4K/240Hz combination, though colour gamut volume is only average.",
+      "specs": {"Screen size": "32in, 16:9", "Resolution": "3840 x 2160", "Panel": "VA, Mini LED", "Refresh rate": "240Hz", "Response time": "1ms", "Adaptive-Sync": "G-Sync Compatible, FreeSync"},
+      "pros": ["Stunning SDR and HDR images", "Colour accurate out of the box", "Next-level gaming performance", "Smooth motion, low input lag"],
+      "cons": ["Colour gamut volume only average"],
+      "asin": "",
+      "search": "Samsung Odyssey Neo G8 monitor"
+    },
+    {
+      "brand": "Titan Army",
+      "name": "P2712V",
+      "badge": "Best budget",
+      "best_for": "Buyers who want 4K and high refresh gaming without a high price",
+      "key_spec": "27in, dual-mode 4K/160Hz or 1080p/320Hz, IPS",
+      "summary": "A dual-mode monitor offering 4K at 160Hz or 1080p at 320Hz, with accurate colour out of the box and premium video processing. Tom's Hardware calls it terrific value, though brightness and colour gamut are only average and it lacks USB ports or speakers.",
+      "specs": {"Screen size": "27in, 16:9", "Resolution": "3840 x 2160 (dual-mode 1920x1080 @ 320Hz)", "Panel": "IPS", "Refresh rate": "160Hz (320Hz at 1080p)", "Response time": "1ms", "Adaptive-Sync": "AMD FreeSync and Nvidia G-Sync"},
+      "pros": ["Very sharp and colourful image", "Accurate out-of-box colour", "Premium video processing, low motion blur", "Terrific value"],
+      "cons": ["No dynamic contrast for HDR", "No USB ports or internal speakers"],
+      "asin": "",
+      "search": "Titan Army P2712V monitor"
+    },
+    {
+      "brand": "Alienware",
+      "name": "AW3225QF",
+      "badge": "Best for 4K gaming",
+      "best_for": "Buyers who want the best possible 4K gaming experience",
+      "key_spec": "32in, 4K, QD-OLED, 240Hz, Dolby Vision",
+      "summary": "A 32in QD-OLED panel with a 240Hz refresh rate and Dolby Vision support, giving unmatched contrast, rich colour and perfect motion resolution with low input lag. Tom's Hardware found no flaws of consequence.",
+      "specs": {"Screen size": "32in, 16:9", "Resolution": "3840 x 2160", "Panel": "QD-OLED", "Refresh rate": "240Hz", "Response time": "0.03ms", "Adaptive-Sync": "FreeSync and G-Sync Compatible"},
+      "pros": ["Stunning image with broad contrast and rich colour", "Greater colour volume than most other OLEDs", "Perfect motion resolution, low input lag", "Solid build quality"],
+      "cons": ["Premium price"],
+      "asin": "",
+      "search": "Alienware AW3225QF monitor"
+    },
+    {
+      "brand": "Samsung",
+      "name": "UR59C",
+      "badge": "Best budget 4K",
+      "best_for": "Productivity-focused buyers who want 4K without a gaming price tag",
+      "key_spec": "32in, 4K, VA, 60Hz, curved",
+      "summary": "A budget-friendly curved 4K monitor with quality build and effective curvature, though it needs calibration out of the box (colour error dropped from 4.3dE to 0.9dE once calibrated) and has no USB ports or adaptive sync.",
+      "specs": {"Screen size": "32in, 16:9", "Resolution": "3840 x 2160", "Panel": "VA", "Refresh rate": "60Hz", "Adaptive-Sync": "None"},
+      "pros": ["Quality build", "Effective curvature", "Sharp text for productivity"],
+      "cons": ["No USB ports", "Needs calibration out of the box"],
+      "asin": "",
+      "search": "Samsung UR59C monitor"
+    },
+    {
+      "brand": "Nexigo",
+      "name": "NG17FGQ",
+      "badge": "Best portable",
+      "best_for": "Buyers who want a high-refresh second screen for travel",
+      "key_spec": "17.3in, 1080p, IPS, up to 300Hz over USB-C",
+      "summary": "A portable monitor with a rare combination of large-for-portable size and a 300Hz refresh rate over USB-C (240Hz via HDMI), solid build quality and accurate colour once calibrated, though it needs a capable GPU to actually hit 300Hz.",
+      "specs": {"Screen size": "17.3in, 16:9", "Resolution": "1920 x 1080", "Panel": "IPS", "Refresh rate": "Up to 300Hz (USB-C), 240Hz (HDMI)", "Response time": "3ms", "Weight": "2.1lbs"},
+      "pros": ["Impressive video processing and game performance", "Accurate colour with calibration", "Solid build quality"],
+      "cons": ["No extended colour or dynamic contrast for HDR", "Can be tricky to run at full 300Hz"],
+      "asin": "",
+      "search": "Nexigo NG17FGQ portable monitor"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What refresh rate do I need?",
+      "a": "For general use and office work, 60Hz is fine. For gaming, aim for at least 100Hz for a noticeably smoother feel, with 144-240Hz suiting competitive or fast-paced games. Very high refresh rates (300Hz+) mainly benefit competitive esports players with a GPU capable of hitting those frame rates."
+    },
+    {
+      "q": "TN, IPS, VA or OLED panel?",
+      "a": "As a rough hierarchy for image quality: TN is the weakest but cheapest and fastest, IPS gives good colour and viewing angles, VA gives stronger contrast than IPS, and OLED gives the best contrast and colour of all, with near-instant response times, at a premium price."
+    },
+    {
+      "q": "What resolution should I choose?",
+      "a": "1080p is the practical minimum today. 1440p is a popular middle ground between sharpness and easier-to-drive frame rates for gaming. 4K gives the sharpest image but needs a powerful GPU to run demanding games at high frame rates."
+    },
+    {
+      "q": "Do I need FreeSync or G-Sync?",
+      "a": "Adaptive sync technologies like FreeSync (AMD) and G-Sync (Nvidia) match the monitor's refresh rate to your GPU's frame rate, reducing screen tearing and stutter. Check compatibility with your specific graphics card, since some monitors only officially support one standard, even if they often work with both in practice."
+    }
+  ],
+  "sources": [
+    {"name": "Tom's Hardware: best computer monitors", "url": "https://www.tomshardware.com/best-picks/best-computer-monitors"}
+  ]
+}
