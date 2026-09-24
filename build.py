@@ -27,7 +27,7 @@ GROUPS = {
         "air-fryers", "coffee-machines", "slow-cookers", "kettles", "blenders",
         "toasters", "dehumidifiers", "air-purifiers", "heated-airers",
         "electric-blankets", "electric-heaters", "kitchen-knives",
-        "washing-machines",
+        "washing-machines", "microwaves",
     ],
     "Cleaning": ["robot-vacuums", "cordless-vacuums"],
     "Tech & gadgets": [
@@ -45,7 +45,7 @@ GROUPS = {
         "cycling-helmets", "family-tents", "swimming-goggles", "massage-guns",
     ],
     "Clothing": ["mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets"],
-    "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets"],
+    "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "golf-club-sets"],
     "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "electric-shavers", "hair-clippers"],
     "Kids": ["trending-kids-toys"],
     "Garden": ["lawn-mowers", "pressure-washers", "bbqs"],
