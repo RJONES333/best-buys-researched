@@ -4,7 +4,7 @@
   "short": "Percussion massage guns compared by power, attachments and portability, from compact minis to premium investment models.",
   "intro": "A massage gun's deep vibrations help ease tight muscles and DOMS after training, but size, power and attachments vary hugely between models. This guide compares massage guns tested by Women's Running's panel through real marathon training and daily use.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Bob and Brad",
@@ -13,9 +13,21 @@
       "best_for": "Runners who want a portable gun that doesn't skimp on features",
       "key_spec": "0.43kg, 5 attachment heads including heat-and-cold, 5 speeds",
       "summary": "Women's Running's tester called this the most brilliant bit of recovery kit tested in a long time, neat enough to carry around without feeling heavy, with good range of movement to reach sore spots. The heat-and-cold head stood out as a favourite feature, described as a game changer for DOMS during marathon training.",
-      "specs": {"Weight": "0.43kg", "Volume": "Under 40dB", "Attachment heads": "5, including heat-and-cold", "Speeds": "5"},
-      "pros": ["Lightweight and portable", "Comfortable grip, even on full power", "Adjustable heat-and-cold head", "Genuinely helps with DOMS"],
-      "cons": ["Charging takes 2+ hours"],
+      "specs": {
+        "Weight": "0.43kg",
+        "Volume": "Under 40dB",
+        "Attachment heads": "5, including heat-and-cold",
+        "Speeds": "5"
+      },
+      "pros": [
+        "Lightweight and portable",
+        "Comfortable grip, even on full power",
+        "Adjustable heat-and-cold head",
+        "Genuinely helps with DOMS"
+      ],
+      "cons": [
+        "Charging takes 2+ hours"
+      ],
       "asin": "",
       "search": "Bob and Brad Q2 Pro Mini massage gun"
     },
@@ -26,9 +38,21 @@
       "best_for": "Buyers who want app guidance and both hot and cold therapy",
       "key_spec": "5 attachment heads with hot-and-cold, companion app, LCD screen",
       "summary": "A versatile gun that Women's Running found worked well across five speed settings for easing sore muscles, with a hot-and-cool head that warmed and cooled almost instantaneously. An LCD screen shows speed and battery level, and the companion app offers guided videos for using the gun on different muscle areas.",
-      "specs": {"Weight": "0.76kg", "Attachment heads": "5, including hot-and-cold", "Speeds": "5", "App": "Yes"},
-      "pros": ["Versatile hot-and-cold head", "Fast heating and cooling", "Helpful LCD screen with battery indicator", "Companion app with guided videos"],
-      "cons": ["Heavier than the mini options"],
+      "specs": {
+        "Weight": "0.76kg",
+        "Attachment heads": "5, including hot-and-cold",
+        "Speeds": "5",
+        "App": "Yes"
+      },
+      "pros": [
+        "Versatile hot-and-cold head",
+        "Fast heating and cooling",
+        "Helpful LCD screen with battery indicator",
+        "Companion app with guided videos"
+      ],
+      "cons": [
+        "Heavier than the mini options"
+      ],
       "asin": "",
       "search": "RENPHO massage gun with heat and cold"
     },
@@ -39,9 +63,21 @@
       "best_for": "Runners who struggle to massage their own back and shoulders",
       "key_spec": "0.6kg, extension handle, infrared heat and red light therapy head",
       "summary": "Women's Running's tester called this a game-changer for reaching the back without a willing partner, thanks to a clever extension handle that turns it from a mini gun into a full-reach tool. An infrared heat head warms sore muscles and is said to promote faster recovery, particularly praised for tight shoulders and lats.",
-      "specs": {"Weight": "0.6kg", "Volume": "Under 55dB", "Attachment heads": "5, including infrared heat and red light", "Speeds": "5"},
-      "pros": ["Extension handle reaches the whole back", "Infrared heat head aids recovery", "Quiet in use", "Compact carry case for travel"],
-      "cons": ["Longer charging time (2.5+ hours)"],
+      "specs": {
+        "Weight": "0.6kg",
+        "Volume": "Under 55dB",
+        "Attachment heads": "5, including infrared heat and red light",
+        "Speeds": "5"
+      },
+      "pros": [
+        "Extension handle reaches the whole back",
+        "Infrared heat head aids recovery",
+        "Quiet in use",
+        "Compact carry case for travel"
+      ],
+      "cons": [
+        "Longer charging time (2.5+ hours)"
+      ],
       "asin": "",
       "search": "Bob and Brad L7 Ultra massage gun"
     },
@@ -52,9 +88,21 @@
       "best_for": "Serious or daily users who want maximum power",
       "key_spec": "1.18kg, 5 attachment heads, 5 speeds, 4-hour charge",
       "summary": "Used daily on legs during a 70-day running streak, Women's Running's tester found this delivered far more powerful massage than an older gun used for years, rarely needing to go above speed three out of five. Described as 'the Rolls Royce of massagers', it's heavier during extended use, though easy enough to switch hands.",
-      "specs": {"Weight": "1.18kg", "Attachment heads": "5", "Speeds": "5", "Charging time": "4 hours"},
-      "pros": ["Exceptionally powerful massage", "Five easy-to-swap heads", "Built for daily, heavy use"],
-      "cons": ["Feels heavy during extended sessions", "Premium price"],
+      "specs": {
+        "Weight": "1.18kg",
+        "Attachment heads": "5",
+        "Speeds": "5",
+        "Charging time": "4 hours"
+      },
+      "pros": [
+        "Exceptionally powerful massage",
+        "Five easy-to-swap heads",
+        "Built for daily, heavy use"
+      ],
+      "cons": [
+        "Feels heavy during extended sessions",
+        "Premium price"
+      ],
       "asin": "",
       "search": "Hyperice Hypervolt 2 Pro massage gun"
     }
@@ -78,6 +126,9 @@
     }
   ],
   "sources": [
-    {"name": "Women's Running: best massage guns for runners", "url": "https://www.womensrunning.co.uk/gear/the-best-massage-guns-for-runners/"}
+    {
+      "name": "Women's Running: best massage guns for runners",
+      "url": "https://www.womensrunning.co.uk/gear/the-best-massage-guns-for-runners/"
+    }
   ]
 }

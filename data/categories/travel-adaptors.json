@@ -4,7 +4,7 @@
   "short": "Universal travel adaptors compared by plug compatibility, charging power and safety features, from budget picks to high-power GaN chargers.",
   "intro": "A good travel adaptor needs to fit securely, charge fast enough for modern devices, and cover the plug types for wherever you're actually going. This guide compares adaptors tested by T3's travel team, who take each one on real trips charging laptops, phones, cameras and more.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Epicka",
@@ -13,9 +13,22 @@
       "best_for": "Frequent travellers juggling multiple devices",
       "key_spec": "75W GaN, 3x USB-C + 2x USB-A, charges up to 6 devices, includes carry case",
       "summary": "T3's top pick, compact yet able to charge up to six devices simultaneously with fast charging on every port. Its sturdy build includes an 8A fuse and safety shutters plus a premium carry case, though it doesn't support Type D or M plugs and can't convert voltage.",
-      "specs": {"Weight": "239g", "Plug types": "A, C, G, I", "USB slots": "3x USB-C + 2x USB-A", "Power": "75W"},
-      "pros": ["Worldwide plug compatibility", "Fast charging on all ports", "Includes a carry case", "8A fuse and safety shutters"],
-      "cons": ["Doesn't support Type D or Type M plugs", "Ships from the US only"],
+      "specs": {
+        "Weight": "239g",
+        "Plug types": "A, C, G, I",
+        "USB slots": "3x USB-C + 2x USB-A",
+        "Power": "75W"
+      },
+      "pros": [
+        "Worldwide plug compatibility",
+        "Fast charging on all ports",
+        "Includes a carry case",
+        "8A fuse and safety shutters"
+      ],
+      "cons": [
+        "Doesn't support Type D or Type M plugs",
+        "Ships from the US only"
+      ],
       "asin": "",
       "search": "Epicka TA-105 Max travel adapter"
     },
@@ -26,9 +39,21 @@
       "best_for": "Buyers who need to charge a laptop and several devices at full speed",
       "key_spec": "135W GaN, 3x USB-C (2x at 100W) + 1x USB-A, over 200 countries",
       "summary": "T3 found this capable of charging two MacBook Pros at full speed simultaneously thanks to its two 100W USB-C ports and advanced GaN technology. It's compatible in over 200 countries and charges up to five devices at once, though it lacks a grounding pin.",
-      "specs": {"Weight": "273g", "Plug types": "A, B, C, E/F, G, I", "USB slots": "3x USB-C + 1x USB-A", "Power": "135W"},
-      "pros": ["Compact for its power output", "Compatible in over 200 countries", "Two USB-C ports at 100W each"],
-      "cons": ["No grounding pin", "Colour is a little garish"],
+      "specs": {
+        "Weight": "273g",
+        "Plug types": "A, B, C, E/F, G, I",
+        "USB slots": "3x USB-C + 1x USB-A",
+        "Power": "135W"
+      },
+      "pros": [
+        "Compact for its power output",
+        "Compatible in over 200 countries",
+        "Two USB-C ports at 100W each"
+      ],
+      "cons": [
+        "No grounding pin",
+        "Colour is a little garish"
+      ],
       "asin": "",
       "search": "OneAdaptr OneWorld135 travel adapter"
     },
@@ -39,9 +64,23 @@
       "best_for": "Budget-conscious travellers who still want fast charging",
       "key_spec": "30W GaN, 1x USB-C + 2x USB-A, interchangeable US/UK/EU plug heads",
       "summary": "T3 found this versatile and compact, with interchangeable plug heads for US, UK and EU sockets and GaN technology for rapid charging that's impressive at this price. It's a shame it only has one USB-C port and lower power output, and it lacks foldable prongs or a carry case.",
-      "specs": {"Weight": "180g", "Plug types": "A, B, C, E/F, G, I", "USB slots": "1x USB-C + 2x USB-A", "Power": "30W"},
-      "pros": ["Fast charging via GaN technology", "Comes with a high-quality case", "Sleek and slim design", "Very affordable"],
-      "cons": ["Doesn't convert voltage", "Only one USB-C port", "Lower power output than premium rivals"],
+      "specs": {
+        "Weight": "180g",
+        "Plug types": "A, B, C, E/F, G, I",
+        "USB slots": "1x USB-C + 2x USB-A",
+        "Power": "30W"
+      },
+      "pros": [
+        "Fast charging via GaN technology",
+        "Comes with a high-quality case",
+        "Sleek and slim design",
+        "Very affordable"
+      ],
+      "cons": [
+        "Doesn't convert voltage",
+        "Only one USB-C port",
+        "Lower power output than premium rivals"
+      ],
       "asin": "",
       "search": "UGREEN Travel Plug Adapter"
     },
@@ -52,9 +91,22 @@
       "best_for": "Buyers who hop between countries regularly and want something lightweight",
       "key_spec": "15W, 2x USB-A + built-in USB-C cable, compatible in 200+ countries",
       "summary": "Built for frequent travellers with two US outlets on the front plus USB-A slots and a built-in USB-C cable, all in a lightweight design with a travel pouch. T3 notes it only works with dual-voltage products, so it suits phones and laptops but not 110V appliances like hair dryers.",
-      "specs": {"Weight": "142g", "Plug types": "A, B, C, E/F, G, I", "USB slots": "2x USB-A + built-in USB-C cable", "Power": "15W"},
-      "pros": ["Compatible in over 200 countries", "Very lightweight", "Includes a travel pouch"],
-      "cons": ["Only works with dual-voltage devices", "No South Africa adapter plug", "Only one built-in USB-C cable"],
+      "specs": {
+        "Weight": "142g",
+        "Plug types": "A, B, C, E/F, G, I",
+        "USB slots": "2x USB-A + built-in USB-C cable",
+        "Power": "15W"
+      },
+      "pros": [
+        "Compatible in over 200 countries",
+        "Very lightweight",
+        "Includes a travel pouch"
+      ],
+      "cons": [
+        "Only works with dual-voltage devices",
+        "No South Africa adapter plug",
+        "Only one built-in USB-C cable"
+      ],
       "asin": "",
       "search": "Ceptics World Travel Adapter Kit"
     },
@@ -65,9 +117,21 @@
       "best_for": "Buyers who want to charge four devices at high speed simultaneously",
       "key_spec": "170W, 3x USB-C (2x at 140W) + 1x USB-A, sliding plugs for US/UK/EU",
       "summary": "One of the most powerful adaptors T3 tested, with sliding plugs that click securely into UK, US and EU sockets and rotating US prongs that extend coverage to over 200 countries. Four ports let it charge four devices at once, including two high-power USB-C ports, though there's no grounding pin.",
-      "specs": {"Weight": "278g", "Plug types": "A, C, G, I", "USB slots": "1x USB-A + 3x USB-C", "Power": "170W"},
-      "pros": ["Very high power output (170W)", "Charges four devices simultaneously", "Sliding plugs click securely into place", "Rotating US prongs extend country coverage"],
-      "cons": ["No grounding pin"],
+      "specs": {
+        "Weight": "278g",
+        "Plug types": "A, C, G, I",
+        "USB slots": "1x USB-A + 3x USB-C",
+        "Power": "170W"
+      },
+      "pros": [
+        "Very high power output (170W)",
+        "Charges four devices simultaneously",
+        "Sliding plugs click securely into place",
+        "Rotating US prongs extend country coverage"
+      ],
+      "cons": [
+        "No grounding pin"
+      ],
       "asin": "",
       "search": "VisaPro All-in-One Travel Adapter"
     }
@@ -91,6 +155,9 @@
     }
   ],
   "sources": [
-    {"name": "T3: best travel adaptors", "url": "https://www.t3.com/features/best-travel-adapter"}
+    {
+      "name": "T3: best travel adaptors",
+      "url": "https://www.t3.com/features/best-travel-adapter"
+    }
   ]
 }

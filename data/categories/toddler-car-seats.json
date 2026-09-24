@@ -4,7 +4,7 @@
   "short": "i-Size toddler car seats compared by safety ratings, ease of installation and comfort, from extended rear-facing to 360-spin designs.",
   "intro": "A toddler car seat is one purchase where independent crash-test data matters more than any other feature, so this guide leans on ADAC's stringent crash testing alongside Mumsnet's own parent-tester panel. All seats here are R129 (i-Size) certified; always follow the manufacturer's fitting instructions exactly, since correct installation matters as much as the seat itself.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Nuna",
@@ -13,9 +13,22 @@
       "best_for": "Parents who want extended rear-facing with strong safety credentials",
       "key_spec": "Birth to ~4 years (40-105cm), Good (2.3) ADAC rating, R129 i-Size, 360° rotation",
       "summary": "Mumsnet's top pick, allowing children to stay rear-facing up to around four years old with a Good ADAC rating and Side Impact Protection with energy-absorbing foam. Their tester scored it 96/100, praising smooth harness adjustment and a slide-out ProxiPivot feature (with the separately-sold BASE Curv) that makes getting a child in and out noticeably less awkward.",
-      "specs": {"Age range": "Birth to ~4 years (40-105cm)", "ADAC rating": "Good (2.3)", "Safety standard": "R129 (i-Size)", "Weight": "14.4kg with base"},
-      "pros": ["Good ADAC crash-test rating", "Extended rear-facing to around age four", "Smooth 360-degree rotation", "No-rethread harness with magnetic buckle holders"],
-      "cons": ["ISOFIX base sold separately", "Quite heavy with base fitted"],
+      "specs": {
+        "Age range": "Birth to ~4 years (40-105cm)",
+        "ADAC rating": "Good (2.3)",
+        "Safety standard": "R129 (i-Size)",
+        "Weight": "14.4kg with base"
+      },
+      "pros": [
+        "Good ADAC crash-test rating",
+        "Extended rear-facing to around age four",
+        "Smooth 360-degree rotation",
+        "No-rethread harness with magnetic buckle holders"
+      ],
+      "cons": [
+        "ISOFIX base sold separately",
+        "Quite heavy with base fitted"
+      ],
       "asin": "",
       "search": "Nuna TODL Next car seat"
     },
@@ -26,9 +39,23 @@
       "best_for": "Parents who want one seat to last from birth to age 12",
       "key_spec": "0-12 years (40-150cm), i-Size, pop-out side impact protection, ISOFIX",
       "summary": "An extended rear-facing seat with excellent safety credentials for the price, tested beyond standard R129 requirements in line with ADAC crash testing. Mumsnet's tester loved the smooth one-handed 360-degree rotation and clear colour-coded installation indicators, though found the magnets meant to hold harness straps back not very effective.",
-      "specs": {"Age range": "0-12 years (40-150cm)", "Safety standard": "R129 (i-Size)", "Weight": "14.5kg", "Guarantee": "4 years"},
-      "pros": ["Suitable from birth to age 12", "Extended rear-facing to age four", "Excellent safety features for the price", "Colour indicators confirm correct installation"],
-      "cons": ["Heavy", "Strap-holding magnets not very effective", "Strap underside can feel rubbery"],
+      "specs": {
+        "Age range": "0-12 years (40-150cm)",
+        "Safety standard": "R129 (i-Size)",
+        "Weight": "14.5kg",
+        "Guarantee": "4 years"
+      },
+      "pros": [
+        "Suitable from birth to age 12",
+        "Extended rear-facing to age four",
+        "Excellent safety features for the price",
+        "Colour indicators confirm correct installation"
+      ],
+      "cons": [
+        "Heavy",
+        "Strap-holding magnets not very effective",
+        "Strap underside can feel rubbery"
+      ],
       "asin": "",
       "search": "Cosatto All in All Ultra 360 Rotate car seat"
     },
@@ -39,9 +66,21 @@
       "best_for": "Parents of wriggly toddlers who want the easiest possible in/out",
       "key_spec": "Birth to 4 years (105cm), ECE R129/02, Guard Surround Safety side impact panels",
       "summary": "Voted Mumsnet's best 360 spin car seat, with a fully rotating design that lets you place even a stubborn toddler inside without a struggle. Their tester called it the best seat tested for all-round usability, comfort and feel, with three layers of shock-absorbing headrest padding, though the support leg fixture is a bit fiddly and it's bulky to carry between cars.",
-      "specs": {"Age range": "Birth to 4 years (105cm)", "Safety standard": "ECE R129/02", "Weight": "13.9kg"},
-      "pros": ["Best all-round usability and comfort in testing", "Chunky, well-shock-absorbed padding", "No-rethread headrest and harness adjustment", "Easy installation with visual indicators"],
-      "cons": ["Support leg fixture is a bit fiddly", "Bulky to carry to and from the car"],
+      "specs": {
+        "Age range": "Birth to 4 years (105cm)",
+        "Safety standard": "ECE R129/02",
+        "Weight": "13.9kg"
+      },
+      "pros": [
+        "Best all-round usability and comfort in testing",
+        "Chunky, well-shock-absorbed padding",
+        "No-rethread headrest and harness adjustment",
+        "Easy installation with visual indicators"
+      ],
+      "cons": [
+        "Support leg fixture is a bit fiddly",
+        "Bulky to carry to and from the car"
+      ],
       "asin": "",
       "search": "Joie i-Spin 360 i-Size car seat"
     },
@@ -52,9 +91,20 @@
       "best_for": "Parents who prioritise breathability and plush comfort on long journeys",
       "key_spec": "Birth (with newborn inlay) to 4 years/20kg, integrated ventilation, ISOFIX",
       "summary": "Mumsnet's Deputy Head of Editorial Content called this one of the most comfortable toddler seats she's tested, with an upgraded mesh fabric Cybex says increases breathability up to six times over standard fabric. It locks out forward-facing until 15 months to encourage safer extended rear-facing, though the 360-degree rotation mechanism is sometimes quite stiff.",
-      "specs": {"Age range": "Birth with inlay, or 3 months to 4 years/20kg", "Weight": "13kg", "Guarantee": "2 years"},
-      "pros": ["360-degree rotation for easy in and out", "Breathable mesh fabric keeps toddlers cool", "Five recline positions", "Great value for money"],
-      "cons": ["Rotation mechanism sometimes quite stiff"],
+      "specs": {
+        "Age range": "Birth with inlay, or 3 months to 4 years/20kg",
+        "Weight": "13kg",
+        "Guarantee": "2 years"
+      },
+      "pros": [
+        "360-degree rotation for easy in and out",
+        "Breathable mesh fabric keeps toddlers cool",
+        "Five recline positions",
+        "Great value for money"
+      ],
+      "cons": [
+        "Rotation mechanism sometimes quite stiff"
+      ],
       "asin": "",
       "search": "Cybex Sirona Gi i-Size car seat"
     }
@@ -78,6 +128,9 @@
     }
   ],
   "sources": [
-    {"name": "Mumsnet: best toddler car seats", "url": "https://www.mumsnet.com/reviews/toddler-car-seats"}
+    {
+      "name": "Mumsnet: best toddler car seats",
+      "url": "https://www.mumsnet.com/reviews/toddler-car-seats"
+    }
   ]
 }
