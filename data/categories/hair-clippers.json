@@ -1,0 +1,96 @@
+{
+  "slug": "hair-clippers",
+  "title": "Best Hair Clippers UK",
+  "short": "Hair clippers compared by battery life, cutting range and build quality, from budget corded models to professional-grade clippers.",
+  "intro": "A good set of clippers can save a monthly trip to the barber, and the difference between models comes down to motor power, cutting range and how long a cordless model lasts between charges. This guide compares clippers tested by Expert Reviews, from budget corded picks to a genuine professional-grade model.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Wahl",
+      "name": "Lithium Power Hair Clipper",
+      "badge": "Best wireless",
+      "best_for": "Buyers who want a reliable cordless clipper for weekly trims",
+      "key_spec": "120 minutes runtime from a 3-hour charge, grade 1-8 (3-25mm), full accessory set",
+      "summary": "Expert Reviews found this gives a beard and hair trim every week for several weeks on a single charge, with decent build quality and a simple design that minimises what can go wrong. It comes with a full grade 1-8 comb set, ear tapers, scissors, comb, blade oil and a storage pouch.",
+      "specs": {"Power": "Mains or cordless (120 min after 3hr charge)", "Cutting range": "Grade 1-8 (3-25mm)", "Weight": "288g"},
+      "pros": ["Strong battery life for weekly use", "Simple, reliable design", "Full accessory set including ear tapers and scissors", "Works corded or cordless"],
+      "cons": ["Pricier than basic budget clippers"],
+      "asin": "",
+      "search": "Wahl Lithium Power Hair Clipper"
+    },
+    {
+      "brand": "Wahl",
+      "name": "Colour Pro Cordless",
+      "badge": "Best budget cordless",
+      "best_for": "Buyers who want cordless convenience without paying for the Lithium model",
+      "key_spec": "60 minutes runtime after a 12-hour charge, grade 1-8 (3-25mm)",
+      "summary": "A more basic cordless experience than the Wahl Lithium, without a taper lever and with more limited battery life, but Expert Reviews found it a solid choice for a cheap cordless clipper. It works both plugged in and cordless, with combs for grades 1-8, ear tapers, oil, comb, scissors and a travel pouch included.",
+      "specs": {"Power": "Mains or cordless (60 min after 12hr charge)", "Cutting range": "Grade 1-8 (3-25mm)", "Price guide": "£24"},
+      "pros": ["Affordable cordless option", "Works corded or cordless", "Comes with a full accessory set and travel pouch"],
+      "cons": ["No taper lever", "Long 12-hour charge time for only 60 minutes of use"],
+      "asin": "",
+      "search": "Wahl Colour Pro Cordless Hair Clippers"
+    },
+    {
+      "brand": "Remington",
+      "name": "HC5035 Colour Cut Hair Clipper",
+      "badge": "Best under £30",
+      "best_for": "Budget buyers who want a reliable mains-powered clipper",
+      "key_spec": "0.5-25mm cutting range via 9 combs, mains-powered",
+      "summary": "Expert Reviews found this punches above its weight for the price, covering the shortest lengths from 0.5-2mm for hairlines up to grade 8 with nine included combs plus two ear tapers. Being mains-powered means it handles beards with few problems, though it's noticeably heavier than other models and doesn't come with a storage case.",
+      "specs": {"Power": "Mains", "Cutting range": "0.5mm-25mm", "Weight": "800g"},
+      "pros": ["Excellent value for the price", "Handles beards well thanks to mains power", "Comprehensive 9-comb set with ear tapers"],
+      "cons": ["Heavier and bigger than most", "Cuts hair slower than pricier models", "No storage case included"],
+      "asin": "",
+      "search": "Remington HC5035 Colour Cut Hair Clipper"
+    },
+    {
+      "brand": "Wahl",
+      "name": "Colour Pro Corded",
+      "badge": "Best for thick or unruly hair",
+      "best_for": "Buyers with thick hair or beards who want reliable mains power",
+      "key_spec": "Grade 1-8 (3-25mm), mains-powered, includes barber's scissors",
+      "summary": "Sits at the budget end of the market but Expert Reviews found it especially good at getting through thick hair and beards, styled a little more smartly than the entry-level Remington. It comes with a full grade 1-8 comb set, hand comb, barber's scissors and blade oil at a very reasonable price.",
+      "specs": {"Power": "Mains", "Cutting range": "Grade 1-8 (3-25mm)", "Weight": "227g"},
+      "pros": ["Handles thick hair and beards well", "Well-designed for the price", "Includes barber's scissors and blade oil"],
+      "cons": ["Colour-coded combs no longer a unique selling point at this price"],
+      "asin": "",
+      "search": "Wahl Colour Pro Corded Hair Clipper"
+    },
+    {
+      "brand": "Oster",
+      "name": "606 Pro Power Adjustable Blade Pivot Motor Clipper",
+      "badge": "Best for professional/retro style",
+      "best_for": "Buyers who want genuine professional-grade clippers",
+      "key_spec": "Adjustable blade grade 0-1 (0.5-2.4mm), pivot motor, wet or dry use",
+      "summary": "A serious investment from a US brand that's supplied barbers for over 100 years, with an adjustable blade covering grade 0 to grade 1 plus four attachment combs up to grade 4. Expert Reviews notes the vintage styling looks the part, though there's no storage case included and a fuller comb set costs extra.",
+      "specs": {"Power": "Mains", "Cutting range": "Grade 0-4 (0.5-12mm), up to grade 8 with extra combs", "Weight": "800g"},
+      "pros": ["Genuine professional-grade build", "Adjustable blade for fine control", "Can be used wet or dry", "Classic, stylish retro design"],
+      "cons": ["Expensive", "No storage case included", "Full grade 1-8 comb set costs extra"],
+      "asin": "",
+      "search": "Oster 606 Pro Power Adjustable Blade Clipper"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Corded or cordless clippers?",
+      "a": "Mains-powered clippers give consistent full power throughout use, which some find better for thick or unruly hair, and they never run out of charge mid-cut. Cordless models are easier to manoeuvre single-handed if cutting your own hair and are more portable for travel, though they typically cost more for similar quality."
+    },
+    {
+      "q": "What do clipper grades mean?",
+      "a": "Grades indicate how short the clipper cuts using comb attachments: grade 1 is roughly 3mm and grade 8 is around 25mm. Most clippers, like those in this guide, come with a comb set spanning grades 1-8, plus tapered combs for neatly trimming around the ears."
+    },
+    {
+      "q": "How much should I spend on clippers?",
+      "a": "Most clippers sell for under £50 and can give a good or excellent cut depending on skill, while professional barbers typically pay £100 or more, like the Oster 606 here. As a rule, expect the difference in price to buy stronger motors, sharper blades and better durability rather than a fundamentally different cutting result for occasional home use."
+    },
+    {
+      "q": "How long does cordless battery life need to be?",
+      "a": "For a single haircut, 20-30 minutes of runtime is usually enough, but models with 60-120 minutes like those in this guide give more headroom for beard trims too or if you're cutting more than one person's hair. Also check charging time, since some budget cordless models take up to 12 hours to fully charge."
+    }
+  ],
+  "sources": [
+    {"name": "Expert Reviews: best hair clippers", "url": "https://www.expertreviews.co.uk/beauty-wellness/hair-care-grooming/best-hair-clippers"}
+  ]
+}
