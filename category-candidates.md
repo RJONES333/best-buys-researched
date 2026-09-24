@@ -3,7 +3,6 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Action cameras (Tech & gadgets)
 - Projectors (Tech & gadgets)
 - Soundbars (Tech & gadgets)
 - Tablets (Tech & gadgets)
@@ -40,6 +39,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Food processors — Mumsnet (7 products)
 - Gaming chairs — Expert Reviews (8 products, user-requested)
 - Office chairs — Expert Reviews (6 products, user-requested)
+- Action cameras — Expert Reviews (5 products)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes

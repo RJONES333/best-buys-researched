@@ -1,0 +1,165 @@
+{
+  "slug": "action-cameras",
+  "title": "Best Action Cameras UK",
+  "short": "Action cameras compared for image stabilisation, low-light performance and battery life, from flagship GoPro and DJI models to a thumb-sized micro camera.",
+  "intro": "An action camera's real test is how it performs across a wide range of environments and lighting conditions, not just its resolution spec. This guide compares cameras tested by Expert Reviews' team, assessing image stabilisation, microphones and battery life, and testing each camera side-by-side against its predecessors and rivals.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "GoPro",
+      "name": "Hero 13 Black",
+      "badge": "Best overall",
+      "best_for": "Buyers who want the most flexible, capable action camera available",
+      "key_spec": "5K/60fps recording, 27MP 8:7 sensor, magnetic lens attachment system, 10m waterproof",
+      "summary": "Expert Reviews found this maintains GoPro's status as the best of the best, with new HB Series lens attachments including a macro lens, improved battery life and cooling, and a magnetic latching system. Rivals are catching up in specific areas, like DJI's better low light, but the quality of GoPro's 5K footage and the flexibility of its 8:7 sensor keep it on top.",
+      "specs": {
+        "Max recording resolution": "5K at 60fps",
+        "Sensor": "27MP, 1/1.9in CMOS",
+        "Weight": "159g with battery",
+        "Price guide": "£290-£400"
+      },
+      "pros": [
+        "Excellent 5K footage quality in good light",
+        "Flexible 8:7 sensor for vertical or horizontal output",
+        "Improved battery life and cooling",
+        "New magnetic lens attachment system"
+      ],
+      "cons": [
+        "DJI rivals now beat it in low light",
+        "Insta360's Ace Pro 2 offers higher 8K resolution"
+      ],
+      "asin": "",
+      "search": "GoPro Hero 13 Black"
+    },
+    {
+      "brand": "Insta360",
+      "name": "One X3",
+      "badge": "Best 360 camera",
+      "best_for": "Buyers who want immersive 360-degree footage they can reframe later",
+      "key_spec": "5.7K 360-degree video, FlowState stabilisation, horizon lock, 72MP photospheres",
+      "summary": "Expert Reviews found this makes shooting and processing 360 clips genuinely straightforward, seamlessly stitching detailed 5.7K footage in-camera via a pair of wide-angle lenses. FlowState stabilisation and reframing let you crop 360 footage into a standard 16:9 frame after the fact, even cutting between angles, and it also works as a standard single-lens 4K camera.",
+      "specs": {
+        "Max recording resolution": "5.7K at 30fps (360°)",
+        "Sensor pixels": "48 megapixels",
+        "Weight": "180g",
+        "Price guide": "£309-£460"
+      },
+      "pros": [
+        "Best-in-class 360-degree shooting and stitching",
+        "Reframing gives full creative control after filming",
+        "Larger colour touchscreen than its predecessor",
+        "Also works as a standard single-lens action cam"
+      ],
+      "cons": [
+        "More expensive than standard single-lens rivals"
+      ],
+      "asin": "",
+      "search": "Insta360 One X3"
+    },
+    {
+      "brand": "DJI",
+      "name": "Osmo Action 5 Pro",
+      "badge": "Best value",
+      "best_for": "Buyers who want strong performance and battery life for less than GoPro's flagship",
+      "key_spec": "4K recording, 40MP 1/1.3in sensor, front and rear OLED displays, 20m waterproof (60m with case)",
+      "summary": "Expert Reviews found this doesn't quite match the GoPro Hero 13's shooting flexibility, but it's cheaper, comes with generous built-in storage, and produces impressive footage in low light. Battery life beat the GoPro despite this year's improvements from the market leader, though the built-in mic and lens flare handling aren't quite as good.",
+      "specs": {
+        "Max recording resolution": "4K",
+        "Sensor": "40MP, 1/1.3in",
+        "Waterproof": "20m (60m with case)",
+        "Price guide": "£305-£329"
+      },
+      "pros": [
+        "Better low-light performance than GoPro",
+        "Longer battery life than the GoPro Hero 13",
+        "Generous built-in storage included",
+        "Impressive front and rear OLED displays"
+      ],
+      "cons": [
+        "Less flexible shooting options than GoPro",
+        "Weaker built-in microphone",
+        "Handles lens flare less well"
+      ],
+      "asin": "",
+      "search": "DJI Osmo Action 5 Pro"
+    },
+    {
+      "brand": "GoPro",
+      "name": "Hero 12 Black",
+      "badge": "Best budget GoPro",
+      "best_for": "Buyers who want GoPro's core sensor tech without paying flagship price",
+      "key_spec": "5.3K/60fps recording, 27MP 8:7 sensor, HyperSmooth 6.0 stabilisation, 10m waterproof",
+      "summary": "Expert Reviews found this remains highly capable at a very competitive price, sharing the same near-square 27MP 8:7 sensor as the flagship Hero 13, which allows easy vertical or horizontal output without reshooting. It can record 5.3K at up to 60fps or 4K at up to 120fps, though it lacks the Hero 13's extra battery life, cooling and new smart mods.",
+      "specs": {
+        "Max recording resolution": "5.3K at 60fps",
+        "Sensor": "27MP, same as Hero 13",
+        "Weight": "155g",
+        "Price guide": "£269"
+      },
+      "pros": [
+        "Same flexible 8:7 sensor as the flagship Hero 13",
+        "Strong recording options up to 5.3K/60fps",
+        "Front and rear colour displays included",
+        "Very competitive price for the capability"
+      ],
+      "cons": [
+        "Shorter battery life than the Hero 13",
+        "Less advanced cooling than the newer flagship"
+      ],
+      "asin": "",
+      "search": "GoPro Hero 12 Black"
+    },
+    {
+      "brand": "Insta360",
+      "name": "Go 3",
+      "badge": "Best micro camera",
+      "best_for": "Buyers who want a tiny, uniquely mountable camera for POV footage",
+      "key_spec": "35g thumb-sized design, magnetic wearable base, docks into action camera housing, 2.7K/30fps max",
+      "summary": "Expert Reviews called this a uniquely versatile action camera that can be mounted in places others simply can't, thanks to its tiny thumb-sized form factor. A magnetic base and medallion let you wear it directly on your chest, and it docks into a traditional housing with a touchscreen for advanced shooting, though video resolution is capped at 2.7K and there's no expandable storage.",
+      "specs": {
+        "Max recording resolution": "2.7K at 30fps",
+        "Weight": "35g",
+        "Built-in storage": "64GB, not expandable",
+        "Price guide": "£287"
+      },
+      "pros": [
+        "Uniquely small, versatile mounting options",
+        "Magnetic wearable base for chest-mounted POV shots",
+        "Docks into a full housing for advanced features",
+        "Genuinely impressive image quality for its size"
+      ],
+      "cons": [
+        "Resolution capped at 2.7K, below rivals",
+        "No expandable microSD storage",
+        "Non-replaceable battery"
+      ],
+      "asin": "",
+      "search": "Insta360 Go 3"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need a 4K action camera?",
+      "a": "Unless you're on a strict budget, Expert Reviews recommends a 4K-ready model since prices have come down significantly and 4K gives crisper footage with more editing flexibility. Watch out for cheap cameras that just upscale lower-resolution footage rather than shooting genuine 4K, and check the sensor resolution is specified if in doubt."
+    },
+    {
+      "q": "Standard, 360-degree or micro camera: which type do I need?",
+      "a": "A standard single-lens camera like the GoPro Hero 13 here suits most action filming. A 360-degree camera like the Insta360 One X3 lets you capture everything around you and decide the framing later in editing, ideal if you're not sure exactly where the action will happen. A micro camera like the Insta360 Go 3 trades resolution for uniquely small, versatile mounting, good for POV or discreet shots standard cameras can't achieve."
+    },
+    {
+      "q": "How important is image stabilisation?",
+      "a": "It's the feature that transforms jerky footage into smooth, cinematic-looking video, and Expert Reviews considers it essential for any action-packed filming. Look for cameras with strong digital and sensor-based stabilisation plus Horizon Leveling, which keeps footage level even as the camera tilts and moves."
+    },
+    {
+      "q": "Are all action cameras waterproof out of the box?",
+      "a": "Most modern action cameras, including the GoPro Hero 13 here (rated to 10m natively, 60m with an optional housing), now offer some waterproofing without needing a separate case, unlike older models. Waterproof ratings vary between cameras though, so always check the manual before submerging any action camera, as extra precautions are often needed."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best action cameras",
+      "url": "https://www.expertreviews.co.uk/technology/action-cameras/best-action-cameras"
+    }
+  ]
+}
