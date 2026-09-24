@@ -3,7 +3,7 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Tablets (Tech & gadgets)
+(none currently — add more candidates here as they come up)
 
 ## Rejected (no genuine hands-on testing source found, don't retry)
 - Dog leads and harnesses — PetsRadar's page is mostly generic affiliate "reasons to buy/avoid" copy with only one genuinely tested product. Which?'s test methodology is excellent (real dogs, water-resistance testing) but results are paywalled behind login. Rover.com's "reviews" are mostly scraped Amazon customer quotes labelled "most helpful review", same pattern as the rejected Origym boxing gloves source. Worth retrying later if a UK outlet publishes an unpaywalled hands-on test.
@@ -40,6 +40,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Action cameras — Expert Reviews (5 products)
 - Projectors — Expert Reviews (9 products)
 - Soundbars — Expert Reviews (9 products)
+- Tablets — Trusted Reviews (8 products)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes

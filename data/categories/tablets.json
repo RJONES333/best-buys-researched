@@ -1,0 +1,244 @@
+{
+  "slug": "tablets",
+  "title": "Best Tablets UK",
+  "short": "Tablets compared using lab benchmarks, colourimeter screen tests and real-world battery drains, from all-round iPads to gaming, drawing and note-taking specialists.",
+  "intro": "A tablet's real test is how it performs across genuine daily use, not a single benchmark number. This guide compares tablets tested by Trusted Reviews, who run colourimeter checks for screen accuracy, synthetic benchmarks for performance, and battery drain tests for office work, streaming and gaming, alongside using each one as their main tablet for at least five days.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Apple",
+      "name": "iPad Air M4 (2026)",
+      "badge": "Best overall",
+      "best_for": "Buyers who want a confident all-rounder without a Pro-level price",
+      "key_spec": "M4 chip, 12GB RAM, 480 nits measured brightness, Wi-Fi 7, 10-hour battery life",
+      "summary": "Trusted Reviews found this covers the full mix of performance, screen quality, design and software most buyers need, with an M4 chip delivering a clear step up from the previous model. Measured brightness of 480 nits held up in line with Apple's claims, and RAM has grown to 12GB for snappier multitasking, though it misses ProMotion and colour options feel a little drab.",
+      "specs": {
+        "Chipset": "Apple M4",
+        "RAM": "12GB",
+        "Measured brightness": "480 nits",
+        "Price guide": "£859-£949"
+      },
+      "pros": [
+        "Clear performance step up from the previous model",
+        "Improved Wi-Fi 7 connectivity",
+        "Available in two size options",
+        "Access to Final Cut Pro and Logic Pro"
+      ],
+      "cons": [
+        "No ProMotion 120Hz refresh rate",
+        "Colour options feel a little drab"
+      ],
+      "asin": "",
+      "search": "Apple iPad Air M4 2026"
+    },
+    {
+      "brand": "Honor",
+      "name": "MagicPad 4",
+      "badge": "Best Android",
+      "best_for": "Buyers who want a large, genuinely portable OLED Android tablet",
+      "key_spec": "4.8mm thick, 450g, 12.3in 3K OLED at 165Hz, Snapdragon 8 Gen 5, PC Mode desktop layout",
+      "summary": "Trusted Reviews found this one of the slimmest and lightest tablets available, genuinely easy to hold for extended sessions. The 12.3in 3K OLED at 165Hz delivers vivid colours and deep blacks, and PC Mode unlocks a floating, resizable desktop-style layout when paired with the keyboard case, though fast 66W charging needs Honor's own charger, not included in the box.",
+      "specs": {
+        "Weight": "450g",
+        "Screen": "12.3in 3K OLED, 165Hz",
+        "Chipset": "Snapdragon 8 Gen 5",
+        "Price guide": "£599"
+      },
+      "pros": [
+        "Exceptionally thin and light",
+        "Gorgeous, high refresh rate OLED screen",
+        "PC Mode offers genuine desktop-style productivity",
+        "Solid everyday performance"
+      ],
+      "cons": [
+        "Not the fastest chip for the money",
+        "Fast charging requires Honor's own charger, sold separately"
+      ],
+      "asin": "",
+      "search": "Honor MagicPad 4"
+    },
+    {
+      "brand": "Samsung",
+      "name": "Galaxy Tab S11 Ultra",
+      "badge": "Best for productivity",
+      "best_for": "Buyers who want a tablet that can genuinely replace or sit alongside a laptop",
+      "key_spec": "14.6in AMOLED, MediaTek Dimensity 9400+, DeX desktop mode, 11,600mAh battery",
+      "summary": "Trusted Reviews found no other tablet can compare with this for a truly flagship experience rivalling the latest iPad Pro, with a gorgeous 14.6in AMOLED display giving apps plenty of room to spread out. The Dimensity 9400+ chipset made short work of demanding tasks like video and photo editing, and the huge 11,600mAh battery easily covers a full day, though it starts at £1,199 and takes 90 minutes to fully charge.",
+      "specs": {
+        "Screen": "14.6in AMOLED",
+        "Chipset": "MediaTek Dimensity 9400+",
+        "Battery": "11,600mAh",
+        "Price guide": "£1,389 (from £1,199)"
+      },
+      "pros": [
+        "Huge, immersive screen for work and play",
+        "Battery easily lasts a full day's use",
+        "DeX mode adds genuine desktop-style versatility",
+        "Flies through demanding everyday tasks"
+      ],
+      "cons": [
+        "Not the best benchmark results for the price",
+        "Extremely expensive",
+        "Not the most portable tablet around"
+      ],
+      "asin": "",
+      "search": "Samsung Galaxy Tab S11 Ultra"
+    },
+    {
+      "brand": "Apple",
+      "name": "iPad Pro M5 (2026)",
+      "badge": "Best for creatives",
+      "best_for": "Creative professionals who will genuinely push the hardware",
+      "key_spec": "M5 chip, 12-16GB RAM, tandem OLED Ultra Retina XDR, 120Hz ProMotion, 12-hour battery",
+      "summary": "Trusted Reviews called this the best tablet for creatives on the list, with a screen that's the best you'll find on any iPad thanks to a tandem OLED panel and 120Hz ProMotion for silky smooth scrolling. The new M5 chip handles editing large image files or cutting 4K footage without breaking a sweat, and benchmarks confirmed no other tablet gets close to its performance, though it's expensive and only a fairly minor update visually.",
+      "specs": {
+        "Chipset": "Apple M5",
+        "RAM": "12GB or 16GB",
+        "Refresh rate": "120Hz ProMotion",
+        "Price guide": "£1,164-£1,199"
+      },
+      "pros": [
+        "Best screen of any tablet tested",
+        "Class-leading performance confirmed by benchmarks",
+        "Excels at demanding creative workflows",
+        "Around 12 hours of battery life"
+      ],
+      "cons": [
+        "Very expensive",
+        "Limited colour options"
+      ],
+      "asin": "",
+      "search": "Apple iPad Pro M5 2026"
+    },
+    {
+      "brand": "Apple",
+      "name": "iPad Mini 7",
+      "badge": "Best small tablet",
+      "best_for": "Buyers who want a tablet that fits in even the smallest bag",
+      "key_spec": "8.2in screen, A17 Pro chip, Apple Pencil Pro support, compact form factor",
+      "summary": "Trusted Reviews found this the device to buy if you want a tablet that easily fits into even the smallest bags, with the A17 Pro chipset proving more than powerful enough and apps launching in milliseconds during testing. Apple Pencil Pro support is a welcome upgrade for drawing, though the smaller 8.2in screen isn't as immersive for video as the Air, and it's locked to a 60Hz refresh rate.",
+      "specs": {
+        "Screen size": "8.2in",
+        "Chipset": "A17 Pro",
+        "Refresh rate": "60Hz",
+        "Price guide": "£594-£599"
+      },
+      "pros": [
+        "Genuinely compact and portable",
+        "Apple Pencil Pro support for drawing",
+        "More than enough everyday power",
+        "No more 64GB storage tier"
+      ],
+      "cons": [
+        "Smaller screen less immersive for video",
+        "Locked to 60Hz, no ProMotion"
+      ],
+      "asin": "",
+      "search": "Apple iPad Mini 7"
+    },
+    {
+      "brand": "RedMagic",
+      "name": "Astra 2",
+      "badge": "Best for gaming",
+      "best_for": "Buyers who want the fastest possible gaming performance in a tablet",
+      "key_spec": "9in 2.4K OLED at 185Hz, Snapdragon 8 Elite Gen 5, liquid cooling, 8300mAh battery",
+      "summary": "Trusted Reviews found this pairs the fastest performance of any Android tablet tested with a bright, snappy OLED screen and serious cooling hardware. In benchmarks it beat the pricier Galaxy Tab S11 Ultra and landed close to the iPad Air, with liquid cooling holding 85.7% stability across a 20-minute stress test with no thermal throttling, though cameras are only fine and split-screen productivity is poor.",
+      "specs": {
+        "Screen": "9in 2.4K OLED, 185Hz",
+        "Chipset": "Snapdragon 8 Elite Gen 5",
+        "Battery": "8300mAh",
+        "Price guide": "Check retailer"
+      },
+      "pros": [
+        "Blisteringly fast gaming performance, beat pricier rivals in benchmarks",
+        "Excellent sustained cooling with no throttling",
+        "Bright, vivid high refresh rate OLED screen",
+        "Fast 75W charging"
+      ],
+      "cons": [
+        "Cameras are only fine",
+        "Poor split-screen productivity"
+      ],
+      "asin": "",
+      "search": "RedMagic Astra 2 tablet"
+    },
+    {
+      "brand": "reMarkable",
+      "name": "Paper Pure",
+      "badge": "Best for note-taking",
+      "best_for": "Buyers who want the closest possible experience to writing on real paper",
+      "key_spec": "Grayscale E Ink screen, natural pen-and-paper feel, long battery life, no frontlight",
+      "summary": "Trusted Reviews' top pick for note-taking, praising how single-minded its design is: every decision points toward making writing feel as close to real paper as possible. The grayscale E Ink screen produces high contrast for easy reading, and after a few minutes testers stopped noticing the screen entirely and just wrote, though some useful features like Convert and Share sit behind a subscription.",
+      "specs": {
+        "Screen": "Grayscale E Ink",
+        "Frontlight": "None",
+        "Connectivity": "No POGO connector for keyboards",
+        "Price guide": "£359"
+      },
+      "pros": [
+        "Closest available feel to real pen and paper",
+        "High contrast, easy-to-read grayscale screen",
+        "Long battery life",
+        "Clean, distraction-free, focused software"
+      ],
+      "cons": [
+        "Some useful features require a subscription",
+        "No frontlight for use in the dark",
+        "No keyboard attachment support"
+      ],
+      "asin": "",
+      "search": "reMarkable Paper Pure tablet"
+    },
+    {
+      "brand": "OnePlus",
+      "name": "Pad Go 2",
+      "badge": "Best value",
+      "best_for": "Buyers who want a big-screen tablet without a big-screen price",
+      "key_spec": "12.1in 120Hz display, 7:5 aspect ratio, MediaTek Dimensity 7300-Ultra, 10,050mAh battery",
+      "summary": "Trusted Reviews found the 12.1in display a genuine highlight at this price, running at 120Hz with accurate colours and solid brightness that holds its own against pricier tablets. The 7:5 aspect ratio suits split-screen multitasking well, and clean OxygenOS software with no bloatware feels fast and fluid day to day, though the chipset won't trouble flagship rivals in demanding games.",
+      "specs": {
+        "Screen": "12.1in, 120Hz",
+        "Aspect ratio": "7:5",
+        "Battery": "10,050mAh",
+        "Price guide": "£299-£349"
+      },
+      "pros": [
+        "Excellent display quality for the price",
+        "7:5 aspect ratio great for split-screen multitasking",
+        "Clean, bloat-free software",
+        "Respectable 10-hour battery life"
+      ],
+      "cons": [
+        "Performance isn't spectacular for the money",
+        "Main accessories are pricey additional purchases"
+      ],
+      "asin": "",
+      "search": "OnePlus Pad Go 2"
+    }
+  ],
+  "guide": [
+    {
+      "q": "iPad or Android tablet: which should I choose?",
+      "a": "If you already use an iPhone, an iPad like the Air M4 or Pro M5 here makes moving photos, files and messages between devices seamless. If you use an Android phone, or specifically a Samsung Galaxy phone, an Android tablet like the Honor MagicPad 4 or Samsung Galaxy Tab S11 Ultra here will integrate more naturally with your existing ecosystem."
+    },
+    {
+      "q": "Do I need a tablet with a high refresh rate screen?",
+      "a": "A higher refresh rate, like the 165Hz on the Honor MagicPad 4 or 185Hz on the RedMagic Astra 2 here, makes scrolling and gaming feel noticeably smoother. It matters most for gaming tablets and general everyday feel; for reading or note-taking, like on the reMarkable Paper Pure here, refresh rate is far less important than screen contrast and readability."
+    },
+    {
+      "q": "How much RAM does a tablet actually need?",
+      "a": "For everyday browsing, streaming and light multitasking, 8-12GB like on the iPad Air M4 here is plenty. If you plan to do demanding creative work, like heavy photo or video editing, look for 12-16GB, available on the iPad Pro M5 and Honor MagicPad 4 here, to keep multiple apps and large files running smoothly."
+    },
+    {
+      "q": "Is a specialist tablet, like one for gaming or note-taking, worth it over a general all-rounder?",
+      "a": "If you have one clear, dominant use case, a specialist device can genuinely outperform an all-rounder: the RedMagic Astra 2 beat pricier flagships in gaming benchmarks here, and the reMarkable Paper Pure's E Ink screen gives a genuinely paper-like writing feel a standard tablet can't match. For general use spanning several tasks, though, an all-rounder like the iPad Air M4 remains the safer choice."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Trusted Reviews: best tablets",
+      "url": "https://www.trustedreviews.com/best/best-tablet-3438986"
+    }
+  ]
+}
