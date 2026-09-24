@@ -1,0 +1,216 @@
+{
+  "slug": "grass-trimmers",
+  "title": "Best Grass Trimmers and Strimmers UK",
+  "short": "Cordless, corded and petrol grass trimmers compared for cutting power, noise and battery life, tested on real grass, weeds and brambles in a home garden.",
+  "intro": "A grass trimmer's real test is how it copes with rough patches, weeds and brambles, not a neatly mown demo lawn. This guide compares trimmers tested by Expert Reviews in their own garden, measuring noise levels and hand-arm vibration at the handle, and timing cordless battery life during actual cutting.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Bosch",
+      "name": "UniversalGrassCut 18V-26-500",
+      "badge": "Best cordless overall",
+      "best_for": "Buyers who want strong all-round performance and a widely compatible battery system",
+      "key_spec": "18V, 26cm cutting width, 4-position adjustable head rotating 180° for edging, 20-minute battery life",
+      "summary": "Expert Reviews found this the best strimmer in its class for whacking chunky thistles and tough nettles, with flawless line management that lets you squeeze the trigger and let it get on with the job. Its Power For All batteries also work in tools from Flymo, Husqvarna and Gardena, though it's a little head-heavy and battery life could be better, offsetting with a fast 1hr 15min recharge.",
+      "specs": {
+        "Power": "18V, 2.0-4.0Ah battery",
+        "Cutting width": "26cm",
+        "Weight": "2.2kg",
+        "Price guide": "£94.99-£106"
+      },
+      "pros": [
+        "Great cutting performance on tough weeds",
+        "Flawless line feed system",
+        "Battery compatible across multiple brands",
+        "4-position head with 180° rotation for edging"
+      ],
+      "cons": [
+        "A little head heavy",
+        "Battery life could be better (20 minutes)"
+      ],
+      "asin": "",
+      "search": "Bosch UniversalGrassCut 18V-26-500"
+    },
+    {
+      "brand": "Bosch",
+      "name": "AdvancedGrassCut 36",
+      "badge": "Best heavy-duty for big gardens",
+      "best_for": "Buyers with larger, rougher gardens who don't want a petrol trimmer",
+      "key_spec": "36V, 30cm cutting width, 40-minute battery life, Power For All battery compatibility",
+      "summary": "Expert Reviews found this has more power than the average cordless trimmer, tackling a big-sized plot with a wide 30cm cutting width and a respectable 40 minutes of cutting time. It's genuinely hard to find a cordless model with more raw grass-cutting and weed-chopping power, though most of the weight sits toward the cutting head and there's no harness included.",
+      "specs": {
+        "Power": "36V, 2.6Ah battery",
+        "Cutting width": "30cm",
+        "Weight": "4kg",
+        "Price guide": "£129-£219 (with battery)"
+      },
+      "pros": [
+        "Great cutting power for tough, rough grass",
+        "Wide 30cm cutting width",
+        "Decent 40-minute battery life",
+        "Battery shared across Bosch, Husqvarna, Gardena and Flymo tools"
+      ],
+      "cons": [
+        "A little on the heavy side",
+        "No harness included"
+      ],
+      "asin": "",
+      "search": "Bosch AdvancedGrassCut 36"
+    },
+    {
+      "brand": "Ryobi",
+      "name": "RY18LT23A-0",
+      "badge": "Best value cordless",
+      "best_for": "Budget buyers who want a light, easy-to-use trimmer for everyday jobs",
+      "key_spec": "18V, 23cm cutting width, 2kg, 73-minute battery life measured in no-load tests",
+      "summary": "Expert Reviews found one of the cheapest cordless strimmers around still impressed on performance, lightweight at just 2kg and easy to wield without needing a harness. Battery life measured an impressive 73 minutes with the 4Ah battery, and the swivelling head handles edges well, though it's noisy and doesn't clear thicker clumps of grass or brambles as well as pricier models.",
+      "specs": {
+        "Power": "18V, 2.0-5.0Ah battery",
+        "Cutting width": "23cm",
+        "Weight": "2kg",
+        "Price guide": "£60-£62 (without battery)"
+      },
+      "pros": [
+        "Very well priced",
+        "Lightweight and easy to use",
+        "Impressive measured battery life (73 minutes)",
+        "Swivelling head for easy edging"
+      ],
+      "cons": [
+        "Noisy in use",
+        "Feels a little flimsy",
+        "Struggles with thick clumps and brambles"
+      ],
+      "asin": "",
+      "search": "Ryobi RY18LT23A-0 grass trimmer"
+    },
+    {
+      "brand": "Stihl",
+      "name": "FSA 50",
+      "badge": "Best for noise-sensitive gardens",
+      "best_for": "Buyers with close neighbours who need a genuinely quiet trimmer",
+      "key_spec": "18V, 26cm cutting width, 78dBA noise measured, 2.9mm/sec vibration measured, 42-minute battery life",
+      "summary": "Expert Reviews measured this as one of the quietest strimmers ever tested, at just 78dBA, and vibration of a barely-there 2.9mm/sec, well within government hand-arm vibration exposure guidelines even for all-day use. Battery life measured 42 minutes with superb adjustability for tall and short gardeners alike, though the line is prone to breakage and the trigger operation is fiddly.",
+      "specs": {
+        "Noise measured": "78dBA",
+        "Vibration measured": "2.9mm/sec",
+        "Cutting width": "26cm",
+        "Price guide": "£159-£239 (without battery)"
+      },
+      "pros": [
+        "Exceptionally quiet, measured at 78dBA",
+        "Very low measured vibration, safe for all-day use",
+        "Lightweight and easy to wield",
+        "Highly adjustable for different heights"
+      ],
+      "cons": [
+        "Line prone to breaking",
+        "Complicated trigger operation"
+      ],
+      "asin": "",
+      "search": "Stihl FSA 50 grass trimmer"
+    },
+    {
+      "brand": "Flymo",
+      "name": "Contour 500E",
+      "badge": "Best value corded",
+      "best_for": "Buyers with a small garden who want a cheap, no-fuss trimmer",
+      "key_spec": "500W motor, 25cm cutting width, 10m mains cable, wire plant guard",
+      "summary": "Expert Reviews found this a serious step up from its predecessor with an extra 200W of power and an adjustable handle, making it the best-value option currently tested. It whizzed through rougher, tougher grass and weedy areas in testing, and a wire plant guard protected surrounding plants from damage, though the mains cord limits convenience versus cordless models.",
+      "specs": {
+        "Power": "500W",
+        "Cutting width": "25cm",
+        "Weight": "3.1kg",
+        "Price guide": "£40-£52"
+      },
+      "pros": [
+        "Very affordable",
+        "Lightweight with a comfortable adjustable handle",
+        "Good cutting power for rougher grass and weeds",
+        "Wire guard protects nearby plants"
+      ],
+      "cons": [
+        "Mains cord limits range and convenience"
+      ],
+      "asin": "",
+      "search": "Flymo Contour 500E grass trimmer"
+    },
+    {
+      "brand": "EGO",
+      "name": "ST1511E-T 38cm Line Trimmer",
+      "badge": "Best for heavy-duty bramble clearing",
+      "best_for": "Buyers who want petrol-level power without the petrol",
+      "key_spec": "56V 2.5Ah battery, 38cm cutting width, two speeds, 49-minute battery life measured",
+      "summary": "Expert Reviews found this made light work of tough clumps of grass better than any strimmer their reviewer had ever tested, slicing through brambles as if they weren't there. The chunky 2.4mm nylon twist line rarely snapped once installed, and the 56V battery provided around 49 minutes of working time in testing, though it's expensive at £359.",
+      "specs": {
+        "Power": "56V, 2.4Ah battery",
+        "Cutting width": "38cm",
+        "Battery life measured": "49 minutes",
+        "Price guide": "£359 (with battery)"
+      },
+      "pros": [
+        "Cuts through brambles with petrol-level power",
+        "Excellent build and ergonomics",
+        "Two speeds for tough or delicate areas",
+        "Decent measured battery life"
+      ],
+      "cons": [
+        "Expensive",
+        "Line can be hard to thread"
+      ],
+      "asin": "",
+      "search": "EGO ST1511E-T grass trimmer"
+    },
+    {
+      "brand": "Stihl",
+      "name": "FS40",
+      "badge": "Best petrol",
+      "best_for": "Large, overgrown gardens where cordless power isn't enough",
+      "key_spec": "2-stroke petrol engine, 38cm cutting width, optional 3-tooth poly-cut head for thick undergrowth",
+      "summary": "Expert Reviews found the two-stroke engine provided plenty of power for a genuinely overgrown garden, with an optional three-tooth poly-cut head available for thicker undergrowth and brush the standard line can't handle. It's easier to start than most petrol trimmers with a simple bump-feed line mechanism, though at 2.9kg with the motor at the end of the stalk, it's not manageable for everyone.",
+      "specs": {
+        "Engine": "2-stroke petrol",
+        "Cutting width": "38cm",
+        "Weight": "2.9kg",
+        "Price guide": "£228"
+      },
+      "pros": [
+        "Robust, pro-grade construction",
+        "Excellent weed and undergrowth clearing power",
+        "Simple bump-feed line mechanism",
+        "Optional brush cutter blade for thick vegetation"
+      ],
+      "cons": [
+        "Big and heavy",
+        "Brush cutter blade costs extra"
+      ],
+      "asin": "",
+      "search": "Stihl FS40 petrol grass trimmer"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Cordless, corded or petrol: which type of trimmer do I need?",
+      "a": "A corded trimmer like the Flymo Contour 500E here is cheap and powerful but limited by cable range, best for small gardens. A cordless model like the Bosch UniversalGrassCut here gives freedom of movement for most garden sizes. A petrol trimmer like the Stihl FS40 suits very large or heavily overgrown gardens where cordless power and battery life aren't enough."
+    },
+    {
+      "q": "How much power do I actually need?",
+      "a": "For cordless trimmers, 18V models like the Bosch UniversalGrassCut or Ryobi here suit small to medium gardens and light work, while 36V or higher, like the Bosch AdvancedGrassCut, copes with heavier workloads without bogging down in scrub. For corded trimmers, look for 500W or above for anything beyond light trimming."
+    },
+    {
+      "q": "Does battery brand compatibility matter?",
+      "a": "It can save real money. Bosch's Power For All batteries, used on the UniversalGrassCut and AdvancedGrassCut here, also work in tools from Flymo, Husqvarna and Gardena, so if you already own a compatible tool or plan to buy more garden equipment, sharing one battery system across brands avoids buying multiple battery packs."
+    },
+    {
+      "q": "How much do noise and vibration actually matter?",
+      "a": "A lot, if you'll be trimming for long periods or have close neighbours. Expert Reviews measured the Stihl FSA 50 here at just 78dBA with vibration low enough to meet government all-day exposure guidelines, a genuine step up in comfort over noisier, more vibration-prone budget models."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best strimmers and grass trimmers",
+      "url": "https://www.expertreviews.co.uk/home-garden/garden-tools/best-grass-trimmer"
+    }
+  ]
+}

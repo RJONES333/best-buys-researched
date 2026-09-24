@@ -56,6 +56,7 @@ GROUPS = {
     "Garden": [
         "lawn-mowers", "pressure-washers", "bbqs", "hedge-trimmers",
         "garden-pest-repellers", "leaf-blowers", "robot-lawn-mowers",
+        "grass-trimmers",
     ],
     "DIY & tools": ["cordless-drills", "tool-sets", "smoke-alarms"],
     "Automotive": ["dash-cams", "tyre-inflators", "car-phone-mounts", "jump-starters"],
