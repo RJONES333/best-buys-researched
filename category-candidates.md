@@ -3,8 +3,6 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Microwaves (Home & kitchen)
-- Golf clubs (Sports)
 - Boxing gloves (Sports)
 - Sleeping bags (Fitness & outdoors)
 - Hedge trimmers (Garden)
@@ -35,4 +33,6 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Garden furniture — every source checked (Ideal Home, Gardens Illustrated, Homes & Gardens) was a retailer/brand roundup, not structured product-level testing with real pros/cons.
 
 ## Done this session
-(entries added as guides are published — see git log for the full list of ~31 guides added 2026-09-23/24)
+- Microwaves — Trusted Reviews (7 products)
+- Golf club sets for beginners — Golf Monthly (8 products)
+(see git log for the full list of ~33 guides added 2026-09-23/24)

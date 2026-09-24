@@ -43,6 +43,7 @@ GROUPS = {
         "running-socks", "walking-socks", "winter-gloves", "womens-leggings",
         "bike-lights", "yoga-mats", "adjustable-dumbbells", "hiking-boots",
         "cycling-helmets", "family-tents", "swimming-goggles", "massage-guns",
+        "sleeping-bags", "resistance-bands",
     ],
     "Clothing": ["mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "golf-club-sets"],
