@@ -1,0 +1,268 @@
+{
+  "slug": "soundbars",
+  "title": "Best Soundbars UK",
+  "short": "TV soundbars compared for dialogue clarity, bass response and Dolby Atmos performance, from compact budget bars to full multi-speaker surround systems.",
+  "intro": "A soundbar's real test is how it handles a genuine range of content, not a single demo clip. This guide compares soundbars tested by Expert Reviews across films, sports, TV shows and music, with 4K Blu-ray and Dolby Atmos content from Netflix, Amazon Prime Video and Disney+ used to test surround-sound performance at a range of volumes.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Sonos",
+      "name": "Beam (Gen 2)",
+      "badge": "Best overall",
+      "best_for": "Buyers who want the best all-round soundbar that can expand into a full system later",
+      "key_spec": "2.0 channel (5-channel audio processing), 11 speaker drivers, Dolby Atmos, HDMI eARC",
+      "summary": "Expert Reviews' favourite soundbar overall, with a neat one-box design and top-notch five-channel audio from 11 speaker drivers. Dolby Atmos handling particularly impressed, with positional audio cues deftly directed around the soundstage, and its output can be expanded by adding a Sonos Sub or Era speakers, though it lacks DTS:X support and dedicated up-firing drivers.",
+      "specs": {
+        "Channels": "2.0 (5-channel processing)",
+        "Weight": "2.8kg",
+        "Connectivity": "HDMI eARC, optical",
+        "Price guide": "£449"
+      },
+      "pros": [
+        "Phenomenal audio quality with Dolby Atmos",
+        "Neat, compact one-box design",
+        "Easily expandable with extra Sonos speakers",
+        "Well-balanced across stereo and big movie soundtracks"
+      ],
+      "cons": [
+        "Doesn't support DTS:X",
+        "No dedicated up-firing drivers"
+      ],
+      "asin": "",
+      "search": "Sonos Beam Gen 2 soundbar"
+    },
+    {
+      "brand": "Creative",
+      "name": "Stage Pro",
+      "badge": "Best budget",
+      "best_for": "Buyers who want an affordable bar that works equally well with a TV or PC",
+      "key_spec": "2.1 channel, 80W RMS, SuperWide mode, near- and far-field listening modes",
+      "summary": "Expert Reviews' top budget pick, eminently affordable and flexible while still sounding great. SuperWide mode effectively expands the soundstage for multi-channel film content, and testers particularly enjoyed how dialogue integrated smartly with the robust bass from the included subwoofer, though there's no Night mode and it's not great for music.",
+      "specs": {
+        "Channels": "2.1",
+        "Power output": "80W RMS",
+        "Weight": "1.3kg (soundbar)",
+        "Price guide": "£111-£113"
+      },
+      "pros": [
+        "Very affordable",
+        "Hefty bass response for the price",
+        "Works well for both TVs and PCs/laptops",
+        "Clear dialogue integration with the subwoofer"
+      ],
+      "cons": [
+        "No Night mode",
+        "Not the best choice for music"
+      ],
+      "asin": "",
+      "search": "Creative Stage Pro soundbar"
+    },
+    {
+      "brand": "Samsung",
+      "name": "HW-Q990F",
+      "badge": "Best for Dolby Atmos",
+      "best_for": "Buyers who want the most immersive possible surround sound and have the space for it",
+      "key_spec": "11.1.4 channel, 756W total power, soundbar plus subwoofer and two rear speakers",
+      "summary": "Expert Reviews found no soundbar does Dolby Atmos more immersively than this, creating a dome of sound convincing enough that testers genuinely felt in the middle of on-screen action. Height effects from Atmos and DTS:X were articulated superbly with expertly judged crossover to the powerful sub, and it performed impressively for music too, though it's a space-hungry multi-component system.",
+      "specs": {
+        "Channels": "11.1.4",
+        "Total power output": "756W",
+        "Components": "Soundbar, subwoofer, 2 rear speakers",
+        "Price guide": "£789-£790"
+      },
+      "pros": [
+        "Incredibly immersive surround sound",
+        "Superb height effects on Atmos and DTS:X",
+        "Excellent connectivity options",
+        "Impressive for music as well as film"
+      ],
+      "cons": [
+        "Space-hungry multi-component system",
+        "Sub needs adjustment when switching to music"
+      ],
+      "asin": "",
+      "search": "Samsung HW-Q990F soundbar"
+    },
+    {
+      "brand": "Hisense",
+      "name": "AX5125H",
+      "badge": "Best under £300",
+      "best_for": "Budget buyers who have room for rear speakers and a subwoofer",
+      "key_spec": "5.1.2 channel, 500W total power, dedicated centre channel, overhead height channels",
+      "summary": "Expert Reviews called this astonishing value for money, with no other bar tested getting close to it under £300. A dedicated centre channel ensures crisp dialogue, overhead channels depict height effects on Atmos and DTS:X soundtracks, and rear channels create a strong sense of envelopment, well beyond the typical 2.1 or 3.1 setup at this price.",
+      "specs": {
+        "Channels": "5.1.2",
+        "Total power output": "500W",
+        "Weight": "9.5kg total",
+        "Price guide": "£209-£249"
+      },
+      "pros": [
+        "Exceptional value with genuine 5.1.2 surround",
+        "Effective Dolby Atmos and DTS:X performance",
+        "Clear dialogue via dedicated centre channel",
+        "Strong sense of audio envelopment"
+      ],
+      "cons": [
+        "No calibration options",
+        "Slightly underwhelming subwoofer"
+      ],
+      "asin": "",
+      "search": "Hisense AX5125H soundbar"
+    },
+    {
+      "brand": "Sony",
+      "name": "Bravia Theatre Bar 9",
+      "badge": "Best all-in-one",
+      "best_for": "Buyers who want a single unit that sounds like a multi-speaker system",
+      "key_spec": "7.0.2 channel, single enclosure, expandable with optional sub and rear speakers",
+      "summary": "Expert Reviews found this creates such an expansive, engrossing soundstage that testers forgot the audio was coming from a single enclosure. The unusual 7.0.2 setup has no built-in subwoofer, but the other channels place audio precisely enough that it's impossible not to get lost in the action, and music is handled especially well, though upgrade accessories aren't cheap.",
+      "specs": {
+        "Channels": "7.0.2",
+        "Weight": "5.5kg",
+        "Connectivity": "HDMI, Wi-Fi, AirPlay 2, Bluetooth",
+        "Price guide": "£999-£1,399"
+      },
+      "pros": [
+        "Expansive soundstage from a single unit",
+        "Excellent for both films and music",
+        "Simple to upgrade with matched accessories",
+        "Attractive, space-efficient design"
+      ],
+      "cons": [
+        "Upgrade accessories are expensive",
+        "No digital display"
+      ],
+      "asin": "",
+      "search": "Sony Bravia Theatre Bar 9"
+    },
+    {
+      "brand": "Bose",
+      "name": "Smart Soundbar",
+      "badge": "Best for dialogue",
+      "best_for": "Buyers who prioritise clear speech above all else",
+      "key_spec": "3.0.2 channel, AI Dialogue mode, Bose Open Ultra Earbuds integration",
+      "summary": "Expert Reviews found no standalone soundbar tested reproduces speech in films and TV better than this, thanks to an AI Dialogue mode that recognises vocal moments and automatically pushes them forward in the mix. It did so remarkably well without upsetting overall balance, and it also handles Atmos and music effectively, though bass response is limited and there's no HDMI passthrough.",
+      "specs": {
+        "Channels": "3.0.2",
+        "Weight": "3.1kg",
+        "Connectivity": "HDMI eARC, optical, Wi-Fi, Bluetooth",
+        "Price guide": "£399-£440"
+      },
+      "pros": [
+        "Best-in-class dialogue clarity via AI Dialogue mode",
+        "Handles Dolby Atmos effectively",
+        "Works well with Bose headphones and earbuds",
+        "Good for both TV and music"
+      ],
+      "cons": [
+        "Limited bass response",
+        "No HDMI passthrough"
+      ],
+      "asin": "",
+      "search": "Bose Smart Soundbar"
+    },
+    {
+      "brand": "Sonos",
+      "name": "Arc Ultra",
+      "badge": "Best for multi-room audio",
+      "best_for": "Buyers already invested in, or planning to build, a Sonos multi-room system",
+      "key_spec": "9.1.4 channel, TruePlay room calibration, expandable with Sonos Sub and Era speakers",
+      "summary": "Expert Reviews called this a 'triumph of audio hardware' on its own, with TruePlay room calibration ensuring optimal sound and noticeably improved bass and three-dimensionality over previous Sonos bars. It works brilliantly standalone, but pairs with the wider Sonos ecosystem for magnificent multi-room audio, though it has only one HDMI input and no DTS:X support.",
+      "specs": {
+        "Channels": "9.1.4",
+        "Weight": "5.9kg",
+        "Connectivity": "HDMI eARC, optical, Wi-Fi, AirPlay 2",
+        "Price guide": "£939-£999"
+      },
+      "pros": [
+        "Top-notch multi-room functionality within the Sonos app",
+        "Excellent three-dimensional audio and height effects",
+        "Improved bass response over previous Sonos bars",
+        "TruePlay automatically calibrates for your room"
+      ],
+      "cons": [
+        "Only one HDMI input",
+        "No DTS:X support"
+      ],
+      "asin": "",
+      "search": "Sonos Arc Ultra soundbar"
+    },
+    {
+      "brand": "Samsung",
+      "name": "HW-S800D",
+      "badge": "Best slimline",
+      "best_for": "Buyers who need a bar that fits under a TV with minimal clearance",
+      "key_spec": "3.1.2 channel, ultra-slim 40mm profile, discrete subwoofer, SmartThings and Alexa built in",
+      "summary": "Expert Reviews found this incredibly slender bar fits neatly beneath TVs with minimal clearance, unlike typically bulky immersive soundbars. Atmos soundtracks were articulated with an impressive sense of scale and clean height effects despite the slim profile, and testers were particularly taken by the mid-range reproduction, though it lacks DTS:X and has limited sonic envelopment.",
+      "specs": {
+        "Channels": "3.1.2",
+        "Soundbar height": "40mm",
+        "Weight": "1.4kg (soundbar)",
+        "Price guide": "£499-£649"
+      },
+      "pros": [
+        "Ultra-slim design fits under most TVs",
+        "Surprisingly large, convincing soundstage",
+        "Clean height effects despite slim profile",
+        "Built-in Amazon Alexa and SmartThings control"
+      ],
+      "cons": [
+        "No DTS:X support",
+        "Limited sonic envelopment compared to bulkier systems"
+      ],
+      "asin": "",
+      "search": "Samsung HW-S800D soundbar"
+    },
+    {
+      "brand": "Sonos",
+      "name": "Ray",
+      "badge": "Best for small screens",
+      "best_for": "Buyers with a 32in or 43in TV who want a genuinely compact soundbar",
+      "key_spec": "2.0 channel, compact minimalist design, app-based room calibration",
+      "summary": "Expert Reviews found the most affordable Sonos soundbar ideally suited to smaller televisions, compact enough not to look out of place beneath them, yet with sonic delivery that belies its size. Great tonal balance, punchy bass and crisp treble are helped by Sonos' app-based tuning to match your room's acoustics, though there's no voice control and no remote is included.",
+      "specs": {
+        "Channels": "2.0",
+        "Weight": "2kg",
+        "Connectivity": "Optical, Wi-Fi",
+        "Price guide": "£199"
+      },
+      "pros": [
+        "Compact size suits smaller TVs",
+        "Surprisingly capable sound for its size",
+        "App-based room calibration",
+        "Affordable entry into the Sonos ecosystem"
+      ],
+      "cons": [
+        "No voice control",
+        "No remote control included"
+      ],
+      "asin": "",
+      "search": "Sonos Ray soundbar"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What do the channel numbers (2.1, 5.1, 11.1.4) actually mean?",
+      "a": "The first number is front-facing channels, the second (after the first dot) is subwoofers, and a third number refers to up-firing height speakers. A 2.1 setup like the Sonos Ray here suits music and everyday TV, a 5.1 setup like the Hisense AX5125H gives true surround sound for movies, and a system like the Samsung HW-Q990F's 11.1.4 adds immersive 3D height effects on top."
+    },
+    {
+      "q": "Do I need a separate subwoofer?",
+      "a": "A discrete subwoofer, like the ones bundled with the Hisense AX5125H or Samsung HW-Q990F here, gives richer, room-shaking bass than a soundbar's built-in woofer can typically manage. It's usually wireless so you can hide it out of sight, since bass frequencies aren't very directional and don't need to sit centrally."
+    },
+    {
+      "q": "Is a Dolby Atmos soundbar worth paying more for?",
+      "a": "Atmos and DTS:X add height effects on top of standard surround sound, using up-firing speakers to bounce audio off your ceiling, which Expert Reviews found works best with the right ceiling height. Atmos soundbars tend to cost more and sometimes skip DTS:X support, which matters if you regularly watch Blu-rays that use DTS encoding rather than Dolby."
+    },
+    {
+      "q": "What is HDMI eARC and why does it matter?",
+      "a": "HDMI eARC (enhanced audio return channel) lets a soundbar receive and play audio directly from your TV's own apps, like Netflix or BBC iPlayer, without a separate cable from the source device. It's also useful if you run out of HDMI inputs on the soundbar itself, since audio that would normally play through the TV speakers gets routed back to the bar instead."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best soundbars",
+      "url": "https://www.expertreviews.co.uk/technology/tvs-home-cinema/best-soundbars-soundbases"
+    }
+  ]
+}

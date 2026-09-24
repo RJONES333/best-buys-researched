@@ -3,7 +3,6 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Soundbars (Tech & gadgets)
 - Tablets (Tech & gadgets)
 
 ## Rejected (no genuine hands-on testing source found, don't retry)
@@ -40,6 +39,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Office chairs — Expert Reviews (6 products, user-requested)
 - Action cameras — Expert Reviews (5 products)
 - Projectors — Expert Reviews (9 products)
+- Soundbars — Expert Reviews (9 products)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes
