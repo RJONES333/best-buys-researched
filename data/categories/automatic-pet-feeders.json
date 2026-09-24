@@ -1,0 +1,122 @@
+{
+  "slug": "automatic-pet-feeders",
+  "title": "Best Automatic Pet Feeders UK",
+  "short": "Automatic pet feeders compared by capacity, reliability and app control, from simple timer-based bowls to WiFi-connected smart feeders.",
+  "intro": "An automatic feeder's real test is reliability over weeks of use, not just the feature list on the box. This guide compares feeders tested hands-on by PetsRadar's team, spanning simple battery-powered timers to app-connected smart feeders with portion control.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Petlibro",
+      "name": "Automatic Pet Feeder",
+      "badge": "Best overall",
+      "best_for": "Owners who want remote app control and portion flexibility",
+      "key_spec": "4L capacity, up to 4 meals/day in up to 9 portions, WiFi, dual power supply",
+      "summary": "A WiFi-enabled feeder PetsRadar found genuinely useful for remote feeding and tracking, with a clear LCD screen for entering your pet's weight, age and activity level. The detachable design and stainless steel bowl make it easy to clean, and a battery backup kicks in during power outages, though there's no treat dispenser.",
+      "specs": {"Material": "Plastic, stainless steel", "Daily meals": "Up to 4", "Power": "Dual (mains + 3x D battery backup)", "Suitable for": "Cats, small dogs"},
+      "pros": ["Record a 10-second voice message to call pets to dinner", "Dual power supply for outage protection", "WiFi remote feeding and portion tracking", "Detachable, easy-to-clean design"],
+      "cons": ["No treat dispenser"],
+      "asin": "",
+      "search": "Petlibro Automatic Pet Feeder"
+    },
+    {
+      "brand": "Cat Mate",
+      "name": "C500",
+      "badge": "Best for wet food",
+      "best_for": "Owners who want to pre-portion wet food across several days",
+      "key_spec": "5 rotating compartments, digital timer, includes ice packs",
+      "summary": "A rotating five-compartment bowl that spins up a fresh portion at set times, with a digital timer and a decent seal that PetsRadar found kept wet food relatively fresh. Two shaped ice packs install beneath the bowl for up to a day of extra freshness, and both the top section and bowl are dishwasher safe.",
+      "specs": {"Material": "Plastic", "Daily meals": "Up to 5", "Battery life": "~1 year", "Suitable for": "Cats, small dogs"},
+      "pros": ["Dishwasher safe", "Easy to program", "Covers up to four days of meals", "Includes ice packs for freshness"],
+      "cons": ["Battery powered only, no mains option"],
+      "asin": "",
+      "search": "Cat Mate C500 automatic feeder"
+    },
+    {
+      "brand": "Pawise",
+      "name": "Automatic Pet Feeder",
+      "badge": "Best budget",
+      "best_for": "Owners who just need basic timed feeding for a day out",
+      "key_spec": "2 compartments, 48-hour mechanical timer, wet or dry food",
+      "summary": "A simple budget feeder that still covers the essentials, with two independently-timed compartments and ice pack slots to help keep wet food fresh. PetsRadar's editor found it easy to clean and maintain, though some pets have figured out how to open the lid manually, and the opening mechanism showed some reliability issues in testing.",
+      "specs": {"Material": "Plastic", "Daily meals": "2", "Tray capacity": "300ml each", "Suitable for": "Cats and dogs"},
+      "pros": ["Suitable for wet and dry food", "Simple to use", "Dishwasher safe trays"],
+      "cons": ["Only two-meal capacity", "Some pets can learn to open it manually"],
+      "asin": "",
+      "search": "Pawise Automatic Pet Feeder"
+    },
+    {
+      "brand": "Cat Mate",
+      "name": "C200",
+      "badge": "Best simple",
+      "best_for": "Owners who want an affordable, no-fuss feeder without an app",
+      "key_spec": "2 portions, twist-dial timer, up to 48 hours ahead",
+      "summary": "A wonderfully affordable feeder with no buttons or screens to fiddle with, just a twist-dial timer for each of two portions. PetsRadar found real value in its simplicity and quiet operation, though the timer is imprecise and there's no low-battery indicator, so keeping spare batteries on hand is worthwhile.",
+      "specs": {"Material": "Plastic", "Daily meals": "1-2", "Battery life": "12 months", "Suitable for": "Cats, small dogs"},
+      "pros": ["Affordable", "Simple to operate with no screens or apps", "Quiet lid operation", "Dishwasher safe"],
+      "cons": ["Imprecise timer", "No battery level indicator"],
+      "asin": "",
+      "search": "Cat Mate C200 automatic feeder"
+    },
+    {
+      "brand": "SureFeed",
+      "name": "Microchip Automatic Pet Feeder",
+      "badge": "Best microchip feeder",
+      "best_for": "Multi-pet households where one animal needs a restricted or separate diet",
+      "key_spec": "Microchip recognition, integrated scales, app connectivity",
+      "summary": "Solves a specific problem: the bowl only opens for the microchipped pet it's assigned to, ideal if a bolder pet is stealing another's food or one needs a special diet. PetsRadar found it easy to set up with great app connectivity, though some particularly canny cats have found workarounds by barging in once the door opens.",
+      "specs": {"Material": "Plastic", "Battery life": "~6 months", "Suitable for": "Cats, small dogs"},
+      "pros": ["Integrated scales", "Great app connectivity", "Easy to set up", "Works with wet or dry food"],
+      "cons": ["Can occasionally be gamed by determined pets", "Not cheap for a single food bowl"],
+      "asin": "",
+      "search": "SureFeed Microchip Automatic Pet Feeder"
+    },
+    {
+      "brand": "HoneyGuardian",
+      "name": "6L Automatic Cat Feeder for 2 Cats",
+      "badge": "Best for multiple pets",
+      "best_for": "Two-cat households that want to reduce mealtime squabbling",
+      "key_spec": "6L hopper, dual bowls, WiFi app control, anti-tamper lid",
+      "summary": "Portions food simultaneously on opposite sides of the unit so two cats can eat without competing over one bowl, with a hefty 6L hopper that doesn't need frequent restocking. PetsRadar found it stylish and easy to set up via WiFi, with a battery backup for power cuts, though it's dry food only.",
+      "specs": {"Material": "Plastic, stainless steel bowl", "Daily meals": "Up to 6", "Power": "Mains with battery backup", "Suitable for": "Cats, small dogs, rabbits"},
+      "pros": ["Great looking design", "App control with flexible scheduling", "Desiccant keeps hopper food fresh", "Anti-tamper lid"],
+      "cons": ["Dry food only"],
+      "asin": "",
+      "search": "HoneyGuardian 6L Automatic Cat Feeder"
+    },
+    {
+      "brand": "Cat Mate",
+      "name": "C3000",
+      "badge": "Best large feeder for dry food",
+      "best_for": "Owners who want to minimise how often they need to restock",
+      "key_spec": "Large hopper, auger-driven portioning, up to 3 daily feeds",
+      "summary": "A gravity-and-auger mechanism pulls an exact portion from a large hopper at up to three programmed times a day, meaning infrequent restocking. PetsRadar notes the delivery mechanism isn't the quietest, though the sound can double as a dinner bell, and portions may need adjusting if you switch to larger kibble shapes.",
+      "specs": {"Material": "Plastic", "Daily meals": "Up to 3", "Battery life": "~6 months", "Suitable for": "Cats, small dogs"},
+      "pros": ["Easy to clean", "Visible food levels", "Can be mounted to a board for stability"],
+      "cons": ["Quite noisy dispensing mechanism", "Portion accuracy varies with kibble size"],
+      "asin": "",
+      "search": "Cat Mate C3000 automatic feeder"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Timer-based or microchip feeder?",
+      "a": "A simple timer feeder, like the Cat Mate C200 here, works well for a single pet on a regular schedule. A microchip feeder, like the SureFeed here, is worth the extra cost specifically for multi-pet households where one animal needs a separate or restricted diet, since it physically restricts access to the correct pet."
+    },
+    {
+      "q": "Do I need WiFi and app control?",
+      "a": "An app-connected feeder, like the Petlibro or HoneyGuardian here, lets you feed remotely, track how much your pet has eaten, and adjust schedules on the go, which is genuinely useful if your routine is unpredictable. For a fixed daily schedule, a simple mechanical timer feeder covers the same core need at a lower price."
+    },
+    {
+      "q": "Can automatic feeders handle wet food?",
+      "a": "Some can, like the Cat Mate C500 and Pawise here, which include ice packs to help keep wet food fresh for up to a couple of days. Most budget and gravity feeders are designed for dry food only, so check compatibility if wet food is part of your pet's diet."
+    },
+    {
+      "q": "What should I do if my pet learns to open the feeder?",
+      "a": "Some clever cats and dogs do figure out simple mechanisms, as PetsRadar found with a couple of budget models. Look for a feeder specifically noted as tamper-resistant, like the HoneyGuardian here, or consider mounting a feeder to a board if your pet tends to knock it over or paw at the lid."
+    }
+  ],
+  "sources": [
+    {"name": "PetsRadar: best automatic pet feeders", "url": "https://www.petsradar.com/buying-guides/best-automatic-pet-feeder"}
+  ]
+}
