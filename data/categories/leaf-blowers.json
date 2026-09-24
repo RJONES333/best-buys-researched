@@ -4,7 +4,7 @@
   "short": "Cordless leaf blowers and blower/vacuum combos compared by blow speed, noise and battery life, from compact lightweight models to powerful garden clearers.",
   "intro": "A leaf blower's real test is whether it shifts heavy, wet leaves without running out of charge halfway through, not just its top blow speed. This guide compares blowers tested by Expert Reviews against wet tree leaves, dry hedge clippings and debris on both tarmac and lawn.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Bosch",
@@ -13,9 +13,21 @@
       "best_for": "Buyers who just want maximum blowing power without vacuum features",
       "key_spec": "36V battery, 100-200km/h blow speed, 25-minute runtime",
       "summary": "Expert Reviews found even the heaviest, wettest leaves couldn't hold against its maximum power setting, blasting entangled leaves free from ground cover plants. An easy under-thumb power dial lets you dial back for lighter work, though it's a little noisier and heavier than rivals, using Bosch's less common 36V battery system.",
-      "specs": {"Type": "Blower only", "Battery": "36V Power For All, 2A or 4A", "Weight": "2.8kg", "Blow speed": "100-200km/h"},
-      "pros": ["Powerful enough for the heaviest, wettest leaves", "Easy-to-use power dial", "Well-balanced for single-handed use"],
-      "cons": ["Noisier than some rivals (~90dB)", "Heavier than lightweight blowers"],
+      "specs": {
+        "Type": "Blower only",
+        "Battery": "36V Power For All, 2A or 4A",
+        "Weight": "2.8kg",
+        "Blow speed": "100-200km/h"
+      },
+      "pros": [
+        "Powerful enough for the heaviest, wettest leaves",
+        "Easy-to-use power dial",
+        "Well-balanced for single-handed use"
+      ],
+      "cons": [
+        "Noisier than some rivals (~90dB)",
+        "Heavier than lightweight blowers"
+      ],
       "asin": "",
       "search": "Bosch AdvancedLeafBlower 36V-750"
     },
@@ -26,9 +38,20 @@
       "best_for": "Buyers who want to collect and mulch leaves, not just scatter them",
       "key_spec": "Convertible blower/vacuum, 35l collection bag, up to 209km/h blow speed",
       "summary": "A beefy convertible unit that Expert Reviews found easy to switch between blowing and vacuuming, sucking up big piles of damp leaves in seconds and shredding them to barely fill the 35l bag. It even tackled moss and conifer clippings without issue, though battery life at full power is short.",
-      "specs": {"Type": "Blower and vacuum", "Batteries": "2x 20V Max, 2A", "Collection capacity": "35L", "Blow speed": "Up to 209km/h"},
-      "pros": ["Genuinely capable at both blowing and vacuuming", "Neatly shreds and compacts collected leaves", "Handles big, damp leaves and moss"],
-      "cons": ["Short battery life at full power (~10 minutes)"],
+      "specs": {
+        "Type": "Blower and vacuum",
+        "Batteries": "2x 20V Max, 2A",
+        "Collection capacity": "35L",
+        "Blow speed": "Up to 209km/h"
+      },
+      "pros": [
+        "Genuinely capable at both blowing and vacuuming",
+        "Neatly shreds and compacts collected leaves",
+        "Handles big, damp leaves and moss"
+      ],
+      "cons": [
+        "Short battery life at full power (~10 minutes)"
+      ],
       "asin": "",
       "search": "Worx WG583E leaf blower vacuum"
     },
@@ -39,9 +62,20 @@
       "best_for": "Budget buyers who already own Power For All batteries",
       "key_spec": "18V battery, 100km/h blow speed, detachable precision nozzle",
       "summary": "Sits between Bosch's powerful model and lightweight compacts, giving Expert Reviews plenty of oomph for a soggy lawn or driveway while staying easy on the arms. It's surprisingly quiet at under 75dB, with a clear LED charge indicator, though battery and charger are sold separately if you don't already own the Power For All system.",
-      "specs": {"Type": "Blower only", "Battery": "18V Power For All, 2A or 4A", "Weight": "2.8kg", "Blow speed": "100km/h"},
-      "pros": ["Good value if you already have Power For All batteries", "Surprisingly quiet operation", "Detachable precision nozzle"],
-      "cons": ["Battery and charger sold separately"],
+      "specs": {
+        "Type": "Blower only",
+        "Battery": "18V Power For All, 2A or 4A",
+        "Weight": "2.8kg",
+        "Blow speed": "100km/h"
+      },
+      "pros": [
+        "Good value if you already have Power For All batteries",
+        "Surprisingly quiet operation",
+        "Detachable precision nozzle"
+      ],
+      "cons": [
+        "Battery and charger sold separately"
+      ],
       "asin": "",
       "search": "Gardena PowerJet 18V P4A leaf blower"
     },
@@ -52,9 +86,20 @@
       "best_for": "Buyers who want a lightweight, easily stored blower",
       "key_spec": "Under 80cm long, 1.79kg, air amplifier technology, up to 209km/h",
       "summary": "So light and compact that Expert Reviews doubted its power at first glance, but air amplifier technology drives more air through the tube than expected, easily separating soggy leaves from a lawn. Noise levels are low at around 69dB, though battery and charger are sold separately from the tool.",
-      "specs": {"Type": "Blower only", "Battery": "20V Max, 4A", "Weight": "1.79kg", "Blow speed": "Up to 209km/h"},
-      "pros": ["Very light and compact, usable one-handed", "Quiet operation", "Surprisingly powerful for its size"],
-      "cons": ["Battery and charger sold separately"],
+      "specs": {
+        "Type": "Blower only",
+        "Battery": "20V Max, 4A",
+        "Weight": "1.79kg",
+        "Blow speed": "Up to 209km/h"
+      },
+      "pros": [
+        "Very light and compact, usable one-handed",
+        "Quiet operation",
+        "Surprisingly powerful for its size"
+      ],
+      "cons": [
+        "Battery and charger sold separately"
+      ],
       "asin": "",
       "search": "Worx WG543E leaf blower"
     },
@@ -65,9 +110,21 @@
       "best_for": "Buyers who want simple one-switch blow/vacuum switching with boost mode",
       "key_spec": "45L collection bag, built-in mulching, one-switch mode change, boost mode",
       "summary": "Needs no tricky configuration, with a single flick switching between blowing and vacuuming, plus little wheels to help support the unit while collecting. Expert Reviews found the 45L bag and mulching meant you'd likely run out of charge before needing to empty it, though it can't match the most powerful blowers for raw force without engaging boost mode.",
-      "specs": {"Type": "Blower and vacuum", "Battery": "18V Max, 2.5A", "Collection capacity": "45L", "Blow speed": "Up to 200km/h"},
-      "pros": ["Simple one-switch mode changing", "Large 45L bag with built-in mulching", "Effective boost mode for tougher debris"],
-      "cons": ["Expensive, especially with battery/charger sold separately", "Very loud at full power (100dB+)"],
+      "specs": {
+        "Type": "Blower and vacuum",
+        "Battery": "18V Max, 2.5A",
+        "Collection capacity": "45L",
+        "Blow speed": "Up to 200km/h"
+      },
+      "pros": [
+        "Simple one-switch mode changing",
+        "Large 45L bag with built-in mulching",
+        "Effective boost mode for tougher debris"
+      ],
+      "cons": [
+        "Expensive, especially with battery/charger sold separately",
+        "Very loud at full power (100dB+)"
+      ],
       "asin": "",
       "search": "Karcher BLV 18-200 leaf blower vacuum"
     }
@@ -91,6 +148,9 @@
     }
   ],
   "sources": [
-    {"name": "Expert Reviews: best cordless leaf blowers", "url": "https://www.expertreviews.co.uk/home-garden/garden-tools/best-cordless-leaf-blower"}
+    {
+      "name": "Expert Reviews: best cordless leaf blowers",
+      "url": "https://www.expertreviews.co.uk/home-garden/garden-tools/best-cordless-leaf-blower"
+    }
   ]
 }
