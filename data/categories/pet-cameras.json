@@ -1,0 +1,241 @@
+{
+  "slug": "pet-cameras",
+  "title": "Best Pet Cameras UK",
+  "short": "Wi-Fi and 4G pet cameras compared for picture quality, ease of setup and real-world reliability, from treat-dispensing favourites to subscription-free outdoor options.",
+  "intro": "A pet camera's real test is whether it's still earning its keep months after the novelty wears off. This guide compares cameras tested by the PetsRadar team for more than six months each, with named testers assessing picture quality, setup, and whether each model was genuinely worth the money.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Furbo",
+      "name": "360° View Camera",
+      "badge": "Best overall",
+      "best_for": "Buyers who want a treat-dispensing camera with pet-specific alerts",
+      "key_spec": "1080p, 360° view, treat dispenser (up to 100 treats), barking alerts, no subscription required for core features",
+      "summary": "PetsRadar's top pick, holding up to 100 treats you can dispense remotely for an interactive experience even when you're not home. Tester Barbara found it very easy to set up and user-friendly, with the 360° feature tracking and recording your pet so you don't miss a moment, though picture quality isn't perfect and advanced features like the AI health checker need a subscription.",
+      "specs": {
+        "Resolution": "1080p",
+        "Field of view": "360°",
+        "Subscription": "Not required for core features ($5.38/month for extras)",
+        "Storage": "24 hours in-app, downloadable"
+      },
+      "pros": [
+        "Treat dispenser for remote interaction",
+        "360° tracking and recording",
+        "Barking and emergency alerts",
+        "Two-way talk with voice recognition",
+        "Easy to set up"
+      ],
+      "cons": [
+        "Picture quality isn't the best in the group",
+        "Advanced features require a subscription"
+      ],
+      "asin": "",
+      "search": "Furbo 360 View Camera"
+    },
+    {
+      "brand": "Reolink",
+      "name": "Go PT Ultra Plus",
+      "badge": "Best subscription-free",
+      "best_for": "Buyers who want an outdoor camera with no Wi-Fi or subscription needed",
+      "key_spec": "4K resolution, 355° pan/140° tilt, 4G LTE connectivity, colour night vision, no subscription",
+      "summary": "PetsRadar's editor Georgia tested this on the side of her pony's stable for months and says she now 'can't live without it', screwing it to a roof and finding it quick and easy to set up. It doesn't need Wi-Fi, running instead on a 4G SIM card, with impressive 4K resolution and colour night vision, though the trade-off is needing a 4G network to function.",
+      "specs": {
+        "Resolution": "4K 8MP",
+        "Field of view": "355° pan",
+        "Connectivity": "4G LTE (SIM card required)",
+        "Subscription": "None"
+      },
+      "pros": [
+        "No subscription fees required",
+        "Works without Wi-Fi via 4G SIM",
+        "Impressive 4K colour night vision",
+        "Human, animal and vehicle detection",
+        "355° remote pan and 140° tilt"
+      ],
+      "cons": [
+        "Requires a 4G network and SIM card",
+        "One of the pricier options"
+      ],
+      "asin": "",
+      "search": "Reolink Go PT Ultra Plus camera"
+    },
+    {
+      "brand": "Enabot",
+      "name": "ROLA PetPal",
+      "badge": "Best remote-controlled",
+      "best_for": "Buyers who want a camera that doubles as an interactive toy",
+      "key_spec": "2.5K resolution, 135° field of view, built-in laser and treat dispenser, drives over 15mm obstacles",
+      "summary": "PetsRadar's Megan Milstead tested this robot camera-toy hybrid herself, finding it simple to set up with hours of fun watching cats investigate it up close. It can be driven around the house via app with a built-in laser, treat dispenser and pre-recorded sounds, though the battery life isn't the best and picture/audio quality trail rivals.",
+      "specs": {
+        "Resolution": "2.5K",
+        "Field of view": "135°",
+        "Mobility": "Drives over 15mm obstacles, 15° inclines",
+        "Subscription": "Not required ($6/month for extras)"
+      },
+      "pros": [
+        "Doubles as an interactive toy with laser and treat dispenser",
+        "Remote-controlled around the home",
+        "Two-way audio and pre-recorded sounds",
+        "Auto-recharge feature"
+      ],
+      "cons": [
+        "Battery doesn't last long",
+        "Not the best audio or picture quality"
+      ],
+      "asin": "",
+      "search": "Enabot ROLA PetPal camera"
+    },
+    {
+      "brand": "Lorex",
+      "name": "4K Spotlight Indoor/Outdoor",
+      "badge": "Best for security",
+      "best_for": "Buyers who want a genuine security camera that also watches pets",
+      "key_spec": "4K resolution, colour night vision, person/vehicle/animal detection, weatherproof to -4°F to 131°F",
+      "summary": "PetsRadar's tester Thomas found the app very simple, breaking up recordings by calendar day with relatively good picture quality that clearly identified faces from a distance. It doesn't need a subscription, includes a 32GB MicroSD card, and can detect people, animals, packages and vehicles, though you'll need multiple units to cover a wide area.",
+      "specs": {
+        "Resolution": "4K 8MP",
+        "Field of view": "140°",
+        "Storage": "Up to 256GB MicroSD, no subscription",
+        "Weatherproof": "-4°F to 131°F"
+      },
+      "pros": [
+        "High-quality 4K picture",
+        "Person, vehicle and animal detection",
+        "No subscription needed",
+        "Remote-controlled siren and smart lighting",
+        "Weatherproof for indoor or outdoor use"
+      ],
+      "cons": [
+        "Needs multiple cameras to cover a wide area"
+      ],
+      "asin": "",
+      "search": "Lorex 4K Spotlight Indoor Outdoor camera"
+    },
+    {
+      "brand": "Toucan",
+      "name": "Wireless Security Camera S4",
+      "badge": "Best wireless",
+      "best_for": "Buyers who want a cable-free camera that's easy to reposition",
+      "key_spec": "2K QHD resolution, 140° field of view, customisable trigger zones, weatherproof",
+      "summary": "PetsRadar's tester Dan found the 2K picture 'very good' during the day and great for facial recognition, praising how simple the wireless design was to install anywhere. When placed outside in the rain, the speaker sounded quiet and muffled, but Toucan swiftly sent a replacement that worked perfectly, and the battery lasted around a week per charge.",
+      "specs": {
+        "Resolution": "2K QHD",
+        "Field of view": "140°",
+        "Battery life": "Around 1 week",
+        "Subscription": "Not required ($29/year for extras)"
+      },
+      "pros": [
+        "Fully wireless, easy to position anywhere",
+        "Customisable trigger zones",
+        "No monthly subscription costs",
+        "Two-way talk with pre-recorded messages"
+      ],
+      "cons": [
+        "Trigger zone setting isn't precise enough",
+        "Needs regular charging",
+        "Audio quality dropped in wet weather on the tester's original unit"
+      ],
+      "asin": "",
+      "search": "Toucan Wireless Security Camera S4"
+    },
+    {
+      "brand": "Ring",
+      "name": "Indoor Camera",
+      "badge": "Best for privacy",
+      "best_for": "Buyers who want the option to physically block the camera when not in use",
+      "key_spec": "1080p HD, manual privacy cover, colour night vision, Alexa compatible",
+      "summary": "The cheapest model in PetsRadar's test, yet tester Matthew found it offers 'great full-color picture quality' and captures footage instantly. Its standout feature is a manual privacy panel you swivel over the lens and microphone without unplugging the camera, though recording and reviewing footage requires a Ring Protect subscription.",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Field of view": "143°",
+        "Storage": "Cloud (subscription required to save)",
+        "Price guide": "Cheapest in the test group"
+      },
+      "pros": [
+        "Manual privacy cover for the lens and microphone",
+        "Great full-colour picture quality for the price",
+        "Compatible with Alexa devices",
+        "Customisable motion trigger zones"
+      ],
+      "cons": [
+        "Subscription needed to record and review footage",
+        "Lower resolution than premium rivals"
+      ],
+      "asin": "",
+      "search": "Ring Indoor Camera"
+    },
+    {
+      "brand": "Blink",
+      "name": "Mini 2",
+      "badge": "Best budget",
+      "best_for": "Buyers who want solid basics at a low price",
+      "key_spec": "1080p HD, weather-resistant, two-way talk, motion detection",
+      "summary": "PetsRadar's tester Lindsey found this budget camera super easy to set up, taking about five minutes, with picture quality she called pretty good and clear for a small screen. It's weather-resistant for indoor or outdoor placement, though it lacks any pet-specific detection or interactive features like treat tossing.",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Weather resistance": "Yes, indoor or outdoor",
+        "Price guide": "Lower than average"
+      },
+      "pros": [
+        "Very quick, easy setup",
+        "Good picture quality for the price",
+        "Weather-resistant for flexible placement",
+        "Night vision and motion detection included"
+      ],
+      "cons": [
+        "No pet-specific detection or treat dispensing",
+        "Fewer interactive features than dedicated pet cameras"
+      ],
+      "asin": "",
+      "search": "Blink Mini 2 camera"
+    },
+    {
+      "brand": "Toucan",
+      "name": "Seek Pan & Tilt Camera",
+      "badge": "Best for remote repositioning",
+      "best_for": "Buyers who want to adjust the camera's view without moving it physically",
+      "key_spec": "1080p HD, AI human detection, remote pan and tilt, pre-recorded broadcasts",
+      "summary": "PetsRadar's tester Chloe found the picture quality good enough for the camera's intended use, if not amazing, and particularly liked being able to adjust the camera's position remotely from the app. It adds AI-powered human detection and two-way communication alongside the pan and tilt function.",
+      "specs": {
+        "Resolution": "1080p HD",
+        "Feature": "Remote pan and tilt",
+        "Detection": "AI human detection"
+      },
+      "pros": [
+        "Remote pan and tilt from the app",
+        "AI-powered human detection",
+        "Two-way communication with pre-recorded messages"
+      ],
+      "cons": [
+        "Picture quality is adequate rather than excellent"
+      ],
+      "asin": "",
+      "search": "Toucan Seek Pan and Tilt Camera"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need a camera with a subscription?",
+      "a": "Not necessarily. Models like the Reolink Go PT Ultra Plus and Lorex 4K Spotlight here work fully without a monthly fee, while others like the Furbo and Ring here offer core features for free but lock extras like extended footage history or the AI health checker behind a subscription. Decide whether you need those extra features before paying for an ongoing plan."
+    },
+    {
+      "q": "Do pet cameras record all the time?",
+      "a": "Most pet cameras only record when triggered by motion or sound, which helps with spotting behaviour patterns and saves on storage space. A handful of models offer continuous recording that overwrites older footage after a set period, like a week, which is worth seeking out if you want an unbroken record rather than triggered clips."
+    },
+    {
+      "q": "Can a pet camera help with separation anxiety?",
+      "a": "Vet Dr Rebecca MacMillan says cameras are a 'useful aid' for monitoring a pet's behaviour and progress with training, letting owners spot signs of anxiety like pacing or excessive panting. A camera with two-way audio, like the Furbo or Enabot here, can also let you talk to a distressed pet remotely, though it isn't a direct cure on its own."
+    },
+    {
+      "q": "Wi-Fi or 4G: which connection type should I choose?",
+      "a": "A standard Wi-Fi camera, like the Ring Indoor or Blink Mini 2 here, is simpler and cheaper to run but needs a strong home Wi-Fi signal to work reliably. A 4G camera like the Reolink Go PT Ultra Plus here is better suited to outbuildings, stables or gardens beyond Wi-Fi range, at the cost of needing a SIM card and data plan."
+    }
+  ],
+  "sources": [
+    {
+      "name": "PetsRadar: best pet cameras",
+      "url": "https://www.petsradar.com/buying-guides/best-pet-camera"
+    }
+  ]
+}

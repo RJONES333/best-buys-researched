@@ -3,8 +3,6 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Dog leads and harnesses (Pet supplies)
-- Pet cameras (Pet supplies)
 - Trampolines (Kids)
 - Steam cleaners / mops (Cleaning)
 - Fridge freezers (Home & kitchen)
@@ -16,6 +14,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Tablets (Tech & gadgets)
 
 ## Rejected (no genuine hands-on testing source found, don't retry)
+- Dog leads and harnesses — PetsRadar's page is mostly generic affiliate "reasons to buy/avoid" copy with only one genuinely tested product. Which?'s test methodology is excellent (real dogs, water-resistance testing) but results are paywalled behind login. Rover.com's "reviews" are mostly scraped Amazon customer quotes labelled "most helpful review", same pattern as the rejected Origym boxing gloves source. Worth retrying later if a UK outlet publishes an unpaywalled hands-on test.
 - Extension leads — Expert Reviews page is thin generic buying advice with no per-product pros/cons or testing methodology. Testix's "review" is almost certainly AI-generated fabricated content (claims like "noise from plugged-in devices remained under 35dB" make no sense for a passive cable). No genuine hands-on source found.
 - Garden furniture — every source checked (Ideal Home, Gardens Illustrated, Homes & Gardens) was a retailer/brand roundup, not structured product-level testing with real pros/cons.
 - Boxing gloves — tried 3 times. Garage Gym Reviews' page only renders one product (Hayabusa T3) via text extraction, likely lazy-loaded content the browser tool can't trigger. Origym is Amazon-review-percentage aggregation, not genuine hands-on testing. Worth retrying later with a different source (e.g. Men's Health UK, Boxing News) if one surfaces, but don't re-attempt these two.
@@ -38,6 +37,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Jump starters — Auto Express (7 products)
 - Baby carriers — Mumsnet (8 products)
 - High chairs — Mumsnet (8 products)
+- Pet cameras — PetsRadar (8 products)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes
