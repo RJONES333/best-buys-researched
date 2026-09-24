@@ -4,7 +4,7 @@
   "short": "Smart rings compared by sleep tracking accuracy, comfort, battery life and subscription costs, from the class-leading Oura to subscription-free alternatives.",
   "intro": "A smart ring's ongoing subscription cost matters as much as its hardware, since several genuinely capable rivals to Oura now track sleep and recovery with no monthly fee. This guide compares rings tested by Wareable, worn continuously for months and validated against gold-standard reference devices like chest strap heart rate monitors.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Oura",
@@ -13,9 +13,21 @@
       "best_for": "Buyers who want the most accurate, polished experience and don't mind a subscription",
       "key_spec": "2.5-3.5g, 12-channel PPG, skin temperature sensor, mandatory subscription",
       "summary": "Wareable calls this the undisputed king of smart rings, with shrunk internal components delivering an ultra-slim ring that genuinely feels like jewellery. Sleep-tracking boundaries and resting heart rate accuracy matched gold-standard reference equipment almost perfectly in testing, though it requires a mandatory £5.99/month subscription to unlock full data.",
-      "specs": {"Weight": "2.5-3.5g", "Sensors": "12-channel PPG, skin temperature, accelerometer", "Subscription": "£5.99/month (mandatory)"},
-      "pros": ["Stunning, ultra-slim design", "Flawless software with unrivalled longitudinal insights", "Snug, spin-free fit", "Near-perfect accuracy against reference devices"],
-      "cons": ["Mandatory ongoing subscription", "No legacy trade-in programme"],
+      "specs": {
+        "Weight": "2.5-3.5g",
+        "Sensors": "12-channel PPG, skin temperature, accelerometer",
+        "Subscription": "£5.99/month (mandatory)"
+      },
+      "pros": [
+        "Stunning, ultra-slim design",
+        "Flawless software with unrivalled longitudinal insights",
+        "Snug, spin-free fit",
+        "Near-perfect accuracy against reference devices"
+      ],
+      "cons": [
+        "Mandatory ongoing subscription",
+        "No legacy trade-in programme"
+      ],
       "asin": "",
       "search": "Oura Ring 5"
     },
@@ -26,9 +38,22 @@
       "best_for": "Buyers who want Oura-rivalling comfort without ongoing fees",
       "key_spec": "2mm thick, 10-12 day battery, charging case gives up to 150 days total",
       "summary": "The slimmest ring on the market at just 2mm thick, feeling closer to standard jewellery than any rival bar Oura. Wareable found sleep, health and activity data consistently accurate, with an unrivalled battery and charging case combination, though the companion app functions more as a dense data hub than a polished coach.",
-      "specs": {"Weight": "2-3g", "Battery life": "10-12 days", "Subscription": "None"},
-      "pros": ["Incredibly light and thin design", "Solid accuracy", "Unrivalled battery/charging case combination", "No subscription fees"],
-      "cons": ["App is dense and data-heavy", "Prone to scratches", "Lacks activity integrations"],
+      "specs": {
+        "Weight": "2-3g",
+        "Battery life": "10-12 days",
+        "Subscription": "None"
+      },
+      "pros": [
+        "Incredibly light and thin design",
+        "Solid accuracy",
+        "Unrivalled battery/charging case combination",
+        "No subscription fees"
+      ],
+      "cons": [
+        "App is dense and data-heavy",
+        "Prone to scratches",
+        "Lacks activity integrations"
+      ],
       "asin": "",
       "search": "RingConn Gen 2 smart ring"
     },
@@ -39,9 +64,20 @@
       "best_for": "Buyers who want detailed metabolic and circadian rhythm data without a subscription",
       "key_spec": "2.4-3.6g, PPG/SpO2/temperature sensors, modular PowerPlugs for AFib/jet lag tracking",
       "summary": "One of Wareable's favourite subscription-free rings, with targeted tools like an 'Adenosine Clearance Window' calculating ideal caffeine cutoff times. Remains a more affordable overall option than Oura with feature-rich recovery tracking, though some PowerPlugs need paying for separately and the design is fairly plain.",
-      "specs": {"Weight": "2.4-3.6g", "Sensors": "PPG, SpO2, skin temperature, accelerometer", "Subscription": "Free core features, paid PowerPlugs optional"},
-      "pros": ["Solid health data and activity monitoring", "Interesting features like stimulant window tracking", "Thoughtful prompts and recommendations", "No mandatory subscription"],
-      "cons": ["Bland design"],
+      "specs": {
+        "Weight": "2.4-3.6g",
+        "Sensors": "PPG, SpO2, skin temperature, accelerometer",
+        "Subscription": "Free core features, paid PowerPlugs optional"
+      },
+      "pros": [
+        "Solid health data and activity monitoring",
+        "Interesting features like stimulant window tracking",
+        "Thoughtful prompts and recommendations",
+        "No mandatory subscription"
+      ],
+      "cons": [
+        "Bland design"
+      ],
       "asin": "",
       "search": "Ultrahuman Ring Air"
     },
@@ -52,9 +88,21 @@
       "best_for": "Samsung and Android users who want deep Samsung Health integration",
       "key_spec": "2.3-3g, titanium build, Energy Score readiness rating, no subscription",
       "summary": "A lightweight titanium ring with a concave profile that shields against daily scuffs, giving a seamless set-and-forget experience within Samsung Health with no ongoing cost. Wareable praised the intuitive Energy Score, though testing found occasional nocturnal heart rate flatlines and unnatural SpO2 dips.",
-      "specs": {"Weight": "2.3-3g", "Sensors": "Skin temperature, PPG, accelerometer", "Subscription": "None"},
-      "pros": ["Great sleep data", "Actionable sleep coaching via Galaxy AI", "Intuitive Energy Score", "Nice, comfortable design"],
-      "cons": ["Expensive", "Spotty heart rate data and poor SpO2 accuracy in testing"],
+      "specs": {
+        "Weight": "2.3-3g",
+        "Sensors": "Skin temperature, PPG, accelerometer",
+        "Subscription": "None"
+      },
+      "pros": [
+        "Great sleep data",
+        "Actionable sleep coaching via Galaxy AI",
+        "Intuitive Energy Score",
+        "Nice, comfortable design"
+      ],
+      "cons": [
+        "Expensive",
+        "Spotty heart rate data and poor SpO2 accuracy in testing"
+      ],
       "asin": "",
       "search": "Samsung Galaxy Ring"
     },
@@ -65,9 +113,21 @@
       "best_for": "Buyers who want reliable basics at the lowest price",
       "key_spec": "4-5g, PPG/SpO2/accelerometer, ~7 day battery (12 with case)",
       "summary": "A simple, affordable option that Wareable found holds its own against pricier rivals, with reliable health tracking and a clear, straightforward companion app. It covers sleep, heart rate, activity, stress and blood oxygen solidly without deeper insights, and is noticeably bulkier and heavier than premium rivals.",
-      "specs": {"Weight": "4-5g", "Battery life": "~7 days (12 with case)", "Price guide": "$179.99"},
-      "pros": ["Great price-to-feature balance", "Convenient charging case for travel", "Relatively reliable health data"],
-      "cons": ["A bit bulky and noticeable on the finger", "Lacks deeper insights", "Fewer features than premium rivals"],
+      "specs": {
+        "Weight": "4-5g",
+        "Battery life": "~7 days (12 with case)",
+        "Price guide": "$179.99"
+      },
+      "pros": [
+        "Great price-to-feature balance",
+        "Convenient charging case for travel",
+        "Relatively reliable health data"
+      ],
+      "cons": [
+        "A bit bulky and noticeable on the finger",
+        "Lacks deeper insights",
+        "Fewer features than premium rivals"
+      ],
       "asin": "",
       "search": "Renpho LYNX Smart Ring"
     },
@@ -78,9 +138,21 @@
       "best_for": "First-time smart ring buyers who want RingConn's comfort at a lower price",
       "key_spec": "2.5-4g, stainless steel build, up to 10 day battery, no subscription",
       "summary": "A more affordable RingConn sharing the same focus on comfort and value as the Gen 2, using stainless steel rather than titanium. Wareable found impressive battery life, sometimes even outlasting the pricier Gen 2 since it lacks the sleep apnea feature, at a genuinely low $199 with no subscription.",
-      "specs": {"Weight": "2.5-4g", "Battery life": "Up to 10 days", "Price guide": "$199"},
-      "pros": ["Comfortable to wear", "Long-lasting battery", "Relatively cheap for its feature set"],
-      "cons": ["Uninteresting app insights", "Heavier than the standard Gen 2", "No sleep apnea monitoring"],
+      "specs": {
+        "Weight": "2.5-4g",
+        "Battery life": "Up to 10 days",
+        "Price guide": "$199"
+      },
+      "pros": [
+        "Comfortable to wear",
+        "Long-lasting battery",
+        "Relatively cheap for its feature set"
+      ],
+      "cons": [
+        "Uninteresting app insights",
+        "Heavier than the standard Gen 2",
+        "No sleep apnea monitoring"
+      ],
       "asin": "",
       "search": "RingConn Gen 2 Air"
     },
@@ -91,9 +163,20 @@
       "best_for": "Buyers who want conversational AI guidance alongside sleep tracking",
       "key_spec": "3-5g, titanium build, 5ATM water resistance, conversational AI coach",
       "summary": "Delivers a subscription-free ecosystem built around clean sleep analysis and a conversational AI coach for bedtime guidance, with a distinctive contoured 'wave' design. Wareable's testing against reference devices found accurate sleep/wake timing and reliable vital-sign tracking, though battery life tops out at just four days under continuous sampling.",
-      "specs": {"Weight": "3-5g", "Water resistance": "5ATM", "Battery life": "4 days"},
-      "pros": ["Stylish wave design stands out", "Friendly subscription-free app with AI coaching", "Portable charging case option"],
-      "cons": ["Disappointing 4-day battery life", "Raised internal sensor bumps affect comfort"],
+      "specs": {
+        "Weight": "3-5g",
+        "Water resistance": "5ATM",
+        "Battery life": "4 days"
+      },
+      "pros": [
+        "Stylish wave design stands out",
+        "Friendly subscription-free app with AI coaching",
+        "Portable charging case option"
+      ],
+      "cons": [
+        "Disappointing 4-day battery life",
+        "Raised internal sensor bumps affect comfort"
+      ],
       "asin": "",
       "search": "Noise Luna Ring Gen 2"
     },
@@ -104,9 +187,20 @@
       "best_for": "UK buyers who want a sleep-first ring matching established brands' data quality",
       "key_spec": "2.4-3.6g, PPG/SpO2/skin temperature, no subscription, £199",
       "summary": "A strong debut from a UK-based startup with a sleep-first approach at a competitive price and no subscription required. Wareable's full testing found it matched the data quality of established brands like RingConn and Oura across sleep duration, sleep scores and step counts.",
-      "specs": {"Weight": "2.4-3.6g", "Sensors": "PPG, SpO2, skin temperature, motion", "Price guide": "£199"},
-      "pros": ["Matches established brands' data quality", "No subscription required", "Competitive price", "UK-based company"],
-      "cons": ["Newer brand with less track record than established rivals"],
+      "specs": {
+        "Weight": "2.4-3.6g",
+        "Sensors": "PPG, SpO2, skin temperature, motion",
+        "Price guide": "£199"
+      },
+      "pros": [
+        "Matches established brands' data quality",
+        "No subscription required",
+        "Competitive price",
+        "UK-based company"
+      ],
+      "cons": [
+        "Newer brand with less track record than established rivals"
+      ],
       "asin": "",
       "search": "Leep Ring smart ring"
     }
@@ -130,6 +224,9 @@
     }
   ],
   "sources": [
-    {"name": "Wareable: best smart rings", "url": "https://www.wareable.com/fashion/best-smart-rings-1340"}
+    {
+      "name": "Wareable: best smart rings",
+      "url": "https://www.wareable.com/fashion/best-smart-rings-1340"
+    }
   ]
 }

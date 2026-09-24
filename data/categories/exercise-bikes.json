@@ -4,7 +4,7 @@
   "short": "Indoor exercise bikes compared by resistance realism, connectivity and comfort, from budget smart bikes to premium immersive trainers.",
   "intro": "An exercise bike's resistance system and screen quality matter more than raw price, since a bike that feels lifeless will get abandoned quickly. This guide compares bikes tested by Men's Fitness over at least a month each, pairing them with apps like Zwift and assessing build quality after sustained use.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Peloton",
@@ -13,9 +13,20 @@
       "best_for": "Buyers who want the most immersive, motivating workout experience",
       "key_spec": "Swivelling HD touchscreen, front-facing camera for movement tracking, Sonos audio",
       "summary": "Men's Fitness found this one of the most immersive and motivating indoor fitness experiences money can buy, with Peloton IQ's built-in camera tracking movement during strength classes like a personal trainer watching your form. A vast, high-quality class library and swivel screen make it a full-body training hub, though the subscription is essential to unlock its full value.",
-      "specs": {"Screen": "Swivelling HD touchscreen", "Camera": "Front-facing movement tracking", "Audio": "Sonos"},
-      "pros": ["Highly polished, immersive workout experience", "Vast, high-quality class library", "Peloton IQ adds off-bike workout tracking"],
-      "cons": ["High upfront cost plus essential subscription", "Power metrics may not satisfy data-driven cyclists"],
+      "specs": {
+        "Screen": "Swivelling HD touchscreen",
+        "Camera": "Front-facing movement tracking",
+        "Audio": "Sonos"
+      },
+      "pros": [
+        "Highly polished, immersive workout experience",
+        "Vast, high-quality class library",
+        "Peloton IQ adds off-bike workout tracking"
+      ],
+      "cons": [
+        "High upfront cost plus essential subscription",
+        "Power metrics may not satisfy data-driven cyclists"
+      ],
       "asin": "",
       "search": "Peloton Bike Plus with Peloton IQ"
     },
@@ -26,9 +37,21 @@
       "best_for": "Serious cyclists who want precise, data-rich training",
       "key_spec": "22 integrated gears, crank position read 1,000 times/second, Smart resistance mode",
       "summary": "The number one exercise bike in public gyms and elite fitness spaces, Men's Fitness found it sturdy enough for years of abuse yet precise enough for exact shifting. The Wattbike Hub's pedal efficiency score and training plans let you replicate tough pro-circuit climbs, though it's noisy and geared more toward experienced cyclists.",
-      "specs": {"Gears": "22 integrated (manual or Ergo auto mode)", "Precision": "Crank position read 1,000x/second"},
-      "pros": ["Easy set-up", "Genuine real-ride feel", "Automatic Smart resistance mode", "Wealth of insights via Wattbike Hub"],
-      "cons": ["Noisy", "Feels geared more toward experienced cyclists", "Requires bringing your own screen"],
+      "specs": {
+        "Gears": "22 integrated (manual or Ergo auto mode)",
+        "Precision": "Crank position read 1,000x/second"
+      },
+      "pros": [
+        "Easy set-up",
+        "Genuine real-ride feel",
+        "Automatic Smart resistance mode",
+        "Wealth of insights via Wattbike Hub"
+      ],
+      "cons": [
+        "Noisy",
+        "Feels geared more toward experienced cyclists",
+        "Requires bringing your own screen"
+      ],
       "asin": "",
       "search": "Wattbike Atom exercise bike"
     },
@@ -39,9 +62,18 @@
       "best_for": "Buyers who want the most authentic outdoor-riding feel indoors",
       "key_spec": "Built-in road-surface simulation motor, climbs up to 25%, programmable shifters",
       "summary": "Men's Fitness calls this the pinnacle of exercise bikes, with a built-in motor replicating the 'rumble' of cobbles or gravel and resistance mimicking climbs up to 25%. Programmable shifters mimic Shimano, SRAM or Campagnolo, and it pairs with Zwift, Strava and TrainerRoad for a genuinely immersive ride, though the drop bars have some flex.",
-      "specs": {"Max simulated gradient": "25%", "App compatibility": "Zwift, Strava, TrainerRoad, Garmin app"},
-      "pros": ["Excellent app compatibility", "Immersive real-road feel with surface rumble", "Highly controllable cooling fans"],
-      "cons": ["Some flex in the drop bars"],
+      "specs": {
+        "Max simulated gradient": "25%",
+        "App compatibility": "Zwift, Strava, TrainerRoad, Garmin app"
+      },
+      "pros": [
+        "Excellent app compatibility",
+        "Immersive real-road feel with surface rumble",
+        "Highly controllable cooling fans"
+      ],
+      "cons": [
+        "Some flex in the drop bars"
+      ],
       "asin": "",
       "search": "Garmin TACX Neo Bike Plus"
     },
@@ -52,9 +84,21 @@
       "best_for": "Buyers who want their bike to also work their core and arms",
       "key_spec": "Tilting lean mode, 100 resistance levels, includes 1-year JRNY app membership",
       "summary": "No bike works the core quite like the VeloCore, which morphs from a stationary bike to a tilting one at the press of a button, adding a whole new dimension to workouts. Men's Fitness found the ride smooth and quiet with a large screen in two sizes, though the design is bigger and heavier than most indoor bikes.",
-      "specs": {"Resistance levels": "100", "Screen options": "16in or 22in", "Subscription": "1-year JRNY included"},
-      "pros": ["Unique leaning feature targets core and arms", "Decent selection of riding modes", "Smooth and quiet ride", "Free year of JRNY app included"],
-      "cons": ["Bigger and heavier than most indoor bikes", "Expensive"],
+      "specs": {
+        "Resistance levels": "100",
+        "Screen options": "16in or 22in",
+        "Subscription": "1-year JRNY included"
+      },
+      "pros": [
+        "Unique leaning feature targets core and arms",
+        "Decent selection of riding modes",
+        "Smooth and quiet ride",
+        "Free year of JRNY app included"
+      ],
+      "cons": [
+        "Bigger and heavier than most indoor bikes",
+        "Expensive"
+      ],
       "asin": "",
       "search": "Bowflex VeloCore exercise bike"
     },
@@ -65,9 +109,18 @@
       "best_for": "Buyers who want a simple, brutal calorie-torching workout",
       "key_spec": "Air resistance flywheel, belt drive, upgradable/replaceable parts",
       "summary": "The original air bike still found in commercial gyms everywhere, with Men's Fitness praising its dialled-in ergonomics and super-smooth belt drive. Almost every part can be upgraded or replaced as an aftermarket purchase, making it a genuinely long-term investment, though the console can be hard to read.",
-      "specs": {"Resistance": "Air (fan-based)", "Drive": "Belt drive"},
-      "pros": ["Robust, long-lasting design", "Easy to programme workouts", "Upgradable parts extend its lifespan"],
-      "cons": ["Console can be hard to read"],
+      "specs": {
+        "Resistance": "Air (fan-based)",
+        "Drive": "Belt drive"
+      },
+      "pros": [
+        "Robust, long-lasting design",
+        "Easy to programme workouts",
+        "Upgradable parts extend its lifespan"
+      ],
+      "cons": [
+        "Console can be hard to read"
+      ],
       "asin": "",
       "search": "AssaultBike Classic"
     },
@@ -78,9 +131,21 @@
       "best_for": "Buyers who want smart features without a four-figure price tag",
       "key_spec": "Bluetooth/WiFi/USB connectivity, app-based training, under £1,000",
       "summary": "Refreshingly affordable against rivals costing two grand or more, Men's Fitness found it well made and easy to set up despite the lower price, with a stylish design that won't look out of place at home. There's no built-in screen, relying instead on the Apex app via your own device, and the seat can be slightly uncomfortable.",
-      "specs": {"Connectivity": "Bluetooth, WiFi, USB", "Screen": "None (uses companion app)", "Price guide": "Under £1,000"},
-      "pros": ["Competitive price", "Modern, stylish design", "Well made and easy to set up", "Extensive class and instructor library via app"],
-      "cons": ["No built-in screen", "Seat can be slightly uncomfortable"],
+      "specs": {
+        "Connectivity": "Bluetooth, WiFi, USB",
+        "Screen": "None (uses companion app)",
+        "Price guide": "Under £1,000"
+      },
+      "pros": [
+        "Competitive price",
+        "Modern, stylish design",
+        "Well made and easy to set up",
+        "Extensive class and instructor library via app"
+      ],
+      "cons": [
+        "No built-in screen",
+        "Seat can be slightly uncomfortable"
+      ],
       "asin": "",
       "search": "Apex Smart Bike exercise bike"
     }
@@ -104,6 +169,9 @@
     }
   ],
   "sources": [
-    {"name": "Men's Fitness: best exercise bikes", "url": "https://mensfitness.co.uk/review/best-exercise-bikes/"}
+    {
+      "name": "Men's Fitness: best exercise bikes",
+      "url": "https://mensfitness.co.uk/review/best-exercise-bikes/"
+    }
   ]
 }

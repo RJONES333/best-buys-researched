@@ -4,7 +4,7 @@
   "short": "Loop, tube and superband resistance bands compared by durability, resistance range and accessories, from budget sets to premium heavy-duty bands.",
   "intro": "A resistance band's build quality determines whether it lasts for years or snaps mid-workout, and the right style depends on what you're training. This guide compares bands tested by Tom's Guide's fitness editor across bicep curls, assisted pull-ups, lateral walks and push-ups.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Bodylastics",
@@ -13,9 +13,19 @@
       "best_for": "Buyers who want maximum variety and accessories in one kit",
       "key_spec": "10-200lb resistance range, anti-snap technology, handles/ankle straps/door anchor included",
       "summary": "Tom's Guide's top pick, with a full set of attachments including handles, ankle straps and a door anchor, all under 5lbs total weight. The patented anti-snap technology impressed testers most, feeling strong and safe even at high resistance levels, though the included exercise booklet is fairly limited.",
-      "specs": {"Resistance range": "10-30lb per band, up to 200lb combined", "Material": "Anti-snap latex", "Accessories": "Handles, ankle straps, door anchor"},
-      "pros": ["Wide variety of attachments and resistance levels", "Internal cord prevents breakage", "Comfortably padded ankle straps"],
-      "cons": ["Limited exercises in the included booklet"],
+      "specs": {
+        "Resistance range": "10-30lb per band, up to 200lb combined",
+        "Material": "Anti-snap latex",
+        "Accessories": "Handles, ankle straps, door anchor"
+      },
+      "pros": [
+        "Wide variety of attachments and resistance levels",
+        "Internal cord prevents breakage",
+        "Comfortably padded ankle straps"
+      ],
+      "cons": [
+        "Limited exercises in the included booklet"
+      ],
       "asin": "",
       "search": "Bodylastics resistance bands"
     },
@@ -26,9 +36,19 @@
       "best_for": "Buyers who want a stackable set with genuine bang for buck",
       "key_spec": "5 bands (2-30lb each), metal clip system, commercial-grade grommets",
       "summary": "Uses a proprietary rubber blend with commercial-grade grommets and double-stitched seams, with a metal clipping system that makes swapping handles easy. Tom's Guide found the stacking system genuinely useful, combining bands for up to 40-50lb of total resistance, though the clips can catch on the bands.",
-      "specs": {"Resistance range": "2-30lb per band", "Bands included": "5", "Accessories": "2 handles, ankle strap, door anchor"},
-      "pros": ["Can stack bands for more tension", "Comes with a full set of extras", "Durable nylon and double-stitched seams"],
-      "cons": ["Clips can catch on bands"],
+      "specs": {
+        "Resistance range": "2-30lb per band",
+        "Bands included": "5",
+        "Accessories": "2 handles, ankle strap, door anchor"
+      },
+      "pros": [
+        "Can stack bands for more tension",
+        "Comes with a full set of extras",
+        "Durable nylon and double-stitched seams"
+      ],
+      "cons": [
+        "Clips can catch on bands"
+      ],
       "asin": "",
       "search": "Black Mountain resistance band set"
     },
@@ -39,9 +59,19 @@
       "best_for": "Buyers who want simple, portable loop bands for HIIT",
       "key_spec": "5 loops, extra-light to extra-heavy, tear-free latex",
       "summary": "An almost shockingly inexpensive set that Tom's Guide praised for its simplicity: five resistance bands in a nylon pouch with a short guide, nothing more needed. Each band is rated for 9,000 individual stretches, so they're built to eventually wear out rather than last indefinitely.",
-      "specs": {"Bands included": "5 (extra-light to extra-heavy)", "Material": "Heavy-duty, tear-free latex", "Rated lifespan": "~9,000 stretches per band"},
-      "pros": ["Lightweight and extremely portable", "Simple, easy-to-understand resistance rating", "Very affordable"],
-      "cons": ["Not long-lasting"],
+      "specs": {
+        "Bands included": "5 (extra-light to extra-heavy)",
+        "Material": "Heavy-duty, tear-free latex",
+        "Rated lifespan": "~9,000 stretches per band"
+      },
+      "pros": [
+        "Lightweight and extremely portable",
+        "Simple, easy-to-understand resistance rating",
+        "Very affordable"
+      ],
+      "cons": [
+        "Not long-lasting"
+      ],
       "asin": "",
       "search": "Fit Simplify resistance loop bands"
     },
@@ -52,9 +82,19 @@
       "best_for": "Buyers with a latex allergy or sensitive skin",
       "key_spec": "3 bands per set (4.3-15.3lb depending on set), synthetic rubber, 4in width",
       "summary": "Made from synthetic rubber to help those with latex allergies avoid reactions, with 4-inch bands Tom's Guide found comfortable directly against the skin. There are no handles or clips, so you wrap or tie the bands yourself, and buying both the beginner and advanced sets still costs under $50 combined.",
-      "specs": {"Resistance range": "4.3-15.3lb depending on set", "Material": "Non-latex synthetic rubber", "Width": "4in"},
-      "pros": ["Non-latex, allergy-friendly design", "Comfortable directly against skin", "Great value across beginner and advanced sets"],
-      "cons": ["No handles or accessories included"],
+      "specs": {
+        "Resistance range": "4.3-15.3lb depending on set",
+        "Material": "Non-latex synthetic rubber",
+        "Width": "4in"
+      },
+      "pros": [
+        "Non-latex, allergy-friendly design",
+        "Comfortable directly against skin",
+        "Great value across beginner and advanced sets"
+      ],
+      "cons": [
+        "No handles or accessories included"
+      ],
       "asin": "",
       "search": "TheraBand non-latex resistance bands"
     },
@@ -65,9 +105,19 @@
       "best_for": "Glute activation and lower-body warm-ups",
       "key_spec": "4 loops, light to extra-heavy, 9in diameter",
       "summary": "A no-frills set of four 9 x 2-inch loops that Tom's Guide found puts you to work immediately thanks to the tight diameter, ideal for glute exercises like crab walks and fire hydrants. Larger-limbed users may find the tight loop intense, and there's no version suitable for latex allergies.",
-      "specs": {"Bands included": "4 (light to extra-heavy)", "Diameter": "9in", "Material": "Latex"},
-      "pros": ["Easy-to-understand resistance loops", "Compact and simple to use"],
-      "cons": ["Won't be large enough for all users", "Not suitable for latex allergies"],
+      "specs": {
+        "Bands included": "4 (light to extra-heavy)",
+        "Diameter": "9in",
+        "Material": "Latex"
+      },
+      "pros": [
+        "Easy-to-understand resistance loops",
+        "Compact and simple to use"
+      ],
+      "cons": [
+        "Won't be large enough for all users",
+        "Not suitable for latex allergies"
+      ],
       "asin": "",
       "search": "Perform Better mini band loops"
     },
@@ -78,9 +128,19 @@
       "best_for": "Buyers who want maximum durability for regular, hard use",
       "key_spec": "4 bands braided together, Tuff-Tube rubber, sold individually",
       "summary": "Unlike standard flat bands, each Xertube is four separate bands braided together like rope, which Tom's Guide found lightweight yet super durable and resistant to abrasion and tears. They're sold one band at a time at a premium price, with no bundled accessories.",
-      "specs": {"Design": "4 braided bands per tube", "Material": "Tuff-Tube rubber"},
-      "pros": ["Lightweight", "Durable and strong construction", "Resists abrasion and tears"],
-      "cons": ["No extras included", "Sold per band, adds up in cost"],
+      "specs": {
+        "Design": "4 braided bands per tube",
+        "Material": "Tuff-Tube rubber"
+      },
+      "pros": [
+        "Lightweight",
+        "Durable and strong construction",
+        "Resists abrasion and tears"
+      ],
+      "cons": [
+        "No extras included",
+        "Sold per band, adds up in cost"
+      ],
       "asin": "",
       "search": "SPRI Braided Xertube resistance bands"
     },
@@ -91,9 +151,19 @@
       "best_for": "Experienced lifters who want serious added resistance for big lifts",
       "key_spec": "Up to 150lb tension, fused latex sheets, 6 band strengths available",
       "summary": "Made with fused latex sheets for genuinely high tensile strength, with the strongest band handling 150lb of tension for pull-ups, squats and deadlifts. Tom's Guide appreciated the customisable bundles across six band strengths, though there are no accessories or instructions, aimed at users who already know what they're doing.",
-      "specs": {"Max resistance": "Up to 150lb (strongest band)", "Material": "Fused latex sheets", "Band options": "6 strengths, bundled in packs"},
-      "pros": ["Seriously strong resistance available", "Wide range of bundled strength options"],
-      "cons": ["No accessories or instructions included", "Not suitable for latex allergies"],
+      "specs": {
+        "Max resistance": "Up to 150lb (strongest band)",
+        "Material": "Fused latex sheets",
+        "Band options": "6 strengths, bundled in packs"
+      },
+      "pros": [
+        "Seriously strong resistance available",
+        "Wide range of bundled strength options"
+      ],
+      "cons": [
+        "No accessories or instructions included",
+        "Not suitable for latex allergies"
+      ],
       "asin": "",
       "search": "Serious Steel Heavy Duty resistance bands"
     },
@@ -104,9 +174,19 @@
       "best_for": "Buyers who want a complete portable home gym, not just bands",
       "key_spec": "Foldable base with retractable anchors, 2-4 bands, handles, door anchor, workout bar",
       "summary": "The most comprehensive kit Tom's Guide tested, built around a foldable base with retractable anchors simulating up to 30lb of resistance per band, plus handles, ankle straps and a workout bar. It comes bundled with a training journal and a genuinely detailed workout manual with photo diagrams, though the resistance range won't suit everyone.",
-      "specs": {"Simulated resistance": "0-30lb per band", "Accessories": "Handles, straps, door anchor, workout bar", "Extras": "Training journal, workout manual"},
-      "pros": ["Complete portable workout package", "Detailed workout manual included", "Foldable, compact base"],
-      "cons": ["Resistance range won't suit everyone"],
+      "specs": {
+        "Simulated resistance": "0-30lb per band",
+        "Accessories": "Handles, straps, door anchor, workout bar",
+        "Extras": "Training journal, workout manual"
+      },
+      "pros": [
+        "Complete portable workout package",
+        "Detailed workout manual included",
+        "Foldable, compact base"
+      ],
+      "cons": [
+        "Resistance range won't suit everyone"
+      ],
       "asin": "",
       "search": "BodyBoss 2.0 Home Gym Package"
     }
@@ -130,6 +210,9 @@
     }
   ],
   "sources": [
-    {"name": "Tom's Guide: best resistance bands", "url": "https://www.tomsguide.com/best-picks/best-resistance-bands"}
+    {
+      "name": "Tom's Guide: best resistance bands",
+      "url": "https://www.tomsguide.com/best-picks/best-resistance-bands"
+    }
   ]
 }

@@ -4,7 +4,7 @@
   "short": "Beginner golf club package sets compared by forgiveness, launch and build quality, for men and women new to the game.",
   "intro": "A package set takes the guesswork out of building a first golf bag, and forgiveness matters more than any other spec for a new golfer. This guide compares sets tested by Golf Monthly's panel, who hit real shots with each set to judge launch, forgiveness and build quality.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Callaway",
@@ -13,9 +13,20 @@
       "best_for": "Beginners who want a set they can comfortably grow into for years",
       "key_spec": "12 clubs, 10.5° driver, cavity-back irons, Odyssey putter",
       "summary": "Golf Monthly found this ranks among the very best package sets available within minutes of testing, with a massive, inviting driver face that offers excellent anti-slice assistance. The cavity-back irons and wedges feel fantastic and perform superbly, with a high-quality Odyssey putter rounding off a premium, reliable setup.",
-      "specs": {"Clubs": "12", "Colours": "1 (Grey)", "Shafts": "Graphite woods/steel irons or all graphite"},
-      "pros": ["Premium look and feel throughout", "Forgiving, easy-to-launch woods and hybrids", "Impressively consistent irons and wedges", "High-quality Odyssey putter"],
-      "cons": ["Premium price tag could be a barrier for some"],
+      "specs": {
+        "Clubs": "12",
+        "Colours": "1 (Grey)",
+        "Shafts": "Graphite woods/steel irons or all graphite"
+      },
+      "pros": [
+        "Premium look and feel throughout",
+        "Forgiving, easy-to-launch woods and hybrids",
+        "Impressively consistent irons and wedges",
+        "High-quality Odyssey putter"
+      ],
+      "cons": [
+        "Premium price tag could be a barrier for some"
+      ],
       "asin": "",
       "search": "Callaway XR 26 Package Set golf clubs"
     },
@@ -26,9 +37,20 @@
       "best_for": "Budget-conscious beginners who still want genuine forgiveness",
       "key_spec": "11 clubs, oversized heads, thick toplines, flexible regular shafts",
       "summary": "Golf Monthly calls this one of the best budget golf club sets available, with clubs specifically designed for new golfers to promote high, easy launch and a confidence-inspiring look at address. The set includes driver, fairway wood, two hybrids, irons through pitching wedge, putter and a stand bag, though the putter feels basic compared to the rest.",
-      "specs": {"Clubs": "11", "Colours": "4 (Blue, Pink, Purple, Red)", "Shafts": "Graphite"},
-      "pros": ["Forgiving, high-launching irons and driver", "Plenty of distance throughout the set", "Lightweight, spacious carry bag"],
-      "cons": ["Putter isn't very forgiving", "Hybrids' steel shafts can make launch harder"],
+      "specs": {
+        "Clubs": "11",
+        "Colours": "4 (Blue, Pink, Purple, Red)",
+        "Shafts": "Graphite"
+      },
+      "pros": [
+        "Forgiving, high-launching irons and driver",
+        "Plenty of distance throughout the set",
+        "Lightweight, spacious carry bag"
+      ],
+      "cons": [
+        "Putter isn't very forgiving",
+        "Hybrids' steel shafts can make launch harder"
+      ],
       "asin": "",
       "search": "Strata Men's Golf Package Set"
     },
@@ -39,9 +61,19 @@
       "best_for": "Buyers who want a recognised brand name and broad ability range",
       "key_spec": "14 clubs (12-club core set), thick topline irons, compact mallet putter",
       "summary": "Golf Monthly found the clubs extremely easy to launch, producing a high ball flight with plenty of spin that helps on approach shots, with irons that balance confidence-inspiring bulk against a clean look at address. The included cart bag was the main letdown, not matching the quality of the clubs themselves.",
-      "specs": {"Clubs": "14", "Colours": "1 (Grey)", "Shafts": "Graphite and steel"},
-      "pros": ["Good set composition", "Would suit all ability levels", "Impressive forgiveness throughout"],
-      "cons": ["Included cart bag leaves a lot to be desired"],
+      "specs": {
+        "Clubs": "14",
+        "Colours": "1 (Grey)",
+        "Shafts": "Graphite and steel"
+      },
+      "pros": [
+        "Good set composition",
+        "Would suit all ability levels",
+        "Impressive forgiveness throughout"
+      ],
+      "cons": [
+        "Included cart bag leaves a lot to be desired"
+      ],
       "asin": "",
       "search": "TaylorMade RBZ SpeedLite Package Set"
     },
@@ -52,9 +84,19 @@
       "best_for": "Higher-handicap beginners who struggle to find the centre of the clubface",
       "key_spec": "10 clubs, 10.5° driver, wide-sole sand wedge, streamlined line-up",
       "summary": "Golf Monthly noticed unusually large sweet spots throughout testing, a huge plus for players who naturally struggle to strike centrally. The streamlined 10-club line-up avoids overwhelming beginners with clubs they don't yet need, and the wide-soled sand wedge gave welcome help from bunkers, at an excellent price point.",
-      "specs": {"Clubs": "10", "Colours": "1 (Red)", "Shafts": "Graphite and steel"},
-      "pros": ["10 clubs and a bag is plenty to begin with", "Easy alignment on driver, woods and putter", "Irons perform superbly with genuine forgiveness"],
-      "cons": ["No putter head cover included"],
+      "specs": {
+        "Clubs": "10",
+        "Colours": "1 (Red)",
+        "Shafts": "Graphite and steel"
+      },
+      "pros": [
+        "10 clubs and a bag is plenty to begin with",
+        "Easy alignment on driver, woods and putter",
+        "Irons perform superbly with genuine forgiveness"
+      ],
+      "cons": [
+        "No putter head cover included"
+      ],
       "asin": "",
       "search": "Wilson Prostaff SGI Package Set"
     },
@@ -65,9 +107,19 @@
       "best_for": "Beginners who struggle to get the ball airborne",
       "key_spec": "10 clubs, 460cc 13° driver, choice of stand or cart bag",
       "summary": "Golf Monthly found the ease of use from driver through to wedge genuinely impressive, with a putter that stood out for excellent forgiveness. It provides everything needed to start out of the box, including good-quality headcovers, and rarely offers buyers a choice between stand or cart bag, though the putter itself lacks a headcover.",
-      "specs": {"Clubs": "10", "Colours": "1 (Green/Black)", "Shafts": "Graphite and steel"},
-      "pros": ["Great value", "Everything needed to get started included", "Really easy to launch"],
-      "cons": ["Putter needs a separately-bought headcover"],
+      "specs": {
+        "Clubs": "10",
+        "Colours": "1 (Green/Black)",
+        "Shafts": "Graphite and steel"
+      },
+      "pros": [
+        "Great value",
+        "Everything needed to get started included",
+        "Really easy to launch"
+      ],
+      "cons": [
+        "Putter needs a separately-bought headcover"
+      ],
       "asin": "",
       "search": "MacGregor CG4000 Package Set"
     },
@@ -78,9 +130,19 @@
       "best_for": "Buyers who want a genuinely high-quality carry bag included",
       "key_spec": "10 clubs, 5-wood instead of 3-wood, fleece-lined valuables pocket, rain hood",
       "summary": "Golf Monthly found Cobra's decision to include a 5-wood rather than a 3-wood a smart move for beginners' typically slower swing speeds, paired with a sturdy, stylish stand bag with thoughtful extras. The irons proved impressively forgiving, rivalling some standalone forgiving iron sets, with a rare choice between stand or cart bag.",
-      "specs": {"Clubs": "10", "Colours": "2 (Blue cart bag / Black stand bag)", "Shafts": "Graphite and steel"},
-      "pros": ["Modern, sleek design", "Great performance from the irons", "Genuinely good-quality stand bag"],
-      "cons": ["Would benefit from a mallet-style putter"],
+      "specs": {
+        "Clubs": "10",
+        "Colours": "2 (Blue cart bag / Black stand bag)",
+        "Shafts": "Graphite and steel"
+      },
+      "pros": [
+        "Modern, sleek design",
+        "Great performance from the irons",
+        "Genuinely good-quality stand bag"
+      ],
+      "cons": [
+        "Would benefit from a mallet-style putter"
+      ],
       "asin": "",
       "search": "Cobra Fly XL Package Set"
     },
@@ -91,9 +153,19 @@
       "best_for": "Beginners who want the option to individually upgrade clubs over time",
       "key_spec": "9 clubs, 16° driver, individually purchasable clubs, milled putter face",
       "summary": "Golf Monthly called this possibly the most comprehensive package set tested, notable because every club can also be bought individually, letting players build out their bag gradually. The deep-faced, high-lofted driver was exceptionally easy to launch, and the milled putter face promoted a smooth, consistent roll.",
-      "specs": {"Clubs": "9", "Colours": "1 (Black)", "Shafts": "Graphite"},
-      "pros": ["Exceptional build quality", "Incredibly easy to use", "Individual clubs available for long-term flexibility"],
-      "cons": ["Price tag prohibitive for many beginners"],
+      "specs": {
+        "Clubs": "9",
+        "Colours": "1 (Black)",
+        "Shafts": "Graphite"
+      },
+      "pros": [
+        "Exceptional build quality",
+        "Incredibly easy to use",
+        "Individual clubs available for long-term flexibility"
+      ],
+      "cons": [
+        "Price tag prohibitive for many beginners"
+      ],
       "asin": "",
       "search": "PXG Wildcat Package Set"
     },
@@ -104,9 +176,20 @@
       "best_for": "Women starting golf who want strong forgiveness and distance",
       "key_spec": "16 clubs, 12° driver, cavity-back irons, glossy chrome finish",
       "summary": "Golf Monthly found this delivered strong distance and forgiveness in testing, with confidence-inspiring wide soles and thick toplines on the irons and an easy-to-use oversized driver. The set comes in a well-made stand bag, though the blade-style putter feels like an unusual fit for a beginner-focused set.",
-      "specs": {"Clubs": "16", "Colours": "2 (Purple, Pink)", "Shafts": "Graphite"},
-      "pros": ["Attractive colour scheme", "Easy to hit throughout the set", "Stylish, practical stand bag included"],
-      "cons": ["Not customisable, no left-hand option", "Blade-style putter less forgiving than a mallet"],
+      "specs": {
+        "Clubs": "16",
+        "Colours": "2 (Purple, Pink)",
+        "Shafts": "Graphite"
+      },
+      "pros": [
+        "Attractive colour scheme",
+        "Easy to hit throughout the set",
+        "Stylish, practical stand bag included"
+      ],
+      "cons": [
+        "Not customisable, no left-hand option",
+        "Blade-style putter less forgiving than a mallet"
+      ],
       "asin": "",
       "search": "Strata Ultimate Titanium Women's golf set"
     }
@@ -130,6 +213,9 @@
     }
   ],
   "sources": [
-    {"name": "Golf Monthly: best golf club sets for beginners", "url": "https://www.golfmonthly.com/best-golf-deals/best-golf-club-sets-for-beginners-208230"}
+    {
+      "name": "Golf Monthly: best golf club sets for beginners",
+      "url": "https://www.golfmonthly.com/best-golf-deals/best-golf-club-sets-for-beginners-208230"
+    }
   ]
 }

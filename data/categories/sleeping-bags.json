@@ -4,7 +4,7 @@
   "short": "Down and synthetic sleeping bags compared by warmth-to-weight ratio, packed size and weather resistance, from budget picks to ultralight premium bags.",
   "intro": "A sleeping bag's warmth-to-weight ratio and temperature rating matter more than price alone, and down versus synthetic fill changes how it performs in damp UK conditions. This guide compares bags tested by Live for the Outdoors' team on real nights out in the hills, assessed in the conditions each bag is designed for.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Mountain Equipment",
@@ -13,9 +13,22 @@
       "best_for": "Spring-to-autumn UK hill and mountain use",
       "key_spec": "690g, 900-fill power down, -2°C comfort / -8°C limit",
       "summary": "LFTO's top three-season pick, the lightest bag tested at just 690g with a very good warmth-to-weight ratio from luxury 900-fill down and a superlight 10D shell. Vertical chest baffles and slanted body baffles maximise heat retention, with a full-length zip and integrated draught collar, though it comes at a high price.",
-      "specs": {"Weight": "690g", "Fill power": "900", "Comfort rating": "-2°C", "Limit rating": "-8°C"},
-      "pros": ["Premium 900 fill power down", "Superb warmth for weight", "Light and packable", "Draught collar and hood drawcord"],
-      "cons": ["Expensive", "Down fill is not hydrophobic"],
+      "specs": {
+        "Weight": "690g",
+        "Fill power": "900",
+        "Comfort rating": "-2°C",
+        "Limit rating": "-8°C"
+      },
+      "pros": [
+        "Premium 900 fill power down",
+        "Superb warmth for weight",
+        "Light and packable",
+        "Draught collar and hood drawcord"
+      ],
+      "cons": [
+        "Expensive",
+        "Down fill is not hydrophobic"
+      ],
       "asin": "",
       "search": "Mountain Equipment Xenith III sleeping bag"
     },
@@ -26,9 +39,20 @@
       "best_for": "Budget-conscious campers who don't need to carry the bag far",
       "key_spec": "1,450g, Hollowfibre synthetic insulation, recycled shell fabric",
       "summary": "LFTO found this comfortable, warm, durable and sustainable, with Hollowfibre synthetic insulation that beats down bags on price and stays effective even in damp conditions. It's genuinely bulky and heavy compared to rivals, but a draft collar, adjustable hood and zip-coupling compatibility round out a strong package.",
-      "specs": {"Weight": "1,450g", "Insulation": "Hollowfibre synthetic", "Price guide": "£74.95"},
-      "pros": ["Durable", "Soft, snug material", "Sustainable, PFC-free recycled shell", "Insulates well even when damp"],
-      "cons": ["Bulky compared to some rivals"],
+      "specs": {
+        "Weight": "1,450g",
+        "Insulation": "Hollowfibre synthetic",
+        "Price guide": "£74.95"
+      },
+      "pros": [
+        "Durable",
+        "Soft, snug material",
+        "Sustainable, PFC-free recycled shell",
+        "Insulates well even when damp"
+      ],
+      "cons": [
+        "Bulky compared to some rivals"
+      ],
       "asin": "",
       "search": "Deuter Orbit 0 sleeping bag"
     },
@@ -39,9 +63,21 @@
       "best_for": "Backpackers who want minimum pack weight without sacrificing warmth",
       "key_spec": "600g, 850-fill goose down, comfort to around 2°C, 5 sizes available",
       "summary": "LFTO was impressed that just 295g of high-loft 850-fill down gives this bag a genuinely warm rating at only 600g total weight. It's available in five sizes (rare for a sleeping bag) and is highly sustainable with recycled Pertex Quantum fabric, though the ultralight 10D shell is delicate and needs careful handling.",
-      "specs": {"Weight": "600g", "Fill power": "850", "Comfort rating": "~2°C", "Sizes": "5 (S, M, Wide M, L, Wide L)"},
-      "pros": ["Sustainable materials throughout", "Super lightweight and compact", "Five sizes available", "Impressive warmth-to-weight ratio"],
-      "cons": ["No hydrophobic down treatment"],
+      "specs": {
+        "Weight": "600g",
+        "Fill power": "850",
+        "Comfort rating": "~2°C",
+        "Sizes": "5 (S, M, Wide M, L, Wide L)"
+      },
+      "pros": [
+        "Sustainable materials throughout",
+        "Super lightweight and compact",
+        "Five sizes available",
+        "Impressive warmth-to-weight ratio"
+      ],
+      "cons": [
+        "No hydrophobic down treatment"
+      ],
       "asin": "",
       "search": "Exped Ultra 0 sleeping bag"
     },
@@ -52,9 +88,20 @@
       "best_for": "Buyers who want a fully-featured, tried-and-tested design",
       "key_spec": "Adjustable hood, 3/4-length YKK zip, chevron baffle design",
       "summary": "A standout from Rab's versatile Neutrino range, hand-stuffed and fully featured, that LFTO says has earned multiple top awards over the years. A unique chevron-style baffle arrangement (rather than horizontal) gives more loft and fewer cold spots using less material, plus newly implemented PFC-free and recycled-material sustainability upgrades.",
-      "specs": {"Zip": "3/4-length YKK", "Baffle design": "Chevron-style", "Price guide": "£365"},
-      "pros": ["Tried and tested design", "Excellent warmth-to-weight ratio", "Several sizes and versions available", "Decent sustainability credentials"],
-      "cons": ["Narrow mummy shape won't suit everyone"],
+      "specs": {
+        "Zip": "3/4-length YKK",
+        "Baffle design": "Chevron-style",
+        "Price guide": "£365"
+      },
+      "pros": [
+        "Tried and tested design",
+        "Excellent warmth-to-weight ratio",
+        "Several sizes and versions available",
+        "Decent sustainability credentials"
+      ],
+      "cons": [
+        "Narrow mummy shape won't suit everyone"
+      ],
       "asin": "",
       "search": "Rab Neutrino 400 sleeping bag"
     },
@@ -65,9 +112,21 @@
       "best_for": "Campers who prioritise comfort and ventilation over minimum weight",
       "key_spec": "1.2kg, synthetic fill, innovative draft guard, dual-sided ventilation",
       "summary": "A synthetic bag LFTO found especially suited to wet environments, with a water-resistant material that copes fine with accidental condensation contact inside the tent. An innovative draft guard extends over the face and tightens with a drawcord, while vents on both the zip and foot allow genuinely excellent ventilation control.",
-      "specs": {"Weight": "1.2kg", "Insulation": "Synthetic", "Comfort rating": "-3°C", "Limit rating": "-9°C"},
-      "pros": ["Tapered shape isn't constrictive", "Innovative draft guard works well", "Excellent ventilation", "Fully recyclable at end of life"],
-      "cons": ["Warmth-to-weight ratio not as good as down"],
+      "specs": {
+        "Weight": "1.2kg",
+        "Insulation": "Synthetic",
+        "Comfort rating": "-3°C",
+        "Limit rating": "-9°C"
+      },
+      "pros": [
+        "Tapered shape isn't constrictive",
+        "Innovative draft guard works well",
+        "Excellent ventilation",
+        "Fully recyclable at end of life"
+      ],
+      "cons": [
+        "Warmth-to-weight ratio not as good as down"
+      ],
       "asin": "",
       "search": "Nemo Soul 15/25 sleeping bag"
     },
@@ -78,9 +137,23 @@
       "best_for": "Budget winter campers who don't need premium fill power",
       "key_spec": "1,399g, 900g of 600-fill hydrophobic down, -9°C comfort",
       "summary": "LFTO calls the price one of the biggest positives, offering a -9°C comfort rating and hydrophobic down treatment at a genuinely low cost, good for camping just below zero. A decent neck collar baffle and hood help, though build quality and insulation feel less premium than pricier winter bags on this list.",
-      "specs": {"Weight": "1,399g", "Fill power": "600 (hydrophobic)", "Comfort rating": "-9°C", "Price guide": "£169"},
-      "pros": ["Great value", "Strong features for the price", "Decent temperature ratings", "Hydrophobic down"],
-      "cons": ["Only 600 fill power", "Not premium build quality", "No female-specific version"],
+      "specs": {
+        "Weight": "1,399g",
+        "Fill power": "600 (hydrophobic)",
+        "Comfort rating": "-9°C",
+        "Price guide": "£169"
+      },
+      "pros": [
+        "Great value",
+        "Strong features for the price",
+        "Decent temperature ratings",
+        "Hydrophobic down"
+      ],
+      "cons": [
+        "Only 600 fill power",
+        "Not premium build quality",
+        "No female-specific version"
+      ],
       "asin": "",
       "search": "OEX Leviathan EV 900 Down sleeping bag"
     },
@@ -91,9 +164,23 @@
       "best_for": "Ultralight backpackers who prioritise minimum weight above all else",
       "key_spec": "700g, 850-fill down, +2°C comfort, NetPlus recycled fabric",
       "summary": "A premium ultralight bag LFTO found offers impressive warmth for its weight, packing down to just 24 x 20cm while rated to +2°C comfort. High-quality 850-fill down and diamond quilting deliver genuine performance, made from recycled fishing net fabric, though the slim tapered fit may feel restrictive for broader builds and the half-length zip limits ventilation.",
-      "specs": {"Weight": "700g", "Fill power": "850", "Comfort rating": "+2°C", "Price guide": "£449.99"},
-      "pros": ["Very good warmth-to-weight ratio", "Extremely compact and ultralight", "High-quality materials", "Good eco credentials"],
-      "cons": ["Half zip can snag and limits ventilation", "Tapered fit isn't ideal for broad frames", "Expensive"],
+      "specs": {
+        "Weight": "700g",
+        "Fill power": "850",
+        "Comfort rating": "+2°C",
+        "Price guide": "£449.99"
+      },
+      "pros": [
+        "Very good warmth-to-weight ratio",
+        "Extremely compact and ultralight",
+        "High-quality materials",
+        "Good eco credentials"
+      ],
+      "cons": [
+        "Half zip can snag and limits ventilation",
+        "Tapered fit isn't ideal for broad frames",
+        "Expensive"
+      ],
       "asin": "",
       "search": "Big Agnes Fly Creek UL25 sleeping bag"
     },
@@ -104,9 +191,20 @@
       "best_for": "Buyers who want synthetic reliability with genuine sustainability credentials",
       "key_spec": "Fully recycled materials, HL-ElixR Eco insulation, full-length snag-resistant zip",
       "summary": "LFTO has consistently been impressed by this bag's combination of high performance and sustainable materials, built entirely from recycled fabric including innovative HL-ElixR Eco insulation. It offers a very good warmth-to-weight ratio for a synthetic bag and maintains insulation even when damp, in a relatively compact pack size for the category.",
-      "specs": {"Insulation": "HL-ElixR Eco (recycled synthetic)", "Comfort rating": "~0°C", "Price guide": "£119"},
-      "pros": ["Very good warmth-to-weight ratio for synthetic fill", "Maintains insulation when damp", "Fully recycled materials", "Compact for a synthetic bag"],
-      "cons": ["Still heavier than equivalent down bags"],
+      "specs": {
+        "Insulation": "HL-ElixR Eco (recycled synthetic)",
+        "Comfort rating": "~0°C",
+        "Price guide": "£119"
+      },
+      "pros": [
+        "Very good warmth-to-weight ratio for synthetic fill",
+        "Maintains insulation when damp",
+        "Fully recycled materials",
+        "Compact for a synthetic bag"
+      ],
+      "cons": [
+        "Still heavier than equivalent down bags"
+      ],
       "asin": "",
       "search": "Marmot Trestles Elite Eco 30 sleeping bag"
     }
@@ -130,6 +228,9 @@
     }
   ],
   "sources": [
-    {"name": "Live for the Outdoors: best sleeping bags", "url": "https://www.livefortheoutdoors.com/camping/sleep/best-sleeping-bags/"}
+    {
+      "name": "Live for the Outdoors: best sleeping bags",
+      "url": "https://www.livefortheoutdoors.com/camping/sleep/best-sleeping-bags/"
+    }
   ]
 }
