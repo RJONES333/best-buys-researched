@@ -35,4 +35,9 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Sleeping bags — Live for the Outdoors (8 products)
 - Resistance bands — Tom's Guide (8 products)
 - Rowing machines — Men's Fitness (4 products)
-(see git log for the full list of ~36 guides added 2026-09-23/24)
+- Portable power stations — TechRadar (7 products)
+- Smart rings — Wareable (8 products)
+(see git log for the full list of ~38 guides added 2026-09-23/24)
+
+## Trend research notes
+User asked to check "top 100 Google" products for ideas. Real signal: most Google Trends "top products" lists are dropshipping/fad content (mouth tape, sleep bonnets) that won't have genuine hands-on testing coverage — skip these. Two genuine hits worth the durable-goods/comparison-guide model came from that research: portable power stations and smart rings (both done above). Worth re-checking trend data periodically for similar crossover ideas, but don't chase fads without verifying a real testing source exists first.
