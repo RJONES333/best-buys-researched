@@ -3,7 +3,6 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Irons (Home & kitchen)
 - Food processors (Home & kitchen)
 - Action cameras (Tech & gadgets)
 - Projectors (Tech & gadgets)
@@ -38,6 +37,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Trampolines — Mumsnet (9 products)
 - Steam cleaners / mops — Trusted Reviews (6 products)
 - Fridge freezers — Trusted Reviews (8 products)
+- Steam irons — Mumsnet (6 products)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes
