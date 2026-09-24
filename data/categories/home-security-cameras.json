@@ -1,0 +1,187 @@
+{
+  "slug": "home-security-cameras",
+  "title": "Best Home Security Cameras UK",
+  "short": "Indoor, outdoor and floodlight security cameras compared for image quality, response speed and, crucially, what you have to pay monthly to use them.",
+  "intro": "A security camera's real cost is what you pay after the box is opened, since some brands lock basic recording behind a subscription. This guide compares cameras tested by Expert Reviews in real homes, judged on daylight, backlit and night image quality, audio, motion detection accuracy, and timed live-view and alert responsiveness, with a strong preference for models that record locally without a monthly fee.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Eufy",
+      "name": "SoloCam S340",
+      "badge": "Best overall",
+      "best_for": "Buyers who want one outdoor camera to cover a large space without a subscription",
+      "key_spec": "Dual lenses (wide and 3x zoom), 3K video, motorised pan/tilt/zoom, solar panel, 8GB built-in storage",
+      "summary": "Expert Reviews' favourite all-round camera, packing two lenses (one for the widest view, one with 3x zoom) on a motorised pan, tilt and zoom housing that can track movement automatically. A solar panel keeps the battery topped up, footage records to built-in storage with no subscription, and image quality and usability testing were both excellent, though it's a little bulky.",
+      "specs": {
+        "Resolution": "2,880 x 1,620 (wide), 2,304 x 1,296 (telephoto)",
+        "Field of view": "135°",
+        "Subscription required": "No (8GB eMMC storage built in)",
+        "Price guide": "£102-£129"
+      },
+      "pros": [
+        "Twin cameras with motorised tracking",
+        "Sharp, clear 3K imagery",
+        "Solar charging included",
+        "No subscription needed"
+      ],
+      "cons": [
+        "A little bulky"
+      ],
+      "asin": "",
+      "search": "Eufy SoloCam S340"
+    },
+    {
+      "brand": "Tapo",
+      "name": "C120",
+      "badge": "Best indoor",
+      "best_for": "Buyers who want a cheap, complete indoor camera with local storage",
+      "key_spec": "2K (2,560 x 1,440) video, microSD local storage, LED spotlights, built-in siren, smart audio detection",
+      "summary": "Expert Reviews' pick to replace the Yale Indoor Camera, with more features at a lower price and brilliant results in every performance test. Its audio detection can tell pets barking, children crying and glass breaking apart, video stores locally on a microSD card, and the built-in siren can trigger on motion, though it doesn't support Apple HomeKit.",
+      "specs": {
+        "Resolution": "2,560 x 1,440",
+        "Field of view": "120°",
+        "Local storage": "Yes (microSD)",
+        "Price guide": "£40"
+      },
+      "pros": [
+        "Sharp 2K resolution",
+        "Local video storage, no subscription needed",
+        "Audio detection distinguishes barking, crying and breaking glass",
+        "Spotlights and built-in siren"
+      ],
+      "cons": [
+        "No Apple HomeKit support"
+      ],
+      "asin": "",
+      "search": "Tapo C120 security camera"
+    },
+    {
+      "brand": "Blink",
+      "name": "Mini 2",
+      "badge": "Best budget all-rounder",
+      "best_for": "Buyers on a tight budget who want a flexible indoor or outdoor camera",
+      "key_spec": "1080p, 143° field of view, IP65 dust and water resistant, LED spotlight, works indoors or outdoors",
+      "summary": "Expert Reviews found this crams in more features for the price than any other camera tested, including IP65 weather resistance, an LED spotlight and use as a chime for the Blink doorbell. Image quality is sharp at 1080p, a big improvement over the original Mini, though running it without a subscription needs the separate Sync Module 2.",
+      "specs": {
+        "Resolution": "1,920 x 1,080 at 30fps",
+        "Field of view": "143°",
+        "Subscription required": "Optional (Sync Module 2 for subscription-free)",
+        "Price guide": "£30-£35"
+      },
+      "pros": [
+        "Great image quality for the price",
+        "Dust and water resistant, usable outdoors",
+        "LED spotlight",
+        "Often heavily discounted in Amazon sales"
+      ],
+      "cons": [
+        "Needs a Sync Module 2 to run subscription-free"
+      ],
+      "asin": "",
+      "search": "Blink Mini 2 security camera"
+    },
+    {
+      "brand": "Eufy",
+      "name": "EufyCam S4",
+      "badge": "Best premium 4K",
+      "best_for": "Buyers who want one camera to do the job of two or more outdoors",
+      "key_spec": "Three cameras (4K fixed plus two 2K on a motorised turret), 32GB built-in storage, 105dB siren, 5.5W solar panel",
+      "summary": "Expert Reviews found the fixed 4K wide-angle camera and two motorised tracking cameras deliver top image quality, with tracking and zoom working well, though about every two or three months it mistook an animal for a person. It has 32GB of local storage, LED lights and a 105dB siren, and can add facial recognition via a HomeBase S380, but it's pricey and motion zones are fiddly to set up.",
+      "specs": {
+        "Resolution": "4K / 2K / 2K at 15fps",
+        "Field of view": "130° / 121° / 46°",
+        "Built-in storage": "32GB",
+        "Price guide": "£279"
+      },
+      "pros": [
+        "Top image quality",
+        "Motion tracking and zoom work well",
+        "32GB built-in storage, no monthly fee",
+        "105dB siren and solar panel included"
+      ],
+      "cons": [
+        "Pricey",
+        "Setting up motion zones is fiddly",
+        "Occasionally identifies animals as people"
+      ],
+      "asin": "",
+      "search": "EufyCam S4 security camera"
+    },
+    {
+      "brand": "Reolink",
+      "name": "Elite Floodlight",
+      "badge": "Best floodlight camera",
+      "best_for": "Buyers who want the strongest possible burglar deterrent with mains power available",
+      "key_spec": "Dual-lens stitched 5K image, 180° view, 3,000-lumen floodlights, 105dB siren, IP66, microSD slot",
+      "summary": "Expert Reviews called this the best floodlight camera they've come across, with two lenses producing an ultra-wide 5K image that captures faces in detail and motion-triggered 3,000-lumen spots that fill large areas with light. It's IP66 sealed, has an adjustable mount and a 105dB siren, and records to microSD so no monthly cloud fee is needed, though it needs mains power.",
+      "specs": {
+        "Resolution": "5,120 x 1,552 at 20fps",
+        "Field of view": "180 x 59°",
+        "Floodlights": "3,000 lumens",
+        "Price guide": "£183"
+      },
+      "pros": [
+        "Super bright floodlights",
+        "Crisp 180-degree 5K imagery",
+        "Flexible camera mount",
+        "microSD slot, no cloud fee needed"
+      ],
+      "cons": [
+        "Mains power only"
+      ],
+      "asin": "",
+      "search": "Reolink Elite Floodlight camera"
+    },
+    {
+      "brand": "Arlo",
+      "name": "Ultra 3",
+      "badge": "Best for AI features",
+      "best_for": "Buyers who want custom AI triggers and are happy to pay a subscription",
+      "key_spec": "4K video, 180° field of view, custom AI detection, battery up to six months, smart hub with microSD slot",
+      "summary": "Expert Reviews found this lets you train the AI on before-and-after images to trigger on things like a garden gate left open or bins in the wrong place, alongside crisp 4K footage with a much clearer digital zoom. Battery life reaches up to six months, but the cheapest two-camera pack is about £530 and the best AI features need a £20-a-month top-tier subscription, and are disabled if you record to microSD instead.",
+      "specs": {
+        "Resolution": "3,840 x 2,160 at 15fps",
+        "Field of view": "180°",
+        "Battery life": "Up to 6 months",
+        "Price guide": "£529 (two-camera pack)"
+      },
+      "pros": [
+        "High-quality 4K video feed",
+        "Trainable custom AI detection",
+        "Compact, stylish cameras",
+        "Hub with microSD slot included"
+      ],
+      "cons": [
+        "Advanced features need a top-tier subscription",
+        "Expensive in the long run"
+      ],
+      "asin": "",
+      "search": "Arlo Ultra 3 security camera"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need to pay a monthly subscription for a security camera?",
+      "a": "Not necessarily. Expert Reviews recommends restricting your search to cameras that record locally to a microSD card or built-in storage, such as the Eufy, Tapo and Reolink models here. Ring cameras, for example, only give live view and motion alerts without a subscription, and Expert Reviews' five-year cost comparison for two cameras ran from about £510 for Ring to £1,195 for Arlo Essential."
+    },
+    {
+      "q": "Indoor or outdoor camera: what's the difference?",
+      "a": "Indoor cameras like the Tapo C120 here tend to be cheaper (typically £50 or less), small and mains powered. Outdoor cameras like the Eufy SoloCam S340 are usually pricier, battery or solar powered so you don't need to run mains cabling, and have weatherproofing plus more advanced features."
+    },
+    {
+      "q": "Does video resolution matter, or is HDR more important?",
+      "a": "Most cameras record at 1080p or higher today, so the difference comes from video processing. HDR brightens dark areas while stopping bright areas blowing out, which matters for reading faces and number plates in backlit or high-contrast scenes. Night vision also varies, and larger rooms or outdoor spaces may need a camera with multiple infrared LEDs or a floodlight."
+    },
+    {
+      "q": "Are the AI features worth paying for?",
+      "a": "Basic filtering by person, pet or vehicle can genuinely save time when scrolling clips. Expert Reviews advises passing on advanced AI such as text summaries and clip search unless they're available on a lower-tier plan or subscription-free, since manufacturers are increasingly reserving them for the most expensive subscription levels."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best home security cameras",
+      "url": "https://www.expertreviews.co.uk/technology/home-security/best-home-security-camera"
+    }
+  ]
+}

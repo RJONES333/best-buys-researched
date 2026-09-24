@@ -3,7 +3,6 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Home security cameras (Tech & gadgets, distinct from pet cameras)
 - Electric scooters (Automotive/Tech)
 - Wine coolers (Home & kitchen)
 - Chainsaws (DIY & tools)
@@ -51,6 +50,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Robot lawn mowers — Ideal Home (4 products)
 - Grass trimmers / strimmers — Expert Reviews (7 products)
 - Humidifiers — Expert Reviews (9 products, page dated 2024)
+- Home security cameras — Expert Reviews (6 products)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes
