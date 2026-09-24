@@ -39,7 +39,7 @@ GROUPS = {
         "external-ssds", "wifi-routers", "smartwatches", "printers",
         "portable-power-stations", "smart-rings", "gaming-chairs",
         "office-chairs", "action-cameras", "projectors", "soundbars",
-        "tablets",
+        "tablets", "video-doorbells",
     ],
     "Sleep & comfort": ["mattress-toppers", "pillows", "duvets"],
     "Bathroom": ["bath-towels"],

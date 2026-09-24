@@ -1,0 +1,269 @@
+{
+  "slug": "video-doorbells",
+  "title": "Best Video Doorbells UK",
+  "short": "Video doorbells compared for image quality, response speed and subscription-free storage, from budget battery models to advanced dual-camera and facial-recognition options.",
+  "intro": "A video doorbell's real test is how fast it alerts you and whether you're forced into a subscription just to see your own footage. This guide compares doorbells tested by Expert Reviews on ease of setup, image and audio quality in daylight and at night, and measured response times over both Wi-Fi and cellular networks.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "TP-Link",
+      "name": "Tapo D235",
+      "badge": "Best overall",
+      "best_for": "Buyers who want a fully-featured doorbell with no ongoing subscription",
+      "key_spec": "2K video, 170° horizontal/140° vertical field of view, 10,000mAh battery, wireless chime included",
+      "summary": "Expert Reviews found this ticks all the most important video doorbell boxes, running without a monthly subscription while delivering excellent image and audio quality day and night. Its standout feature is an absolutely enormous 10,000mAh battery, meaning you barely ever have to charge it, and it comes with a wireless chime in the box, though it lacks a full head-to-toe view and only supports 2.4GHz Wi-Fi.",
+      "specs": {
+        "Resolution": "2K (2,560 x 1,920)",
+        "Field of view": "170° horizontal, 140° vertical",
+        "Subscription required": "No",
+        "Price guide": "£69-£94"
+      },
+      "pros": [
+        "Enormous 10,000mAh battery, rarely needs charging",
+        "No subscription required for core features",
+        "Wireless chime included in the box",
+        "Excellent image and audio quality day and night"
+      ],
+      "cons": [
+        "No full head-to-toe view",
+        "Only supports 2.4GHz Wi-Fi"
+      ],
+      "asin": "",
+      "search": "TP-Link Tapo D235 video doorbell"
+    },
+    {
+      "brand": "Eufy",
+      "name": "Video Doorbell E340 (with chime)",
+      "badge": "Best dual-camera",
+      "best_for": "Buyers who worry about parcels being stolen from their doorstep",
+      "key_spec": "Dual cameras (outward and downward-facing), 8GB built-in storage, no subscription required",
+      "summary": "Expert Reviews found the second, downward-facing camera a genuine godsend for anyone who orders a lot online, letting you see if a driver has left a parcel on your doorstep. Image quality and person/package detection were top-notch, and 8GB of built-in storage means no subscription is needed, though the time from doorbell ring to phone alert was slower than average at around six seconds.",
+      "specs": {
+        "Cameras": "2 (outward and downward-facing)",
+        "Built-in storage": "8GB",
+        "Subscription required": "No",
+        "Price guide": "£110-£179"
+      },
+      "pros": [
+        "Second camera sees packages left on the doorstep",
+        "Great value with no subscription required",
+        "Top image quality with reliable person/package detection",
+        "Chime rings instantaneously"
+      ],
+      "cons": [
+        "Slower than average to send phone alerts (~6 seconds)"
+      ],
+      "asin": "",
+      "search": "Eufy Video Doorbell E340"
+    },
+    {
+      "brand": "TP-Link",
+      "name": "Tapo D210",
+      "badge": "Best budget",
+      "best_for": "Buyers who want strong value without stepping up to the D235",
+      "key_spec": "2K video, 170° horizontal/140° vertical field of view, local microSD storage, bundled chime",
+      "summary": "Expert Reviews found this beats a similarly priced Blink doorbell on both image/audio quality and by including a chime in the box. Local storage means motion-triggered clips can be saved without a monthly subscription, and it's battery powered for easy installation, though it lacks the option to hard-wire into existing doorbell mains power and is a bit bulky.",
+      "specs": {
+        "Resolution": "2K (2,560 x 1,920)",
+        "Field of view": "170° horizontal, 140° vertical",
+        "Subscription required": "No",
+        "Price guide": "£44-£49"
+      },
+      "pros": [
+        "Great value for money",
+        "Chime included in the box",
+        "Good video performance for the price",
+        "Local storage avoids subscription fees"
+      ],
+      "cons": [
+        "A bit bulky",
+        "Can't be hard-wired to mains doorbell power"
+      ],
+      "asin": "",
+      "search": "TP-Link Tapo D210 video doorbell"
+    },
+    {
+      "brand": "Blink",
+      "name": "Video Doorbell (2nd gen)",
+      "badge": "Best ultra-cheap",
+      "best_for": "Buyers on the strictest budget who already use Alexa devices",
+      "key_spec": "1440p video, 150° field of view, IP65 water/dust resistant, integrates with Alexa/Echo",
+      "summary": "Expert Reviews found this the cheapest video doorbell on the market during sales, delivering decent 1,440p video across a broad 150-degree field of view. It's super easy to set up and blends perfectly with an existing Alexa smart home setup, though it requires a paid subscription for local storage (unless you already own a Sync Module 2) and audio quality picked up lots of distracting background noise in testing.",
+      "specs": {
+        "Resolution": "1440p (1,440 x 1,440)",
+        "Field of view": "150° (horizontal and vertical)",
+        "Subscription required": "Yes (for video storage)",
+        "Price guide": "£30-£59"
+      },
+      "pros": [
+        "Cheapest video doorbell available, especially in sales",
+        "Broad 150-degree field of view",
+        "Seamless Alexa/Echo integration",
+        "Can be wired into existing doorbell power"
+      ],
+      "cons": [
+        "Requires a subscription for video storage",
+        "Unimpressive audio quality with background noise"
+      ],
+      "asin": "",
+      "search": "Blink Video Doorbell 2nd gen"
+    },
+    {
+      "brand": "Doro",
+      "name": "Hemma",
+      "badge": "Best for elderly and vulnerable users",
+      "best_for": "Buyers who want a doorbell simplified for elderly or vulnerable residents, or carers monitoring remotely",
+      "key_spec": "1,440 x 1,440 video, 150° field of view, 97dB siren, call hand-off to relatives/carers, no subscription",
+      "summary": "Expert Reviews found this specifically designed for elderly or infirm users, with a piercing 97dB siren and the ability to hand off callers to relatives or carers if a visitor feels pressuring. Image quality was nice and sharp with a wide 150-degree field of view, and no ongoing subscription is needed since it stores video on a microSD card, though it wasn't the speediest to react to motion.",
+      "specs": {
+        "Resolution": "1,440 x 1,440",
+        "Field of view": "150°",
+        "Subscription required": "No",
+        "Price guide": "£69.99-£150"
+      },
+      "pros": [
+        "Simple, easy-to-use design for vulnerable users",
+        "Loud 97dB siren and 92dB chime included",
+        "No ongoing subscription required",
+        "Very quick reaction to doorbell presses"
+      ],
+      "cons": [
+        "Slower to react to general motion",
+        "Doesn't support Alexa, HomeKit or Google Home"
+      ],
+      "asin": "",
+      "search": "Doro Hemma video doorbell"
+    },
+    {
+      "brand": "Google",
+      "name": "Nest Doorbell (battery)",
+      "badge": "Best Nest doorbell",
+      "best_for": "Buyers who want Google's ecosystem and AI facial recognition without wiring to the mains",
+      "key_spec": "960 x 1,280 resolution, 145° field of view, up to 2.5 months battery life, AI facial/animal/vehicle/package detection",
+      "summary": "Expert Reviews found image and audio quality excellent as with all Google security products, packed with AI-based facial recognition plus animal, vehicle and package detection. Most features are unlocked without a subscription and some free cloud storage is included, though it stretches only three hours into the past and full facial recognition needs a paid plan (from £5/month).",
+      "specs": {
+        "Resolution": "960 x 1,280",
+        "Field of view": "145°",
+        "Battery life": "Up to 2.5 months",
+        "Price guide": "£180"
+      },
+      "pros": [
+        "Excellent image and audio quality",
+        "AI facial, animal, vehicle and package detection",
+        "Most features work without a subscription",
+        "Battery or wired installation options"
+      ],
+      "cons": [
+        "Doesn't come with a chime",
+        "Full facial recognition is subscription-only",
+        "Free cloud storage only covers 3 hours of history"
+      ],
+      "asin": "",
+      "search": "Google Nest Doorbell battery"
+    },
+    {
+      "brand": "Ring",
+      "name": "Battery Video Doorbell (2024)",
+      "badge": "Best budget Ring",
+      "best_for": "Buyers already invested in the Ring ecosystem who want an affordable entry point",
+      "key_spec": "1,440 x 1,440 video, 150° head-to-toe field of view, colour night vision, quick-release battery",
+      "summary": "Expert Reviews found this incredibly good value for anyone bought into Ring's ecosystem, with a head-to-toe field of view that shows whether a package has been left on the step. Performance was fast and responsive with colour night vision and two-way talk, though it doesn't come with a chime (sold separately) and requires a paid subscription to access recorded clips.",
+      "specs": {
+        "Resolution": "1,440 x 1,440",
+        "Field of view": "150° (head-to-toe)",
+        "Local storage": "No",
+        "Price guide": "£74-£130"
+      },
+      "pros": [
+        "Sharp, wide head-to-toe video",
+        "Very easy to set up",
+        "Fast, responsive performance",
+        "Colour night vision included"
+      ],
+      "cons": [
+        "No chime included in the box",
+        "Requires a paid subscription for recorded clips"
+      ],
+      "asin": "",
+      "search": "Ring Battery Video Doorbell 2024"
+    },
+    {
+      "brand": "Ring",
+      "name": "Video Doorbell Plus",
+      "badge": "Best Ring doorbell",
+      "best_for": "Buyers who want Ring's best bang-per-buck model with package detection",
+      "key_spec": "1,536p camera, 150° head-to-toe field of view, package detection, battery or mains power",
+      "summary": "Expert Reviews called this Ring's best bang-per-buck doorbell, with a sharper 1,536p camera than previous models and, at long last, package detection to alert you when a delivery is left. The 150-degree head-to-toe field of view lets you see every inch of a visitor, and notifications were delivered speedily in testing, though it needs a subscription for full features and only runs on 2.4GHz Wi-Fi.",
+      "specs": {
+        "Resolution": "1,536p",
+        "Field of view": "150° (head-to-toe)",
+        "Installation": "Battery or wired",
+        "Price guide": "£52-£130"
+      },
+      "pros": [
+        "Sharp 1,536p camera with head-to-toe view",
+        "Package detection alerts for deliveries",
+        "Easy to install, battery or mains powered",
+        "Speedy notifications in testing"
+      ],
+      "cons": [
+        "Requires a subscription for full features",
+        "Only supports 2.4GHz Wi-Fi",
+        "No chime included in the box"
+      ],
+      "asin": "",
+      "search": "Ring Video Doorbell Plus"
+    },
+    {
+      "brand": "Aqara",
+      "name": "Video Doorbell G4",
+      "badge": "Best for iPhone owners",
+      "best_for": "Apple HomeKit users who want Secure Video support at a reasonable price",
+      "key_spec": "1,920 x 1,080 resolution, 162° field of view, Apple HomeKit Secure Video support, 7 days free cloud storage",
+      "summary": "Expert Reviews found this the cheapest video doorbell to support Apple's HomeKit platform, including HomeKit Secure Video so clips record to your own iCloud storage. It comes with a chime in the box and seven days of free rolling cloud storage, with notifications arriving in around two seconds in testing, though it lacks head-to-toe video and local face recognition proved flaky.",
+      "specs": {
+        "Resolution": "1,920 x 1,080",
+        "Field of view": "162°",
+        "Subscription required": "No",
+        "Price guide": "£85-£120"
+      },
+      "pros": [
+        "Cheapest HomeKit-compatible doorbell tested",
+        "7 days of free cloud storage included",
+        "Chime included in the box",
+        "Very fast notification speed (~2 seconds)"
+      ],
+      "cons": [
+        "No head-to-toe video view",
+        "Local face recognition is unreliable"
+      ],
+      "asin": "",
+      "search": "Aqara Video Doorbell G4"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Battery-powered or wired: which type should I choose?",
+      "a": "A battery-powered doorbell, like the Tapo D235 or Ring Battery Video Doorbell here, needs no wiring, just a Wi-Fi signal, but is bulkier and needs periodic charging (anywhere from two months to a year between charges). A wired doorbell, connected to your existing doorbell wiring, is usually more discreet and never needs charging, but may require professional installation if you don't already have compatible wiring."
+    },
+    {
+      "q": "Do I need a doorbell with local storage, or is cloud storage fine?",
+      "a": "Local storage, like on the Tapo D235, Eufy E340 and Doro Hemma here, lets you store and access recorded clips without paying a monthly subscription. Cloud-only doorbells like Ring's models typically require a subscription (from around £4.99/month) just to access your recorded footage, so check this carefully if avoiding ongoing costs matters to you."
+    },
+    {
+      "q": "How important is field of view versus resolution?",
+      "a": "Expert Reviews rates field of view as marginally more important: a wide 150-degree vertical field of view, like on several models here, gives a near head-to-toe view of visitors and shows packages left on the step. Higher resolution helps with facial detail, but the practical difference between 1080p and 4K is smaller than you'd expect on a small doorbell camera sensor, and higher resolution also drains battery faster."
+    },
+    {
+      "q": "Do I need a doorbell with a chime included?",
+      "a": "If you want to hear the doorbell ring throughout the house rather than relying on a phone notification, check whether a chime is included: models like the Tapo D235, Tapo D210, Eufy E340 and Aqara G4 here include one, while Ring doorbells typically charge extra for a Chime unit. Alternatively, a compatible smart speaker like an Echo Show can double as a chime if your doorbell supports it."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best video doorbells",
+      "url": "https://www.expertreviews.co.uk/technology/home-security/best-video-doorbell"
+    }
+  ]
+}
