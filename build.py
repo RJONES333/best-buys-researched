@@ -27,7 +27,7 @@ GROUPS = {
         "air-fryers", "coffee-machines", "slow-cookers", "kettles", "blenders",
         "toasters", "dehumidifiers", "air-purifiers", "heated-airers",
         "electric-blankets", "electric-heaters", "kitchen-knives",
-        "washing-machines", "microwaves",
+        "washing-machines", "microwaves", "fridge-freezers",
     ],
     "Cleaning": ["robot-vacuums", "cordless-vacuums", "steam-cleaners"],
     "Tech & gadgets": [
