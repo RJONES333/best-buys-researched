@@ -4,7 +4,7 @@
   "short": "Inkjet and ink-tank printers compared by print speed, running cost and features, from occasional-use budget picks to low-cost-per-page tank printers.",
   "intro": "A printer's purchase price rarely tells the whole story: cheap cartridge printers can cost far more per page than a pricier ink-tank model over time. This guide compares printers tested by Expert Reviews on speed, print quality and true running costs.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Canon",
@@ -13,9 +13,22 @@
       "best_for": "Buyers who only print occasionally and want the simplest, cheapest option",
       "key_spec": "Thermal inkjet, 4,800 x 1,200dpi, no Wi-Fi or scanner",
       "summary": "One of the cheapest, simplest printers Expert Reviews has tested, producing bold graphics and crisp black text despite a slightly warm colour bias. It lacks Wi-Fi, a scanner and any smart features, and is slow and noisy, but for occasional print jobs like booking confirmations or family snaps, it's a low-cost, no-fuss option.",
-      "specs": {"Technology": "Thermal inkjet", "Max resolution": "4,800 x 1,200dpi", "Weight": "2.5kg", "Price guide": "£70"},
-      "pros": ["Very affordable to buy", "Lower ink costs than some pricier printers", "Great print quality for the price"],
-      "cons": ["No Wi-Fi, scanner or smart features", "Slow print speeds", "Noisy in use"],
+      "specs": {
+        "Technology": "Thermal inkjet",
+        "Max resolution": "4,800 x 1,200dpi",
+        "Weight": "2.5kg",
+        "Price guide": "£70"
+      },
+      "pros": [
+        "Very affordable to buy",
+        "Lower ink costs than some pricier printers",
+        "Great print quality for the price"
+      ],
+      "cons": [
+        "No Wi-Fi, scanner or smart features",
+        "Slow print speeds",
+        "Noisy in use"
+      ],
       "asin": "",
       "search": "Canon Pixma TS205 printer"
     },
@@ -26,9 +39,21 @@
       "best_for": "Buyers who want copy, print, scan and network sharing for under £100",
       "key_spec": "225-sheet tray, automatic document feeder, auto duplex printing, colour touchscreen",
       "summary": "A surprisingly feature-packed all-in-one for the price, with an automatic document feeder, generous paper tray and automatic double-sided printing that budget printers usually skip. Expert Reviews found it better at documents than photos, and ink costs a little more per page than some rivals.",
-      "specs": {"Technology": "Thermal inkjet", "Max resolution": "4,800 x 1,200dpi", "Duty cycle": "20,000 pages/month", "Price guide": "£90"},
-      "pros": ["Impressive feature set for the price", "Copy, print and scan with Wi-Fi sharing", "Automatic document feeder and duplex printing"],
-      "cons": ["Higher running costs than tank-based rivals", "Photo printing quality is only average"],
+      "specs": {
+        "Technology": "Thermal inkjet",
+        "Max resolution": "4,800 x 1,200dpi",
+        "Duty cycle": "20,000 pages/month",
+        "Price guide": "£90"
+      },
+      "pros": [
+        "Impressive feature set for the price",
+        "Copy, print and scan with Wi-Fi sharing",
+        "Automatic document feeder and duplex printing"
+      ],
+      "cons": [
+        "Higher running costs than tank-based rivals",
+        "Photo printing quality is only average"
+      ],
       "asin": "",
       "search": "HP OfficeJet Pro 8122e printer"
     },
@@ -39,9 +64,21 @@
       "best_for": "Households that print often and want to avoid buying ink regularly",
       "key_spec": "Refillable ink tank, 13.4ppm mono, 0.2p per mono page",
       "summary": "Among the fastest home ink-tank printers Expert Reviews has tested, producing mono prints at 13.4 pages per minute with enough bundled ink for roughly three years of typical printing at just 0.2p per mono page. There's no automatic two-sided printing and the rear paper tray collects dust, but running costs are exceptional.",
-      "specs": {"Technology": "Inkjet (ink tank)", "Max resolution": "4,800 x 1,200dpi", "Weight": "4.1kg", "Price guide": "£240"},
-      "pros": ["Very fast for a home ink-tank printer", "Extremely low running costs", "Bundled ink lasts years of typical use"],
-      "cons": ["No automatic two-sided printing", "Rear paper tray prone to collecting dust"],
+      "specs": {
+        "Technology": "Inkjet (ink tank)",
+        "Max resolution": "4,800 x 1,200dpi",
+        "Weight": "4.1kg",
+        "Price guide": "£240"
+      },
+      "pros": [
+        "Very fast for a home ink-tank printer",
+        "Extremely low running costs",
+        "Bundled ink lasts years of typical use"
+      ],
+      "cons": [
+        "No automatic two-sided printing",
+        "Rear paper tray prone to collecting dust"
+      ],
       "asin": "",
       "search": "Epson EcoTank ET-2830 printer"
     },
@@ -52,9 +89,20 @@
       "best_for": "Buyers who print a lot of photos and want low running costs",
       "key_spec": "Refillable ink tank, 0.4p mono / 1p colour page cost",
       "summary": "Combines ink-tank running costs with genuinely good photo output, producing photos on the highest settings that Expert Reviews found almost as good as cartridge-based models. Running costs are impressively low for both mono and colour pages, though print speed is on the slow side.",
-      "specs": {"Technology": "Thermal inkjet (ink tank)", "Max resolution": "4,800 x 1,200dpi", "Weight": "6.6kg", "Price guide": "£259"},
-      "pros": ["Good quality, affordable photo prints", "Very low running costs", "Refillable ink tanks"],
-      "cons": ["Slower than rival printers"],
+      "specs": {
+        "Technology": "Thermal inkjet (ink tank)",
+        "Max resolution": "4,800 x 1,200dpi",
+        "Weight": "6.6kg",
+        "Price guide": "£259"
+      },
+      "pros": [
+        "Good quality, affordable photo prints",
+        "Very low running costs",
+        "Refillable ink tanks"
+      ],
+      "cons": [
+        "Slower than rival printers"
+      ],
       "asin": "",
       "search": "Canon Pixma G650 printer"
     },
@@ -65,9 +113,21 @@
       "best_for": "Buyers who want the best possible photo print quality at home",
       "key_spec": "Over 15ppm mono, 10x8in photo prints in under 30 seconds",
       "summary": "Expert Reviews calls this the versatile home printer to beat, with excellent speed, office-quality text, and some of the best photo prints seen outside a specialist photo printer. Wireless connectivity is rock solid and paper handling is practical, though running costs are high if you print a lot of colour.",
-      "specs": {"Technology": "Thermal inkjet", "Max resolution": "4,800 x 1,200dpi", "Weight": "6.6kg", "Price guide": "£159"},
-      "pros": ["Extremely high quality prints, especially photos", "Fast print, scan and copy speeds", "Rock-solid wireless connectivity"],
-      "cons": ["Expensive to run for high colour volumes", "Graphics output can look a little dark"],
+      "specs": {
+        "Technology": "Thermal inkjet",
+        "Max resolution": "4,800 x 1,200dpi",
+        "Weight": "6.6kg",
+        "Price guide": "£159"
+      },
+      "pros": [
+        "Extremely high quality prints, especially photos",
+        "Fast print, scan and copy speeds",
+        "Rock-solid wireless connectivity"
+      ],
+      "cons": [
+        "Expensive to run for high colour volumes",
+        "Graphics output can look a little dark"
+      ],
       "asin": "",
       "search": "Canon Pixma TS8350 printer"
     },
@@ -78,9 +138,20 @@
       "best_for": "Buyers who want the lowest possible cost per page with core features intact",
       "key_spec": "Refillable ink tank, auto duplex printing, 0.2p mono / 0.4p colour page cost",
       "summary": "Sits in the middle of Epson's ink-tank range, keeping automatic duplex printing while shedding extras like fax to keep the price reasonable. Expert Reviews highlights the running costs as the headline feature, with enough bundled ink for 14,000 mono or 5,200 colour pages before you need a refill.",
-      "specs": {"Technology": "Inkjet (ink tank)", "Max resolution": "5,760 x 1,440dpi", "Weight": "5.4kg", "Price guide": "£280"},
-      "pros": ["Very low running costs", "Automatic duplex printing included", "Large bundled ink supply"],
-      "cons": ["Lacks specialist extras like fax or automatic sheet feeder"],
+      "specs": {
+        "Technology": "Inkjet (ink tank)",
+        "Max resolution": "5,760 x 1,440dpi",
+        "Weight": "5.4kg",
+        "Price guide": "£280"
+      },
+      "pros": [
+        "Very low running costs",
+        "Automatic duplex printing included",
+        "Large bundled ink supply"
+      ],
+      "cons": [
+        "Lacks specialist extras like fax or automatic sheet feeder"
+      ],
       "asin": "",
       "search": "Epson EcoTank ET-2850 printer"
     },
@@ -91,9 +162,21 @@
       "best_for": "Buyers who want a full print/scan/copy/fax all-in-one at a reasonable price",
       "key_spec": "350-sheet dual paper trays, Wi-Fi/Ethernet, auto duplex, 18.5ppm mono",
       "summary": "A true all-in-one with print, scan, copy and fax, Wi-Fi or Ethernet connectivity and 350 sheets of paper capacity across two trays. Expert Reviews found print quality solid if just short of the very best, with rapid mono print speeds and comparatively low running costs for a cartridge-based printer.",
-      "specs": {"Technology": "Inkjet", "Max resolution": "1,200 x 4,800dpi", "Duty cycle": "30,000 pages/month", "Price guide": "£200"},
-      "pros": ["Full suite of print/scan/copy/fax features", "Large paper capacity across two trays", "Fast mono print speeds", "Comparatively low running costs for cartridges"],
-      "cons": ["Takes up more desk space"],
+      "specs": {
+        "Technology": "Inkjet",
+        "Max resolution": "1,200 x 4,800dpi",
+        "Duty cycle": "30,000 pages/month",
+        "Price guide": "£200"
+      },
+      "pros": [
+        "Full suite of print/scan/copy/fax features",
+        "Large paper capacity across two trays",
+        "Fast mono print speeds",
+        "Comparatively low running costs for cartridges"
+      ],
+      "cons": [
+        "Takes up more desk space"
+      ],
       "asin": "",
       "search": "Brother MFC-J4540DW printer"
     },
@@ -104,9 +187,19 @@
       "best_for": "Buyers who print documents in high volume and want minimal waiting",
       "key_spec": "20.5ppm mono, two 250-sheet paper trays, HP Smart app",
       "summary": "Built for speed, producing mono text documents at a blistering 20.5 pages per minute in Expert Reviews' testing, faster than some laser printers. Easy Wi-Fi or Ethernet sharing via the HP Smart app and two large paper trays suit busy households or small offices, though photo printing isn't its strength.",
-      "specs": {"Technology": "Inkjet", "Print speed (mono)": "20.5ppm", "Paper capacity": "2x 250-sheet trays"},
-      "pros": ["Very fast mono document printing", "Easy Wi-Fi/Ethernet setup via HP Smart app", "Large paper capacity"],
-      "cons": ["Photo printing not a strength"],
+      "specs": {
+        "Technology": "Inkjet",
+        "Print speed (mono)": "20.5ppm",
+        "Paper capacity": "2x 250-sheet trays"
+      },
+      "pros": [
+        "Very fast mono document printing",
+        "Easy Wi-Fi/Ethernet setup via HP Smart app",
+        "Large paper capacity"
+      ],
+      "cons": [
+        "Photo printing not a strength"
+      ],
       "asin": "",
       "search": "HP OfficeJet Pro 9022e printer"
     }
@@ -130,6 +223,9 @@
     }
   ],
   "sources": [
-    {"name": "Expert Reviews: best printers", "url": "https://www.expertreviews.co.uk/technology/printing-cameras/best-printer-inkjet-laser"}
+    {
+      "name": "Expert Reviews: best printers",
+      "url": "https://www.expertreviews.co.uk/technology/printing-cameras/best-printer-inkjet-laser"
+    }
   ]
 }

@@ -4,7 +4,7 @@
   "short": "Webcams compared by image quality, low-light performance and features, from budget picks to 4K streaming cameras.",
   "intro": "Higher resolution doesn't automatically mean a better picture, since most video calling apps cap out at 1080p anyway. This guide compares webcams tested by Tom's Hardware across identical well-lit, low-light and overexposed lighting scenarios, from budget picks to 4K streaming cameras.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Logitech",
@@ -13,9 +13,22 @@
       "best_for": "Most people upgrading from a laptop's built-in camera",
       "key_spec": "1080p/30fps, 90-degree FOV, autofocus",
       "summary": "Tom's Hardware's pick for most people. Despite a modest 1080p/30fps spec, its flexible 90-degree field of view and 'RightLight 4' processing give an impressively exposure-balanced image out of the box, with auto-white balance nearly matching much pricier webcams.",
-      "specs": {"Resolution": "1080p (30fps), 720p (60fps)", "Field of view": "90/78/65 degrees", "Focus": "Autofocus"},
-      "pros": ["Well-designed privacy cover", "Good auto-exposure and white balance", "Good low-light performance", "Good built-in mic"],
-      "cons": ["Not budget-priced", "Logi Tune software is weak", "Only 1080p resolution"],
+      "specs": {
+        "Resolution": "1080p (30fps), 720p (60fps)",
+        "Field of view": "90/78/65 degrees",
+        "Focus": "Autofocus"
+      },
+      "pros": [
+        "Well-designed privacy cover",
+        "Good auto-exposure and white balance",
+        "Good low-light performance",
+        "Good built-in mic"
+      ],
+      "cons": [
+        "Not budget-priced",
+        "Logi Tune software is weak",
+        "Only 1080p resolution"
+      ],
       "asin": "",
       "search": "Logitech Brio 500 webcam"
     },
@@ -26,9 +39,20 @@
       "best_for": "Creators who move around or present and want AI tracking",
       "key_spec": "4K/30fps on a 3-axis gimbal, AI movement tracking",
       "summary": "An AI-powered 4K webcam mounted on its own 3-axis gimbal, with some of the best auto-exposure, colour reproduction and autofocus Tom's Hardware has seen on a webcam. Powerful for presenters or creators who move a lot, though overkill and expensive for average video calls.",
-      "specs": {"Resolution": "4K (30fps), 1080p (60fps), 720p (60fps)", "Field of view": "79.5 degrees", "Focus": "Autofocus, 3-axis gimbal"},
-      "pros": ["Excellent auto-lighting and white balance", "4K resolution with very good autofocus", "AI-powered movement tracking and capture modes"],
-      "cons": ["Expensive", "Overkill for most users"],
+      "specs": {
+        "Resolution": "4K (30fps), 1080p (60fps), 720p (60fps)",
+        "Field of view": "79.5 degrees",
+        "Focus": "Autofocus, 3-axis gimbal"
+      },
+      "pros": [
+        "Excellent auto-lighting and white balance",
+        "4K resolution with very good autofocus",
+        "AI-powered movement tracking and capture modes"
+      ],
+      "cons": [
+        "Expensive",
+        "Overkill for most users"
+      ],
       "asin": "",
       "search": "Insta360 Link webcam"
     },
@@ -39,9 +63,22 @@
       "best_for": "Buyers who just need a solid, affordable upgrade",
       "key_spec": "1080p/60fps, physical privacy shutter",
       "summary": "A simple, plug-and-play budget webcam that performed impressively well in Tom's Hardware's low-light test, with a physical privacy shutter and a permanently attached braided USB-C cable, though the picture can look a little blown out and it lacks a built-in mic.",
-      "specs": {"Resolution": "1080p/60fps", "Field of view": "77 degrees", "Sensor": "1/2.9-inch CMOS", "Focus": "Autofocus"},
-      "pros": ["Cheap", "Physical privacy shutter", "Performs well in low light"],
-      "cons": ["Picture can look blown out in bright scenes", "No built-in microphone", "Feels a little cheap"],
+      "specs": {
+        "Resolution": "1080p/60fps",
+        "Field of view": "77 degrees",
+        "Sensor": "1/2.9-inch CMOS",
+        "Focus": "Autofocus"
+      },
+      "pros": [
+        "Cheap",
+        "Physical privacy shutter",
+        "Performs well in low light"
+      ],
+      "cons": [
+        "Picture can look blown out in bright scenes",
+        "No built-in microphone",
+        "Feels a little cheap"
+      ],
       "asin": "",
       "search": "Elgato Facecam Neo webcam"
     },
@@ -52,9 +89,23 @@
       "best_for": "Streamers and content creators who want 4K on a budget",
       "key_spec": "4K/30fps, large 1/1.28-inch sensor, f/1.85 aperture",
       "summary": "A small, sturdy 4K webcam with a large sensor for its class and a crisp, clear picture with decent auto-exposure and white balance across all of Tom's Hardware's lighting tests. Includes a magnetic monitor mount and detailed colour-grading software, but has no built-in privacy shutter or lens cap.",
-      "specs": {"Resolution": "4K (30fps), 1080p (60/50/30/25fps)", "Field of view": "82 degrees", "Sensor": "1/1.28-inch", "Focus": "Autofocus"},
-      "pros": ["Large sensor for the price", "Fast autofocus", "Very crisp, clear picture", "Real-time colour-grading software"],
-      "cons": ["Out-of-the-box image a little high-contrast", "Requires a USB 3.0 port", "No lens cap or privacy shutter"],
+      "specs": {
+        "Resolution": "4K (30fps), 1080p (60/50/30/25fps)",
+        "Field of view": "82 degrees",
+        "Sensor": "1/1.28-inch",
+        "Focus": "Autofocus"
+      },
+      "pros": [
+        "Large sensor for the price",
+        "Fast autofocus",
+        "Very crisp, clear picture",
+        "Real-time colour-grading software"
+      ],
+      "cons": [
+        "Out-of-the-box image a little high-contrast",
+        "Requires a USB 3.0 port",
+        "No lens cap or privacy shutter"
+      ],
       "asin": "",
       "search": "YoloLiv YoloCam S3 webcam"
     },
@@ -65,9 +116,23 @@
       "best_for": "Buyers who want the sharpest, most film-like image",
       "key_spec": "4K/30fps, 1/1.2-inch Sony Starvis 2 sensor, f/1.7 aperture",
       "summary": "The largest sensor Tom's Hardware has seen in a webcam, giving excellent auto-exposure, colour balancing and a shallow depth-of-field that blurs the background without software. Image quality is shockingly good even against other 4K webcams, though the Synapse 3 software is frustrating to use alongside other apps.",
-      "specs": {"Resolution": "4K (30fps), 1440p (30fps), 1080p (60/30/24fps)", "Field of view": "72-82 degrees (adjustable)", "Sensor": "1/1.2-inch Sony Starvis 2", "Focus": "Autofocus"},
-      "pros": ["Excellent image quality", "Integrated physical privacy shutter", "Great auto-exposure and white balance", "Natural blurred-background effect without software"],
-      "cons": ["Razer Synapse app is frustrating to use", "Expensive", "Physically large"],
+      "specs": {
+        "Resolution": "4K (30fps), 1440p (30fps), 1080p (60/30/24fps)",
+        "Field of view": "72-82 degrees (adjustable)",
+        "Sensor": "1/1.2-inch Sony Starvis 2",
+        "Focus": "Autofocus"
+      },
+      "pros": [
+        "Excellent image quality",
+        "Integrated physical privacy shutter",
+        "Great auto-exposure and white balance",
+        "Natural blurred-background effect without software"
+      ],
+      "cons": [
+        "Razer Synapse app is frustrating to use",
+        "Expensive",
+        "Physically large"
+      ],
       "asin": "",
       "search": "Razer Kiyo Pro Ultra webcam"
     },
@@ -78,9 +143,22 @@
       "best_for": "Buyers who want more than 1080p without paying for 4K",
       "key_spec": "1440p/30fps, HDR, built-in mic",
       "summary": "A good middle ground for buyers who want extra resolution for zooming and cropping without a 4K price. Performs well in all lighting scenarios right out of the box and is especially strong in low light, though auto-white balance runs a little sallow and the built-in mic is weak.",
-      "specs": {"Resolution": "1440p (30fps), 1080p (60/30fps)", "Field of view": "78 degrees", "Focus": "Autofocus"},
-      "pros": ["Decent HDR in low lighting", "Looks and feels high-quality", "Performs well without software tweaks", "Relatively accurate colour"],
-      "cons": ["Auto-white balance runs a little sallow", "Weak built-in microphone", "Software image adjustments aren't great"],
+      "specs": {
+        "Resolution": "1440p (30fps), 1080p (60/30fps)",
+        "Field of view": "78 degrees",
+        "Focus": "Autofocus"
+      },
+      "pros": [
+        "Decent HDR in low lighting",
+        "Looks and feels high-quality",
+        "Performs well without software tweaks",
+        "Relatively accurate colour"
+      ],
+      "cons": [
+        "Auto-white balance runs a little sallow",
+        "Weak built-in microphone",
+        "Software image adjustments aren't great"
+      ],
       "asin": "",
       "search": "Dell Pro Webcam WB5023"
     }
@@ -104,6 +182,9 @@
     }
   ],
   "sources": [
-    {"name": "Tom's Hardware: best webcams", "url": "https://www.tomshardware.com/best-picks/best-webcams"}
+    {
+      "name": "Tom's Hardware: best webcams",
+      "url": "https://www.tomshardware.com/best-picks/best-webcams"
+    }
   ]
 }

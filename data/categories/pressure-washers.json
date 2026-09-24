@@ -4,7 +4,7 @@
   "short": "Pressure washers compared by power, flow rate and included accessories, for cars, patios and driveways.",
   "intro": "A pressure washer's usefulness comes down to its balance of pressure, flow rate and the attachments it ships with, not just the headline bar figure. This guide compares washers tested by Expert Reviews on assembly, ease of use, cleaning power and value for money.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Kärcher",
@@ -13,9 +13,22 @@
       "best_for": "Buyers who want one washer that handles most jobs around the home",
       "key_spec": "130 bar, 420l/hr flow, Power Control Gun with 3 pressure settings",
       "summary": "Expert Reviews' top pick, with a Power Control Gun and Vario lance that switches between three pressure settings and adjusts the spray pattern with a twist. Balances power, features and price better than its pricier K5 successor, though some rivals offer more raw power for the money.",
-      "specs": {"Weight": "11.5kg", "Max pressure": "130 bar", "Flow rate": "420l/hr", "Hose length": "8m", "Motor power": "1,800W", "Warranty": "2 years (5 with free extension)"},
-      "pros": ["Powerful enough for most jobs", "Great design with adjustable pressure settings", "Wide range of Kärcher accessories available"],
-      "cons": ["Some rivals offer more power for the money"],
+      "specs": {
+        "Weight": "11.5kg",
+        "Max pressure": "130 bar",
+        "Flow rate": "420l/hr",
+        "Hose length": "8m",
+        "Motor power": "1,800W",
+        "Warranty": "2 years (5 with free extension)"
+      },
+      "pros": [
+        "Powerful enough for most jobs",
+        "Great design with adjustable pressure settings",
+        "Wide range of Kärcher accessories available"
+      ],
+      "cons": [
+        "Some rivals offer more power for the money"
+      ],
       "asin": "",
       "search": "Karcher K4 Power Control pressure washer"
     },
@@ -26,9 +39,23 @@
       "best_for": "Buyers who mainly want to clean a car or bicycle",
       "key_spec": "130 bar, 462l/hr flow, includes car brush, foam sprayer and under-chassis nozzle",
       "summary": "Expert Reviews found this well-built and high-performance, bundling a wide-angled bodywork nozzle, soft car brush, under-chassis nozzle and foam sprayer that would normally cost another £40-50 separately. There's quite a lot of assembly involved and the warranty is shorter than some rivals.",
-      "specs": {"Weight": "6.6kg", "Max pressure": "130 bar", "Flow rate": "462l/hr", "Hose length": "6m", "Motor power": "1,500W", "Warranty": "2 years (3 with free extension)"},
-      "pros": ["Power on a par with pricier machines", "Great bundled car-cleaning attachments", "Great value for what's included"],
-      "cons": ["Quite a lot of assembly required", "Shorter warranty than some alternatives"],
+      "specs": {
+        "Weight": "6.6kg",
+        "Max pressure": "130 bar",
+        "Flow rate": "462l/hr",
+        "Hose length": "6m",
+        "Motor power": "1,500W",
+        "Warranty": "2 years (3 with free extension)"
+      },
+      "pros": [
+        "Power on a par with pricier machines",
+        "Great bundled car-cleaning attachments",
+        "Great value for what's included"
+      ],
+      "cons": [
+        "Quite a lot of assembly required",
+        "Shorter warranty than some alternatives"
+      ],
       "asin": "",
       "search": "Nilfisk Core 130 Bike and Auto pressure washer"
     },
@@ -39,9 +66,22 @@
       "best_for": "Buyers who want a compact, easy budget washer",
       "key_spec": "110 bar, 330l/hr flow, suitcase-style compact design",
       "summary": "A compact, suitcase-style washer that Expert Reviews found surprisingly powerful for its size and specs, easily removing caked-on grime from car bodywork and clearing moss from concrete. It's simple to operate with a single on/off switch, though the flow rate isn't enough for really big jobs.",
-      "specs": {"Weight": "3.8kg", "Max pressure": "110 bar", "Flow rate": "330l/hr", "Hose length": "3m", "Motor power": "1,300W", "Warranty": "2 years (3 with free extension)"},
-      "pros": ["More powerful than specs would suggest", "Compact, easy to store design", "Easy to use with simple controls"],
-      "cons": ["Not enough power or flow rate for bigger jobs"],
+      "specs": {
+        "Weight": "3.8kg",
+        "Max pressure": "110 bar",
+        "Flow rate": "330l/hr",
+        "Hose length": "3m",
+        "Motor power": "1,300W",
+        "Warranty": "2 years (3 with free extension)"
+      },
+      "pros": [
+        "More powerful than specs would suggest",
+        "Compact, easy to store design",
+        "Easy to use with simple controls"
+      ],
+      "cons": [
+        "Not enough power or flow rate for bigger jobs"
+      ],
       "asin": "",
       "search": "Bosch EasyAquatak 110 pressure washer"
     },
@@ -52,9 +92,23 @@
       "best_for": "Buyers short on storage space who want a trusted brand",
       "key_spec": "110 bar, 360l/hr flow, suitcase-style with cable/lance storage",
       "summary": "Kärcher's entry-level washer, smaller even than the Bosch EasyAquatak, with smart storage features including a wind-round cable space and lock points for the trigger gun. Expert Reviews found enough power for cars and patios, though the single non-variable spray and short 3m hose limit versatility.",
-      "specs": {"Weight": "3.5kg", "Max pressure": "110 bar", "Flow rate": "360l/hr", "Hose length": "3m", "Motor power": "1,400W", "Warranty": "2 years (5 with free extension)"},
-      "pros": ["Compact design with smart storage", "Effective cleaning for its size", "Upgradeable with Kärcher's accessory range"],
-      "cons": ["Short hose and power cable", "Limited pressure and only a single spray pattern"],
+      "specs": {
+        "Weight": "3.5kg",
+        "Max pressure": "110 bar",
+        "Flow rate": "360l/hr",
+        "Hose length": "3m",
+        "Motor power": "1,400W",
+        "Warranty": "2 years (5 with free extension)"
+      },
+      "pros": [
+        "Compact design with smart storage",
+        "Effective cleaning for its size",
+        "Upgradeable with Kärcher's accessory range"
+      ],
+      "cons": [
+        "Short hose and power cable",
+        "Limited pressure and only a single spray pattern"
+      ],
       "asin": "",
       "search": "Karcher K2 Horizontal pressure washer"
     },
@@ -65,9 +119,24 @@
       "best_for": "Buyers who want a surprisingly capable washer at a low price",
       "key_spec": "115 bar, 300l/hr flow, includes snow foam bottle",
       "summary": "A tiny price tag that belies genuine quality, according to Expert Reviews, blasting brake dust from alloy wheels and clearing algae from a patio, with a snow foam bottle included even at this price. It's louder and heavier than similarly-priced rivals, and has the lowest flow rate on test.",
-      "specs": {"Weight": "6.3kg", "Max pressure": "115 bar", "Flow rate": "300l/hr", "Hose length": "5m", "Motor power": "1,600W", "Warranty": "1 year"},
-      "pros": ["Reasonably powerful for the price", "Snow foam bottle included", "Easy metal hose fittings"],
-      "cons": ["Louder than rivals", "Relatively heavy", "Lowest flow rate on test"],
+      "specs": {
+        "Weight": "6.3kg",
+        "Max pressure": "115 bar",
+        "Flow rate": "300l/hr",
+        "Hose length": "5m",
+        "Motor power": "1,600W",
+        "Warranty": "1 year"
+      },
+      "pros": [
+        "Reasonably powerful for the price",
+        "Snow foam bottle included",
+        "Easy metal hose fittings"
+      ],
+      "cons": [
+        "Louder than rivals",
+        "Relatively heavy",
+        "Lowest flow rate on test"
+      ],
       "asin": "",
       "search": "Halfords PW20 pressure washer"
     },
@@ -78,9 +147,22 @@
       "best_for": "Buyers who want a built-in detergent tank for car shampoo",
       "key_spec": "130 bar, 420l/hr flow, built-in 0.9l detergent tank",
       "summary": "Unlike rivals that need a separate detergent bottle, this has a built-in 0.9l tank you activate by twisting the lance, making car shampooing quick and even. Expert Reviews found the steel-braided hose resists tangling well, with only a fiddly hose release catch as a real criticism.",
-      "specs": {"Weight": "8.3kg", "Max pressure": "130 bar", "Flow rate": "420l/hr", "Hose length": "5m", "Motor power": "1,600W", "Warranty": "3 years"},
-      "pros": ["Built-in detergent tank for easy car shampooing", "Vario lance adjusts from spot spray to fan", "Steel-braided hose resists tangling"],
-      "cons": ["Not vastly cheaper than the more powerful Nilfisk Core 130"],
+      "specs": {
+        "Weight": "8.3kg",
+        "Max pressure": "130 bar",
+        "Flow rate": "420l/hr",
+        "Hose length": "5m",
+        "Motor power": "1,600W",
+        "Warranty": "3 years"
+      },
+      "pros": [
+        "Built-in detergent tank for easy car shampooing",
+        "Vario lance adjusts from spot spray to fan",
+        "Steel-braided hose resists tangling"
+      ],
+      "cons": [
+        "Not vastly cheaper than the more powerful Nilfisk Core 130"
+      ],
       "asin": "",
       "search": "Ryobi 130 electric pressure washer"
     },
@@ -91,9 +173,18 @@
       "best_for": "Buyers who want app control and maximum adjustability",
       "key_spec": "Bluetooth app control, upgraded adjustable lance, compatible with all Kärcher accessories",
       "summary": "The bigger, more powerful, Bluetooth-enabled version of the K4, with a genuinely useful smartphone app and even more adjustability on its lance. Expert Reviews was seriously impressed by the balance of grime-defeating power and all-round ease of use, at a premium price.",
-      "specs": {"Connectivity": "Bluetooth with smartphone app", "Compatibility": "All Kärcher accessories"},
-      "pros": ["Genuinely useful smartphone app", "Impressive balance of power and ease of use", "Compatible with the full Kärcher accessory range"],
-      "cons": ["Premium price"],
+      "specs": {
+        "Connectivity": "Bluetooth with smartphone app",
+        "Compatibility": "All Kärcher accessories"
+      },
+      "pros": [
+        "Genuinely useful smartphone app",
+        "Impressive balance of power and ease of use",
+        "Compatible with the full Kärcher accessory range"
+      ],
+      "cons": [
+        "Premium price"
+      ],
       "asin": "",
       "search": "Karcher K5 Premium Smart Control pressure washer"
     }
@@ -117,6 +208,9 @@
     }
   ],
   "sources": [
-    {"name": "Expert Reviews: best pressure washers", "url": "https://www.expertreviews.co.uk/home-garden/pressure-washers/best-pressure-washer-the-best-pressure-washers-for-your-car-patio-or-garden"}
+    {
+      "name": "Expert Reviews: best pressure washers",
+      "url": "https://www.expertreviews.co.uk/home-garden/pressure-washers/best-pressure-washer-the-best-pressure-washers-for-your-car-patio-or-garden"
+    }
   ]
 }

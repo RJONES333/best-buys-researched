@@ -4,7 +4,7 @@
   "short": "Yoga mats compared by grip, thickness and portability, from budget studio mats to premium travel-friendly options.",
   "intro": "A yoga mat's grip and thickness matter more than price for how a class actually feels underfoot. This guide compares mats tested by Women's Running's team through real yoga classes, from budget studio staples to premium mats built for dynamic practice.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Lululemon",
@@ -13,9 +13,21 @@
       "best_for": "Buyers who want to choose their own thickness and grip level",
       "key_spec": "3-5mm thickness options, latex and FSC-certified natural rubber, reversible",
       "summary": "Available in multiple thicknesses so you can dial in exactly the feel you want. Women's Running's tester found the rubber top layer nicely grippy without being too sticky to move, with no visible alignment markings, though wear patterns build up over time to show where you consistently place hands and feet.",
-      "specs": {"Thickness": "3mm-5mm", "Dimensions": "66cm x 180cm (71cm x 213cm option available)", "Material": "Latex and FSC-certified natural rubber"},
-      "pros": ["Choice of thicknesses to suit preference", "Grippy without feeling too sticky", "Reversible design", "Non-slip surface stable for balance poses"],
-      "cons": ["No alignment markings", "Premium price"],
+      "specs": {
+        "Thickness": "3mm-5mm",
+        "Dimensions": "66cm x 180cm (71cm x 213cm option available)",
+        "Material": "Latex and FSC-certified natural rubber"
+      },
+      "pros": [
+        "Choice of thicknesses to suit preference",
+        "Grippy without feeling too sticky",
+        "Reversible design",
+        "Non-slip surface stable for balance poses"
+      ],
+      "cons": [
+        "No alignment markings",
+        "Premium price"
+      ],
       "asin": "",
       "search": "Lululemon The Mat yoga mat"
     },
@@ -26,9 +38,20 @@
       "best_for": "Buyers who want extra cushioning for knees and joints",
       "key_spec": "5mm or 8mm thickness, high-grade polyurethane and natural rubber",
       "summary": "Women's Running's tester was 'obsessed' with how comfortable this mat feels, even in its thinner 5mm option, without sacrificing the solid support needed for balances and transitions. The super-grippy top layer felt comparable to pricier mats, though it runs a little shorter than some rivals, which may not suit taller yogis.",
-      "specs": {"Thickness": "5mm or 8mm", "Dimensions": "180cm x 65cm", "Material": "High-grade polyurethane and natural rubber"},
-      "pros": ["Exceptionally comfortable, even at 5mm", "Solid support for balances and transitions", "Super-grippy top layer at a lower price than rivals", "Distinctive curved design"],
-      "cons": ["Shorter than some other mats, may not suit taller users"],
+      "specs": {
+        "Thickness": "5mm or 8mm",
+        "Dimensions": "180cm x 65cm",
+        "Material": "High-grade polyurethane and natural rubber"
+      },
+      "pros": [
+        "Exceptionally comfortable, even at 5mm",
+        "Solid support for balances and transitions",
+        "Super-grippy top layer at a lower price than rivals",
+        "Distinctive curved design"
+      ],
+      "cons": [
+        "Shorter than some other mats, may not suit taller users"
+      ],
       "asin": "",
       "search": "Onyx yoga mat 8mm"
     },
@@ -39,9 +62,20 @@
       "best_for": "Regular practitioners who want precise alignment guidance",
       "key_spec": "4.2mm thickness, eco polyurethane and natural rubber, extensive alignment lines",
       "summary": "Known as 'the queen of yoga mats', Women's Running's tester found the quality exceptional: sturdy, totally non-slip and lying completely flat when unrolled. Extensive alignment lines adapt well to any size practitioner, and it's comfy without being too soft, though it carries a hefty price tag to match.",
-      "specs": {"Thickness": "4.2mm", "Dimensions": "185cm x 68cm", "Material": "Eco polyurethane and natural rubber"},
-      "pros": ["Exceptional build quality", "Totally non-slip, lies flat when unrolled", "Extensive alignment lines suit any size", "Comfortable without being too soft"],
-      "cons": ["Expensive"],
+      "specs": {
+        "Thickness": "4.2mm",
+        "Dimensions": "185cm x 68cm",
+        "Material": "Eco polyurethane and natural rubber"
+      },
+      "pros": [
+        "Exceptional build quality",
+        "Totally non-slip, lies flat when unrolled",
+        "Extensive alignment lines suit any size",
+        "Comfortable without being too soft"
+      ],
+      "cons": [
+        "Expensive"
+      ],
       "asin": "",
       "search": "Liforme yoga mat"
     },
@@ -52,9 +86,21 @@
       "best_for": "Buyers who want a lightweight mat that packs down small",
       "key_spec": "1.5mm thickness, folds into a rectangle with built-in strap and handle, under 1kg",
       "summary": "Women's Running's tester made this their go-to holiday mat, since it cleverly folds down into a compact rectangle with a built-in strap and handle, rather than rolling up like most mats. A textured rubbery surface grips well for a travel mat, and a water-resistant underside prevents grass or sand moisture seeping through.",
-      "specs": {"Thickness": "1.5mm", "Dimensions": "61cm x 173cm", "Weight": "Under 1kg", "Material": "Natural tree rubber and cotton"},
-      "pros": ["Folds compactly with built-in strap and handle", "Grippier than other travel mats tried", "Water-resistant underside", "Incredibly lightweight for luggage"],
-      "cons": ["Too thin to use as a standalone mat for sensitive knees"],
+      "specs": {
+        "Thickness": "1.5mm",
+        "Dimensions": "61cm x 173cm",
+        "Weight": "Under 1kg",
+        "Material": "Natural tree rubber and cotton"
+      },
+      "pros": [
+        "Folds compactly with built-in strap and handle",
+        "Grippier than other travel mats tried",
+        "Water-resistant underside",
+        "Incredibly lightweight for luggage"
+      ],
+      "cons": [
+        "Too thin to use as a standalone mat for sensitive knees"
+      ],
       "asin": "",
       "search": "YoGo Ultralight Folding Yoga Mat"
     },
@@ -65,9 +111,20 @@
       "best_for": "Beginners who want a proven, affordable studio-standard mat",
       "key_spec": "4.5mm thickness, high-grade PVC, 6-P free",
       "summary": "The mat you've almost certainly already used at a yoga studio, and Women's Running's tester found it performs well on grip even at this price, noting it seems to get grippier the more it's used. Supportive for knees without being too thick or heavy, and available in plenty of colours.",
-      "specs": {"Thickness": "4.5mm", "Dimensions": "61cm x 183cm", "Material": "High-grade PVC, 6-P free"},
-      "pros": ["Excellent grip for the price", "Grip improves with use", "Supportive for knees without excess bulk", "Wide range of colours"],
-      "cons": ["PVC construction rather than natural rubber"],
+      "specs": {
+        "Thickness": "4.5mm",
+        "Dimensions": "61cm x 183cm",
+        "Material": "High-grade PVC, 6-P free"
+      },
+      "pros": [
+        "Excellent grip for the price",
+        "Grip improves with use",
+        "Supportive for knees without excess bulk",
+        "Wide range of colours"
+      ],
+      "cons": [
+        "PVC construction rather than natural rubber"
+      ],
       "asin": "",
       "search": "Yogamatters Sticky Yoga Mat"
     },
@@ -78,9 +135,20 @@
       "best_for": "Buyers who sweat heavily during practice and need maximum grip",
       "key_spec": "4mm thickness, natural rubber and non-slip PU, extra-long/wide option available",
       "summary": "A 'mega grippy' mat that Women's Running's tester found sees even the sweatiest yogis through any class without sliding. Made by a UK-based, sustainability-focused brand using non-toxic dyes and recycled materials, with a tree planted for every mat sold, and an extra-long/wide version for taller users.",
-      "specs": {"Thickness": "4mm", "Dimensions": "180cm x 66cm", "Material": "Natural rubber and non-slip PU"},
-      "pros": ["Excellent grip even when sweating heavily", "Sustainable, non-toxic materials", "Tree planted per mat sold", "Extra-long/wide version available"],
-      "cons": ["Grippy feel may not suit those who prefer to slide into poses"],
+      "specs": {
+        "Thickness": "4mm",
+        "Dimensions": "180cm x 66cm",
+        "Material": "Natural rubber and non-slip PU"
+      },
+      "pros": [
+        "Excellent grip even when sweating heavily",
+        "Sustainable, non-toxic materials",
+        "Tree planted per mat sold",
+        "Extra-long/wide version available"
+      ],
+      "cons": [
+        "Grippy feel may not suit those who prefer to slide into poses"
+      ],
       "asin": "",
       "search": "Yogi Bare Paws Extreme Grip Yoga Mat"
     }
@@ -104,6 +172,9 @@
     }
   ],
   "sources": [
-    {"name": "Women's Running: the best yoga mats", "url": "https://www.womensrunning.co.uk/gear/the-best-yoga-mats/"}
+    {
+      "name": "Women's Running: the best yoga mats",
+      "url": "https://www.womensrunning.co.uk/gear/the-best-yoga-mats/"
+    }
   ]
 }

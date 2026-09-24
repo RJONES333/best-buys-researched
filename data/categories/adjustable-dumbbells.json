@@ -4,7 +4,7 @@
   "short": "Adjustable dumbbells compared by weight range, adjustment mechanism and build quality, from beginner sets to serious home gym kit.",
   "intro": "A set of adjustable dumbbells replaces a whole rack of fixed weights in a fraction of the floor space, but the adjustment mechanism and weight range vary enormously between models. This guide compares dumbbells tested by Men's Fitness across exercises like presses, deadlifts, curls and farmer's carries.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Nuobell",
@@ -13,9 +13,21 @@
       "best_for": "Buyers who want the smoothest, most premium adjustment experience",
       "key_spec": "2-32kg range, 16 increments, twist-adjust mechanism",
       "summary": "Men's Fitness's top pick, with a seamless twist mechanism that cycles between weights instantly and no rattling of plates during lifts. Available in four colours with an optional hip-high stand, though the handle grip could be slightly better for high-intensity exercises.",
-      "specs": {"Weight range": "2-32kg", "Increments": "16", "Dimensions": "48.5 x 18 x 18.5cm", "Sold as": "Pair"},
-      "pros": ["Wide weight range", "Slick, stylish aesthetic in four colours", "Smooth, rattle-free adjustments", "Optional stand for waist-height storage"],
-      "cons": ["Handles could be grippier for high-intensity exercises"],
+      "specs": {
+        "Weight range": "2-32kg",
+        "Increments": "16",
+        "Dimensions": "48.5 x 18 x 18.5cm",
+        "Sold as": "Pair"
+      },
+      "pros": [
+        "Wide weight range",
+        "Slick, stylish aesthetic in four colours",
+        "Smooth, rattle-free adjustments",
+        "Optional stand for waist-height storage"
+      ],
+      "cons": [
+        "Handles could be grippier for high-intensity exercises"
+      ],
       "asin": "",
       "search": "Nuobell 232 Adjustable Dumbbells"
     },
@@ -26,9 +38,21 @@
       "best_for": "Experienced lifters who want maximum flexibility across 21 settings",
       "key_spec": "5-34kg range, 21 increments, slider selection",
       "summary": "The best-in-test weight range at up to 34kg per dumbbell, with 21 different weight settings across the range. Men's Fitness found the slider selection system a breeze to use and the handles stayed comfortable throughout long workouts, though they're longer than most adjustable dumbbells and take up more space.",
-      "specs": {"Weight range": "5-34kg", "Increments": "21", "Dimensions": "50.4 x 18.2 x 17.8cm", "Sold as": "Pair"},
-      "pros": ["Best weight range on test", "Wide, comfortable grip", "Easy slider adjustment", "21 increments for fine control"],
-      "cons": ["Take up a fair amount of space"],
+      "specs": {
+        "Weight range": "5-34kg",
+        "Increments": "21",
+        "Dimensions": "50.4 x 18.2 x 17.8cm",
+        "Sold as": "Pair"
+      },
+      "pros": [
+        "Best weight range on test",
+        "Wide, comfortable grip",
+        "Easy slider adjustment",
+        "21 increments for fine control"
+      ],
+      "cons": [
+        "Take up a fair amount of space"
+      ],
       "asin": "",
       "search": "Primal Strength Personal Series Adjustable Dumbbells"
     },
@@ -39,9 +63,21 @@
       "best_for": "Buyers who want strong value with an easy adjustment dial",
       "key_spec": "4.5-25kg range, 15 increments, compact design",
       "summary": "Men's Fitness found these a breeze to use and pleasantly compact at 49.2cm long, the second smallest unit tested, calling them very good value. The iFit companion app has limited dedicated content and the 25kg max weight may not be enough for experienced lifters.",
-      "specs": {"Weight range": "4.5-25kg", "Increments": "15", "Dimensions": "49.2 x 28.9 x 21.5cm", "Sold as": "Pair"},
-      "pros": ["Excellent value", "Easy operation", "Neat, compact design"],
-      "cons": ["25kg max weight won't suit experienced lifters", "Limited iFit app content"],
+      "specs": {
+        "Weight range": "4.5-25kg",
+        "Increments": "15",
+        "Dimensions": "49.2 x 28.9 x 21.5cm",
+        "Sold as": "Pair"
+      },
+      "pros": [
+        "Excellent value",
+        "Easy operation",
+        "Neat, compact design"
+      ],
+      "cons": [
+        "25kg max weight won't suit experienced lifters",
+        "Limited iFit app content"
+      ],
       "asin": "",
       "search": "NordicTrack Select-A-Weight Dumbbells"
     },
@@ -52,9 +88,20 @@
       "best_for": "Buyers with limited space who still want to lift heavy",
       "key_spec": "5-32.5kg range, 12 increments, 42cm compact footprint",
       "summary": "The most space-efficient adjustable dumbbell Men's Fitness tested at just 42cm long, while still offering the second-heaviest max weight on test. The soft, textured handle grips securely, and the dock-and-dial adjustment system works smoothly, though it's relatively expensive.",
-      "specs": {"Weight range": "5-32.5kg", "Increments": "12", "Dimensions": "42 x 20 x 21cm", "Sold as": "Individually or pair"},
-      "pros": ["Most compact dumbbell on test", "Wide resistance range for its size", "Comfortable, textured grip"],
-      "cons": ["Relatively expensive"],
+      "specs": {
+        "Weight range": "5-32.5kg",
+        "Increments": "12",
+        "Dimensions": "42 x 20 x 21cm",
+        "Sold as": "Individually or pair"
+      },
+      "pros": [
+        "Most compact dumbbell on test",
+        "Wide resistance range for its size",
+        "Comfortable, textured grip"
+      ],
+      "cons": [
+        "Relatively expensive"
+      ],
       "asin": "",
       "search": "MuscleSquad Quick Select Adjustable Dumbbell"
     },
@@ -65,9 +112,21 @@
       "best_for": "HIIT and explosive training where quick weight changes matter",
       "key_spec": "2-24kg range, 15 increments, rubber and steel grip",
       "summary": "A rubber and steel grip well suited to explosive exercises, moving from 2kg to 24kg with a simple twist of the dial. Men's Fitness liked the JRNY app's on-demand strength classes, but noted the heavy use of plastic means they don't feel the most durable if dropped.",
-      "specs": {"Weight range": "2-24kg", "Increments": "15", "Dimensions": "43 x 21.2 x 22.8cm", "Sold as": "Individually or pair"},
-      "pros": ["Easy, quick adjustments", "Relatively affordable", "JRNY app offers on-demand strength classes"],
-      "cons": ["Quite bulky", "Heavy plastic use feels less durable if dropped"],
+      "specs": {
+        "Weight range": "2-24kg",
+        "Increments": "15",
+        "Dimensions": "43 x 21.2 x 22.8cm",
+        "Sold as": "Individually or pair"
+      },
+      "pros": [
+        "Easy, quick adjustments",
+        "Relatively affordable",
+        "JRNY app offers on-demand strength classes"
+      ],
+      "cons": [
+        "Quite bulky",
+        "Heavy plastic use feels less durable if dropped"
+      ],
       "asin": "",
       "search": "Bowflex SelectTech 552i Dumbbells"
     },
@@ -78,9 +137,22 @@
       "best_for": "Buyers who want a genuinely good sub-£200 pair",
       "key_spec": "2.5-24kg range, 15 increments, knurled handles",
       "summary": "Sub-£200 dumbbells that Men's Fitness said surpassed expectations for value and functionality, with a smooth single-handed twist mechanism and a handy two-year warranty. Compact at 39 x 20 x 23cm, though there's a little rattle and the 24kg top end may be too light for stronger lifters.",
-      "specs": {"Weight range": "2.5-24kg", "Increments": "15", "Dimensions": "39 x 20 x 23cm", "Sold as": "Pair"},
-      "pros": ["Extremely good value", "Quick, single-handed weight selection", "Comfortable knurled handles", "Two-year warranty"],
-      "cons": ["A little rattly", "24kg top end may be too light for some"],
+      "specs": {
+        "Weight range": "2.5-24kg",
+        "Increments": "15",
+        "Dimensions": "39 x 20 x 23cm",
+        "Sold as": "Pair"
+      },
+      "pros": [
+        "Extremely good value",
+        "Quick, single-handed weight selection",
+        "Comfortable knurled handles",
+        "Two-year warranty"
+      ],
+      "cons": [
+        "A little rattly",
+        "24kg top end may be too light for some"
+      ],
       "asin": "",
       "search": "Braingain 24kg Adjustable Dumbbells"
     },
@@ -91,9 +163,22 @@
       "best_for": "Buyers who want the toughest, most confidence-inspiring build",
       "key_spec": "4.5-36.3kg range, 8 increments, dovetail changing mechanism, 1,000x drop guarantee",
       "summary": "A dovetail design creates a snug, rattle-free fit between plates and forms one of the most robust changing mechanisms Men's Fitness has used, backed by a 1,000x multi-angle drop-proof promise. Optional magnetic plates allow micro-adjustment, though it's one of the pricier options and extending the warranty costs extra.",
-      "specs": {"Weight range": "4.5-36.3kg", "Increments": "8", "Dimensions": "45.9 x 17 x 17cm", "Sold as": "Pair"},
-      "pros": ["Rugged, confidence-inspiring build", "Useful range, fine-tunable with magnetic plates", "Comfortable knurled chrome handle", "Quick, intuitive weight changes"],
-      "cons": ["One of the pricier options", "Longer warranty costs extra"],
+      "specs": {
+        "Weight range": "4.5-36.3kg",
+        "Increments": "8",
+        "Dimensions": "45.9 x 17 x 17cm",
+        "Sold as": "Pair"
+      },
+      "pros": [
+        "Rugged, confidence-inspiring build",
+        "Useful range, fine-tunable with magnetic plates",
+        "Comfortable knurled chrome handle",
+        "Quick, intuitive weight changes"
+      ],
+      "cons": [
+        "One of the pricier options",
+        "Longer warranty costs extra"
+      ],
       "asin": "",
       "search": "Snode AD80 Adjustable Dumbbells"
     },
@@ -104,9 +189,21 @@
       "best_for": "Buyers just starting out who want a low-cost, no-frills option",
       "key_spec": "2.3-11.3kg range, 5 increments, sold individually",
       "summary": "Men's Fitness found these undercut every other option on test by more than half, with a foolproof, robust adjusting mechanism and a slick, compact tray design. The weight range is aimed squarely at beginners, and you'll need to buy two separately to make a pair.",
-      "specs": {"Weight range": "2.3-11.3kg", "Increments": "5", "Dimensions": "15.4 x 18 x 39.6cm", "Sold as": "Individually"},
-      "pros": ["Excellent value", "Easy operation", "Neat, compact design"],
-      "cons": ["Weight range aimed at beginners only", "Must buy two individually for a pair"],
+      "specs": {
+        "Weight range": "2.3-11.3kg",
+        "Increments": "5",
+        "Dimensions": "15.4 x 18 x 39.6cm",
+        "Sold as": "Individually"
+      },
+      "pros": [
+        "Excellent value",
+        "Easy operation",
+        "Neat, compact design"
+      ],
+      "cons": [
+        "Weight range aimed at beginners only",
+        "Must buy two individually for a pair"
+      ],
       "asin": "",
       "search": "Amazon Basics Adjustable Dumbbell"
     }
@@ -130,6 +227,9 @@
     }
   ],
   "sources": [
-    {"name": "Men's Fitness: the best adjustable dumbbells", "url": "https://mensfitness.co.uk/review/best-adjustable-dumbbells/"}
+    {
+      "name": "Men's Fitness: the best adjustable dumbbells",
+      "url": "https://mensfitness.co.uk/review/best-adjustable-dumbbells/"
+    }
   ]
 }

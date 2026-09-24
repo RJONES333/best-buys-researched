@@ -4,7 +4,7 @@
   "short": "Dash cams compared by video quality, night performance and features, from budget single-camera units to smart all-in-one systems.",
   "intro": "A dash cam's real value shows up in an insurance dispute or a car park bump, where clear footage and accurate GPS data settle arguments fast. This guide compares cameras tested by TechRadar over thousands of miles of driving, judging video quality, night-time performance, ease of use and value.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Viofo",
@@ -13,9 +13,23 @@
       "best_for": "Buyers who want the sharpest possible footage front and rear",
       "key_spec": "4K 60fps front, 2K rear, GPS, microSD up to 512GB or SSD up to 4TB",
       "summary": "TechRadar found crisp 4K 60fps video that captures fine details at speed, with a rear camera that impressed with its own 2K footage and night-time performance matching daytime clarity. Files can be quickly loaded to a well-designed app, though initial wiring is involved and tricky-to-undo connectors test patience.",
-      "specs": {"Video quality": "4K 60fps front, 2K rear", "Viewing angle": "140 degrees", "GPS": "Yes", "Storage": "microSD up to 512GB / SSD up to 4TB"},
-      "pros": ["Excellent quality 4K 60fps video", "Quality design and build", "Strong rear camera included", "Compatible with external SSDs"],
-      "cons": ["Involved wiring installation", "Bulkier than some rivals", "High purchase price"],
+      "specs": {
+        "Video quality": "4K 60fps front, 2K rear",
+        "Viewing angle": "140 degrees",
+        "GPS": "Yes",
+        "Storage": "microSD up to 512GB / SSD up to 4TB"
+      },
+      "pros": [
+        "Excellent quality 4K 60fps video",
+        "Quality design and build",
+        "Strong rear camera included",
+        "Compatible with external SSDs"
+      ],
+      "cons": [
+        "Involved wiring installation",
+        "Bulkier than some rivals",
+        "High purchase price"
+      ],
       "asin": "",
       "search": "Viofo A329 dash cam"
     },
@@ -26,9 +40,23 @@
       "best_for": "Buyers who want a simple, near-invisible dash cam",
       "key_spec": "1080p HD, polarizing lens, compact hideaway design",
       "summary": "TechRadar found the compact design could be easily hidden behind the rear-view mirror with no impact on forward visibility, and the simple interface made setup straightforward. Footage quality was high for Full HD, though there's no GPS, no screen, and a microSD card isn't included.",
-      "specs": {"Video quality": "1080p", "Viewing angle": "140 degrees", "GPS": "No", "Storage": "MicroSD (not included)"},
-      "pros": ["Tidy, compact, near-invisible design", "High-quality footage for 1080p", "Built-in polarizing lens reduces reflections", "Simple app-based interface"],
-      "cons": ["No GPS", "No on-device screen", "MicroSD card not included"],
+      "specs": {
+        "Video quality": "1080p",
+        "Viewing angle": "140 degrees",
+        "GPS": "No",
+        "Storage": "MicroSD (not included)"
+      },
+      "pros": [
+        "Tidy, compact, near-invisible design",
+        "High-quality footage for 1080p",
+        "Built-in polarizing lens reduces reflections",
+        "Simple app-based interface"
+      ],
+      "cons": [
+        "No GPS",
+        "No on-device screen",
+        "MicroSD card not included"
+      ],
       "asin": "",
       "search": "Garmin Dash Cam Mini 3"
     },
@@ -39,9 +67,22 @@
       "best_for": "Buyers who want an all-in-one connected security system for their car",
       "key_spec": "Up to 4K, GPS, Bluetooth and Wi-Fi, interior camera included, optional rear unit",
       "summary": "TechRadar calls this as feature-packed as dash cams come, with parking assistance, a voice-activated Witness Mode and remote vehicle check-in via its app. Setup was simple and footage predictably excellent, though the full feature set needs a paid subscription and may be overkill for buyers who just want basic recording.",
-      "specs": {"Video quality": "Up to 2160p front, 1440p cabin/rear", "Viewing angle": "140 degrees front", "GPS": "Yes", "Storage": "microSD / cloud"},
-      "pros": ["Comprehensive, feature-packed one-stop solution", "Impressive smart features", "Nicely designed and well made"],
-      "cons": ["Full feature set may be more than many need", "Free tier lacks the full feature set", "Subscription adds ongoing cost"],
+      "specs": {
+        "Video quality": "Up to 2160p front, 1440p cabin/rear",
+        "Viewing angle": "140 degrees front",
+        "GPS": "Yes",
+        "Storage": "microSD / cloud"
+      },
+      "pros": [
+        "Comprehensive, feature-packed one-stop solution",
+        "Impressive smart features",
+        "Nicely designed and well made"
+      ],
+      "cons": [
+        "Full feature set may be more than many need",
+        "Free tier lacks the full feature set",
+        "Subscription adds ongoing cost"
+      ],
       "asin": "",
       "search": "Nextbase iQ dash cam"
     },
@@ -52,9 +93,22 @@
       "best_for": "Buyers who want 4K and GPS without a premium price",
       "key_spec": "4K 30fps, GPS, 5GHz Wi-Fi for fast transfers, under £100",
       "summary": "TechRadar was impressed that sharp 4K footage with admirable low-light noise control, GPS and fast 5GHz Wi-Fi data transfer all come in for well under £100, calling it 'the real deal'. Frame rate is capped at 30fps even at lower resolutions, and some AI driver-alert features feel unnecessary.",
-      "specs": {"Video quality": "4K 30fps", "Viewing angle": "140 degrees front", "GPS": "Yes", "Storage": "microSD / cloud"},
-      "pros": ["Great 4K footage with little noise", "Fast video transfer via 5GHz Wi-Fi", "Integrated GPS at a low price"],
-      "cons": ["Frame rate capped at 30fps", "Windscreen mount could be better", "AI driver-alert features feel unnecessary"],
+      "specs": {
+        "Video quality": "4K 30fps",
+        "Viewing angle": "140 degrees front",
+        "GPS": "Yes",
+        "Storage": "microSD / cloud"
+      },
+      "pros": [
+        "Great 4K footage with little noise",
+        "Fast video transfer via 5GHz Wi-Fi",
+        "Integrated GPS at a low price"
+      ],
+      "cons": [
+        "Frame rate capped at 30fps",
+        "Windscreen mount could be better",
+        "AI driver-alert features feel unnecessary"
+      ],
       "asin": "",
       "search": "Miofive S1 Ultra dash cam"
     },
@@ -65,9 +119,23 @@
       "best_for": "Buyers who want to switch between front-facing and cabin views",
       "key_spec": "4K 60fps rotating front/cabin camera, 146-degree FOV, optional 1080p rear camera",
       "summary": "A single rotating camera with a 146-degree field of view that can turn a full 360 degrees between front and cabin views, upgraded to 4K with a beefier sensor for better low-light footage. TechRadar found voice control for rotating the camera worked well, though the companion app feels like the weakest link and it needs starting via the app each time.",
-      "specs": {"Video quality": "Front 4K 60fps / rear 2K 30fps (optional)", "Viewing angle": "146 degrees front / 130 degrees rear", "GPS": "Yes", "Storage": "MicroSD up to 512GB, cloud"},
-      "pros": ["Genuine 4K video quality upgrade", "Improved low-light performance", "Front and cabin coverage from one rotating camera", "Voice control for rotating views"],
-      "cons": ["Companion app feels like the weakest link", "Chunky design on smaller windscreens", "Needs starting via the app each journey"],
+      "specs": {
+        "Video quality": "Front 4K 60fps / rear 2K 30fps (optional)",
+        "Viewing angle": "146 degrees front / 130 degrees rear",
+        "GPS": "Yes",
+        "Storage": "MicroSD up to 512GB, cloud"
+      },
+      "pros": [
+        "Genuine 4K video quality upgrade",
+        "Improved low-light performance",
+        "Front and cabin coverage from one rotating camera",
+        "Voice control for rotating views"
+      ],
+      "cons": [
+        "Companion app feels like the weakest link",
+        "Chunky design on smaller windscreens",
+        "Needs starting via the app each journey"
+      ],
       "asin": "",
       "search": "70mai Dash Cam 4K Omni"
     },
@@ -78,9 +146,22 @@
       "best_for": "Cars without a built-in infotainment or navigation system",
       "key_spec": "1080p, GPS, combined dash cam and sat nav functionality",
       "summary": "Doubles as a proper sat nav with a great user interface, giving TechRadar better navigation guidance than a smartphone alongside dash cam recording, with lots of useful connected features. It's expensive and the dash cam footage itself was less stable than dedicated cameras on this list.",
-      "specs": {"Video quality": "1080p", "Viewing angle": "140 degrees", "GPS": "Yes", "Storage": "16GB microSD included, expandable"},
-      "pros": ["Great user interface", "Navigation clearer than most smartphones", "Lots of useful connected features"],
-      "cons": ["Expensive", "Dash cam video stability weaker than dedicated cameras", "Notification system can feel like overkill"],
+      "specs": {
+        "Video quality": "1080p",
+        "Viewing angle": "140 degrees",
+        "GPS": "Yes",
+        "Storage": "16GB microSD included, expandable"
+      },
+      "pros": [
+        "Great user interface",
+        "Navigation clearer than most smartphones",
+        "Lots of useful connected features"
+      ],
+      "cons": [
+        "Expensive",
+        "Dash cam video stability weaker than dedicated cameras",
+        "Notification system can feel like overkill"
+      ],
       "asin": "",
       "search": "Garmin DriveCam 76"
     }
@@ -104,6 +185,9 @@
     }
   ],
   "sources": [
-    {"name": "TechRadar: the best dash cams", "url": "https://www.techradar.com/best/best-dash-cam"}
+    {
+      "name": "TechRadar: the best dash cams",
+      "url": "https://www.techradar.com/best/best-dash-cam"
+    }
   ]
 }

@@ -4,7 +4,7 @@
   "short": "Standalone routers and mesh Wi-Fi systems compared by speed, range and latency, from budget upgrades to whole-home coverage.",
   "intro": "A single router suits most flats and smaller homes, while a mesh system's extra nodes fix dead zones in larger or multi-storey homes. This guide compares routers RTINGS has tested on a standardised platform, having bought and tested over 80 routers, spanning budget standalone routers to premium mesh systems.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "TP-Link",
@@ -13,9 +13,20 @@
       "best_for": "Buyers with a multi-gigabit internet plan and lots of wired devices",
       "key_spec": "Quad-band Wi-Fi 7, standalone router",
       "summary": "RTINGS' best-tested Wi-Fi router, with outstanding top speeds, excellent range and superb wired connectivity that suits a home server or desktop PCs on multi-gigabit connections. It's excessive if you don't have 10Gbps devices, and it's physically large.",
-      "specs": {"Type": "Standalone router", "Bands": "Quad-band (2.4/5/5/6GHz)", "Wi-Fi version": "Wi-Fi 7"},
-      "pros": ["Outstanding top speeds", "Excellent range", "Superb wired connectivity"],
-      "cons": ["Overkill without multi-gigabit internet or 10Gbps devices", "Physically large"],
+      "specs": {
+        "Type": "Standalone router",
+        "Bands": "Quad-band (2.4/5/5/6GHz)",
+        "Wi-Fi version": "Wi-Fi 7"
+      },
+      "pros": [
+        "Outstanding top speeds",
+        "Excellent range",
+        "Superb wired connectivity"
+      ],
+      "cons": [
+        "Overkill without multi-gigabit internet or 10Gbps devices",
+        "Physically large"
+      ],
       "asin": "",
       "search": "TP-Link Archer BE900 router"
     },
@@ -26,9 +37,21 @@
       "best_for": "Most households who don't need a multi-gigabit connection",
       "key_spec": "Tri-band Wi-Fi 7, five 2.5Gbps Ethernet ports",
       "summary": "RTINGS' mid-range pick, with excellent speeds suitable for multiple people streaming or downloading simultaneously, and all five Ethernet ports rated for 2.5Gbps. Its biggest weakness is 5GHz range, though it supports TP-Link's mesh functionality if you need to expand coverage later.",
-      "specs": {"Type": "Standalone router", "Bands": "Tri-band (2.4/5/6GHz)", "Wi-Fi version": "Wi-Fi 7", "Ethernet": "5x 2.5Gbps"},
-      "pros": ["Excellent speeds for multiple simultaneous users", "All five Ethernet ports rated at 2.5Gbps", "Easy setup via app or web interface", "Expandable with TP-Link mesh nodes"],
-      "cons": ["Weaker range on the 5GHz band"],
+      "specs": {
+        "Type": "Standalone router",
+        "Bands": "Tri-band (2.4/5/6GHz)",
+        "Wi-Fi version": "Wi-Fi 7",
+        "Ethernet": "5x 2.5Gbps"
+      },
+      "pros": [
+        "Excellent speeds for multiple simultaneous users",
+        "All five Ethernet ports rated at 2.5Gbps",
+        "Easy setup via app or web interface",
+        "Expandable with TP-Link mesh nodes"
+      ],
+      "cons": [
+        "Weaker range on the 5GHz band"
+      ],
       "asin": "",
       "search": "TP-Link Archer BE550 router"
     },
@@ -39,9 +62,22 @@
       "best_for": "Tinkerers who want deep configurability without a high price",
       "key_spec": "Dual-band Wi-Fi 6, open-source firmware",
       "summary": "RTINGS praised its excellent speeds and impressive range for a large home, but its standout is highly configurable open-source firmware that includes network-wide VPN setup and advanced options like cellular modem failover, all in an approachable interface. It often goes on sale below its list price.",
-      "specs": {"Type": "Standalone router", "Bands": "Dual-band (2.4/5GHz)", "Wi-Fi version": "Wi-Fi 6", "Ethernet": "4x 1Gbps LAN, 2x 2.5Gbps WAN/LAN"},
-      "pros": ["Excellent speeds and range for the price", "Highly configurable open-source firmware", "Built-in VPN and advanced networking options", "Frequently discounted"],
-      "cons": ["No 6GHz band", "Priced close to the higher mid-range pick at full price"],
+      "specs": {
+        "Type": "Standalone router",
+        "Bands": "Dual-band (2.4/5GHz)",
+        "Wi-Fi version": "Wi-Fi 6",
+        "Ethernet": "4x 1Gbps LAN, 2x 2.5Gbps WAN/LAN"
+      },
+      "pros": [
+        "Excellent speeds and range for the price",
+        "Highly configurable open-source firmware",
+        "Built-in VPN and advanced networking options",
+        "Frequently discounted"
+      ],
+      "cons": [
+        "No 6GHz band",
+        "Priced close to the higher mid-range pick at full price"
+      ],
       "asin": "",
       "search": "GL.iNet Flint 2 GL-MT6000 router"
     },
@@ -52,9 +88,20 @@
       "best_for": "Buyers with an internet plan under 1Gbps",
       "key_spec": "Dual-band Wi-Fi 6, compact design",
       "summary": "RTINGS' budget pick, able to saturate a connection up to 750Mbps at close range and maintain fast speeds up to nearly 100 feet away, suiting most apartments and small-to-medium homes. It's a Wi-Fi 6 router, so you miss out on the 6GHz band if you have newer Wi-Fi 6E or 7 devices.",
-      "specs": {"Type": "Standalone router", "Bands": "Dual-band (2.4/5GHz)", "Wi-Fi version": "Wi-Fi 6"},
-      "pros": ["Strong speed and range for the price", "Compact footprint", "Handles multiple simultaneous 4K streams well"],
-      "cons": ["No 6GHz band", "Large homes may still need a mesh system"],
+      "specs": {
+        "Type": "Standalone router",
+        "Bands": "Dual-band (2.4/5GHz)",
+        "Wi-Fi version": "Wi-Fi 6"
+      },
+      "pros": [
+        "Strong speed and range for the price",
+        "Compact footprint",
+        "Handles multiple simultaneous 4K streams well"
+      ],
+      "cons": [
+        "No 6GHz band",
+        "Large homes may still need a mesh system"
+      ],
       "asin": "",
       "search": "TP-Link Archer AX55 router"
     },
@@ -65,9 +112,22 @@
       "best_for": "Larger or multi-storey homes with dead zones",
       "key_spec": "Tri-band Wi-Fi 7 mesh, expandable nodes",
       "summary": "RTINGS' top mesh system, maintaining high speeds at distances up to 100 feet with compact, easy-to-place nodes. Start with a two-pack and add a unit later if needed. Basic parental controls are included, but device time limits and network-wide antivirus need a HomeShield subscription.",
-      "specs": {"Type": "Mesh (expandable)", "Bands": "Tri-band (2.4/5/6GHz)", "Wi-Fi version": "Wi-Fi 7", "Ethernet": "4x 2.5Gbps per unit"},
-      "pros": ["Fast, consistent coverage across large spaces", "Compact, easy-to-place nodes", "Expandable network", "Great wired connectivity"],
-      "cons": ["Advanced parental controls and antivirus need a paid subscription", "Full speed benefit needs Wi-Fi 7 devices"],
+      "specs": {
+        "Type": "Mesh (expandable)",
+        "Bands": "Tri-band (2.4/5/6GHz)",
+        "Wi-Fi version": "Wi-Fi 7",
+        "Ethernet": "4x 2.5Gbps per unit"
+      },
+      "pros": [
+        "Fast, consistent coverage across large spaces",
+        "Compact, easy-to-place nodes",
+        "Expandable network",
+        "Great wired connectivity"
+      ],
+      "cons": [
+        "Advanced parental controls and antivirus need a paid subscription",
+        "Full speed benefit needs Wi-Fi 7 devices"
+      ],
       "asin": "",
       "search": "TP-Link Deco 7 Pro BE63 mesh"
     },
@@ -78,9 +138,20 @@
       "best_for": "Buyers who want strong mesh performance with no subscription",
       "key_spec": "Tri-band Wi-Fi 6E mesh, AiMesh compatible",
       "summary": "RTINGS' pick if the TP-Link Deco is too pricey or you don't have many Wi-Fi 7 devices. Delivers impressive speed and range with notably low latency for a mesh setup, and unlike several rivals, none of its features are locked behind a monthly subscription.",
-      "specs": {"Type": "Mesh (expandable)", "Bands": "Tri-band", "Wi-Fi version": "Wi-Fi 6E"},
-      "pros": ["No features locked behind a subscription", "Low latency for a mesh system, good for light gaming", "Compatible with other ASUS AiMesh routers"],
-      "cons": ["Wi-Fi 7 devices won't reach peak speeds", "Can cost more than the TP-Link Deco when the latter is on sale"],
+      "specs": {
+        "Type": "Mesh (expandable)",
+        "Bands": "Tri-band",
+        "Wi-Fi version": "Wi-Fi 6E"
+      },
+      "pros": [
+        "No features locked behind a subscription",
+        "Low latency for a mesh system, good for light gaming",
+        "Compatible with other ASUS AiMesh routers"
+      ],
+      "cons": [
+        "Wi-Fi 7 devices won't reach peak speeds",
+        "Can cost more than the TP-Link Deco when the latter is on sale"
+      ],
       "asin": "",
       "search": "Asus ZenWiFi ET9 mesh"
     },
@@ -91,9 +162,20 @@
       "best_for": "Buyers who want an affordable, easy-to-expand mesh network",
       "key_spec": "Dual-band Wi-Fi 6 mesh, up to ~700Mbps",
       "summary": "RTINGS' budget mesh pick, with a beginner-friendly app and solid speeds for connections up to roughly 700Mbps, including multiple 4K streams. Node placement matters more than on pricier systems, as speeds drop noticeably further from the main unit, and many advanced features are paywalled behind an eero Plus subscription.",
-      "specs": {"Type": "Mesh (expandable)", "Bands": "Dual-band (2.4/5GHz)", "Wi-Fi version": "Wi-Fi 6"},
-      "pros": ["Affordable and easy to expand", "Beginner-friendly app", "Built-in Zigbee and Alexa smart-home support"],
-      "cons": ["Speeds drop more at satellite nodes than pricier systems", "Many features require an eero Plus subscription"],
+      "specs": {
+        "Type": "Mesh (expandable)",
+        "Bands": "Dual-band (2.4/5GHz)",
+        "Wi-Fi version": "Wi-Fi 6"
+      },
+      "pros": [
+        "Affordable and easy to expand",
+        "Beginner-friendly app",
+        "Built-in Zigbee and Alexa smart-home support"
+      ],
+      "cons": [
+        "Speeds drop more at satellite nodes than pricier systems",
+        "Many features require an eero Plus subscription"
+      ],
       "asin": "",
       "search": "eero 6 mesh wifi"
     }
@@ -117,7 +199,13 @@
     }
   ],
   "sources": [
-    {"name": "RTINGS: the best Wi-Fi routers", "url": "https://www.rtings.com/router/reviews/best/wifi-router"},
-    {"name": "RTINGS: the best mesh Wi-Fi systems", "url": "https://www.rtings.com/router/reviews/best/mesh-wifi-system"}
+    {
+      "name": "RTINGS: the best Wi-Fi routers",
+      "url": "https://www.rtings.com/router/reviews/best/wifi-router"
+    },
+    {
+      "name": "RTINGS: the best mesh Wi-Fi systems",
+      "url": "https://www.rtings.com/router/reviews/best/mesh-wifi-system"
+    }
   ]
 }

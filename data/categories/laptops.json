@@ -4,7 +4,7 @@
   "short": "Windows, Mac and Chromebook laptops compared by performance, screen and battery life, from budget to gaming.",
   "intro": "The right laptop depends heavily on what you'll actually run on it, from browsing and email to gaming or creative work. This guide compares laptops tested by Expert Reviews, spanning budget Chromebooks to premium ultraportables and gaming machines.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Honor",
@@ -13,9 +13,22 @@
       "best_for": "Buyers who want workstation-level performance without workstation pricing",
       "key_spec": "Intel Core Ultra 9 285H, 32GB RAM, OLED, 16hr battery",
       "summary": "Expert Reviews' overall winner, offering what it calls workstation performance for a pittance, with an excellent OLED screen, though it's heavier than comparable laptops and lacks 6GHz Wi-Fi support.",
-      "specs": {"Processor": "Intel Core Ultra 9 285H", "RAM": "32GB", "Display": "3,120 x 2,080 OLED", "Battery": "16hr 10min", "Price guide": "From £1,000"},
-      "pros": ["Workstation-level performance for the price", "Excellent OLED screen", "Strong overall performance"],
-      "cons": ["Heavier than comparable models", "Lacks 6GHz Wi-Fi support"],
+      "specs": {
+        "Processor": "Intel Core Ultra 9 285H",
+        "RAM": "32GB",
+        "Display": "3,120 x 2,080 OLED",
+        "Battery": "16hr 10min",
+        "Price guide": "From £1,000"
+      },
+      "pros": [
+        "Workstation-level performance for the price",
+        "Excellent OLED screen",
+        "Strong overall performance"
+      ],
+      "cons": [
+        "Heavier than comparable models",
+        "Lacks 6GHz Wi-Fi support"
+      ],
       "asin": "",
       "search": "Honor MagicBook Pro 14 2025"
     },
@@ -26,9 +39,22 @@
       "best_for": "Buyers who want a fast, reliable Mac laptop",
       "key_spec": "Apple M5, 16GB RAM, Liquid Retina, 15hr battery",
       "summary": "Fast performance, reliable build quality and long battery life, though it costs more than the previous M4 model and is less repairable than some rivals.",
-      "specs": {"Processor": "Apple M5", "RAM": "16GB", "Display": "2,560 x 1,664 Liquid Retina", "Battery": "14hr 59min", "Price guide": "From £999"},
-      "pros": ["Fast performance", "Reliable build", "Long-lasting battery life"],
-      "cons": ["Higher price than the M4 model", "Less repairable than newer alternatives"],
+      "specs": {
+        "Processor": "Apple M5",
+        "RAM": "16GB",
+        "Display": "2,560 x 1,664 Liquid Retina",
+        "Battery": "14hr 59min",
+        "Price guide": "From £999"
+      },
+      "pros": [
+        "Fast performance",
+        "Reliable build",
+        "Long-lasting battery life"
+      ],
+      "cons": [
+        "Higher price than the M4 model",
+        "Less repairable than newer alternatives"
+      ],
       "asin": "",
       "search": "Apple MacBook Air 13 inch M5 2026"
     },
@@ -39,9 +65,23 @@
       "best_for": "Buyers who want an affordable entry into the Mac ecosystem",
       "key_spec": "Apple A18 Pro, 8GB RAM, from £549",
       "summary": "Apple's first proper budget laptop, offering excellent value in a sturdy, easy-to-repair aluminium chassis, though battery performance is disappointing and there's no keyboard backlight.",
-      "specs": {"Processor": "Apple A18 Pro", "RAM": "8GB", "Display": "2,408 x 1,506 IPS", "Battery": "11hr 51min", "Price guide": "£549"},
-      "pros": ["Excellent value", "Sturdy aluminium chassis", "Easy to repair"],
-      "cons": ["Disappointing battery performance", "Poor speaker quality", "No keyboard backlight"],
+      "specs": {
+        "Processor": "Apple A18 Pro",
+        "RAM": "8GB",
+        "Display": "2,408 x 1,506 IPS",
+        "Battery": "11hr 51min",
+        "Price guide": "£549"
+      },
+      "pros": [
+        "Excellent value",
+        "Sturdy aluminium chassis",
+        "Easy to repair"
+      ],
+      "cons": [
+        "Disappointing battery performance",
+        "Poor speaker quality",
+        "No keyboard backlight"
+      ],
       "asin": "",
       "search": "Apple MacBook Neo"
     },
@@ -52,9 +92,22 @@
       "best_for": "Buyers who mainly need a browser-based laptop with real performance",
       "key_spec": "MediaTek Kompanio Ultra 910, 12GB RAM, OLED, £499",
       "summary": "A lightweight Chromebook with a genuinely exceptional OLED screen and top-tier performance for the category, though the display is limited to Full HD and ports are limited.",
-      "specs": {"Processor": "MediaTek Kompanio Ultra 910", "RAM": "12GB", "Display": "1,920 x 1,080 OLED", "Battery": "14hr 53min", "Price guide": "£499"},
-      "pros": ["Lightweight design", "Exceptional OLED screen", "Top-tier Chromebook performance"],
-      "cons": ["Only Full HD resolution", "Limited port selection"],
+      "specs": {
+        "Processor": "MediaTek Kompanio Ultra 910",
+        "RAM": "12GB",
+        "Display": "1,920 x 1,080 OLED",
+        "Battery": "14hr 53min",
+        "Price guide": "£499"
+      },
+      "pros": [
+        "Lightweight design",
+        "Exceptional OLED screen",
+        "Top-tier Chromebook performance"
+      ],
+      "cons": [
+        "Only Full HD resolution",
+        "Limited port selection"
+      ],
       "asin": "",
       "search": "Lenovo Chromebook Plus 14 Gen 10"
     },
@@ -65,9 +118,22 @@
       "best_for": "Buyers who want the lightest laptop with the longest battery life",
       "key_spec": "Snapdragon X, 16GB RAM, under 1kg, 20hr battery",
       "summary": "Weighs under 1kg with a vivid OLED display and exceptional battery endurance, making it well suited to travel, though the webcam is subpar and graphics performance is weak.",
-      "specs": {"Processor": "Qualcomm Snapdragon X", "RAM": "16GB", "Display": "1,920 x 1,080 OLED", "Battery": "20hr 20min", "Price guide": "£1,100"},
-      "pros": ["Weighs under 1kg", "Vivid display", "Exceptional battery endurance"],
-      "cons": ["Subpar webcam", "Weak graphics capability"],
+      "specs": {
+        "Processor": "Qualcomm Snapdragon X",
+        "RAM": "16GB",
+        "Display": "1,920 x 1,080 OLED",
+        "Battery": "20hr 20min",
+        "Price guide": "£1,100"
+      },
+      "pros": [
+        "Weighs under 1kg",
+        "Vivid display",
+        "Exceptional battery endurance"
+      ],
+      "cons": [
+        "Subpar webcam",
+        "Weak graphics capability"
+      ],
       "asin": "",
       "search": "Asus Zenbook A14 2025"
     },
@@ -78,9 +144,23 @@
       "best_for": "Gamers who want strong performance without excessive bulk",
       "key_spec": "AMD Ryzen AI 7 350, RTX 5060, 16GB RAM",
       "summary": "Strong gaming capability with solid battery life and dual SSD slots for expansion, though it uses Wi-Fi 6E rather than 7 and has no RGB keyboard lighting.",
-      "specs": {"Processor": "AMD Ryzen AI 7 350", "Graphics": "Nvidia GeForce RTX 5060", "RAM": "16GB", "Display": "2,560 x 1,600", "Battery": "13hr 31min", "Price guide": "£1,300"},
-      "pros": ["Strong gaming capabilities", "Solid battery life for a gaming laptop", "Dual SSD slots"],
-      "cons": ["Wi-Fi 6E rather than 7", "No RGB keyboard lighting"],
+      "specs": {
+        "Processor": "AMD Ryzen AI 7 350",
+        "Graphics": "Nvidia GeForce RTX 5060",
+        "RAM": "16GB",
+        "Display": "2,560 x 1,600",
+        "Battery": "13hr 31min",
+        "Price guide": "£1,300"
+      },
+      "pros": [
+        "Strong gaming capabilities",
+        "Solid battery life for a gaming laptop",
+        "Dual SSD slots"
+      ],
+      "cons": [
+        "Wi-Fi 6E rather than 7",
+        "No RGB keyboard lighting"
+      ],
       "asin": "",
       "search": "Asus TUF Gaming A14 2025"
     },
@@ -91,9 +171,22 @@
       "best_for": "Windows buyers who want a premium ultraportable",
       "key_spec": "Intel Core Ultra 9 288V, 32GB RAM, 120Hz OLED",
       "summary": "A premium, feature-rich ultraportable with extended battery life, though Expert Reviews notes the Core Ultra 9 underperforms relative to its price and the Core Ultra 7 version offers better value.",
-      "specs": {"Processor": "Intel Core Ultra 9 288V", "RAM": "32GB", "Display": "2,880 x 1,800 OLED, 120Hz", "Battery": "18hr 28min", "Price guide": "£1,499"},
-      "pros": ["Premium aesthetics", "Extended battery life", "Feature-rich design"],
-      "cons": ["Core Ultra 9 underperforms relative to price", "Core Ultra 7 model offers better value"],
+      "specs": {
+        "Processor": "Intel Core Ultra 9 288V",
+        "RAM": "32GB",
+        "Display": "2,880 x 1,800 OLED, 120Hz",
+        "Battery": "18hr 28min",
+        "Price guide": "£1,499"
+      },
+      "pros": [
+        "Premium aesthetics",
+        "Extended battery life",
+        "Feature-rich design"
+      ],
+      "cons": [
+        "Core Ultra 9 underperforms relative to price",
+        "Core Ultra 7 model offers better value"
+      ],
       "asin": "",
       "search": "Asus Zenbook S 14 UX5406"
     }
@@ -117,6 +210,9 @@
     }
   ],
   "sources": [
-    {"name": "Expert Reviews: best laptops", "url": "https://www.expertreviews.co.uk/technology/laptops/best-laptop-uk"}
+    {
+      "name": "Expert Reviews: best laptops",
+      "url": "https://www.expertreviews.co.uk/technology/laptops/best-laptop-uk"
+    }
   ]
 }

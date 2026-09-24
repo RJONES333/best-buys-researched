@@ -4,7 +4,7 @@
   "short": "Portable SSDs compared by sustained write speed, connector type and durability, from everyday drives to Thunderbolt 5 speed champions.",
   "intro": "A drive's rated speed is only part of the story: many cheaper SSDs slow down dramatically once their fast cache fills up on a large transfer. This guide compares drives tested by Tom's Hardware, which measures sustained write performance with a 15-minute Iometer benchmark rather than just peak burst speeds.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "SanDisk",
@@ -13,9 +13,20 @@
       "best_for": "Buyers who want a reliable, consistently fast all-rounder",
       "key_spec": "1TB/2TB, Thunderbolt 3 with USB fallback, up to 2,700 MBps reads, 5-year warranty",
       "summary": "Tom's Hardware's overall pick, with both Thunderbolt 3 and USB modes so it works across a wide range of devices. Write performance is exceptional and consistent, wrapped in a metal and rubberised casing that stays cool and protects against knocks, though it commands a premium price.",
-      "specs": {"Capacities": "1TB, 2TB", "Connector": "USB-C (Thunderbolt 3 / USB 3.2 Gen 2x1)", "Sequential reads": "Up to 2,700 MBps (TB), 1,050 MBps (USB)", "Warranty": "5 years"},
-      "pros": ["Works via Thunderbolt 3 or USB", "Exceptional, consistent write performance", "Rugged metal and rubberised casing"],
-      "cons": ["Pricey compared to USB-only rivals"],
+      "specs": {
+        "Capacities": "1TB, 2TB",
+        "Connector": "USB-C (Thunderbolt 3 / USB 3.2 Gen 2x1)",
+        "Sequential reads": "Up to 2,700 MBps (TB), 1,050 MBps (USB)",
+        "Warranty": "5 years"
+      },
+      "pros": [
+        "Works via Thunderbolt 3 or USB",
+        "Exceptional, consistent write performance",
+        "Rugged metal and rubberised casing"
+      ],
+      "cons": [
+        "Pricey compared to USB-only rivals"
+      ],
       "asin": "",
       "search": "SanDisk Pro-G40 SSD"
     },
@@ -26,9 +37,21 @@
       "best_for": "Buyers with a USB4 laptop who want speed without Thunderbolt 5 pricing",
       "key_spec": "1TB/2TB/4TB, USB4, 4,000 MBps reads, MagSafe-compatible",
       "summary": "Tom's Hardware measured read speeds above 4,000 MBps and sustained writes holding between 1,600-1,700 MBps for a full 15 minutes without drastically slowing down. A magnetic back lets it snap onto compatible phones for video recording, though the metal top gets hot during long sustained writes.",
-      "specs": {"Capacities": "1TB, 2TB, 4TB", "Connector": "USB4", "Sequential reads": "4,000 MBps", "Warranty": "3 years"},
-      "pros": ["Strong, consistent sustained write speeds", "Compact, MagSafe-compatible shell", "More affordable than Thunderbolt 5 rivals"],
-      "cons": ["Metal top gets hot during lengthy writes", "Exterior finish looks a little cheap"],
+      "specs": {
+        "Capacities": "1TB, 2TB, 4TB",
+        "Connector": "USB4",
+        "Sequential reads": "4,000 MBps",
+        "Warranty": "3 years"
+      },
+      "pros": [
+        "Strong, consistent sustained write speeds",
+        "Compact, MagSafe-compatible shell",
+        "More affordable than Thunderbolt 5 rivals"
+      ],
+      "cons": [
+        "Metal top gets hot during lengthy writes",
+        "Exterior finish looks a little cheap"
+      ],
       "asin": "",
       "search": "Corsair EX400U SSD"
     },
@@ -39,9 +62,21 @@
       "best_for": "Buyers who want a drive that doubles as a hub on the road",
       "key_spec": "1TB/2TB/4TB, 10 Gbps USB, built-in USB/HDMI hub, magnetic back",
       "summary": "Tom's Hardware called this one of the most genuinely useful drives it's tested, thanks to a built-in USB and HDMI hub that's handy when travelling with a laptop that's short on ports. Sustained writes stayed above 900 MB/s for the full 30-minute test, aided by active cooling.",
-      "specs": {"Capacities": "1TB, 2TB, 4TB", "Connector": "10 Gbps USB-C", "Sequential reads": "Up to 1,000 MBps", "Warranty": "2 years"},
-      "pros": ["Built-in USB/HDMI hub is genuinely useful", "Excellent sustained write performance", "MagSafe-friendly magnetic back"],
-      "cons": ["Expensive", "Cramped USB-C port won't fit bulky cable connectors"],
+      "specs": {
+        "Capacities": "1TB, 2TB, 4TB",
+        "Connector": "10 Gbps USB-C",
+        "Sequential reads": "Up to 1,000 MBps",
+        "Warranty": "2 years"
+      },
+      "pros": [
+        "Built-in USB/HDMI hub is genuinely useful",
+        "Excellent sustained write performance",
+        "MagSafe-friendly magnetic back"
+      ],
+      "cons": [
+        "Expensive",
+        "Cramped USB-C port won't fit bulky cable connectors"
+      ],
       "asin": "",
       "search": "Sharge Disk Pro SSD"
     },
@@ -52,9 +87,20 @@
       "best_for": "Creators who move projects between Windows and Mac machines",
       "key_spec": "1TB/2TB/4TB, USB4, ~4,000 MBps on Windows, ~3,440 MBps on Mac, 3-year warranty with data recovery",
       "summary": "Tom's Hardware found this the fastest drive it's tested across both Windows and Mac, with around 4,000/3,700 MBps read/write on Windows 11 and still-fast 3,440/3,093 MBps on a current Mac. The 3-year warranty includes data recovery, at a high price.",
-      "specs": {"Capacities": "1TB, 2TB, 4TB", "Connector": "USB4", "Sequential reads": "~4,000 MBps (Windows)", "Warranty": "3 years, includes data recovery"},
-      "pros": ["Fastest cross-platform drive tested", "Very fast on both Windows and Mac", "Warranty includes 3 years of data recovery"],
-      "cons": ["Expensive"],
+      "specs": {
+        "Capacities": "1TB, 2TB, 4TB",
+        "Connector": "USB4",
+        "Sequential reads": "~4,000 MBps (Windows)",
+        "Warranty": "3 years, includes data recovery"
+      },
+      "pros": [
+        "Fastest cross-platform drive tested",
+        "Very fast on both Windows and Mac",
+        "Warranty includes 3 years of data recovery"
+      ],
+      "cons": [
+        "Expensive"
+      ],
       "asin": "",
       "search": "LaCie Rugged SSD4"
     },
@@ -65,9 +111,22 @@
       "best_for": "Buyers who want fast, easy hardware-level security",
       "key_spec": "500GB/1TB/2TB, USB 3.2 Gen 2, built-in fingerprint scanner, AES 256-bit encryption",
       "summary": "Blends solid USB 3.2 Gen 2 performance with a built-in fingerprint scanner Tom's Hardware calls the most convenient way to unlock a drive it's seen, in an elegant aluminium shell available in several colours. The write cache is relatively small, and rivals like G-Technology's ArmorLock use phone-based unlocking that may be more secure.",
-      "specs": {"Capacities": "500GB, 1TB, 2TB", "Connector": "USB 3.2 Gen 2", "Sequential reads": "1,050 MBps", "Warranty": "3 years"},
-      "pros": ["Convenient fingerprint-unlock security", "AES 256-bit hardware encryption", "Attractive aluminium design", "Includes both USB-A and USB-C cables"],
-      "cons": ["Smaller write cache than rivals", "Only a 3-year warranty"],
+      "specs": {
+        "Capacities": "500GB, 1TB, 2TB",
+        "Connector": "USB 3.2 Gen 2",
+        "Sequential reads": "1,050 MBps",
+        "Warranty": "3 years"
+      },
+      "pros": [
+        "Convenient fingerprint-unlock security",
+        "AES 256-bit hardware encryption",
+        "Attractive aluminium design",
+        "Includes both USB-A and USB-C cables"
+      ],
+      "cons": [
+        "Smaller write cache than rivals",
+        "Only a 3-year warranty"
+      ],
       "asin": "",
       "search": "Samsung T7 Touch SSD"
     },
@@ -78,9 +137,21 @@
       "best_for": "Mac users with Thunderbolt 5 who want the fastest possible drive",
       "key_spec": "2TB/4TB, Thunderbolt 5, up to 6,700 MBps reads, 5-year warranty with data recovery",
       "summary": "The fastest single-drive speeds Tom's Hardware has recorded on an external SSD, tested on a Thunderbolt 5-equipped Mac, backed by 5 years of Seagate's data recovery service. Compatibility on older hardware is complex, and in Windows 11 over Thunderbolt 4 it was slower than newer native USB4 drives.",
-      "specs": {"Capacities": "2TB, 4TB", "Connector": "Thunderbolt 5", "Sequential reads": "6,700 MBps", "Warranty": "5 years, includes data recovery"},
-      "pros": ["Fastest external SSD speeds tested", "Rugged, premium design", "5 years of included data recovery service"],
-      "cons": ["Slower than USB4 rivals without a Thunderbolt 5 port", "Not supported over Thunderbolt 3 or low-power USB ports in Windows"],
+      "specs": {
+        "Capacities": "2TB, 4TB",
+        "Connector": "Thunderbolt 5",
+        "Sequential reads": "6,700 MBps",
+        "Warranty": "5 years, includes data recovery"
+      },
+      "pros": [
+        "Fastest external SSD speeds tested",
+        "Rugged, premium design",
+        "5 years of included data recovery service"
+      ],
+      "cons": [
+        "Slower than USB4 rivals without a Thunderbolt 5 port",
+        "Not supported over Thunderbolt 3 or low-power USB ports in Windows"
+      ],
       "asin": "",
       "search": "LaCie Rugged SSD Pro5"
     }
@@ -104,6 +175,9 @@
     }
   ],
   "sources": [
-    {"name": "Tom's Hardware: best external SSDs", "url": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html"}
+    {
+      "name": "Tom's Hardware: best external SSDs",
+      "url": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html"
+    }
   ]
 }

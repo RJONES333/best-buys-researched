@@ -4,7 +4,7 @@
   "short": "Leather, ratchet and travel belts compared by closure type, material and durability.",
   "intro": "A belt's closure type matters as much as the material: a ratchet buckle gives a far more precise fit than a traditional prong, while a stretch or elastic belt suits active use. This guide compares belts tested by TechGearLab, from full-grain leather to travel-friendly synthetic options.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Main Street Forge",
@@ -13,9 +13,21 @@
       "best_for": "Casual to business-casual wear with a traditional buckle",
       "key_spec": "Full-grain leather, riveted prong buckle",
       "summary": "TechGearLab's overall leather pick. Solidly constructed, soft and pliable with a distressed look, and the riveted attachment means the buckle can be swapped out, though it's pricier and less water-resistant.",
-      "specs": {"Material": "Full-grain leather", "Closure": "Traditional prong buckle, riveted attachment"},
-      "pros": ["Solid construction", "Soft and pliable", "Buckle can be replaced thanks to riveted connection"],
-      "cons": ["Higher price", "Limited colours", "Susceptible to water and stains", "Limited to casual styling"],
+      "specs": {
+        "Material": "Full-grain leather",
+        "Closure": "Traditional prong buckle, riveted attachment"
+      },
+      "pros": [
+        "Solid construction",
+        "Soft and pliable",
+        "Buckle can be replaced thanks to riveted connection"
+      ],
+      "cons": [
+        "Higher price",
+        "Limited colours",
+        "Susceptible to water and stains",
+        "Limited to casual styling"
+      ],
       "asin": "",
       "search": "Main Street Forge The Bootlegger belt"
     },
@@ -26,9 +38,22 @@
       "best_for": "Versatile casual to business-casual wear with a modern buckle",
       "key_spec": "Stretch polyester, magnetic self-locking aluminium buckle",
       "summary": "A one-and-done sizing belt with a durable polyester strap and a super easy, magnetic-locking aluminium buckle, though it's stiff at first and pricier than leather alternatives.",
-      "specs": {"Material": "Stretch polyester", "Closure": "Magnetic self-locking aluminium buckle"},
-      "pros": ["One-and-done sizing", "Durable polyester", "Easy magnetic-locking buckle", "Stylish"],
-      "cons": ["Stiff when new", "Can be difficult to adjust", "Harder to thread through belt loops", "Expensive"],
+      "specs": {
+        "Material": "Stretch polyester",
+        "Closure": "Magnetic self-locking aluminium buckle"
+      },
+      "pros": [
+        "One-and-done sizing",
+        "Durable polyester",
+        "Easy magnetic-locking buckle",
+        "Stylish"
+      ],
+      "cons": [
+        "Stiff when new",
+        "Can be difficult to adjust",
+        "Harder to thread through belt loops",
+        "Expensive"
+      ],
       "asin": "",
       "search": "Groove Life Groove belt"
     },
@@ -39,9 +64,21 @@
       "best_for": "Buyers who want a quality-feeling belt at a low price",
       "key_spec": "Split leather, painted steel prong buckle",
       "summary": "TechGearLab's best value pick, very reasonably priced with a soft, double-stitched, sleeker-looking strap, though split leather is less durable than full-grain and colour choice is limited.",
-      "specs": {"Material": "Split leather", "Closure": "Painted steel buckle with prong"},
-      "pros": ["Very reasonably priced", "Soft", "Double-stitched", "Sleeker appearance"],
-      "cons": ["Split leather is less durable than full-grain", "Stitched buckle loop", "Limited colours"],
+      "specs": {
+        "Material": "Split leather",
+        "Closure": "Painted steel buckle with prong"
+      },
+      "pros": [
+        "Very reasonably priced",
+        "Soft",
+        "Double-stitched",
+        "Sleeker appearance"
+      ],
+      "cons": [
+        "Split leather is less durable than full-grain",
+        "Stitched buckle loop",
+        "Limited colours"
+      ],
       "asin": "",
       "search": "Dickies Casual Leather belt"
     },
@@ -52,9 +89,22 @@
       "best_for": "Buyers who want a precise, no-holes fit at a low price",
       "key_spec": "Leather, ratchet buckle with spring-loaded release, 1/4-inch adjustments",
       "summary": "TechGearLab picks this for dress occasions. Its ratchet buckle gives precise quarter-inch adjustments rather than fixed holes, and it's inexpensive with a trim-to-fit strap and a wide range of colours, though it isn't full-grain leather and needs cutting to size.",
-      "specs": {"Material": "Leather", "Closure": "Ratchet buckle, spring-loaded release", "Adjustment": "1/4-inch increments"},
-      "pros": ["Stylish", "Precise quarter-inch adjustments", "Inexpensive", "Trim-to-fit, extensive colour options"],
-      "cons": ["Requires cutting to size", "Not full-grain leather", "Possible long-term wear on the spring mechanism"],
+      "specs": {
+        "Material": "Leather",
+        "Closure": "Ratchet buckle, spring-loaded release",
+        "Adjustment": "1/4-inch increments"
+      },
+      "pros": [
+        "Stylish",
+        "Precise quarter-inch adjustments",
+        "Inexpensive",
+        "Trim-to-fit, extensive colour options"
+      ],
+      "cons": [
+        "Requires cutting to size",
+        "Not full-grain leather",
+        "Possible long-term wear on the spring mechanism"
+      ],
       "asin": "",
       "search": "Chaoren Leather Ratchet Micro Adjustable belt"
     },
@@ -65,9 +115,22 @@
       "best_for": "Frequent flyers who want an airport-friendly belt",
       "key_spec": "Nylon, plastic snap-top buckle",
       "summary": "A lightweight, machine-washable, airport-friendly belt that's very easy to size and adjust and packs down small, though the plastic buckle raises some durability questions and it looks less formal.",
-      "specs": {"Material": "Nylon", "Closure": "Plastic snap-top buckle"},
-      "pros": ["Lightweight and airport-friendly", "Machine washable", "Very easy to size and adjust", "Packable"],
-      "cons": ["Plastic buckle durability concerns", "Thin design", "May need hand-trimming", "Less formal look"],
+      "specs": {
+        "Material": "Nylon",
+        "Closure": "Plastic snap-top buckle"
+      },
+      "pros": [
+        "Lightweight and airport-friendly",
+        "Machine washable",
+        "Very easy to size and adjust",
+        "Packable"
+      ],
+      "cons": [
+        "Plastic buckle durability concerns",
+        "Thin design",
+        "May need hand-trimming",
+        "Less formal look"
+      ],
       "asin": "",
       "search": "Bison T-Lock belt"
     },
@@ -78,9 +141,22 @@
       "best_for": "Hiking, gym and other active use where flexibility matters",
       "key_spec": "Elastic polyester, two-piece plastic buckle",
       "summary": "A flexible, comfortable belt that moves with you and packs down small, with a one-time adjustment setup, though TechGearLab found the buckle can feel flimsy and it catches on belt loops.",
-      "specs": {"Material": "Elastic polyester", "Closure": "Two-piece plastic buckle"},
-      "pros": ["Flexible and comfortable", "Accommodates movement", "One-time adjustment", "Compact for packing"],
-      "cons": ["Buckle can feel flimsy", "Catches on belt loops", "Limited durability", "Slightly overpriced"],
+      "specs": {
+        "Material": "Elastic polyester",
+        "Closure": "Two-piece plastic buckle"
+      },
+      "pros": [
+        "Flexible and comfortable",
+        "Accommodates movement",
+        "One-time adjustment",
+        "Compact for packing"
+      ],
+      "cons": [
+        "Buckle can feel flimsy",
+        "Catches on belt loops",
+        "Limited durability",
+        "Slightly overpriced"
+      ],
       "asin": "",
       "search": "Arcade Atlas belt"
     }
@@ -104,6 +180,9 @@
     }
   ],
   "sources": [
-    {"name": "TechGearLab: best belts for men", "url": "https://www.techgearlab.com/topics/home/best-belt"}
+    {
+      "name": "TechGearLab: best belts for men",
+      "url": "https://www.techgearlab.com/topics/home/best-belt"
+    }
   ]
 }

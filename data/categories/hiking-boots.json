@@ -4,7 +4,7 @@
   "short": "Walking and hiking boots compared by grip, waterproofing and support, from budget trail boots to technical mountain footwear.",
   "intro": "The right hiking boot balances weight against support and waterproofing, and that balance shifts depending on the terrain and how much you're carrying. This guide compares boots tested by Live for the Outdoors' team of hiking experts on thousands of miles of UK and mountain terrain.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "La Sportiva",
@@ -13,9 +13,21 @@
       "best_for": "Rugged hillwalking, scrambling and mixed technical terrain",
       "key_spec": "Vibram outsole, 3D Flex System Evo, Gore-Tex, 535g per boot",
       "summary": "LFTO's best in test, feeling planted and precise the moment terrain gets steep and rocky, with a Vibram outsole that grips hard on wet rock and a pronounced heel brake for confidence on descents. A tough synthetic upper is comfortable out of the box, though it's firmly premium-priced and slightly heavy for big-mileage days.",
-      "specs": {"Weight": "535g per boot", "Waterproofing": "Gore-Tex", "Outsole": "Vibram"},
-      "pros": ["Excellent all-round technical performance", "Proven design suited to rugged mountain use", "Reliable waterproofing in wet grass and soggy trails"],
-      "cons": ["Expensive", "A tad heavy", "Less comfortable than ultralight boots on big mileage days"],
+      "specs": {
+        "Weight": "535g per boot",
+        "Waterproofing": "Gore-Tex",
+        "Outsole": "Vibram"
+      },
+      "pros": [
+        "Excellent all-round technical performance",
+        "Proven design suited to rugged mountain use",
+        "Reliable waterproofing in wet grass and soggy trails"
+      ],
+      "cons": [
+        "Expensive",
+        "A tad heavy",
+        "Less comfortable than ultralight boots on big mileage days"
+      ],
       "asin": "",
       "search": "La Sportiva Aequilibrium Hike GTX boots"
     },
@@ -26,9 +38,19 @@
       "best_for": "Buyers who want a lightweight yet protective three-season boot",
       "key_spec": "Oiled nubuck leather, Presa Supergum outsole, chunky EVA midsole",
       "summary": "Won LFTO's Trail Gear of the Year, with generous ankle padding via a 3D Autofit collar and excellent traction from Scarpa's own outsole. Metal lacing hardware adds durability, giving a sturdy, protective boot that still feels light and agile, though it only comes in one width so the fit won't suit everyone.",
-      "specs": {"Upper": "Oiled nubuck leather", "Outsole": "Presa Supergum"},
-      "pros": ["Impressive performance for a relatively lightweight boot", "Can be re-soled", "Good cushioning", "Excellent grip"],
-      "cons": ["Single width won't suit everyone's foot shape"],
+      "specs": {
+        "Upper": "Oiled nubuck leather",
+        "Outsole": "Presa Supergum"
+      },
+      "pros": [
+        "Impressive performance for a relatively lightweight boot",
+        "Can be re-soled",
+        "Good cushioning",
+        "Excellent grip"
+      ],
+      "cons": [
+        "Single width won't suit everyone's foot shape"
+      ],
       "asin": "",
       "search": "Scarpa Rush Trk Pro GTX boots"
     },
@@ -39,9 +61,19 @@
       "best_for": "Casual hikers who want comfort on woodland and dry hill trails",
       "key_spec": "395g per boot, no break-in period, basic waterproofing",
       "summary": "A genuine surprise at under £75, feeling more like a sturdy trainer than a traditional boot, with no stiffness or break-in period and decent underfoot cushioning. LFTO found grip better than expected on typical countryside terrain, though waterproofing lets water in during sustained rain or boggy ground.",
-      "specs": {"Weight": "395g per boot", "Price guide": "£69.99"},
-      "pros": ["Lightweight and comfortable from the first wear", "Good grip for the price", "Excellent value for casual hiking"],
-      "cons": ["Waterproofing struggles in heavy rain or boggy terrain", "Limited ankle support"],
+      "specs": {
+        "Weight": "395g per boot",
+        "Price guide": "£69.99"
+      },
+      "pros": [
+        "Lightweight and comfortable from the first wear",
+        "Good grip for the price",
+        "Excellent value for casual hiking"
+      ],
+      "cons": [
+        "Waterproofing struggles in heavy rain or boggy terrain",
+        "Limited ankle support"
+      ],
       "asin": "",
       "search": "Quechua MH500 Mountain boots"
     },
@@ -52,9 +84,22 @@
       "best_for": "Multi-day treks or carrying a heavy pack over rough terrain",
       "key_spec": "768g per boot, Vibram Apptrail Divo outsole, dual-zone lacing",
       "summary": "A full-fat trekking boot that LFTO found brings a level of stability lighter designs can't match, with a stiff DuraPU midsole giving controlled foot placement on uneven ground. Grip and waterproofing both proved rock solid, and despite the stiffness, comfort surprised testers with little break-in needed.",
-      "specs": {"Weight": "768g per boot", "Waterproofing": "Gore-Tex", "Outsole": "Vibram Apptrail Divo"},
-      "pros": ["Surprisingly comfortable", "Very secure foot placement", "Supremely grippy", "Reliable waterproofing", "Women-specific fit available"],
-      "cons": ["Expensive", "Too heavy and stiff for casual hikers"],
+      "specs": {
+        "Weight": "768g per boot",
+        "Waterproofing": "Gore-Tex",
+        "Outsole": "Vibram Apptrail Divo"
+      },
+      "pros": [
+        "Surprisingly comfortable",
+        "Very secure foot placement",
+        "Supremely grippy",
+        "Reliable waterproofing",
+        "Women-specific fit available"
+      ],
+      "cons": [
+        "Expensive",
+        "Too heavy and stiff for casual hikers"
+      ],
       "asin": "",
       "search": "Lowa Tibet Evo GTX boots"
     },
@@ -65,9 +110,20 @@
       "best_for": "Big-mileage three-season hiking where comfort matters most",
       "key_spec": "Thick EVA midsole, Vibram Megagrip outsole, jacquard mesh upper",
       "summary": "Became a boot LFTO's testers kept reaching for without thinking, thanks to a soft, bouncy EVA midsole with noticeable energy return that takes the sting out of long descents. Grip and waterproofing were both dependable on mixed UK terrain, though it's not built for the toughest mountain days or wintry conditions.",
-      "specs": {"Outsole": "Vibram Megagrip", "Upper": "Jacquard mesh", "Price guide": "£99.99"},
-      "pros": ["Extremely comfortable ride", "Great midsole cushioning with energy return", "Lightweight and flexible", "Good waterproofing"],
-      "cons": ["Not built for the toughest terrain or harshest weather"],
+      "specs": {
+        "Outsole": "Vibram Megagrip",
+        "Upper": "Jacquard mesh",
+        "Price guide": "£99.99"
+      },
+      "pros": [
+        "Extremely comfortable ride",
+        "Great midsole cushioning with energy return",
+        "Lightweight and flexible",
+        "Good waterproofing"
+      ],
+      "cons": [
+        "Not built for the toughest terrain or harshest weather"
+      ],
       "asin": "",
       "search": "Mammut Aenergy Mtn Mid GTX boots"
     },
@@ -78,9 +134,21 @@
       "best_for": "Mixed winter mountain terrain, including crampon use",
       "key_spec": "PU foam injected sole, semi-automatic C2 crampon compatible, nubuck leather upper",
       "summary": "LFTO calls this the ideal mountain boot for balancing walking comfort, technical performance and durability, with an unusual PU-foam-injected sole that saves weight without losing cushioning. A flexible, elasticated ankle cuff gave excellent freedom of movement, though the narrower last won't suit every foot.",
-      "specs": {"Crampon compatibility": "Semi-automatic C2", "Upper": "Nubuck leather", "Price guide": "£240.64"},
-      "pros": ["Ideal traits for winter hillwalking", "Soft collar for comfort", "Lighter than many winter/mountain boots", "Can be resoled"],
-      "cons": ["Narrower last won't suit everyone", "Less precise crampon fit than dedicated winter boots"],
+      "specs": {
+        "Crampon compatibility": "Semi-automatic C2",
+        "Upper": "Nubuck leather",
+        "Price guide": "£240.64"
+      },
+      "pros": [
+        "Ideal traits for winter hillwalking",
+        "Soft collar for comfort",
+        "Lighter than many winter/mountain boots",
+        "Can be resoled"
+      ],
+      "cons": [
+        "Narrower last won't suit everyone",
+        "Less precise crampon fit than dedicated winter boots"
+      ],
       "asin": "",
       "search": "La Sportiva Aequilibrium LT GTX boots"
     },
@@ -91,9 +159,18 @@
       "best_for": "Buyers who want a firm, supportive all-rounder for most UK conditions",
       "key_spec": "Higher collar, 3 lace eyelets, Gore-Tex, Lowa rubber outsole",
       "summary": "Sits in a non-specialised middle ground between trainer-style boots and heavier leather options, with a higher collar and extra lace eyelet for a properly locked-in fit. LFTO found the firm, stable underfoot feel suits mountainous terrain well, with reliable grip and waterproofing, though it's too firm for those who prefer plush cushioning.",
-      "specs": {"Waterproofing": "Gore-Tex", "Price guide": "£190"},
-      "pros": ["Reliable waterproofing", "Protective and sturdy", "Very good grip on gravel, rock and mud"],
-      "cons": ["Too firm underfoot for some hikers"],
+      "specs": {
+        "Waterproofing": "Gore-Tex",
+        "Price guide": "£190"
+      },
+      "pros": [
+        "Reliable waterproofing",
+        "Protective and sturdy",
+        "Very good grip on gravel, rock and mud"
+      ],
+      "cons": [
+        "Too firm underfoot for some hikers"
+      ],
       "asin": "",
       "search": "Lowa Innovo Mid GTX boots"
     },
@@ -104,9 +181,18 @@
       "best_for": "Hikers who need a genuinely wide toe box",
       "key_spec": "KEEN.FUSION bonded sole, KEEN.RUGGED outsole, Luftcell midsole",
       "summary": "Keen's most popular model, known for its wide fit, now built more durably by fusing the sole to the upper with heat and pressure instead of glue. LFTO found it a capable three-season hillwalking boot with a more compression-resistant midsole than typical EVA foam, though grip on muddy terrain isn't the best on test.",
-      "specs": {"Sole construction": "KEEN.FUSION (heat-bonded)", "Price guide": "£130"},
-      "pros": ["Genuinely wide fit", "More sustainable, PFC/PFAS-free construction", "Durable heat-bonded sole"],
-      "cons": ["Not the best grip on muddy terrain"],
+      "specs": {
+        "Sole construction": "KEEN.FUSION (heat-bonded)",
+        "Price guide": "£130"
+      },
+      "pros": [
+        "Genuinely wide fit",
+        "More sustainable, PFC/PFAS-free construction",
+        "Durable heat-bonded sole"
+      ],
+      "cons": [
+        "Not the best grip on muddy terrain"
+      ],
       "asin": "",
       "search": "Keen Targhee IV Waterproof Hiking Boot"
     }
@@ -130,6 +216,9 @@
     }
   ],
   "sources": [
-    {"name": "Live for the Outdoors: best walking boots", "url": "https://www.livefortheoutdoors.com/hiking/walking-boots/best-walking-boots-tested/"}
+    {
+      "name": "Live for the Outdoors: best walking boots",
+      "url": "https://www.livefortheoutdoors.com/hiking/walking-boots/best-walking-boots-tested/"
+    }
   ]
 }

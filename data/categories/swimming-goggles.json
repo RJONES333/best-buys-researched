@@ -4,7 +4,7 @@
   "short": "Pool and open water swimming goggles compared by fit, field of vision and lens type, from budget picks to smart training goggles.",
   "intro": "The right goggles come down to fit more than any spec sheet, since a leaking seal ruins even the best lenses. This guide compares goggles tested by Outdoor Swimmer Magazine's panel across pool and open water sessions, covering low-profile racing fits, wide-vision open water designs and smart training goggles.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "THEMAGIC5",
@@ -13,9 +13,19 @@
       "best_for": "Swimmers who've never found a pair that doesn't leak",
       "key_spec": "AI facial scanning, custom-printed gaskets, mirror lenses",
       "summary": "A custom-fit goggle from the world's only bespoke swim goggle brand, using a smartphone 3D face scan to 3D-print gaskets tailored to your face. Outdoor Swimmer's tester, who usually avoids low-profile goggles, found a barely-there feel with a secure seal that never leaked, at a premium price.",
-      "specs": {"Fit": "Custom, AI-scanned", "Lens": "Blue Magic Mirror Gold", "Case": "Foam-formed, vented"},
-      "pros": ["Incredibly comfortable and leak-free", "Custom fit tailored to your face", "Includes robust case and anti-fog spray"],
-      "cons": ["High price"],
+      "specs": {
+        "Fit": "Custom, AI-scanned",
+        "Lens": "Blue Magic Mirror Gold",
+        "Case": "Foam-formed, vented"
+      },
+      "pros": [
+        "Incredibly comfortable and leak-free",
+        "Custom fit tailored to your face",
+        "Includes robust case and anti-fog spray"
+      ],
+      "cons": [
+        "High price"
+      ],
       "asin": "",
       "search": "THEMAGIC5 Vector swimming goggles"
     },
@@ -26,9 +36,19 @@
       "best_for": "Swimmers who want wide vision without a bulky profile",
       "key_spec": "Wide peripheral vision, soft eye gaskets, 4 lens options",
       "summary": "Outdoor Swimmer's tester's firm favourite from the Killa range, with softer gaskets and a less bulky profile than the similar Killa Comfort. No leakage issues even kicking off hard from the pool wall, with an easy clip adjustment system and mirrored lenses well suited to bright open water.",
-      "specs": {"Price guide": "£24", "Lens options": "Mirror, blue tint, smoke, clear"},
-      "pros": ["Wide vision in a slim profile", "Easy, secure clip adjustment", "No leakage even under hard use", "Choice of four lens tints"],
-      "cons": ["None noted by testers"],
+      "specs": {
+        "Price guide": "£24",
+        "Lens options": "Mirror, blue tint, smoke, clear"
+      },
+      "pros": [
+        "Wide vision in a slim profile",
+        "Easy, secure clip adjustment",
+        "No leakage even under hard use",
+        "Choice of four lens tints"
+      ],
+      "cons": [
+        "None noted by testers"
+      ],
       "asin": "",
       "search": "Orca Killa 180 Mirror swimming goggles"
     },
@@ -39,9 +59,20 @@
       "best_for": "Open water swimmers who want maximum sighting vision",
       "key_spec": "Wide curved lens, 100% UVA/UVB protection, 3 interchangeable nose pieces",
       "summary": "Outdoor Swimmer's tester called these exceptionally comfortable, with super-soft silicone that adjusted well without leaving goggle marks. The wide, curved lens gives a wide field of vision ideal for sighting and spotting other swimmers, with a robust hard case and stretchy, easy-to-adjust split straps.",
-      "specs": {"Price guide": "£37.99", "UV protection": "100% UVA/UVB", "Nose pieces": "3 interchangeable"},
-      "pros": ["Wide field of vision ideal for open water", "Exceptionally comfortable, no goggle marks", "UVA/UVB protection", "Sturdy case and secure fit"],
-      "cons": ["None noted by testers"],
+      "specs": {
+        "Price guide": "£37.99",
+        "UV protection": "100% UVA/UVB",
+        "Nose pieces": "3 interchangeable"
+      },
+      "pros": [
+        "Wide field of vision ideal for open water",
+        "Exceptionally comfortable, no goggle marks",
+        "UVA/UVB protection",
+        "Sturdy case and secure fit"
+      ],
+      "cons": [
+        "None noted by testers"
+      ],
       "asin": "",
       "search": "SWANS Ascender swimming goggles"
     },
@@ -52,9 +83,18 @@
       "best_for": "Swimmers who move between bright and dim conditions",
       "key_spec": "Photochromatic lenses, Titanium coating, comfortable eye gaskets",
       "summary": "Tested through an indoor pool session and a wintry lake dip, with lenses that reacted seamlessly to changing light, darkening in brightness without shifting colour tone. Outdoor Swimmer found the eye gaskets supremely comfortable with zero leakage across both swims, though the head strap feels a little flimsy.",
-      "specs": {"Price guide": "£50", "Lens type": "Photochromatic"},
-      "pros": ["Lenses adapt well to changing light", "Colours stay true, unlike some reactive lenses", "No leakage in testing"],
-      "cons": ["Head strap feels a little flimsy"],
+      "specs": {
+        "Price guide": "£50",
+        "Lens type": "Photochromatic"
+      },
+      "pros": [
+        "Lenses adapt well to changing light",
+        "Colours stay true, unlike some reactive lenses",
+        "No leakage in testing"
+      ],
+      "cons": [
+        "Head strap feels a little flimsy"
+      ],
       "asin": "",
       "search": "ZOGGS Predator Titanium Reactor goggles"
     },
@@ -65,9 +105,19 @@
       "best_for": "Swimmers who want a fit-and-forget goggle with zero faff",
       "key_spec": "Polarised lenses, soft flexible eye seal",
       "summary": "Outdoor Swimmer's swimming-coach tester found a perfect seal from the very first fitting, with a wide field of vision that made sighting buoys easy. The polarised lenses reduce reflections even at water level, converting the tester into a polarised-lens believer, with no faff whatsoever in daily use.",
-      "specs": {"Price guide": "£25", "Lens type": "Polarised"},
-      "pros": ["Perfect seal every time", "Great field of vision for open water", "Polarised lenses reduce reflections", "Robust and easy to use"],
-      "cons": ["None noted by testers"],
+      "specs": {
+        "Price guide": "£25",
+        "Lens type": "Polarised"
+      },
+      "pros": [
+        "Perfect seal every time",
+        "Great field of vision for open water",
+        "Polarised lenses reduce reflections",
+        "Robust and easy to use"
+      ],
+      "cons": [
+        "None noted by testers"
+      ],
       "asin": "",
       "search": "Zone3 Attack Polarized goggles"
     },
@@ -78,9 +128,19 @@
       "best_for": "Swimmers who struggle to get a lasting seal with other goggles",
       "key_spec": "Deep soft silicone gaskets, notched headstrap with adjustment levers, polarised lenses",
       "summary": "A super comfortable fit from the start, taking almost no time to adjust and achieve a seal that held for an entire swim. Outdoor Swimmer found the deep, flexible gaskets accommodate different face profiles well, with polarised lenses that reduce reflections enough to see beneath the water's surface before entering.",
-      "specs": {"Price guide": "£35", "Lens type": "Mirror/polarised"},
-      "pros": ["Remarkably comfortable fit", "Deep gaskets suit varied face shapes", "Robust adjustment levers hold tension well", "Polarised lenses cut reflections"],
-      "cons": ["Head strap may not stretch over winter headgear for some"],
+      "specs": {
+        "Price guide": "£35",
+        "Lens type": "Mirror/polarised"
+      },
+      "pros": [
+        "Remarkably comfortable fit",
+        "Deep gaskets suit varied face shapes",
+        "Robust adjustment levers hold tension well",
+        "Polarised lenses cut reflections"
+      ],
+      "cons": [
+        "Head strap may not stretch over winter headgear for some"
+      ],
       "asin": "",
       "search": "Zone3 Venator X swimming goggles"
     },
@@ -91,9 +151,18 @@
       "best_for": "Long training sessions or events where comfort is the priority",
       "key_spec": "Honeycomb silicone eye zones, curved lenses, split strap",
       "summary": "One of the most comfortable goggles Outdoor Swimmer's panel tested, with an unusual honeycomb eye-zone material that forms a leak-proof seal without over-tightening. The curved lenses gave wide lateral and vertical vision with exceptional clarity, suiting long training sessions without eye-socket pressure.",
-      "specs": {"Price guide": "£48", "Design": "Honeycomb silicone gaskets"},
-      "pros": ["Super comfortable fit for long sessions", "Wide field of vision", "Leak-proof without over-tightening"],
-      "cons": ["Takes a moment to adjust the strap"],
+      "specs": {
+        "Price guide": "£48",
+        "Design": "Honeycomb silicone gaskets"
+      },
+      "pros": [
+        "Super comfortable fit for long sessions",
+        "Wide field of vision",
+        "Leak-proof without over-tightening"
+      ],
+      "cons": [
+        "Takes a moment to adjust the strap"
+      ],
       "asin": "",
       "search": "BuddySwim OzeanX swimming goggles"
     },
@@ -104,9 +173,18 @@
       "best_for": "Swimmers who want real-time and post-swim training feedback",
       "key_spec": "Built-in display, HeadCoach real-time feedback, open water compass",
       "summary": "Outdoor Swimmer called these a total game changer, exceeding expectations for clarity, fit and comfort while adding genuine smart features like an open-water compass to help swim straighter. The HeadCoach feature gives real-time and post-swim feedback directly in view, removing the need for poolside notes.",
-      "specs": {"Price guide": "£279", "Smart features": "HeadCoach real-time feedback, compass"},
-      "pros": ["Genuinely useful smart training features", "Excellent clarity, fit and comfort", "Real-time and post-swim feedback"],
-      "cons": ["Could feel bulky for competitive racing"],
+      "specs": {
+        "Price guide": "£279",
+        "Smart features": "HeadCoach real-time feedback, compass"
+      },
+      "pros": [
+        "Genuinely useful smart training features",
+        "Excellent clarity, fit and comfort",
+        "Real-time and post-swim feedback"
+      ],
+      "cons": [
+        "Could feel bulky for competitive racing"
+      ],
       "asin": "",
       "search": "FORM Smart Swim 2 PRO goggles"
     }
@@ -130,6 +208,9 @@
     }
   ],
   "sources": [
-    {"name": "Outdoor Swimmer Magazine: best pool and open water goggles", "url": "https://outdoorswimmer.com/gear/review-goggles/"}
+    {
+      "name": "Outdoor Swimmer Magazine: best pool and open water goggles",
+      "url": "https://outdoorswimmer.com/gear/review-goggles/"
+    }
   ]
 }

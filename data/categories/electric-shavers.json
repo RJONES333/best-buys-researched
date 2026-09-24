@@ -4,7 +4,7 @@
   "short": "Foil and rotary electric shavers compared by closeness of shave, comfort and battery life, from budget picks to premium shaving systems.",
   "intro": "A shaver's price mostly buys motor power and how well the head adapts to your face, which matters most if you don't shave every single day. This guide compares shavers tested by Expert Reviews on day-old and three-day-old growth, judging shave quality, ergonomics, battery life and ease of cleaning.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Braun",
@@ -13,9 +13,22 @@
       "best_for": "Budget buyers who want a reliable, no-frills foil shaver",
       "key_spec": "3 floating foil elements, wet/dry use, 1hr charge for a week's shaving",
       "summary": "An affordable foil shaver with three independently floating elements that adapt to facial contours, usable in the shower and giving up to a week's shaving from a one-hour charge. Expert Reviews found shaving performance isn't up there with pricier models, needing a few passes for a close shave, and the power button can be brushed off accidentally.",
-      "specs": {"Battery type": "Rechargeable NiMH", "Battery life": "45 minutes", "Charging time": "1 hour", "Waterproof": "Yes, IPX7"},
-      "pros": ["Good value for money", "Usable wet or dry, including in the shower", "Long shaving time per charge", "Easy to clean"],
-      "cons": ["Needs a few passes for a close shave", "Sensitive power button can switch off mid-shave"],
+      "specs": {
+        "Battery type": "Rechargeable NiMH",
+        "Battery life": "45 minutes",
+        "Charging time": "1 hour",
+        "Waterproof": "Yes, IPX7"
+      },
+      "pros": [
+        "Good value for money",
+        "Usable wet or dry, including in the shower",
+        "Long shaving time per charge",
+        "Easy to clean"
+      ],
+      "cons": [
+        "Needs a few passes for a close shave",
+        "Sensitive power button can switch off mid-shave"
+      ],
       "asin": "",
       "search": "Braun Series 3 3040s electric shaver"
     },
@@ -26,9 +39,23 @@
       "best_for": "Buyers who want a waterproof rotary shaver with strong battery life",
       "key_spec": "Rotary, wet/dry, 60-minute battery, USB charging, 5-minute quick charge",
       "summary": "A well-specced budget rotary shaver that's fully waterproof for use with gel, foam or in the shower, with USB charging and a 5-minute quick-charge option. Expert Reviews found it comfortable for regular shaving with Twintrack blades handling thick jawline growth well, though it doesn't get quite as close as premium shavers and can tug on longer hairs.",
-      "specs": {"Battery type": "Rechargeable Lithium-ion", "Battery life": "60 minutes", "Charging time": "90 minutes (5-min quick charge)", "Waterproof": "Yes"},
-      "pros": ["Excellent battery life for the price", "Fully waterproof for wet or dry use", "USB charging with quick-charge option", "Handles thick jawline growth well"],
-      "cons": ["Not as close a shave as premium models", "Can tug on longer hairs", "Weak stubble attachment"],
+      "specs": {
+        "Battery type": "Rechargeable Lithium-ion",
+        "Battery life": "60 minutes",
+        "Charging time": "90 minutes (5-min quick charge)",
+        "Waterproof": "Yes"
+      },
+      "pros": [
+        "Excellent battery life for the price",
+        "Fully waterproof for wet or dry use",
+        "USB charging with quick-charge option",
+        "Handles thick jawline growth well"
+      ],
+      "cons": [
+        "Not as close a shave as premium models",
+        "Can tug on longer hairs",
+        "Weak stubble attachment"
+      ],
       "asin": "",
       "search": "Remington R6 Style Series Aqua shaver"
     },
@@ -39,9 +66,22 @@
       "best_for": "Buyers who want to maintain stubble rather than a clean shave",
       "key_spec": "Motorised 4D blade, 3 interchangeable combs, 50-minute battery",
       "summary": "Gillette's take on the OneBlade format, brilliant at trimming stubble on the neck, cheeks and jawline and maintaining a consistent two-to-three-day look, according to Expert Reviews. Blades stay sharp for months and it's fully waterproof, though it can't match a conventional shaver for a smooth, clean-cut finish.",
-      "specs": {"Battery type": "Rechargeable Lithium-ion", "Battery life": "50 minutes", "Charging time": "8 hours", "Waterproof": "Yes"},
-      "pros": ["Excellent for trimming and maintaining stubble", "Blades stay sharp for months", "Fully waterproof", "Doubles as a beard trimmer"],
-      "cons": ["Can't give as close a shave as conventional shavers", "Long 8-hour charge time"],
+      "specs": {
+        "Battery type": "Rechargeable Lithium-ion",
+        "Battery life": "50 minutes",
+        "Charging time": "8 hours",
+        "Waterproof": "Yes"
+      },
+      "pros": [
+        "Excellent for trimming and maintaining stubble",
+        "Blades stay sharp for months",
+        "Fully waterproof",
+        "Doubles as a beard trimmer"
+      ],
+      "cons": [
+        "Can't give as close a shave as conventional shavers",
+        "Long 8-hour charge time"
+      ],
       "asin": "",
       "search": "King C Gillette Style Master"
     },
@@ -52,9 +92,22 @@
       "best_for": "Buyers who want premium features on a budget",
       "key_spec": "2 independent flexing foils, intercept trimmer, USB charging",
       "summary": "Has the feel and features of pricier shavers at an affordable price, with a close shave for the money and a non-slip grip that's great when used wet. Expert Reviews found solid build quality bar a slightly flimsy pop-up trimmer, plus a handy 5-minute emergency charge and USB charging from any power bank or laptop.",
-      "specs": {"Battery type": "Rechargeable Lithium-ion", "Battery life": "60 minutes", "Charging time": "5 to 90 minutes", "Waterproof": "Yes"},
-      "pros": ["Premium features at an affordable price", "Close shave for the money", "Non-slip grip suits wet use", "USB charging, no dedicated charger needed"],
-      "cons": ["Slightly flimsy pop-up trimmer", "Clip-on stubble styler is uncomfortable and ineffective"],
+      "specs": {
+        "Battery type": "Rechargeable Lithium-ion",
+        "Battery life": "60 minutes",
+        "Charging time": "5 to 90 minutes",
+        "Waterproof": "Yes"
+      },
+      "pros": [
+        "Premium features at an affordable price",
+        "Close shave for the money",
+        "Non-slip grip suits wet use",
+        "USB charging, no dedicated charger needed"
+      ],
+      "cons": [
+        "Slightly flimsy pop-up trimmer",
+        "Clip-on stubble styler is uncomfortable and ineffective"
+      ],
       "asin": "",
       "search": "Remington F6 Style Series Aqua"
     },
@@ -65,9 +118,22 @@
       "best_for": "Buyers who want SkinIQ technology without a high-end price",
       "key_spec": "SkinIQ hair-density sensing, multi-directional pivoting heads, wet/dry",
       "summary": "Packs in SkinIQ technology from Philips' high-end range, sensing facial hair density and adapting motor power for an optimal shave. Expert Reviews found the heads pivot well for tricky areas, though a couple of tight spots around the jawline still needed extra passes, likely due to a larger-than-average head assembly.",
-      "specs": {"Battery type": "Rechargeable Lithium-ion", "Battery life": "60 minutes", "Charging time": "5 to 60 minutes", "Waterproof": "Yes"},
-      "pros": ["Close shaves at an affordable price", "SkinIQ adapts power to hair density", "Multi-directional pivoting heads", "5-minute rush charge available"],
-      "cons": ["Larger than average head assembly", "Optional cleaning pod costs extra"],
+      "specs": {
+        "Battery type": "Rechargeable Lithium-ion",
+        "Battery life": "60 minutes",
+        "Charging time": "5 to 60 minutes",
+        "Waterproof": "Yes"
+      },
+      "pros": [
+        "Close shaves at an affordable price",
+        "SkinIQ adapts power to hair density",
+        "Multi-directional pivoting heads",
+        "5-minute rush charge available"
+      ],
+      "cons": [
+        "Larger than average head assembly",
+        "Optional cleaning pod costs extra"
+      ],
       "asin": "",
       "search": "Philips Shaver Series 5000"
     },
@@ -78,9 +144,22 @@
       "best_for": "Buyers who want near-flagship performance without the flagship price",
       "key_spec": "3 flexible blades, 360° Flex adaptive head, AutoSense power control, SmartCare Centre",
       "summary": "An even better successor to a shaver that already set a high standard, with a 360° Flex head that twists and pivots to follow facial contours and AutoSense technology that ramps power up for thicker stubble. Expert Reviews found it genuinely great at pushing through unruly growth with less of the 'plucking' feeling associated with electric shavers.",
-      "specs": {"Battery type": "Rechargeable Lithium-ion", "Battery life": "50 minutes", "Charging time": "60 minutes (5-min quick charge)", "Waterproof": "Yes"},
-      "pros": ["Advanced, versatile flexible-blade head", "Genuinely handles thick, unruly stubble well", "Lighter, easier-to-grip handle", "Includes SmartCare cleaning and charging station"],
-      "cons": ["Not for those on a tight budget", "SmartCare Centre's indicator lights can be a little bright"],
+      "specs": {
+        "Battery type": "Rechargeable Lithium-ion",
+        "Battery life": "50 minutes",
+        "Charging time": "60 minutes (5-min quick charge)",
+        "Waterproof": "Yes"
+      },
+      "pros": [
+        "Advanced, versatile flexible-blade head",
+        "Genuinely handles thick, unruly stubble well",
+        "Lighter, easier-to-grip handle",
+        "Includes SmartCare cleaning and charging station"
+      ],
+      "cons": [
+        "Not for those on a tight budget",
+        "SmartCare Centre's indicator lights can be a little bright"
+      ],
       "asin": "",
       "search": "Braun Series 7 electric shaver"
     },
@@ -91,9 +170,22 @@
       "best_for": "Buyers who want app-based shaving feedback",
       "key_spec": "Self-sharpening SteelPrecision blades, Bluetooth GroomTribe app, cleaning pod compatible",
       "summary": "Gives most of the Series 9000's core technology at half the price, with redesigned heads that channel facial hair into the ideal cutting position. Expert Reviews liked the Bluetooth-connected GroomTribe app, which uses motion sensors to help track and improve shaving technique, though a supremely close shave still favours the pricier Series 9000.",
-      "specs": {"Battery type": "Rechargeable Lithium-ion", "Battery life": "60 minutes", "Charging time": "5 to 60 minutes", "Waterproof": "Yes"},
-      "pros": ["Most of the flagship technology at half the price", "Bluetooth app tracks and helps improve technique", "Comfortable, low-friction shave", "Works dry, with foam or gel, or in the shower"],
-      "cons": ["Not the very closest shave available", "Chunkier than the outgoing model"],
+      "specs": {
+        "Battery type": "Rechargeable Lithium-ion",
+        "Battery life": "60 minutes",
+        "Charging time": "5 to 60 minutes",
+        "Waterproof": "Yes"
+      },
+      "pros": [
+        "Most of the flagship technology at half the price",
+        "Bluetooth app tracks and helps improve technique",
+        "Comfortable, low-friction shave",
+        "Works dry, with foam or gel, or in the shower"
+      ],
+      "cons": [
+        "Not the very closest shave available",
+        "Chunkier than the outgoing model"
+      ],
       "asin": "",
       "search": "Philips Shaver Series 7000"
     },
@@ -104,9 +196,21 @@
       "best_for": "Buyers who shave every day and want the closest possible result",
       "key_spec": "5-blade system, 70,000 cutting actions per minute, beard-density sensor",
       "summary": "A high-tech shaver Expert Reviews called incredibly close and 'frankly flawless' when used daily, with a pivoting head and beard-density sensor that boosts power where needed. It works best with a daily shaving routine, since longer hairs from a few days' growth can trip up the system, and its cleaning station is noisy.",
-      "specs": {"Battery type": "Rechargeable Lithium-ion", "Battery life": "45 minutes", "Charging time": "60 minutes", "Waterproof": "Yes"},
-      "pros": ["Incredibly close, flawless shave with daily use", "Pivoting head adapts to facial contours", "Beard-density sensing adjusts power"],
-      "cons": ["Works best only if you shave daily", "Noisy cleaning and drying cycle"],
+      "specs": {
+        "Battery type": "Rechargeable Lithium-ion",
+        "Battery life": "45 minutes",
+        "Charging time": "60 minutes",
+        "Waterproof": "Yes"
+      },
+      "pros": [
+        "Incredibly close, flawless shave with daily use",
+        "Pivoting head adapts to facial contours",
+        "Beard-density sensing adjusts power"
+      ],
+      "cons": [
+        "Works best only if you shave daily",
+        "Noisy cleaning and drying cycle"
+      ],
       "asin": "",
       "search": "Panasonic ES-LV9Q electric shaver"
     }
@@ -130,6 +234,9 @@
     }
   ],
   "sources": [
-    {"name": "Expert Reviews: best electric shavers", "url": "https://www.expertreviews.co.uk/beauty-wellness/hair-care-grooming/best-electric-shavers"}
+    {
+      "name": "Expert Reviews: best electric shavers",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/hair-care-grooming/best-electric-shavers"
+    }
   ]
 }

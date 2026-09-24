@@ -4,7 +4,7 @@
   "short": "OLED, QLED and Mini LED TVs compared by brightness, gaming features and price, from budget to 8K.",
   "intro": "Screen technology matters more than brand for picture quality: OLED, QLED and Mini LED each have different strengths. This guide compares TVs tested by Expert Reviews across more than 85 sets over four years, from budget subscription options to flagship 8K.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Samsung",
@@ -13,9 +13,18 @@
       "best_for": "Buyers who want the strongest all-round picture",
       "key_spec": "QD-OLED, 55-83in",
       "summary": "Expert Reviews' overall winner. Supremely bright and colourful for an OLED, with excellent gaming performance and comprehensive connectivity, though it lacks Dolby Vision support.",
-      "specs": {"Technology": "QD-OLED", "Sizes": "55in, 65in, 77in, 83in"},
-      "pros": ["Supremely bright and colourful", "Excellent gaming performance", "Comprehensive connectivity"],
-      "cons": ["No Dolby Vision support"],
+      "specs": {
+        "Technology": "QD-OLED",
+        "Sizes": "55in, 65in, 77in, 83in"
+      },
+      "pros": [
+        "Supremely bright and colourful",
+        "Excellent gaming performance",
+        "Comprehensive connectivity"
+      ],
+      "cons": [
+        "No Dolby Vision support"
+      ],
       "asin": "",
       "search": "Samsung S95H QD-OLED TV"
     },
@@ -26,9 +35,19 @@
       "best_for": "Buyers who want a low upfront cost via monthly payments",
       "key_spec": "QLED, 43-65in, from £6/month",
       "summary": "A user-friendly QLED TV available on a monthly payment plan from £6, with strong audio and picture quality for the price, though gaming features are limited and it has only three HDMI ports.",
-      "specs": {"Technology": "QLED", "Sizes": "43in, 55in, 65in"},
-      "pros": ["Monthly payment option", "User-friendly interface", "Strong audio and picture quality"],
-      "cons": ["Limited gaming features", "Only three HDMI ports"],
+      "specs": {
+        "Technology": "QLED",
+        "Sizes": "43in, 55in, 65in"
+      },
+      "pros": [
+        "Monthly payment option",
+        "User-friendly interface",
+        "Strong audio and picture quality"
+      ],
+      "cons": [
+        "Limited gaming features",
+        "Only three HDMI ports"
+      ],
       "asin": "",
       "search": "Sky Glass Air TV"
     },
@@ -39,9 +58,19 @@
       "best_for": "Buyers with a £500-£1,000 budget who want strong performance",
       "key_spec": "QD Mini LED, 50-115in",
       "summary": "Exceptional brightness and good gaming features at a strong value price, spanning a huge range of sizes, though it only has two HDMI 2.1 ports and average built-in audio.",
-      "specs": {"Technology": "QD Mini LED", "Sizes": "50in-115in"},
-      "pros": ["Exceptional brightness", "Good gaming features", "Strong value"],
-      "cons": ["Only two HDMI 2.1 ports", "Average audio"],
+      "specs": {
+        "Technology": "QD Mini LED",
+        "Sizes": "50in-115in"
+      },
+      "pros": [
+        "Exceptional brightness",
+        "Good gaming features",
+        "Strong value"
+      ],
+      "cons": [
+        "Only two HDMI 2.1 ports",
+        "Average audio"
+      ],
       "asin": "",
       "search": "TCL C7K QD Mini LED TV"
     },
@@ -52,9 +81,19 @@
       "best_for": "Gamers who want low input lag and a fast refresh rate",
       "key_spec": "OLED, 43-83in, under 10ms input lag",
       "summary": "A fast-refreshing OLED with input lag under 10ms and an accurate Filmmaker mode, though reflection handling could be better in bright rooms.",
-      "specs": {"Technology": "OLED", "Sizes": "43in-83in", "Input lag": "Under 10ms"},
-      "pros": ["Fast refresh rate", "Very low input lag", "Accurate Filmmaker mode"],
-      "cons": ["Reflection handling could improve"],
+      "specs": {
+        "Technology": "OLED",
+        "Sizes": "43in-83in",
+        "Input lag": "Under 10ms"
+      },
+      "pros": [
+        "Fast refresh rate",
+        "Very low input lag",
+        "Accurate Filmmaker mode"
+      ],
+      "cons": [
+        "Reflection handling could improve"
+      ],
       "asin": "",
       "search": "LG C6 OLED TV"
     },
@@ -65,9 +104,18 @@
       "best_for": "Rooms with lots of natural light",
       "key_spec": "Micro RGB Mini LED, 65-85in",
       "summary": "Incredible colour range and effective anti-glare handling make this well suited to bright rooms, with strong gaming support, though colours can be slightly exaggerated.",
-      "specs": {"Technology": "Micro RGB Mini LED", "Sizes": "65in, 75in, 85in"},
-      "pros": ["Incredible colour range", "Strong gaming support", "Effective anti-glare"],
-      "cons": ["Some colour exaggeration"],
+      "specs": {
+        "Technology": "Micro RGB Mini LED",
+        "Sizes": "65in, 75in, 85in"
+      },
+      "pros": [
+        "Incredible colour range",
+        "Strong gaming support",
+        "Effective anti-glare"
+      ],
+      "cons": [
+        "Some colour exaggeration"
+      ],
       "asin": "",
       "search": "Samsung R95H Micro RGB Mini LED TV"
     },
@@ -78,9 +126,18 @@
       "best_for": "Buyers who want a genuinely huge screen",
       "key_spec": "SQD Mini LED, 75-98in",
       "summary": "Sensationally bright with surprising colour accuracy and impressive gaming for its size, available up to 98 inches, with only minor audio issues to note.",
-      "specs": {"Technology": "SQD Mini LED", "Sizes": "75in, 85in, 98in"},
-      "pros": ["Sensationally bright", "Surprising accuracy", "Impressive gaming"],
-      "cons": ["Minor audio issues"],
+      "specs": {
+        "Technology": "SQD Mini LED",
+        "Sizes": "75in, 85in, 98in"
+      },
+      "pros": [
+        "Sensationally bright",
+        "Surprising accuracy",
+        "Impressive gaming"
+      ],
+      "cons": [
+        "Minor audio issues"
+      ],
       "asin": "",
       "search": "TCL X11L SQD Mini LED TV"
     },
@@ -91,9 +148,19 @@
       "best_for": "Buyers who want a slim, wall-mounted design",
       "key_spec": "OLED, 48-97in",
       "summary": "A stylish, slim OLED designed for wall mounting, with bright, colourful output and premium gaming specs, though it shows some colour banding in Filmmaker mode and has poor off-axis viewing.",
-      "specs": {"Technology": "OLED", "Sizes": "48in-97in"},
-      "pros": ["Stylish design", "Bright, colourful output", "Premium gaming specs"],
-      "cons": ["Colour banding in Filmmaker mode", "Poor off-axis viewing"],
+      "specs": {
+        "Technology": "OLED",
+        "Sizes": "48in-97in"
+      },
+      "pros": [
+        "Stylish design",
+        "Bright, colourful output",
+        "Premium gaming specs"
+      ],
+      "cons": [
+        "Colour banding in Filmmaker mode",
+        "Poor off-axis viewing"
+      ],
       "asin": "",
       "search": "LG G5 OLED TV"
     },
@@ -104,9 +171,20 @@
       "best_for": "Buyers who want to future-proof with genuine 8K",
       "key_spec": "Mini LED, 65-85in, 8K",
       "summary": "Exceptional 8K upscaling with a well-controlled backlight and superior connections, though it's expensive and there's still little native 8K content to watch.",
-      "specs": {"Technology": "Mini LED", "Sizes": "65in, 75in, 85in", "Resolution": "8K"},
-      "pros": ["Exceptional 8K upscaling", "Well-controlled backlight", "Superior connections"],
-      "cons": ["Expensive", "Limited native 8K content available"],
+      "specs": {
+        "Technology": "Mini LED",
+        "Sizes": "65in, 75in, 85in",
+        "Resolution": "8K"
+      },
+      "pros": [
+        "Exceptional 8K upscaling",
+        "Well-controlled backlight",
+        "Superior connections"
+      ],
+      "cons": [
+        "Expensive",
+        "Limited native 8K content available"
+      ],
       "asin": "",
       "search": "Samsung QN900F 8K TV"
     }
@@ -130,6 +208,9 @@
     }
   ],
   "sources": [
-    {"name": "Expert Reviews: best TVs", "url": "https://www.expertreviews.co.uk/technology/tvs-home-cinema/best-tv-the-top-4k-hdr-and-1080p-televisions"}
+    {
+      "name": "Expert Reviews: best TVs",
+      "url": "https://www.expertreviews.co.uk/technology/tvs-home-cinema/best-tv-the-top-4k-hdr-and-1080p-televisions"
+    }
   ]
 }

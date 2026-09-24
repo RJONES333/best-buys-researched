@@ -4,7 +4,7 @@
   "short": "Waterproof, insulated and versatile ski and snowboard jackets for men and women, compared by weatherproofing, warmth and fit.",
   "intro": "A good ski jacket balances waterproofing, breathability and warmth differently depending on whether you're piste-bashing or hiking into the backcountry. This guide compares jackets tested on the mountain by Advnture, part of the same publisher as T3 and Tom's Guide, covering hardshells, insulated jackets and budget picks for men and women.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Arc'teryx",
@@ -13,9 +13,23 @@
       "best_for": "Freeride and backcountry skiers who want bombproof weather protection",
       "key_spec": "Gore-Tex Pro Most Rugged, 80/100-denier fabric, no insulation",
       "summary": "Advnture found this shell outperformed the rest of its test on weather protection, with a burly, highly abrasion-resistant fabric that shrugs off thick forest or rock faces. The athletic cut leaves room for layering without restricting movement, though it has no insulation and makes a telltale crinkling sound.",
-      "specs": {"Waterproofing": "Gore-Tex Pro Most Rugged", "Insulation": "None", "Sizes": "S-XXL", "Best for": "Freeride and backcountry touring"},
-      "pros": ["Fantastic build quality and abrasion resistance", "Athletic cut with room to layer", "Fully featured with pit zips and dump pockets", "Excellent weatherproofing"],
-      "cons": ["Hefty price tag", "No insulation, needs layering underneath", "Noisy, crinkly fabric"],
+      "specs": {
+        "Waterproofing": "Gore-Tex Pro Most Rugged",
+        "Insulation": "None",
+        "Sizes": "S-XXL",
+        "Best for": "Freeride and backcountry touring"
+      },
+      "pros": [
+        "Fantastic build quality and abrasion resistance",
+        "Athletic cut with room to layer",
+        "Fully featured with pit zips and dump pockets",
+        "Excellent weatherproofing"
+      ],
+      "cons": [
+        "Hefty price tag",
+        "No insulation, needs layering underneath",
+        "Noisy, crinkly fabric"
+      ],
       "asin": "",
       "search": "Arc'teryx Rush ski jacket men's"
     },
@@ -26,9 +40,22 @@
       "best_for": "Skiers who run warm or want hardshell protection in a softshell feel",
       "key_spec": "Proflex 20,000/25,000 waterproofing/breathability, no insulation",
       "summary": "Advnture rated the waterproofing and breathability as exceptional, with a soft, stretchy fabric that moves with the body and never left testers sweaty even during strenuous exertion. It's a minimalist jacket that doubles well as a hiking shell, though it offers little warmth on its own.",
-      "specs": {"Waterproofing": "Proflex 20,000mm", "Breathability": "25,000", "Insulation": "None", "Sizes": "S-XXL"},
-      "pros": ["Exceptionally light and breathable", "Extremely waterproof with effective DWR", "Doubles as a hiking jacket", "Vented Napoleon chest pockets"],
-      "cons": ["Not much warmth on its own", "No snow skirt"],
+      "specs": {
+        "Waterproofing": "Proflex 20,000mm",
+        "Breathability": "25,000",
+        "Insulation": "None",
+        "Sizes": "S-XXL"
+      },
+      "pros": [
+        "Exceptionally light and breathable",
+        "Extremely waterproof with effective DWR",
+        "Doubles as a hiking jacket",
+        "Vented Napoleon chest pockets"
+      ],
+      "cons": [
+        "Not much warmth on its own",
+        "No snow skirt"
+      ],
       "asin": "",
       "search": "Rab Khroma Kinetic ski jacket men's"
     },
@@ -39,9 +66,23 @@
       "best_for": "Advanced skiers who stick to piste runs and want built-in warmth",
       "key_spec": "20,000/20,000 waterproof/breathable, body-mapped Primaloft Eco insulation",
       "summary": "A high-performance resort jacket with body-mapped recycled Primaloft insulation giving more warmth in the core and better breathability elsewhere. Advnture found it comfortable with an athletic fit that never felt bulky, though it's expensive and not really designed for backcountry touring.",
-      "specs": {"Waterproofing": "20,000mm", "Breathability": "20,000", "Insulation": "Primaloft Eco (body-mapped)", "Sizes": "S-XXL"},
-      "pros": ["Excellent, well-placed insulation", "Comfortable, athletic fit", "Lots of pockets", "Stretchy fabric without the usual crinkle"],
-      "cons": ["Expensive", "No drop hem", "Not ideal for backcountry use"],
+      "specs": {
+        "Waterproofing": "20,000mm",
+        "Breathability": "20,000",
+        "Insulation": "Primaloft Eco (body-mapped)",
+        "Sizes": "S-XXL"
+      },
+      "pros": [
+        "Excellent, well-placed insulation",
+        "Comfortable, athletic fit",
+        "Lots of pockets",
+        "Stretchy fabric without the usual crinkle"
+      ],
+      "cons": [
+        "Expensive",
+        "No drop hem",
+        "Not ideal for backcountry use"
+      ],
       "asin": "",
       "search": "Schoffel Hohbiel ski jacket men's"
     },
@@ -52,9 +93,23 @@
       "best_for": "Hard-charging backcountry skiers who generate their own heat while hiking",
       "key_spec": "20,000/20,000 waterproof/breathable, three-layer stretch shell, no insulation",
       "summary": "An impressive weatherproof shell with strong stretch and articulation, well suited to backcountry skiers who work hard enough hiking to stay warm without insulation. Advnture liked the deep pit zips for quick venting, though the dump pocket is shallow and there are no external hand pockets.",
-      "specs": {"Waterproofing": "20,000mm", "Breathability": "20,000", "Insulation": "None", "Sizes": "S-XXL"},
-      "pros": ["Strong stretch and articulation", "Deep pit zips for quick venting", "Built-in snow skirt and helmet-compatible hood", "Range of striking colourways"],
-      "cons": ["No insulation, needs a warm mid layer", "Shallow dump pocket", "No external hand pockets"],
+      "specs": {
+        "Waterproofing": "20,000mm",
+        "Breathability": "20,000",
+        "Insulation": "None",
+        "Sizes": "S-XXL"
+      },
+      "pros": [
+        "Strong stretch and articulation",
+        "Deep pit zips for quick venting",
+        "Built-in snow skirt and helmet-compatible hood",
+        "Range of striking colourways"
+      ],
+      "cons": [
+        "No insulation, needs a warm mid layer",
+        "Shallow dump pocket",
+        "No external hand pockets"
+      ],
       "asin": "",
       "search": "Mammut Haldigrat ski jacket men's"
     },
@@ -65,9 +120,22 @@
       "best_for": "Serious or frequent skiers who want top-tier protection and fit",
       "key_spec": "Life Infinity waterproofing, synthetic insulation, RECCO reflector",
       "summary": "Advnture's favourite women's snow sports jacket, so water- and snowproof it handles a blizzard without fuss, with a flattering fit that layers well and enough insulation to stay cosy at rest. A RECCO reflector aids mountain rescue searchability, though it carries a matching premium price tag.",
-      "specs": {"Waterproofing": "Life Infinity", "Insulation": "Synthetic", "Sizes": "XS-XL", "Safety": "RECCO reflector"},
-      "pros": ["Excellent water- and snow-proofing", "Great fit with room to layer", "RECCO reflector for mountain safety", "Life Pocket helps preserve phone battery"],
-      "cons": ["Expensive", "Light colourways can reduce visibility in whiteout"],
+      "specs": {
+        "Waterproofing": "Life Infinity",
+        "Insulation": "Synthetic",
+        "Sizes": "XS-XL",
+        "Safety": "RECCO reflector"
+      },
+      "pros": [
+        "Excellent water- and snow-proofing",
+        "Great fit with room to layer",
+        "RECCO reflector for mountain safety",
+        "Life Pocket helps preserve phone battery"
+      ],
+      "cons": [
+        "Expensive",
+        "Light colourways can reduce visibility in whiteout"
+      ],
       "asin": "",
       "search": "Helly Hansen Verbier Infinity ski jacket women's"
     },
@@ -78,9 +146,23 @@
       "best_for": "Guides, seasonnaires and frequent skiers who need heavyweight protection",
       "key_spec": "Helly Tech Professional waterproofing, Primaloft insulation, RECCO detector",
       "summary": "Built for skiers out in the elements all day, combining strong waterproofing and warmth with genuine breathability and a light enough build to wear comfortably all day. Advnture praised the articulated sleeves and comfortable cut, though sizing runs on the small side.",
-      "specs": {"Waterproofing": "Helly Tech Professional with DWR", "Insulation": "Primaloft", "Weight": "910g", "Sizes": "XS-XXL"},
-      "pros": ["Beautiful build quality", "Fully waterproof and warm yet breathable", "Comfortable articulated sleeves", "Phone-warming pocket"],
-      "cons": ["Expensive", "More features than beginners need", "Sizes run small"],
+      "specs": {
+        "Waterproofing": "Helly Tech Professional with DWR",
+        "Insulation": "Primaloft",
+        "Weight": "910g",
+        "Sizes": "XS-XXL"
+      },
+      "pros": [
+        "Beautiful build quality",
+        "Fully waterproof and warm yet breathable",
+        "Comfortable articulated sleeves",
+        "Phone-warming pocket"
+      ],
+      "cons": [
+        "Expensive",
+        "More features than beginners need",
+        "Sizes run small"
+      ],
       "asin": "",
       "search": "Helly Hansen Aphelia Lifaloft ski jacket women's"
     },
@@ -91,9 +173,22 @@
       "best_for": "Beginner to intermediate skiers who want a comfortable, affordable puffer",
       "key_spec": "DWR water-repellent coating, recycled synthetic insulation",
       "summary": "A comfortable, puffy padded jacket that Advnture's testers found stood out for fit and comfort, with plenty of recycled insulation to withstand cold, windy weather. It's water-repellent rather than fully waterproof, and the boxy design offers less arm articulation than pricier, sportier jackets.",
-      "specs": {"Waterproofing": "DWR water-repellent", "Insulation": "Recycled synthetic", "Sizes": "S-XL"},
-      "pros": ["Well insulated and comfortable", "Good looks that double as a casual coat", "Affordable for a well-insulated jacket", "Recycled insulation"],
-      "cons": ["Water-repellent, not fully waterproof", "Arms less articulated than sportier jackets", "Fewer size options"],
+      "specs": {
+        "Waterproofing": "DWR water-repellent",
+        "Insulation": "Recycled synthetic",
+        "Sizes": "S-XL"
+      },
+      "pros": [
+        "Well insulated and comfortable",
+        "Good looks that double as a casual coat",
+        "Affordable for a well-insulated jacket",
+        "Recycled insulation"
+      ],
+      "cons": [
+        "Water-repellent, not fully waterproof",
+        "Arms less articulated than sportier jackets",
+        "Fewer size options"
+      ],
       "asin": "",
       "search": "TOG24 Anvil ski jacket women's"
     },
@@ -104,9 +199,21 @@
       "best_for": "Buyers who want a ski jacket that doubles as an everyday winter coat",
       "key_spec": "Omni-Tech waterproofing, Omni-Heat Infinity reflective lining",
       "summary": "A longer-length, smart-looking jacket that Advnture found kept testers cosy thanks to Columbia's reflective heat-trapping lining, with enough coverage to double as a general winter coat off the slopes. It runs slim, so curvier figures may want to size up.",
-      "specs": {"Waterproofing": "Omni-Tech", "Insulation": "Omni-Heat Infinity reflective lining", "Sizes": "XS-XXL"},
-      "pros": ["Very warm reflective lining", "Doubles well as an everyday winter coat", "Great build quality", "Longer length gives more coverage"],
-      "cons": ["Slim fit won't suit all figures", "Can run too warm for spring skiing"],
+      "specs": {
+        "Waterproofing": "Omni-Tech",
+        "Insulation": "Omni-Heat Infinity reflective lining",
+        "Sizes": "XS-XXL"
+      },
+      "pros": [
+        "Very warm reflective lining",
+        "Doubles well as an everyday winter coat",
+        "Great build quality",
+        "Longer length gives more coverage"
+      ],
+      "cons": [
+        "Slim fit won't suit all figures",
+        "Can run too warm for spring skiing"
+      ],
       "asin": "",
       "search": "Columbia Mount Bindo II ski jacket women's"
     }
@@ -130,7 +237,13 @@
     }
   ],
   "sources": [
-    {"name": "Advnture: the best ski jackets for men", "url": "https://www.advnture.com/buying-guides/best-ski-jackets"},
-    {"name": "Advnture: the best women's ski jackets", "url": "https://www.advnture.com/buying-guides/best-womens-ski-jackets"}
+    {
+      "name": "Advnture: the best ski jackets for men",
+      "url": "https://www.advnture.com/buying-guides/best-ski-jackets"
+    },
+    {
+      "name": "Advnture: the best women's ski jackets",
+      "url": "https://www.advnture.com/buying-guides/best-womens-ski-jackets"
+    }
   ]
 }

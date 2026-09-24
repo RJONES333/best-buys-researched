@@ -4,7 +4,7 @@
   "short": "Mechanical keyboards compared by build quality, switch feel and size, from budget compact boards to premium gaming keyboards.",
   "intro": "A mechanical keyboard's price mostly buys you build quality and typing feel rather than raw features. This guide compares keyboards tested by RTINGS, which says it has bought and tested 299 keyboards, spanning budget, mid-range, premium and gaming options.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Keychron",
@@ -13,9 +13,21 @@
       "best_for": "Buyers who want a premium full-size keyboard that's fully customisable",
       "key_spec": "96% layout, wireless (Bluetooth/2.4GHz), hot-swappable, gasket-mounted",
       "summary": "RTINGS' top pick, with a premium heavyweight aluminium case and top-of-the-line typing quality out of the box. The double gasket-mounted design and internal sound-dampening foam give a softer, cushioned feel, though the pre-lubed stabilizers sounded slightly inconsistent on the unit RTINGS tested.",
-      "specs": {"Size": "96% (compact full-size)", "Connectivity": "Bluetooth or 2.4GHz dongle", "Hot-swappable": "Yes", "Case": "Aluminium"},
-      "pros": ["Premium heavyweight aluminium case", "Top-of-the-line typing quality out of the box", "Fully customisable, hot-swappable switches", "Thorough instructions and included toolkit"],
-      "cons": ["Stabilizers sounded slightly inconsistent on the tested unit"],
+      "specs": {
+        "Size": "96% (compact full-size)",
+        "Connectivity": "Bluetooth or 2.4GHz dongle",
+        "Hot-swappable": "Yes",
+        "Case": "Aluminium"
+      },
+      "pros": [
+        "Premium heavyweight aluminium case",
+        "Top-of-the-line typing quality out of the box",
+        "Fully customisable, hot-swappable switches",
+        "Thorough instructions and included toolkit"
+      ],
+      "cons": [
+        "Stabilizers sounded slightly inconsistent on the tested unit"
+      ],
       "asin": "",
       "search": "Keychron Q5 Max keyboard"
     },
@@ -26,9 +38,21 @@
       "best_for": "Buyers who want a well-tuned board without paying for an aluminium case",
       "key_spec": "75% or full-size, standard or low-profile, wireless, hot-swappable",
       "summary": "RTINGS' mid-range pick, offering excellent build and typing quality despite an all-plastic construction. Pre-lubed and well-tuned switches and stabilizers give smooth, consistent keystrokes, with a choice of low-profile or standard-profile layouts, though the low-profile version's compressed layout takes some getting used to.",
-      "specs": {"Size": "75% or full-size", "Connectivity": "Wireless", "Hot-swappable": "Yes", "Case": "Plastic"},
-      "pros": ["Excellent build and typing quality for the price", "Pre-lubed, well-tuned switches and stabilizers", "Choice of standard or low-profile versions", "Touch strip for media/backlight control"],
-      "cons": ["Low-profile version's compressed layout takes adjustment"],
+      "specs": {
+        "Size": "75% or full-size",
+        "Connectivity": "Wireless",
+        "Hot-swappable": "Yes",
+        "Case": "Plastic"
+      },
+      "pros": [
+        "Excellent build and typing quality for the price",
+        "Pre-lubed, well-tuned switches and stabilizers",
+        "Choice of standard or low-profile versions",
+        "Touch strip for media/backlight control"
+      ],
+      "cons": [
+        "Low-profile version's compressed layout takes adjustment"
+      ],
       "asin": "",
       "search": "NuPhy Node keyboard"
     },
@@ -39,9 +63,22 @@
       "best_for": "Buyers who want a high-quality typing feel without a premium price",
       "key_spec": "65%, 75% or 98% sizes, wireless, hot-swappable, VIA-compatible",
       "summary": "RTINGS' budget pick, offering a surprisingly similar typing experience to pricier boards despite the lower price. Build quality is good for the price, though the plastic case has a little more flex and the soft gasket mount leans slightly mushy rather than springy.",
-      "specs": {"Size": "65%, 75% or 98%", "Connectivity": "Wireless", "Hot-swappable": "Yes", "Software": "VIA-compatible"},
-      "pros": ["High-quality typing experience for the price", "Good fitment and tolerances", "Compatible with the open-source VIA configurator", "Choice of three sizes"],
-      "cons": ["Plastic pieces have more flex than pricier boards", "Gasket mount leans mushy rather than springy"],
+      "specs": {
+        "Size": "65%, 75% or 98%",
+        "Connectivity": "Wireless",
+        "Hot-swappable": "Yes",
+        "Software": "VIA-compatible"
+      },
+      "pros": [
+        "High-quality typing experience for the price",
+        "Good fitment and tolerances",
+        "Compatible with the open-source VIA configurator",
+        "Choice of three sizes"
+      ],
+      "cons": [
+        "Plastic pieces have more flex than pricier boards",
+        "Gasket mount leans mushy rather than springy"
+      ],
       "asin": "",
       "search": "Ducky OK-M keyboard"
     },
@@ -52,9 +89,22 @@
       "best_for": "Buyers on a tight budget who want a tiny desk footprint",
       "key_spec": "60% layout, wireless, hot-swappable, ~10hr battery",
       "summary": "RTINGS' pick for the cheapest usable mechanical keyboard, with a tiny footprint that suits small desks or travel. It supports multi-device Bluetooth pairing and a hot-swappable PCB, though battery life is limited to around 10 hours and there's no dedicated arrow keys or function row.",
-      "specs": {"Size": "60%", "Connectivity": "Bluetooth (multi-device)", "Hot-swappable": "Yes", "Battery life": "~10 hours"},
-      "pros": ["Very affordable", "Tiny footprint for small desks or travel", "Hot-swappable PCB for easy switch replacement", "Multi-device Bluetooth pairing"],
-      "cons": ["Battery life around 10 hours only", "No dedicated arrow keys, function row or nav cluster"],
+      "specs": {
+        "Size": "60%",
+        "Connectivity": "Bluetooth (multi-device)",
+        "Hot-swappable": "Yes",
+        "Battery life": "~10 hours"
+      },
+      "pros": [
+        "Very affordable",
+        "Tiny footprint for small desks or travel",
+        "Hot-swappable PCB for easy switch replacement",
+        "Multi-device Bluetooth pairing"
+      ],
+      "cons": [
+        "Battery life around 10 hours only",
+        "No dedicated arrow keys, function row or nav cluster"
+      ],
       "asin": "",
       "search": "Royal Kludge RK61 keyboard"
     },
@@ -65,9 +115,21 @@
       "best_for": "Competitive gamers who want adjustable actuation and rapid trigger",
       "key_spec": "TKL (80%), wired, magnetic Hall-effect switches, up to 8000Hz polling",
       "summary": "RTINGS' top gaming pick, using magnetic switches rather than traditional mechanical ones so you can fine-tune actuation distance and use Rapid Trigger for near-instant key resets. Exceptional latency and input granularity, with a four-year warranty, though the zinc alloy case version costs more than the plastic variant RTINGS recommends instead.",
-      "specs": {"Size": "TKL (80%)", "Connectivity": "Wired", "Switch type": "Magnetic (analog)", "Polling rate": "Up to 8000Hz"},
-      "pros": ["Exceptional latency and input granularity", "Rapid Trigger and adjustable actuation for competitive play", "Analog input suits racing/flight sim games", "Four-year warranty"],
-      "cons": ["Zinc alloy case costs more than the recommended plastic version"],
+      "specs": {
+        "Size": "TKL (80%)",
+        "Connectivity": "Wired",
+        "Switch type": "Magnetic (analog)",
+        "Polling rate": "Up to 8000Hz"
+      },
+      "pros": [
+        "Exceptional latency and input granularity",
+        "Rapid Trigger and adjustable actuation for competitive play",
+        "Analog input suits racing/flight sim games",
+        "Four-year warranty"
+      ],
+      "cons": [
+        "Zinc alloy case costs more than the recommended plastic version"
+      ],
       "asin": "",
       "search": "Wooting 80HE keyboard"
     },
@@ -78,9 +140,19 @@
       "best_for": "Buyers who want the most refined low-profile typing feel",
       "key_spec": "Low-profile, full aluminium case, multiple switch and size options",
       "summary": "RTINGS' notable-mention alternative to the NuPhy Node Series for buyers who want more refined materials. It has a full aluminium case and an even more premium out-of-the-box typing experience, available in several sizes including a silent switch option, at a higher price.",
-      "specs": {"Profile": "Low-profile", "Case": "Aluminium", "Switch options": "Includes a silent option"},
-      "pros": ["Full aluminium case", "More premium typing experience than plastic rivals", "Silent switch option available"],
-      "cons": ["More expensive than the plastic NuPhy Node Series"],
+      "specs": {
+        "Profile": "Low-profile",
+        "Case": "Aluminium",
+        "Switch options": "Includes a silent option"
+      },
+      "pros": [
+        "Full aluminium case",
+        "More premium typing experience than plastic rivals",
+        "Silent switch option available"
+      ],
+      "cons": [
+        "More expensive than the plastic NuPhy Node Series"
+      ],
       "asin": "",
       "search": "Lofree Flow 2 keyboard"
     }
@@ -104,6 +176,9 @@
     }
   ],
   "sources": [
-    {"name": "RTINGS: the best mechanical keyboards", "url": "https://www.rtings.com/keyboard/reviews/best/mechanical"}
+    {
+      "name": "RTINGS: the best mechanical keyboards",
+      "url": "https://www.rtings.com/keyboard/reviews/best/mechanical"
+    }
   ]
 }

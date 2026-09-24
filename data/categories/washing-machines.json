@@ -4,7 +4,7 @@
   "short": "Washing machines compared by drum size, spin speed and noise, from budget picks to premium integrated models.",
   "intro": "Drum size and spin speed matter more than brand name for how well a washing machine fits your household. This guide compares machines picked by Mumsnet's panel, spanning budget, quiet, premium and large-capacity options.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Bosch",
@@ -13,9 +13,21 @@
       "best_for": "Reliable, energy-efficient family washing",
       "key_spec": "9kg drum, 1400rpm, A energy rating, £499",
       "summary": "Mumsnet's overall winner. Quiet Mark certified with good stain removal, and its Speed Perfect function cuts wash time by up to 65%, though spin performance is less effective on quick washes.",
-      "specs": {"Drum size": "9kg", "Spin speed": "1400rpm", "Energy rating": "A", "Price guide": "£499"},
-      "pros": ["Quiet Mark certified", "Trusted brand", "Good stain removal", "Speed Perfect cuts wash time by up to 65%"],
-      "cons": ["Less effective spin performance on quick washes"],
+      "specs": {
+        "Drum size": "9kg",
+        "Spin speed": "1400rpm",
+        "Energy rating": "A",
+        "Price guide": "£499"
+      },
+      "pros": [
+        "Quiet Mark certified",
+        "Trusted brand",
+        "Good stain removal",
+        "Speed Perfect cuts wash time by up to 65%"
+      ],
+      "cons": [
+        "Less effective spin performance on quick washes"
+      ],
       "asin": "",
       "search": "Bosch WGG24400GB washing machine"
     },
@@ -26,9 +38,21 @@
       "best_for": "Affordable families who want strong energy efficiency",
       "key_spec": "9kg drum, 1400rpm, A energy rating, £339",
       "summary": "Excellent value with a 28-minute quick wash and claimed energy savings of up to 35%, though the reduced spin speed can leave clothes damper than higher-spin rivals.",
-      "specs": {"Drum size": "9kg", "Spin speed": "1400rpm", "Energy rating": "A", "Price guide": "£339"},
-      "pros": ["Excellent value", "28-minute quick wash", "Saves up to 35% energy", "Quiet operation"],
-      "cons": ["Reduced spin speed leaves clothes damper"],
+      "specs": {
+        "Drum size": "9kg",
+        "Spin speed": "1400rpm",
+        "Energy rating": "A",
+        "Price guide": "£339"
+      },
+      "pros": [
+        "Excellent value",
+        "28-minute quick wash",
+        "Saves up to 35% energy",
+        "Quiet operation"
+      ],
+      "cons": [
+        "Reduced spin speed leaves clothes damper"
+      ],
       "asin": "",
       "search": "Beko EnergySpin BM3WT4941IW washing machine"
     },
@@ -39,9 +63,21 @@
       "best_for": "Open-plan homes or nighttime washing",
       "key_spec": "10kg drum, 1400rpm, Direct Drive motor, £389",
       "summary": "A Direct Drive motor minimises noise, making it well suited to open-plan living or washing at night, with a 39-minute TurboWash cycle and a pause-and-add feature, though it's not the fastest spin speed here.",
-      "specs": {"Drum size": "10kg", "Spin speed": "1400rpm", "Energy rating": "A", "Price guide": "£389"},
-      "pros": ["Direct Drive motor minimises noise", "39-minute TurboWash cycle", "AI optimisation", "Pause-and-add feature"],
-      "cons": ["Not the fastest spin speed"],
+      "specs": {
+        "Drum size": "10kg",
+        "Spin speed": "1400rpm",
+        "Energy rating": "A",
+        "Price guide": "£389"
+      },
+      "pros": [
+        "Direct Drive motor minimises noise",
+        "39-minute TurboWash cycle",
+        "AI optimisation",
+        "Pause-and-add feature"
+      ],
+      "cons": [
+        "Not the fastest spin speed"
+      ],
       "asin": "",
       "search": "LG F4Y510WBLN1 washing machine"
     },
@@ -52,9 +88,21 @@
       "best_for": "Buyers who want a long-term investment piece",
       "key_spec": "9kg drum, 1400rpm, tested for 20 years' use, £1,149",
       "summary": "Mumsnet's premium pick, tested by Miele for 20 years of use with exceptional build quality, a steam care system and a gentler honeycomb drum, though the upfront cost is high.",
-      "specs": {"Drum size": "9kg", "Spin speed": "1400rpm", "Energy rating": "A", "Price guide": "£1,149"},
-      "pros": ["Tested for 20 years' use", "Exceptional build quality", "49-minute Quick Power Wash", "Steam care system"],
-      "cons": ["Expensive upfront cost"],
+      "specs": {
+        "Drum size": "9kg",
+        "Spin speed": "1400rpm",
+        "Energy rating": "A",
+        "Price guide": "£1,149"
+      },
+      "pros": [
+        "Tested for 20 years' use",
+        "Exceptional build quality",
+        "49-minute Quick Power Wash",
+        "Steam care system"
+      ],
+      "cons": [
+        "Expensive upfront cost"
+      ],
       "asin": "",
       "search": "Miele WWD380WCS washing machine"
     },
@@ -65,9 +113,21 @@
       "best_for": "Families with substantial laundry needs",
       "key_spec": "11kg drum, 1400rpm, app-connected, £849",
       "summary": "The largest drum here, with a dedicated bedding cycle, ecobubble technology and a hygiene steam mode that removes 99.9% of bacteria, though the touchscreen can be activated accidentally.",
-      "specs": {"Drum size": "11kg", "Spin speed": "1400rpm", "Energy rating": "A", "Price guide": "£849"},
-      "pros": ["Dedicated bedding cycle", "Ecobubble technology", "App-connected", "Hygiene steam removes 99.9% bacteria"],
-      "cons": ["Touchscreen easily activated accidentally"],
+      "specs": {
+        "Drum size": "11kg",
+        "Spin speed": "1400rpm",
+        "Energy rating": "A",
+        "Price guide": "£849"
+      },
+      "pros": [
+        "Dedicated bedding cycle",
+        "Ecobubble technology",
+        "App-connected",
+        "Hygiene steam removes 99.9% bacteria"
+      ],
+      "cons": [
+        "Touchscreen easily activated accidentally"
+      ],
       "asin": "",
       "search": "Samsung Series 8 AI Energy WW11DB8B95GBU1"
     },
@@ -78,9 +138,22 @@
       "best_for": "Budget-conscious households who prioritise running costs",
       "key_spec": "8kg drum, 1400rpm, 72dB, £329",
       "summary": "Ultra-quiet at 72dB with a powerful Jet Wash function, a 15-minute quick cycle and app connectivity, though it lacks a dedicated handwash or delicates cycle.",
-      "specs": {"Drum size": "8kg", "Spin speed": "1400rpm", "Energy rating": "A", "Noise": "72dB", "Price guide": "£329"},
-      "pros": ["Ultra-quiet", "Powerful Jet Wash cleaning", "15-minute quick cycle", "App-connected"],
-      "cons": ["No handwash or delicates cycle"],
+      "specs": {
+        "Drum size": "8kg",
+        "Spin speed": "1400rpm",
+        "Energy rating": "A",
+        "Noise": "72dB",
+        "Price guide": "£329"
+      },
+      "pros": [
+        "Ultra-quiet",
+        "Powerful Jet Wash cleaning",
+        "15-minute quick cycle",
+        "App-connected"
+      ],
+      "cons": [
+        "No handwash or delicates cycle"
+      ],
       "asin": "",
       "search": "Hisense 3S Series WF3S8043BW washing machine"
     },
@@ -91,9 +164,21 @@
       "best_for": "Kitchens that need a built-in, hidden washing machine",
       "key_spec": "9kg drum, 1600rpm, £379",
       "summary": "Good energy efficiency for an integrated model, with multiple quick wash options and excellent value, though the detergent drawer can be awkward to access and it uses a full touchscreen.",
-      "specs": {"Drum size": "9kg", "Spin speed": "1600rpm", "Energy rating": "A", "Price guide": "£379"},
-      "pros": ["Good energy efficiency for an integrated model", "Multiple quick washes", "Excellent value"],
-      "cons": ["Full touchscreen", "Detergent drawer accessibility issues"],
+      "specs": {
+        "Drum size": "9kg",
+        "Spin speed": "1600rpm",
+        "Energy rating": "A",
+        "Price guide": "£379"
+      },
+      "pros": [
+        "Good energy efficiency for an integrated model",
+        "Multiple quick washes",
+        "Excellent value"
+      ],
+      "cons": [
+        "Full touchscreen",
+        "Detergent drawer accessibility issues"
+      ],
       "asin": "",
       "search": "Hoover H-Wash HBWOS 69TAMCE-80"
     }
@@ -117,6 +202,9 @@
     }
   ],
   "sources": [
-    {"name": "Mumsnet: best washing machines", "url": "https://www.mumsnet.com/swearsby/best-washing-machines"}
+    {
+      "name": "Mumsnet: best washing machines",
+      "url": "https://www.mumsnet.com/swearsby/best-washing-machines"
+    }
   ]
 }

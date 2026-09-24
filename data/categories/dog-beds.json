@@ -4,7 +4,7 @@
   "short": "Dog beds compared by comfort, durability and washability, covering donut, orthopedic, cooling and chew-proof styles.",
   "intro": "The right dog bed depends on your dog's size, age and habits: an older dog benefits from orthopedic support, a chewer needs a tough build, and a nervous dog may prefer a bed that helps them feel enclosed and secure. This guide compares beds reviewed by PetsRadar, with veterinary input from Dr Hannah Godfrey and Dr Lily Richards.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Best Friends by Sheri",
@@ -13,9 +13,22 @@
       "best_for": "Most dogs who like to curl up and feel enclosed",
       "key_spec": "4 sizes, faux fur donut design, skid-proof, machine washable",
       "summary": "PetsRadar's top pick, plush and snuggly thanks to generous filling and a faux fur cover that feels similar to human bedding. Available in four sizes and three colours with a skid-proof bottom, and the whole bed can go straight into the washing machine, though not all dogs take to the round donut style.",
-      "specs": {"Sizes": "Small to x-large (23in-45in diameter)", "Style": "Donut/bolster", "Materials": "Nylon, faux fur, polyfill", "Washability": "Machine washable"},
-      "pros": ["Numerous sizes and colour choices", "Easily washable", "Comfortable faux fur"],
-      "cons": ["Not all dogs like the round style", "Faux fur gets less plush over time", "Sizing needs careful checking"],
+      "specs": {
+        "Sizes": "Small to x-large (23in-45in diameter)",
+        "Style": "Donut/bolster",
+        "Materials": "Nylon, faux fur, polyfill",
+        "Washability": "Machine washable"
+      },
+      "pros": [
+        "Numerous sizes and colour choices",
+        "Easily washable",
+        "Comfortable faux fur"
+      ],
+      "cons": [
+        "Not all dogs like the round style",
+        "Faux fur gets less plush over time",
+        "Sizing needs careful checking"
+      ],
       "asin": "",
       "search": "Best Friends by Sheri Donut Cuddler dog bed"
     },
@@ -26,9 +39,21 @@
       "best_for": "Kennels, conservatories or muddy-paw households",
       "key_spec": "Polyester Oxford fabric, waterproof underside, raised edges",
       "summary": "Tough, durable polyester Oxford fabric that's waterproof on the underside, with raised edges for warmth that stay low enough to vacuum around easily. PetsRadar found it light enough to move despite solid, durable foam filling, backed by a one-year warranty and replacement covers sold separately.",
-      "specs": {"Sizes": "Medium to XXL", "Style": "Edged mat", "Materials": "Polyester Oxford fabric", "Washability": "Machine washable cover"},
-      "pros": ["Easy to move despite durable foam", "Tough, abrasion-resistant fabric", "One-year warranty with spare covers available"],
-      "cons": ["Not the easiest to clean", "Sizing runs a little small"],
+      "specs": {
+        "Sizes": "Medium to XXL",
+        "Style": "Edged mat",
+        "Materials": "Polyester Oxford fabric",
+        "Washability": "Machine washable cover"
+      },
+      "pros": [
+        "Easy to move despite durable foam",
+        "Tough, abrasion-resistant fabric",
+        "One-year warranty with spare covers available"
+      ],
+      "cons": [
+        "Not the easiest to clean",
+        "Sizing runs a little small"
+      ],
       "asin": "",
       "search": "The Dog's Bed Utility Waterproof dog bed"
     },
@@ -39,9 +64,21 @@
       "best_for": "Big breeds who want room to stretch and something to lean on",
       "key_spec": "4in foam mattress with 1in memory foam layer, bolstered sides, up to 40x30in",
       "summary": "A heavy-duty bed for large breeds with a thick foam mattress topped with memory foam, plus bolstered sides for lounging. PetsRadar liked the gap in the front bolster for easy access, especially for older dogs with reduced mobility, though it isn't waterproof or chew-proof.",
-      "specs": {"Sizes": "Medium, large, x-large", "Style": "Bolster", "Materials": "Polyester, polyfill, orthopedic and memory foam", "Washability": "Machine washable cover"},
-      "pros": ["Easy entry thanks to bolster gap", "Supportive orthopedic foam", "Bolstered sides for comfortable lounging"],
-      "cons": ["Not water-resistant", "Not chew-proof"],
+      "specs": {
+        "Sizes": "Medium, large, x-large",
+        "Style": "Bolster",
+        "Materials": "Polyester, polyfill, orthopedic and memory foam",
+        "Washability": "Machine washable cover"
+      },
+      "pros": [
+        "Easy entry thanks to bolster gap",
+        "Supportive orthopedic foam",
+        "Bolstered sides for comfortable lounging"
+      ],
+      "cons": [
+        "Not water-resistant",
+        "Not chew-proof"
+      ],
       "asin": "",
       "search": "Frisco Plush Orthopedic Front Bolster Dog Bed"
     },
@@ -52,9 +89,22 @@
       "best_for": "Dogs with thick fur or households that run warm",
       "key_spec": "Coated steel frame, breathable elevated fabric, wipe/hose clean",
       "summary": "A cot-style bed that lets air circulate underneath to keep dogs cool, with a coated steel frame PetsRadar found incredibly sturdy and fabric resistant to mould, mildew and fleas. It can be wiped or hosed down for easy cleaning, though assembly can be fiddly alone and there's no cushioning.",
-      "specs": {"Sizes": "Small, medium, large", "Style": "Platform", "Materials": "Polyethylene, metal frame", "Washability": "Wipe clean"},
-      "pros": ["Suitable indoors or outdoors", "Keeps dogs genuinely cool", "Waterproof and easy to hose down"],
-      "cons": ["Can be tricky to assemble alone", "No cushioning", "Not a soft surface"],
+      "specs": {
+        "Sizes": "Small, medium, large",
+        "Style": "Platform",
+        "Materials": "Polyethylene, metal frame",
+        "Washability": "Wipe clean"
+      },
+      "pros": [
+        "Suitable indoors or outdoors",
+        "Keeps dogs genuinely cool",
+        "Waterproof and easy to hose down"
+      ],
+      "cons": [
+        "Can be tricky to assemble alone",
+        "No cushioning",
+        "Not a soft surface"
+      ],
       "asin": "",
       "search": "Coolaroo Steel-Framed Elevated Dog Bed"
     },
@@ -65,9 +115,21 @@
       "best_for": "Older dogs, or dogs recovering from surgery or joint issues",
       "key_spec": "High-density memory foam over supportive foam, 6 sizes up to 64in",
       "summary": "A layered memory-foam construction similar to a human memory foam mattress, available in six sizes from toy breeds up to giant breeds. PetsRadar notes many customers buy it to help dogs recovering from surgery or stiff joints, with a choice of faux fur or easy-clean polyester covers, though some found the waterproof lining doesn't fully withstand serious accidents.",
-      "specs": {"Sizes": "Small to xxx-large (up to 64in)", "Style": "Platform", "Materials": "Memory foam, faux fur or nylon cover", "Washability": "Machine washable cover"},
-      "pros": ["Genuinely therapeutic support for joints", "Easy to clean", "Wide range of sizes and cover options"],
-      "cons": ["Waterproof lining may not resist serious accidents", "Covers may need replacing over time"],
+      "specs": {
+        "Sizes": "Small to xxx-large (up to 64in)",
+        "Style": "Platform",
+        "Materials": "Memory foam, faux fur or nylon cover",
+        "Washability": "Machine washable cover"
+      },
+      "pros": [
+        "Genuinely therapeutic support for joints",
+        "Easy to clean",
+        "Wide range of sizes and cover options"
+      ],
+      "cons": [
+        "Waterproof lining may not resist serious accidents",
+        "Covers may need replacing over time"
+      ],
       "asin": "",
       "search": "The Dog's Bed Orthopaedic Dog Bed"
     },
@@ -78,9 +140,21 @@
       "best_for": "Dogs who destroy standard foam beds",
       "key_spec": "Aluminium frame, densely woven ballistic fabric, 120-day warranty",
       "summary": "A solid metal frame completely encases the fabric so dogs can't easily grab and chew it, using a densely woven ballistic fabric resistant to punctures and tears. PetsRadar found it waterproof, easy to wipe clean and pre-assembled out of the box, backed by a 120-day warranty, though the fabric can be a little noisy as a dog moves on it.",
-      "specs": {"Sizes": "Small to XXL", "Style": "Elevated", "Materials": "Aluminium frame, ballistic fabric", "Washability": "Wipe clean"},
-      "pros": ["Genuinely durable, chew-resistant build", "Elevated design stays clean", "Comes pre-assembled", "120-day warranty"],
-      "cons": ["Fabric can be noisy when a dog moves on it"],
+      "specs": {
+        "Sizes": "Small to XXL",
+        "Style": "Elevated",
+        "Materials": "Aluminium frame, ballistic fabric",
+        "Washability": "Wipe clean"
+      },
+      "pros": [
+        "Genuinely durable, chew-resistant build",
+        "Elevated design stays clean",
+        "Comes pre-assembled",
+        "120-day warranty"
+      ],
+      "cons": [
+        "Fabric can be noisy when a dog moves on it"
+      ],
       "asin": "",
       "search": "K9 Ballistics Chew Proof Elevated Dog Bed"
     },
@@ -91,9 +165,21 @@
       "best_for": "Nervous or anxious dogs who want to feel enclosed",
       "key_spec": "Faux shag fur, raised donut rim, multiple sizes and colours",
       "summary": "A sunken centre surrounded by a raised, super-soft rim gives dogs their own enclosed 'fortress of comfort', which PetsRadar found genuinely helps nervous or excitable pets feel safe. Smaller sizes are fully machine washable, though the larger sizes only have a removable cover rather than being fully washable.",
-      "specs": {"Sizes": "Extra small to extra large", "Style": "Donut", "Materials": "Faux shag fur, polyester", "Washability": "XS-M fully washable; L-XL removable cover"},
-      "pros": ["Super comfortable faux fur", "Wide range of sizes and colours", "Donut design helps anxious pets feel secure"],
-      "cons": ["No removable cover on smaller sizes", "Not suitable for chewers"],
+      "specs": {
+        "Sizes": "Extra small to extra large",
+        "Style": "Donut",
+        "Materials": "Faux shag fur, polyester",
+        "Washability": "XS-M fully washable; L-XL removable cover"
+      },
+      "pros": [
+        "Super comfortable faux fur",
+        "Wide range of sizes and colours",
+        "Donut design helps anxious pets feel secure"
+      ],
+      "cons": [
+        "No removable cover on smaller sizes",
+        "Not suitable for chewers"
+      ],
       "asin": "",
       "search": "Bedsure Calming Donut Dog Bed"
     },
@@ -104,9 +190,21 @@
       "best_for": "Puppies and small breeds who want supportive comfort",
       "key_spec": "Orthopedic memory foam, bolstered sides, waterproof inner lining",
       "summary": "A pint-sized bed built from orthopedic memory foam with bolstered sides for puppies and small dogs to snuggle against. PetsRadar highlighted the waterproof inner lining and washable outer cover as making clean-up of little accidents straightforward.",
-      "specs": {"Sizes": "Small to XX-large", "Style": "Bolster", "Materials": "Memory foam, polycotton, cotton", "Washability": "Removable, washable cover"},
-      "pros": ["Extremely comfortable memory foam", "Bolsters for extra support", "Removable, washable cover", "Waterproof inner lining"],
-      "cons": ["Smaller sizes may be outgrown quickly by larger breeds"],
+      "specs": {
+        "Sizes": "Small to XX-large",
+        "Style": "Bolster",
+        "Materials": "Memory foam, polycotton, cotton",
+        "Washability": "Removable, washable cover"
+      },
+      "pros": [
+        "Extremely comfortable memory foam",
+        "Bolsters for extra support",
+        "Removable, washable cover",
+        "Waterproof inner lining"
+      ],
+      "cons": [
+        "Smaller sizes may be outgrown quickly by larger breeds"
+      ],
       "asin": "",
       "search": "PetFusion Ultimate Dog Bed"
     }
@@ -130,6 +228,9 @@
     }
   ],
   "sources": [
-    {"name": "PetsRadar: the best dog beds", "url": "https://www.petsradar.com/buying-guides/best-dog-bed"}
+    {
+      "name": "PetsRadar: the best dog beds",
+      "url": "https://www.petsradar.com/buying-guides/best-dog-bed"
+    }
   ]
 }

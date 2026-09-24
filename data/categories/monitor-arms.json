@@ -4,7 +4,7 @@
   "short": "Monitor arms compared by adjustability, build quality and weight capacity, from budget single arms to heavy-duty dual mounts.",
   "intro": "A monitor arm frees up desk space and makes it far easier to get your screen at the right height and angle, but quality varies enormously with price. This guide compares arms hands-on tested by PCWorld, spanning budget picks to premium dual-monitor mounts.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Ergotron",
@@ -13,9 +13,22 @@
       "best_for": "Most people wanting an easy, high-quality single-arm setup",
       "key_spec": "Up to 34in / 22lbs, 13in height adjustment, 10-year warranty",
       "summary": "PCWorld's top pick, with a wide clamp that spreads force safely across your desk and a genuinely tool-free setup thanks to a comfortable handhold clamp mechanism. Build quality feels competitive with far pricier arms, though its 22lb weight limit is slightly lower than its predecessor's.",
-      "specs": {"Max monitor size": "34in", "Weight capacity": "22lbs", "Height adjustment": "13in", "Tilt": "85 degrees", "Warranty": "10 years"},
-      "pros": ["Genuinely tool-free clamp setup", "Wide clamp reduces desk damage risk", "Build quality rivals pricier arms", "10-year warranty"],
-      "cons": ["Lower weight limit than the older Ergotron LX"],
+      "specs": {
+        "Max monitor size": "34in",
+        "Weight capacity": "22lbs",
+        "Height adjustment": "13in",
+        "Tilt": "85 degrees",
+        "Warranty": "10 years"
+      },
+      "pros": [
+        "Genuinely tool-free clamp setup",
+        "Wide clamp reduces desk damage risk",
+        "Build quality rivals pricier arms",
+        "10-year warranty"
+      ],
+      "cons": [
+        "Lower weight limit than the older Ergotron LX"
+      ],
       "asin": "",
       "search": "Ergotron LX Pro monitor arm"
     },
@@ -26,9 +39,22 @@
       "best_for": "Buyers who want a sturdy arm without an Ergotron price",
       "key_spec": "Up to 49in / 44lbs rated, spring tension, quick-release VESA",
       "summary": "An inexpensive arm rated well beyond what most monitors need, with a quick-release VESA mount that's a nice touch at this price. PCWorld found the arm itself sturdy once built, though assembly is fiddly, taking 15-20 minutes with numerous awkwardly-placed screws.",
-      "specs": {"Max monitor size": "49in (rated)", "Weight capacity": "44lbs (rated)", "Tension system": "Spring", "VESA mount": "Quick-release"},
-      "pros": ["Sturdy once assembled", "Quick-release VESA mount", "Sleek, professional look", "Often discounted well below MSRP"],
-      "cons": ["Fiddly 15-20 minute assembly", "Plastic cladding over metal frame"],
+      "specs": {
+        "Max monitor size": "49in (rated)",
+        "Weight capacity": "44lbs (rated)",
+        "Tension system": "Spring",
+        "VESA mount": "Quick-release"
+      },
+      "pros": [
+        "Sturdy once assembled",
+        "Quick-release VESA mount",
+        "Sleek, professional look",
+        "Often discounted well below MSRP"
+      ],
+      "cons": [
+        "Fiddly 15-20 minute assembly",
+        "Plastic cladding over metal frame"
+      ],
       "asin": "",
       "search": "MSI MAG MT201 monitor arm"
     },
@@ -39,9 +65,21 @@
       "best_for": "Buyers who want the cheapest arm that still does the job properly",
       "key_spec": "Up to 32in / 20lbs, gas spring, 3-screw install",
       "summary": "PCWorld's go-to pick for the cheapest monitor arm worth buying. Setup needs just three screws, and the adjustable clamp spacing is more intuitive than rivals like the MountUp arm, though cable management covers are described as finicky and gas springs can lose tension over time.",
-      "specs": {"Max monitor size": "32in (rated)", "Weight capacity": "20lbs (rated)", "Tension system": "Gas spring"},
-      "pros": ["Very low price for a genuinely usable arm", "Simple 3-screw installation", "Intuitive adjustable desk clamp"],
-      "cons": ["Finicky cable management covers", "Gas spring tension can fade over time", "Less smooth than pricier arms"],
+      "specs": {
+        "Max monitor size": "32in (rated)",
+        "Weight capacity": "20lbs (rated)",
+        "Tension system": "Gas spring"
+      },
+      "pros": [
+        "Very low price for a genuinely usable arm",
+        "Simple 3-screw installation",
+        "Intuitive adjustable desk clamp"
+      ],
+      "cons": [
+        "Finicky cable management covers",
+        "Gas spring tension can fade over time",
+        "Less smooth than pricier arms"
+      ],
       "asin": "",
       "search": "Huanuo HNSS6 monitor arm"
     },
@@ -52,9 +90,22 @@
       "best_for": "Buyers who want the smoothest adjustment and best looks",
       "key_spec": "Up to 20lbs, 13.3in height adjustment, 12-year warranty",
       "summary": "PCWorld found the Flo's operation the smoothest of any arm tested, adjustable with a mere nudge, with a refined VESA clip mount that handles recessed monitor mounts other arms struggle with. It's backed by a 12-year warranty and 24/7 support, though the price is steep for a single-monitor arm.",
-      "specs": {"Weight capacity": "20lbs (7lb minimum recommended)", "Height adjustment": "13.3in", "Tilt": "80 degrees", "Warranty": "12 years"},
-      "pros": ["Smoothest adjustment of any arm tested", "Refined VESA mount handles recessed monitors well", "12-year warranty with 24/7 support", "Attractive, approachable design"],
-      "cons": ["Expensive for a single-monitor arm", "20lb weight limit rules out some heavier monitors"],
+      "specs": {
+        "Weight capacity": "20lbs (7lb minimum recommended)",
+        "Height adjustment": "13.3in",
+        "Tilt": "80 degrees",
+        "Warranty": "12 years"
+      },
+      "pros": [
+        "Smoothest adjustment of any arm tested",
+        "Refined VESA mount handles recessed monitors well",
+        "12-year warranty with 24/7 support",
+        "Attractive, approachable design"
+      ],
+      "cons": [
+        "Expensive for a single-monitor arm",
+        "20lb weight limit rules out some heavier monitors"
+      ],
       "asin": "",
       "search": "Herman Miller Flo monitor arm"
     },
@@ -65,9 +116,23 @@
       "best_for": "Buyers mounting a large ultrawide or heavy monitor",
       "key_spec": "Up to 49in / 42lbs, minimal plastic, 10-year warranty",
       "summary": "A completely different, sturdier arm from the standard LX line rather than just an uprated version, easily handling both a 32in widescreen and 38in ultrawide in PCWorld's testing. Moving parts felt extremely smooth, though the height adjustment range is more limited than the LX and the design can feel bulky in a home office.",
-      "specs": {"Max monitor size": "49in", "Weight capacity": "42lbs", "Height adjustment": "11.5in", "Warranty": "10 years"},
-      "pros": ["Handles very large or heavy monitors with ease", "Minimal plastic, sturdy mechanisms", "Extremely smooth movement", "10-year warranty"],
-      "cons": ["More limited height adjustment than the LX", "Can look bulky in a home office", "Expensive"],
+      "specs": {
+        "Max monitor size": "49in",
+        "Weight capacity": "42lbs",
+        "Height adjustment": "11.5in",
+        "Warranty": "10 years"
+      },
+      "pros": [
+        "Handles very large or heavy monitors with ease",
+        "Minimal plastic, sturdy mechanisms",
+        "Extremely smooth movement",
+        "10-year warranty"
+      ],
+      "cons": [
+        "More limited height adjustment than the LX",
+        "Can look bulky in a home office",
+        "Expensive"
+      ],
       "asin": "",
       "search": "Ergotron HX monitor arm"
     },
@@ -78,9 +143,19 @@
       "best_for": "Buyers who want two matched, high-quality arms on one mount",
       "key_spec": "Two arms rated up to 27in each, 10-year warranty",
       "summary": "Pairs two LX arms on a single mount, keeping the same winning build quality and smooth operation as the standalone LX Pro. Each arm is rated for monitors up to 27in side-by-side (smaller if stacked vertically), which is worth checking against your own screens before buying.",
-      "specs": {"Max monitor size": "27in per arm (side-by-side)", "Warranty": "10 years"},
-      "pros": ["Same build quality and smooth operation as the single LX", "10-year warranty", "Supports both side-by-side and vertical arrangements"],
-      "cons": ["27in per-arm limit rules out larger monitor pairs", "Costlier than buying budget dual arms"],
+      "specs": {
+        "Max monitor size": "27in per arm (side-by-side)",
+        "Warranty": "10 years"
+      },
+      "pros": [
+        "Same build quality and smooth operation as the single LX",
+        "10-year warranty",
+        "Supports both side-by-side and vertical arrangements"
+      ],
+      "cons": [
+        "27in per-arm limit rules out larger monitor pairs",
+        "Costlier than buying budget dual arms"
+      ],
       "asin": "",
       "search": "Ergotron LX Dual Side-by-Side monitor arm"
     },
@@ -91,9 +166,18 @@
       "best_for": "Buyers who want two screens on arms without a premium price",
       "key_spec": "Roughly a quarter of the price of the Ergotron LX Dual",
       "summary": "PCWorld was impressed by the build quality on offer at around a quarter of the Ergotron LX Dual's price. It shares the same downsides as Monoprice's single-arm model: fiddlier to set up and less smooth in operation, and PCWorld was doubtful it fully lives up to its claimed 20lb-per-arm capacity.",
-      "specs": {"Weight capacity": "Claimed 20lbs per arm"},
-      "pros": ["Impressive build quality for the price", "Large saving over premium dual arms"],
-      "cons": ["Fiddlier setup than premium arms", "Less smooth in operation", "Real-world weight capacity likely below claimed spec"],
+      "specs": {
+        "Weight capacity": "Claimed 20lbs per arm"
+      },
+      "pros": [
+        "Impressive build quality for the price",
+        "Large saving over premium dual arms"
+      ],
+      "cons": [
+        "Fiddlier setup than premium arms",
+        "Less smooth in operation",
+        "Real-world weight capacity likely below claimed spec"
+      ],
       "asin": "",
       "search": "Monoprice Workstream Dual Monitor Arm"
     }
@@ -117,6 +201,9 @@
     }
   ],
   "sources": [
-    {"name": "PCWorld: best monitor arms", "url": "https://www.pcworld.com/article/2000722/best-monitor-arms.html"}
+    {
+      "name": "PCWorld: best monitor arms",
+      "url": "https://www.pcworld.com/article/2000722/best-monitor-arms.html"
+    }
   ]
 }

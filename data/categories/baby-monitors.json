@@ -4,7 +4,7 @@
   "short": "Baby monitors compared by video quality, range and extra features, from simple audio-video units to smart vitals-tracking systems.",
   "intro": "A baby monitor's WiFi connectivity is as much a personal preference as a feature: some parents want app access from anywhere, others prefer a private, hack-proof connection. This guide compares monitors tested by Mumsnet's panel of real UK parents over months of everyday use, with input from The Lullaby Trust and the Millpond Sleep Clinic.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Babysense",
@@ -13,9 +13,22 @@
       "best_for": "Parents who want reliable split-screen monitoring without WiFi",
       "key_spec": "1080p HD, WiFi-free, up to 300m range, connects up to 4 cameras",
       "summary": "Mumsnet's top pick, with a split-screen display that lets parents check two cameras at once and connects to up to four in total. Testers found the image quality the best they'd seen on a baby monitor, with an impressive 300m range and an alert if you go out of signal, though there's no app.",
-      "specs": {"Resolution": "1080p HD", "WiFi": "No", "Range": "Up to 300 metres", "Screen size": "5.5 inches", "Cameras": "2 included, expandable to 4"},
-      "pros": ["Excellent HD video quality", "WiFi-free, private connection", "Reliable 300-metre range", "Split-screen for two cameras at once"],
-      "cons": ["No app control"],
+      "specs": {
+        "Resolution": "1080p HD",
+        "WiFi": "No",
+        "Range": "Up to 300 metres",
+        "Screen size": "5.5 inches",
+        "Cameras": "2 included, expandable to 4"
+      },
+      "pros": [
+        "Excellent HD video quality",
+        "WiFi-free, private connection",
+        "Reliable 300-metre range",
+        "Split-screen for two cameras at once"
+      ],
+      "cons": [
+        "No app control"
+      ],
       "asin": "",
       "search": "Babysense MaxView PRO baby monitor"
     },
@@ -26,9 +39,22 @@
       "best_for": "Parents who want simple video and audio without extra features",
       "key_spec": "2.8in colour screen, WiFi-free, two-way talk, temperature sensor",
       "summary": "Mumsnet found this a great price for reliable video and audio quality, with surprisingly good night vision for the cost and a 3-level sound indicator. It's mains or battery-powered with a long battery life, though there's no app and some reviewers found the range disappointing.",
-      "specs": {"Resolution": "High (2.8in LCD)", "WiFi": "No", "Range": "300 metres", "Battery life": "19hrs screen-on / 29hrs power-saving"},
-      "pros": ["Great price", "Mains or battery powered with long battery life", "Video, audio and two-way talk", "Good night vision for the price"],
-      "cons": ["No app", "Some reviewers found the range disappointing"],
+      "specs": {
+        "Resolution": "High (2.8in LCD)",
+        "WiFi": "No",
+        "Range": "300 metres",
+        "Battery life": "19hrs screen-on / 29hrs power-saving"
+      },
+      "pros": [
+        "Great price",
+        "Mains or battery powered with long battery life",
+        "Video, audio and two-way talk",
+        "Good night vision for the price"
+      ],
+      "cons": [
+        "No app",
+        "Some reviewers found the range disappointing"
+      ],
       "asin": "",
       "search": "VTech VM3254 baby monitor"
     },
@@ -39,9 +65,22 @@
       "best_for": "Parents who want long battery life and a private connection",
       "key_spec": "1080p HD, WiFi-free, 360° pan/140° tilt, 11.5-22hr battery",
       "summary": "Mumsnet's tester said this 'surpassed all expectations', with excellent battery life, sturdy build and reliable video quality. A screen-alert feature switches the display on when baby wakes without needing sound on, though an inbuilt demo video that plays on first switch-on can be briefly alarming.",
-      "specs": {"Resolution": "1080p HD", "WiFi": "No", "Range": "Up to 960ft (tested to 20m)", "Screen size": "5 inches", "Battery life": "11.5-22 hours"},
-      "pros": ["Excellent, long-lasting battery life", "Excellent video and audio quality", "WiFi-free connection", "360° pan and 140° tilt view"],
-      "cons": ["Startup demo video can be briefly off-putting"],
+      "specs": {
+        "Resolution": "1080p HD",
+        "WiFi": "No",
+        "Range": "Up to 960ft (tested to 20m)",
+        "Screen size": "5 inches",
+        "Battery life": "11.5-22 hours"
+      },
+      "pros": [
+        "Excellent, long-lasting battery life",
+        "Excellent video and audio quality",
+        "WiFi-free connection",
+        "360° pan and 140° tilt view"
+      ],
+      "cons": [
+        "Startup demo video can be briefly off-putting"
+      ],
       "asin": "",
       "search": "Momcozy BM01 baby monitor"
     },
@@ -52,9 +91,24 @@
       "best_for": "Parents who want video, breathing alerts and sleep aids in one bundle",
       "key_spec": "720p HD, under-mattress breathing sensor pads, white noise and lullabies built in",
       "summary": "Combines video monitoring with pressure-sensitive under-mattress sensor pads for non-contact breathing alerts, plus white noise, lullabies and a night light in one bundle. Mumsnet's tester found it intuitive to set up with a reliable signal throughout a two-bedroom home, though batteries for the sensor unit aren't included.",
-      "specs": {"Resolution": "720p HD", "WiFi": "No", "Range": "Up to 960ft", "Motion alerts": "Yes (breathing movement)", "Screen size": "5 inches"},
-      "pros": ["Complete all-in-one monitoring bundle", "Easy to set up", "Strong range with no dropouts in testing", "Split-screen for monitoring two areas"],
-      "cons": ["Batteries for the breathing sensor not included", "Clipping the sensor unit onto the cot can be fiddly", "Breathing alerts may increase anxiety for some parents"],
+      "specs": {
+        "Resolution": "720p HD",
+        "WiFi": "No",
+        "Range": "Up to 960ft",
+        "Motion alerts": "Yes (breathing movement)",
+        "Screen size": "5 inches"
+      },
+      "pros": [
+        "Complete all-in-one monitoring bundle",
+        "Easy to set up",
+        "Strong range with no dropouts in testing",
+        "Split-screen for monitoring two areas"
+      ],
+      "cons": [
+        "Batteries for the breathing sensor not included",
+        "Clipping the sensor unit onto the cot can be fiddly",
+        "Breathing alerts may increase anxiety for some parents"
+      ],
       "asin": "",
       "search": "Babysense 7 True Sleep baby monitor"
     },
@@ -65,9 +119,23 @@
       "best_for": "Anxious or first-time parents who want detailed health data",
       "key_spec": "2K HD video, Smart Sock tracks heart rate, oxygen levels, movement and sleep",
       "summary": "Tracks heart rate, oxygen levels, movement and sleep via a wearable Smart Sock alongside clear 2K video, which Mumsnet's parent testers found offered real reassurance, with one reporting the alert caught a genuine medical issue. It's app-only with no dedicated parent unit, and significantly more expensive than standard monitors.",
-      "specs": {"Resolution": "2K HD", "WiFi": "Yes", "Tracks": "Heart rate, oxygen levels, movement, sleep, room temperature and humidity", "App control": "Yes"},
-      "pros": ["Tracks heart rate, oxygen and sleep via Smart Sock", "Clear 2K video with reliable connectivity", "Easy app setup and accurate temperature readings", "Extra reassurance for anxious parents"],
-      "cons": ["Very expensive compared with standard monitors", "App-only, no dedicated parent unit", "Sock sensors can occasionally need repositioning"],
+      "specs": {
+        "Resolution": "2K HD",
+        "WiFi": "Yes",
+        "Tracks": "Heart rate, oxygen levels, movement, sleep, room temperature and humidity",
+        "App control": "Yes"
+      },
+      "pros": [
+        "Tracks heart rate, oxygen and sleep via Smart Sock",
+        "Clear 2K video with reliable connectivity",
+        "Easy app setup and accurate temperature readings",
+        "Extra reassurance for anxious parents"
+      ],
+      "cons": [
+        "Very expensive compared with standard monitors",
+        "App-only, no dedicated parent unit",
+        "Sock sensors can occasionally need repositioning"
+      ],
       "asin": "",
       "search": "Owlet Dream Duo baby monitor"
     }
@@ -91,6 +159,9 @@
     }
   ],
   "sources": [
-    {"name": "Mumsnet: best baby monitors", "url": "https://www.mumsnet.com/reviews/baby-monitors"}
+    {
+      "name": "Mumsnet: best baby monitors",
+      "url": "https://www.mumsnet.com/reviews/baby-monitors"
+    }
   ]
 }
