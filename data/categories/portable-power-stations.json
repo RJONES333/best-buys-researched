@@ -4,7 +4,7 @@
   "short": "Portable power stations compared by battery capacity, output and charge speed, for camping, off-grid living and home power cuts.",
   "intro": "A portable power station's real test is how it performs when the power actually goes out, not just its spec sheet. This guide compares power stations TechRadar tested hands-on across over 50 units, simulating power outages and using them in the field for camping, work and home backup.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "EcoFlow",
@@ -13,9 +13,22 @@
       "best_for": "Most people who want a versatile all-rounder with genuine UPS backup",
       "key_spec": "1024Wh capacity, 2400W output, 10ms UPS switchover, expandable to 5kWh",
       "summary": "TechRadar's top pick, combining high capacity and fast charging with a comprehensive port selection. Its rapid 10ms UPS switchover kept a router, laptop and lights running through simulated power outages with no interruption, though the price is high and accessories are limited.",
-      "specs": {"Capacity": "1024Wh", "Output": "2400W", "Solar input": "1000W", "UPS switchover": "10ms"},
-      "pros": ["Fast charging", "Quiet operation", "Compact for its 1024Wh capacity", "Expandable up to 5kWh with extra batteries"],
-      "cons": ["High price", "Limited included accessories"],
+      "specs": {
+        "Capacity": "1024Wh",
+        "Output": "2400W",
+        "Solar input": "1000W",
+        "UPS switchover": "10ms"
+      },
+      "pros": [
+        "Fast charging",
+        "Quiet operation",
+        "Compact for its 1024Wh capacity",
+        "Expandable up to 5kWh with extra batteries"
+      ],
+      "cons": [
+        "High price",
+        "Limited included accessories"
+      ],
       "asin": "",
       "search": "EcoFlow Delta 3 Plus power station"
     },
@@ -26,9 +39,21 @@
       "best_for": "Buyers who want an affordable, genuinely portable everyday unit",
       "key_spec": "288Wh capacity, 600W output (1500W Lifting Mode), 9.8 x 7 x 6.6in",
       "summary": "TechRadar found this the 'everyday essential', small enough to sling in a car boot for work or short camping trips, with power output that impressed for such a mini unit. It handled recharging devices and tools during storm-caused outages on a real installation job, though it lacks a built-in light and isn't the largest battery.",
-      "specs": {"Capacity": "288Wh", "Output": "600W (1500W Lifting Mode)", "Solar input": "200W"},
-      "pros": ["Good output for its size", "Genuinely portable with built-in handle", "Optional mobile app", "Good everyday port selection"],
-      "cons": ["No built-in light", "Not the largest battery capacity"],
+      "specs": {
+        "Capacity": "288Wh",
+        "Output": "600W (1500W Lifting Mode)",
+        "Solar input": "200W"
+      },
+      "pros": [
+        "Good output for its size",
+        "Genuinely portable with built-in handle",
+        "Optional mobile app",
+        "Good everyday port selection"
+      ],
+      "cons": [
+        "No built-in light",
+        "Not the largest battery capacity"
+      ],
       "asin": "",
       "search": "Bluetti Elite 30 V2 power station"
     },
@@ -39,9 +64,22 @@
       "best_for": "Buyers who want to power a whole home or RV, not just devices",
       "key_spec": "3840Wh capacity, 6000W output, expandable to 26.9kWh, wheeled design",
       "summary": "A genuine powerhouse that TechRadar ran a router, space heaters, lights and laptop charging on without issue, with Anker claiming it can even directly charge an EV. Excellent port selection includes UPS AC sockets, NEMA outlets and dual solar inputs, though its size, weight and price mean it's only for those who need serious capacity.",
-      "specs": {"Capacity": "3840Wh (expandable to 26.9kWh)", "Output": "6000W", "Weight": "132lb (60kg)", "UPS switchover": "20ms"},
-      "pros": ["High power output for home and RV use", "Excellent port selection", "Built-in display", "Expandable with additional battery packs"],
-      "cons": ["Expensive", "Large size and heavy weight"],
+      "specs": {
+        "Capacity": "3840Wh (expandable to 26.9kWh)",
+        "Output": "6000W",
+        "Weight": "132lb (60kg)",
+        "UPS switchover": "20ms"
+      },
+      "pros": [
+        "High power output for home and RV use",
+        "Excellent port selection",
+        "Built-in display",
+        "Expandable with additional battery packs"
+      ],
+      "cons": [
+        "Expensive",
+        "Large size and heavy weight"
+      ],
       "asin": "",
       "search": "Anker Solix F3800 power station"
     },
@@ -52,9 +90,22 @@
       "best_for": "Campers who want mains-equivalent power with solar charging",
       "key_spec": "1070Wh capacity, 1500W output (3000W surge), 10kg",
       "summary": "TechRadar found this easily kept up charging three computers, a camera, drone and lighting for a full day, with a MacBook Pro staying charged on a near-continuous 100W draw for six hours. UPS switchover proved seamless when simulating an outage with a 3D printer, though at 10kg it's a bit heavy and not weatherproofed.",
-      "specs": {"Capacity": "1070Wh", "Output": "1500W (3000W surge)", "Weight": "10kg", "Solar input": "400W"},
-      "pros": ["Portable solar charging", "Mains-equivalent power for most devices", "Silent operation"],
-      "cons": ["Premium price", "Not weatherproofed", "1500W output won't run every appliance"],
+      "specs": {
+        "Capacity": "1070Wh",
+        "Output": "1500W (3000W surge)",
+        "Weight": "10kg",
+        "Solar input": "400W"
+      },
+      "pros": [
+        "Portable solar charging",
+        "Mains-equivalent power for most devices",
+        "Silent operation"
+      ],
+      "cons": [
+        "Premium price",
+        "Not weatherproofed",
+        "1500W output won't run every appliance"
+      ],
       "asin": "",
       "search": "Jackery Explorer 1000 V2 power station"
     },
@@ -65,9 +116,23 @@
       "best_for": "Road-trippers and travellers who can't wait around for a recharge",
       "key_spec": "2x 716Wh swappable batteries, 1800W output, integrated Multi-Cooler system",
       "summary": "Part of Bluetti's SwapSolar series, this doubles as a portable cooler and ice-maker, with hot-swappable batteries that TechRadar found genuinely useful when one runs low. Performance impressed both as a power station and cooler on a real cabin trip, though it's fairly heavy and ports are somewhat limited.",
-      "specs": {"Capacity": "2x 716Wh", "Output": "1800W", "Solar input": "500W", "UPS switchover": "20ms"},
-      "pros": ["Hot-swappable batteries avoid recharge downtime", "1800W output", "Fast charging", "Doubles as a Multi-Cooler with ice-maker"],
-      "cons": ["Fairly heavy", "Limited port selection", "Uses proprietary first-party batteries"],
+      "specs": {
+        "Capacity": "2x 716Wh",
+        "Output": "1800W",
+        "Solar input": "500W",
+        "UPS switchover": "20ms"
+      },
+      "pros": [
+        "Hot-swappable batteries avoid recharge downtime",
+        "1800W output",
+        "Fast charging",
+        "Doubles as a Multi-Cooler with ice-maker"
+      ],
+      "cons": [
+        "Fairly heavy",
+        "Limited port selection",
+        "Uses proprietary first-party batteries"
+      ],
       "asin": "",
       "search": "Bluetti AC180T power station"
     },
@@ -78,9 +143,21 @@
       "best_for": "Buyers who need reliable power in extremely cold conditions",
       "key_spec": "900Wh capacity, sodium-ion battery, charges to -15°C, discharges to -25°C",
       "summary": "The world's first sodium-ion portable power station, giving superior thermal stability in cold weather compared to lithium units. TechRadar's team found it easily handled a laptop, small fridge and LED lighting simultaneously, with tactile buttons usable while wearing gloves, though capacity is modest for the price and it's fairly heavy.",
-      "specs": {"Capacity": "900Wh", "Output": "1500W", "Weight": "35lb (16kg)", "Battery type": "Sodium-ion"},
-      "pros": ["Sodium-ion works better in cold weather", "Compact design", "Tactile, glove-friendly buttons"],
-      "cons": ["Relatively low 900Wh capacity for the price", "Heavy"],
+      "specs": {
+        "Capacity": "900Wh",
+        "Output": "1500W",
+        "Weight": "35lb (16kg)",
+        "Battery type": "Sodium-ion"
+      },
+      "pros": [
+        "Sodium-ion works better in cold weather",
+        "Compact design",
+        "Tactile, glove-friendly buttons"
+      ],
+      "cons": [
+        "Relatively low 900Wh capacity for the price",
+        "Heavy"
+      ],
       "asin": "",
       "search": "Bluetti Pioneer Na power station"
     },
@@ -91,9 +168,22 @@
       "best_for": "Content creators and drone operators who need power on the move",
       "key_spec": "1008Wh capacity, 800W output, SDC port for DJI drones, built-in retractable USB-C cable",
       "summary": "Surprisingly portable for a 1kWh-class unit, TechRadar noted the built-in retractable USB-C cable as a standout touch, ensuring you can always charge a device even without spare cables. The SDC port recharges DJI drones directly, though output is limited compared to full-size stations and solar accessories feel behind competitors.",
-      "specs": {"Capacity": "1008Wh", "Output": "800W", "Solar input": "400W", "UPS switchover": "10ms"},
-      "pros": ["Genuinely portable for a 1kWh unit", "SDC port for DJI drones", "Fast charging", "Built-in retractable USB-C cable"],
-      "cons": ["Limited output vs full-size power stations", "Solar panel experience lags competitors"],
+      "specs": {
+        "Capacity": "1008Wh",
+        "Output": "800W",
+        "Solar input": "400W",
+        "UPS switchover": "10ms"
+      },
+      "pros": [
+        "Genuinely portable for a 1kWh unit",
+        "SDC port for DJI drones",
+        "Fast charging",
+        "Built-in retractable USB-C cable"
+      ],
+      "cons": [
+        "Limited output vs full-size power stations",
+        "Solar panel experience lags competitors"
+      ],
       "asin": "",
       "search": "DJI Power 1000 Mini power station"
     }
@@ -117,6 +207,9 @@
     }
   ],
   "sources": [
-    {"name": "TechRadar: best portable power stations", "url": "https://www.techradar.com/best/portable-power-stations"}
+    {
+      "name": "TechRadar: best portable power stations",
+      "url": "https://www.techradar.com/best/portable-power-stations"
+    }
   ]
 }

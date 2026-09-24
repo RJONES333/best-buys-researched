@@ -4,7 +4,7 @@
   "short": "Home rowing machines compared by resistance type, connectivity and comfort, from budget-friendly to premium smart rowers.",
   "intro": "A rowing machine gives a genuinely zero-impact, full-body cardio workout, but comfort, noise and screen quality vary hugely between models. This guide compares rowers tested by Men's Fitness in their own homes for at least a month each, covering the full damper range, connectivity and storage.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "NordicTrack",
@@ -13,9 +13,21 @@
       "best_for": "Buyers with the space and budget for a premium, feature-packed rower",
       "key_spec": "22in touchscreen, SmartAdjust machine learning, 10-year frame warranty",
       "summary": "Men's Fitness's top pick, smooth and ultra-quiet running similar to machines seen in commercial gyms, with a large tilting touchscreen and SmartAdjust technology that tailors every workout to your progress. It's a genuine investment with an ongoing membership fee, plus a large, bulky footprint that needs real space to store.",
-      "specs": {"Display": "22in touchscreen", "Dimensions": "208 x 55.8 x 132.1cm", "Warranty": "10-year frame, 2-year parts"},
-      "pros": ["Exquisite design and quiet running", "Large touchscreen with great speakers", "Huge library of trainer-led workouts", "Workouts adapt to your progression"],
-      "cons": ["Premium price plus monthly membership", "Very large and bulky"],
+      "specs": {
+        "Display": "22in touchscreen",
+        "Dimensions": "208 x 55.8 x 132.1cm",
+        "Warranty": "10-year frame, 2-year parts"
+      },
+      "pros": [
+        "Exquisite design and quiet running",
+        "Large touchscreen with great speakers",
+        "Huge library of trainer-led workouts",
+        "Workouts adapt to your progression"
+      ],
+      "cons": [
+        "Premium price plus monthly membership",
+        "Very large and bulky"
+      ],
       "asin": "",
       "search": "NordicTrack RW900 Rower"
     },
@@ -26,9 +38,21 @@
       "best_for": "Buyers who get bored easily and want entertainment built in",
       "key_spec": "22in touchscreen, dual air/magnetic resistance, streaming service access included",
       "summary": "Men's Fitness found the dual air and magnetic resistance gives an authentic rowing feel with plenty of fine-tuning, and a Whisper nylon belt kept noise genuinely low. Membership unlocks not just guided workouts but Netflix, Disney+ and Spotify too, which testers found kept sessions properly entertaining, though it needs tall ceilings and a fair amount of space.",
-      "specs": {"Display": "22in touchscreen", "Dimensions": "213.4 x 68.6 x 121.9cm", "Warranty": "10-year frame, 1-year parts"},
-      "pros": ["Great for beginners", "Easy to stand and store", "Low-decibel resistance mechanism", "Membership includes major streaming services"],
-      "cons": ["Expensive with optional membership fees", "Bulky, requires tall ceilings"],
+      "specs": {
+        "Display": "22in touchscreen",
+        "Dimensions": "213.4 x 68.6 x 121.9cm",
+        "Warranty": "10-year frame, 1-year parts"
+      },
+      "pros": [
+        "Great for beginners",
+        "Easy to stand and store",
+        "Low-decibel resistance mechanism",
+        "Membership includes major streaming services"
+      ],
+      "cons": [
+        "Expensive with optional membership fees",
+        "Bulky, requires tall ceilings"
+      ],
       "asin": "",
       "search": "Aviron Strong Series Rower"
     },
@@ -39,9 +63,21 @@
       "best_for": "Buyers who want the most realistic rowing motion and a striking design",
       "key_spec": "Water flywheel resistance, S4 Performance Monitor, wood finish",
       "summary": "Uses a water flywheel for what Men's Fitness called a smooth, realistic and immersive rowing experience unlike any other machine tested, with a striking wooden design that suits smart home interiors. The standard monitor is fairly basic, though Bluetooth and third-party app upgrades are available, and it's comparatively compact for storage.",
-      "specs": {"Resistance": "Water flywheel", "Dimensions": "209 x 53 x 56cm", "Warranty": "5-year frame, 3-year parts"},
-      "pros": ["Unique, natural rowing motion", "Easy to store", "Choice of wood finishes", "Distinctive design"],
-      "cons": ["Low seat and steep angled foot position", "High price once you add extras"],
+      "specs": {
+        "Resistance": "Water flywheel",
+        "Dimensions": "209 x 53 x 56cm",
+        "Warranty": "5-year frame, 3-year parts"
+      },
+      "pros": [
+        "Unique, natural rowing motion",
+        "Easy to store",
+        "Choice of wood finishes",
+        "Distinctive design"
+      ],
+      "cons": [
+        "Low seat and steep angled foot position",
+        "High price once you add extras"
+      ],
       "asin": "",
       "search": "WaterRower Original Series"
     },
@@ -52,9 +88,22 @@
       "best_for": "Buyers who want Hydrow's connected experience in a smaller footprint",
       "key_spec": "16in touchscreen, compact brushed aluminium design, custom colourways",
       "summary": "Smaller and cheaper than the original Hydrow, with a sleek, minimal design Men's Fitness found genuinely space-saving alongside smooth, quiet operation. It gives access to engaging live and on-demand classes for a connected fitness experience, though the screen can be tricky to operate and Bluetooth audio has a noticeable delay.",
-      "specs": {"Display": "16in touchscreen", "Dimensions": "204 x 49 x 110cm", "Warranty": "1 year"},
-      "pros": ["Cheaper than the original Hydrow", "Compact design", "Smooth and quiet operation", "Engaging live and on-demand classes"],
-      "cons": ["Screen can be tricky to operate", "Built-in speakers could be better", "Noticeable Bluetooth audio delay"],
+      "specs": {
+        "Display": "16in touchscreen",
+        "Dimensions": "204 x 49 x 110cm",
+        "Warranty": "1 year"
+      },
+      "pros": [
+        "Cheaper than the original Hydrow",
+        "Compact design",
+        "Smooth and quiet operation",
+        "Engaging live and on-demand classes"
+      ],
+      "cons": [
+        "Screen can be tricky to operate",
+        "Built-in speakers could be better",
+        "Noticeable Bluetooth audio delay"
+      ],
       "asin": "",
       "search": "Hydrow Wave Rower"
     }
@@ -78,6 +127,9 @@
     }
   ],
   "sources": [
-    {"name": "Men's Fitness: best rowing machines", "url": "https://mensfitness.co.uk/review/best-rowing-machines/"}
+    {
+      "name": "Men's Fitness: best rowing machines",
+      "url": "https://mensfitness.co.uk/review/best-rowing-machines/"
+    }
   ]
 }

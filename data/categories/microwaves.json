@@ -4,7 +4,7 @@
   "short": "Solo, grill and combi microwaves compared by cooking performance, capacity and features, from budget flatbed models to premium air-fry combis.",
   "intro": "A microwave's real test is how evenly it heats and defrosts, not just its headline wattage. This guide compares microwaves tested by Trusted Reviews using a thermal camera to check even heating, alongside real tasks like defrosting bread and cooking jacket potatoes.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-23",
+  "verified": "2026-09-24",
   "products": [
     {
       "brand": "Sage",
@@ -13,9 +13,20 @@
       "best_for": "Buyers who want a microwave, air fryer and oven combined",
       "key_spec": "32L capacity, air fry, oven and grill modes, six function buttons",
       "summary": "Trusted Reviews found this performed admirably across nearly every function, cooking a jacket potato in under seven minutes and a 1.6kg roast chicken using combined microwave, oven and grill modes. Air fry mode gave evenly browned, crispy chips with a helpful stir reminder halfway through, though it's large and expensive.",
-      "specs": {"Capacity": "32L", "Functions": "Fast Combi, Air Fry, Oven, Microwave, Grill", "Price guide": "£399"},
-      "pros": ["Easy to use", "Genuinely versatile (air fryer, oven, grill, microwave)", "Powerful and fast cooking"],
-      "cons": ["Large footprint", "Expensive"],
+      "specs": {
+        "Capacity": "32L",
+        "Functions": "Fast Combi, Air Fry, Oven, Microwave, Grill",
+        "Price guide": "£399"
+      },
+      "pros": [
+        "Easy to use",
+        "Genuinely versatile (air fryer, oven, grill, microwave)",
+        "Powerful and fast cooking"
+      ],
+      "cons": [
+        "Large footprint",
+        "Expensive"
+      ],
       "asin": "",
       "search": "Sage Combi Wave 3 in 1"
     },
@@ -26,9 +37,20 @@
       "best_for": "Larger households who need to heat a lot of food at once",
       "key_spec": "32L capacity, claimed enough for 5kg of potatoes, Deodorisation programme",
       "summary": "Trusted Reviews was seriously impressed by consistent results across both conventional and difficult tasks, defrosting chicken in around 10 minutes and salmon in just 7.5. Bacon reached piping hot in 45 seconds, though the huge dimensions demand serious counter space and it only offers basic functionality for the price.",
-      "specs": {"Capacity": "32L", "Dimensions": "517 x 423 x 295mm", "Price guide": "£130"},
-      "pros": ["Modern, seamless design", "Consistent cooking results", "Extra-large capacity"],
-      "cons": ["Only basic functionality", "Large dimensions need generous counter space"],
+      "specs": {
+        "Capacity": "32L",
+        "Dimensions": "517 x 423 x 295mm",
+        "Price guide": "£130"
+      },
+      "pros": [
+        "Modern, seamless design",
+        "Consistent cooking results",
+        "Extra-large capacity"
+      ],
+      "cons": [
+        "Only basic functionality",
+        "Large dimensions need generous counter space"
+      ],
       "asin": "",
       "search": "Samsung MS32DG4504ATE3 microwave"
     },
@@ -39,9 +61,21 @@
       "best_for": "Buyers who want an oven-like microwave with self-cleaning",
       "key_spec": "Flatbed design, 3 tray slots, self-cleaning steam function, humidity auto-sensor",
       "summary": "The most generous oven space Trusted Reviews has seen in a microwave, with three tray slots for cooking multiple items and auto programmes handling up to 2kg of meat. A humidity-sensing combi programme delivered a jacket potato with crispy skin and fluffy centre, though the touch controls aren't very intuitive and results can be uneven.",
-      "specs": {"Design": "Flatbed with drop-down door", "Cleaning": "Self-cleaning steam function", "Price guide": "£599"},
-      "pros": ["Versatile auto programmes for defrosting, steaming, grilling, roasting", "Spacious flatbed design", "Self-cleaning function"],
-      "cons": ["Expensive", "Not very intuitive controls", "Some uneven cooking results"],
+      "specs": {
+        "Design": "Flatbed with drop-down door",
+        "Cleaning": "Self-cleaning steam function",
+        "Price guide": "£599"
+      },
+      "pros": [
+        "Versatile auto programmes for defrosting, steaming, grilling, roasting",
+        "Spacious flatbed design",
+        "Self-cleaning function"
+      ],
+      "cons": [
+        "Expensive",
+        "Not very intuitive controls",
+        "Some uneven cooking results"
+      ],
       "asin": "",
       "search": "Panasonic NN-CS89LBBPQ microwave"
     },
@@ -52,9 +86,19 @@
       "best_for": "Buyers who want the microwave to work out settings for them",
       "key_spec": "900W, 28L, Sensor cooking, HotBlast convection",
       "summary": "Samsung's Sensor cooking mode measures gasses released from food to stop cooking at the optimal point, giving Trusted Reviews a jacket potato that was fluffy inside and cooked through. Automatic defrost programmes worked well too, though HotBlast convection results don't quite match a dedicated air fryer for crispiness.",
-      "specs": {"Power": "900W", "Capacity": "28L", "Modes": "Sensor cooking, HotBlast convection, auto defrost"},
-      "pros": ["Very easy to use", "Automated cooking programmes work brilliantly", "Can do many jobs a full oven can"],
-      "cons": ["Needs space for all the accessories"],
+      "specs": {
+        "Power": "900W",
+        "Capacity": "28L",
+        "Modes": "Sensor cooking, HotBlast convection, auto defrost"
+      },
+      "pros": [
+        "Very easy to use",
+        "Automated cooking programmes work brilliantly",
+        "Can do many jobs a full oven can"
+      ],
+      "cons": [
+        "Needs space for all the accessories"
+      ],
       "asin": "",
       "search": "Samsung Easy View HotBlast MC28M6075CS microwave"
     },
@@ -65,9 +109,20 @@
       "best_for": "Buyers who want to fit larger or odd-shaped dishes without a turntable",
       "key_spec": "25L flatbed capacity, grill and convection oven modes, wire shelf and baking tray included",
       "summary": "A flatbed design that Trusted Reviews found gave even heating with no cold spots on basic tasks, and worked well combining grill and microwave modes together. The convection oven setting performed admirably too, though the interface takes getting used to and the standalone grill wasn't particularly even.",
-      "specs": {"Capacity": "25L", "Design": "Flatbed", "Modes": "Grill, convection oven, combination"},
-      "pros": ["Flatbed design fits larger dishes", "Excellent value", "Wide range of cooking options"],
-      "cons": ["Fiddly interface to learn", "Grill wasn't very even"],
+      "specs": {
+        "Capacity": "25L",
+        "Design": "Flatbed",
+        "Modes": "Grill, convection oven, combination"
+      },
+      "pros": [
+        "Flatbed design fits larger dishes",
+        "Excellent value",
+        "Wide range of cooking options"
+      ],
+      "cons": [
+        "Fiddly interface to learn",
+        "Grill wasn't very even"
+      ],
       "asin": "",
       "search": "Caso MCG 25 Ceramic Chef Microwave"
     },
@@ -78,9 +133,22 @@
       "best_for": "Buyers who want flatbed practicality on a tight budget",
       "key_spec": "20L flatbed capacity, 5 power levels, grill and 3 combi modes",
       "summary": "A rare flatbed microwave for just over £100, with no turntable meaning more usable internal space for rectangular dishes and easier cleaning. Trusted Reviews found microwave performance convincing, with rice heating evenly and a fluffy baked potato centre, though there are no automated programmes and the grill runs hot enough to catch food at the edges.",
-      "specs": {"Capacity": "20L", "Design": "Flatbed", "Power levels": "5", "Price guide": "~£100"},
-      "pros": ["Great value", "Flatbed design maximises usable space", "Cooks well on standard microwave mode"],
-      "cons": ["Small grill", "No automated programmes, manual timing needed", "Manual could be clearer"],
+      "specs": {
+        "Capacity": "20L",
+        "Design": "Flatbed",
+        "Power levels": "5",
+        "Price guide": "~£100"
+      },
+      "pros": [
+        "Great value",
+        "Flatbed design maximises usable space",
+        "Cooks well on standard microwave mode"
+      ],
+      "cons": [
+        "Small grill",
+        "No automated programmes, manual timing needed",
+        "Manual could be clearer"
+      ],
       "asin": "",
       "search": "Caso Design MG 20 Ecostyle Microwave"
     },
@@ -91,9 +159,19 @@
       "best_for": "Small households who want a simple, good-looking microwave",
       "key_spec": "20L capacity, digital controls, dimpled fingerprint-resistant finish",
       "summary": "Trusted Reviews picked this for small households wanting something straightforward and good-looking, available in green, black or blue with a dimpled finish that resists fingerprints. Digital controls and a useful defrost mode cover the essentials well, though you can't add extra cooking time partway through a cycle.",
-      "specs": {"Capacity": "20L", "Controls": "Digital", "Price guide": "~£114"},
-      "pros": ["Looks great", "Digital controls", "Useful defrost mode"],
-      "cons": ["Can't add cooking time mid-cycle"],
+      "specs": {
+        "Capacity": "20L",
+        "Controls": "Digital",
+        "Price guide": "~£114"
+      },
+      "pros": [
+        "Looks great",
+        "Digital controls",
+        "Useful defrost mode"
+      ],
+      "cons": [
+        "Can't add cooking time mid-cycle"
+      ],
       "asin": "",
       "search": "Morphy Richards Cassini 20L Digital Microwave"
     }
@@ -117,6 +195,9 @@
     }
   ],
   "sources": [
-    {"name": "Trusted Reviews: best microwaves", "url": "https://www.trustedreviews.com/best/best-microwaves-3435152"}
+    {
+      "name": "Trusted Reviews: best microwaves",
+      "url": "https://www.trustedreviews.com/best/best-microwaves-3435152"
+    }
   ]
 }
