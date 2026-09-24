@@ -1,0 +1,218 @@
+{
+  "slug": "jump-starters",
+  "title": "Best Car Jump Starter Packs UK",
+  "short": "Combined jump starter and tyre inflator power packs compared for starting reliability, pump speed and gauge accuracy, tested on a real dodgy-battery van.",
+  "intro": "A jump starter pack's real test is whether it actually brings a flat battery back to life, not just its spec sheet claims. This guide compares packs tested by Auto Express, which timed each one inflating a 16-inch tyre from 10 to 30PSI, checked gauge accuracy against a calibrated reading, and tested whether each could restart a van with a dodgy battery three times in a row.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Draper",
+      "name": "Lithium Jump Starter and Tyre Inflator",
+      "badge": "Best overall",
+      "best_for": "Buyers who want the strongest all-round starting and pumping performance",
+      "key_spec": "12,000mAh, 43cm hose, colour LCD display, USB-C plus two USB-A ports",
+      "summary": "Auto Express's top pick, inflating their test tyre in just over two minutes for the second-fastest time on test, with a spot-on pressure reading on an easy-to-read colour LCD display. The 43cm hose made reaching valves easy and jump starting was no problem, with a built-in three-mode LED light and reasonable value, though the jump cables are on the short side at 17cm.",
+      "specs": {
+        "Battery size": "12,000mAh",
+        "Hose length": "43cm",
+        "Cable length": "17cm",
+        "Price guide": "£95"
+      },
+      "pros": [
+        "Second-fastest inflation time on test",
+        "Spot-on accurate pressure gauge",
+        "Long 43cm hose reaches valves easily",
+        "Built-in three-mode LED light",
+        "Good value"
+      ],
+      "cons": [
+        "Jump cables are short at 17cm"
+      ],
+      "asin": "",
+      "search": "Draper Lithium Jump Starter and Tyre Inflator"
+    },
+    {
+      "brand": "AstroAI",
+      "name": "MF16 6000A",
+      "badge": "Best battery capacity",
+      "best_for": "Buyers who want the biggest battery for repeated emergency use",
+      "key_spec": "27,000mAh, 60cm hose (longest on test), carrying strap",
+      "summary": "Auto Express found this doesn't have the fastest pump or the most accurate gauge, but offers a huge 27,000mAh battery and useful features at a decent price. At 60cm it has the longest hose on test plus a carrying strap, though the jump leads are short and the buttons respond slowly, with only a single USB-A outlet.",
+      "specs": {
+        "Battery size": "27,000mAh",
+        "Hose length": "60cm",
+        "USB ports": "1x USB-A",
+        "Price guide": "£70"
+      },
+      "pros": [
+        "Huge 27,000mAh battery capacity",
+        "Longest hose on test at 60cm",
+        "Includes a carrying strap",
+        "Decent price for the battery size"
+      ],
+      "cons": [
+        "Not the fastest pump or most accurate gauge",
+        "Short jump leads",
+        "Slow-responding buttons",
+        "Only one USB-A port"
+      ],
+      "asin": "",
+      "search": "AstroAI MF16 6000A jump starter"
+    },
+    {
+      "brand": "Halfords",
+      "name": "Advanced 5-in-1 Power Bank",
+      "badge": "Best pump speed",
+      "best_for": "Buyers who want the fastest, most accurate tyre inflation",
+      "key_spec": "12,000mAh, fastest inflation time on test (1.47 minutes), USB-A/C plus 12V socket",
+      "summary": "Small and neat, and what really impressed Auto Express was taking their test tyre from 10 to 30PSI in just 1.47 minutes, the fastest of any unit tested, with an accurate gauge. It can be awkward to use because the hose is only 14cm long, though the jump cables are a more generous 22cm, and it adds USB-A, USB-C and a plug-in female 12V socket.",
+      "specs": {
+        "Battery size": "12,000mAh",
+        "Inflation time in test": "1.47 minutes (fastest)",
+        "Cable length": "22cm",
+        "Price guide": "£117"
+      },
+      "pros": [
+        "Fastest inflation time on test",
+        "Accurate pressure gauge",
+        "Small, neat design",
+        "USB-A, USB-C and 12V socket outputs"
+      ],
+      "cons": [
+        "Short 14cm hose makes reaching valves awkward",
+        "Higher price than similar-capacity rivals"
+      ],
+      "asin": "",
+      "search": "Halfords Advanced 5-in-1 Power Bank jump starter"
+    },
+    {
+      "brand": "ATEK",
+      "name": "Jump Starter and Tyre Inflator",
+      "badge": "Best budget",
+      "best_for": "Buyers who want solid basic performance at the lowest price",
+      "key_spec": "8,000mAh, around £33, gauge accurate to within 0.6PSI",
+      "summary": "Auto Express found this £33 pack started their test van without issue, took a reasonable three minutes to inflate a tyre, and was just 0.6PSI off the calibrated reading. There are signs of cost cutting though, including a short hose and a 36PSI maximum that won't correctly inflate some space-saver tyres, plus power sockets on the base where they could be damaged.",
+      "specs": {
+        "Battery size": "8,000mAh",
+        "Max pressure": "36PSI",
+        "Gauge accuracy in test": "0.6PSI off",
+        "Price guide": "£33"
+      },
+      "pros": [
+        "Started a van with a dodgy battery reliably",
+        "Reasonably accurate gauge for the price",
+        "Very affordable"
+      ],
+      "cons": [
+        "36PSI max won't suit some space-saver tyres",
+        "Short hose",
+        "Power sockets on the base are vulnerable to damage"
+      ],
+      "asin": "",
+      "search": "ATEK jump starter tyre inflator"
+    },
+    {
+      "brand": "NightSearcher",
+      "name": "VoltMax",
+      "badge": "Best lighting",
+      "best_for": "Buyers who prioritise emergency illumination alongside starting power",
+      "key_spec": "13,000mAh, floodlight plus red emergency lamps, 45cm hose with extension tube",
+      "summary": "Auto Express found this has the most impressive illumination on test, with both a floodlight and red emergency lamps built in, alongside a good-sized battery. An extension tube makes the hose a useful 45cm long, and everything stores in a bag with instructions printed on the outside for easy reading in an emergency, though testers felt it looks too expensive.",
+      "specs": {
+        "Battery size": "13,000mAh",
+        "Hose length": "45cm (with extension tube)",
+        "Lighting": "Floodlight and red emergency lamps",
+        "Price guide": "£140"
+      },
+      "pros": [
+        "Most impressive lighting on test",
+        "Good-sized battery",
+        "Long hose with extension tube",
+        "Storage bag has instructions printed on it"
+      ],
+      "cons": [
+        "Expensive for what it offers"
+      ],
+      "asin": "",
+      "search": "NightSearcher VoltMax jump starter"
+    },
+    {
+      "brand": "Ring",
+      "name": "Ultrastart-Air",
+      "badge": "Best hose storage",
+      "best_for": "Buyers who want a tidy, self-contained unit",
+      "key_spec": "12,000mAh, hose stores in clips on the unit, 35cm jump cables",
+      "summary": "Auto Express liked the built-in hose, which stores securely in clips on the back of the unit, and a two-and-a-half-minute pump time impressed testers. The 35cm-long cables also make jumping easier, but surprises for an all-new product included a single USB-A outlet, a digital gauge that doesn't show decimal PSI places, and a charge that seemed to drain quickly over a few days.",
+      "specs": {
+        "Battery size": "12,000mAh",
+        "Cable length": "35cm",
+        "Pump time in test": "2.5 minutes",
+        "Price guide": "£100"
+      },
+      "pros": [
+        "Hose stores neatly in built-in clips",
+        "Good pump time in testing",
+        "Longer jump cables at 35cm"
+      ],
+      "cons": [
+        "Single USB-A outlet only",
+        "Gauge doesn't show decimal PSI places",
+        "Seemed to lose charge quickly when idle"
+      ],
+      "asin": "",
+      "search": "Ring Ultrastart-Air jump starter"
+    },
+    {
+      "brand": "Sealey",
+      "name": "RoadStart 12V Jump Starter & Tyre Inflator",
+      "badge": "Not recommended",
+      "best_for": "Buyers should consider cheaper, better-performing alternatives",
+      "key_spec": "12,000mAh, three-mode LED lamp, 43cm hose, two USB-A outlets",
+      "summary": "Auto Express found the Sealey didn't do anything wrong, but nothing it offered couldn't be matched by a cheaper alternative on test. It has a decent LED lamp, a 43cm hose and an accurate pressure gauge with two USB-A outlets, but took over three minutes to inflate the test tyre, was the noisiest pump tested, and had disappointingly short cables.",
+      "specs": {
+        "Battery size": "12,000mAh",
+        "Hose length": "43cm",
+        "USB ports": "2x USB-A",
+        "Price guide": "£125"
+      },
+      "pros": [
+        "Accurate pressure gauge",
+        "Decent three-mode LED lamp",
+        "Two USB-A outlets"
+      ],
+      "cons": [
+        "Slowest inflation time on test",
+        "Noisiest pump on test",
+        "Short jump cables",
+        "Higher price without matching performance"
+      ],
+      "asin": "",
+      "search": "Sealey RoadStart 12V Jump Starter Tyre Inflator"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Why choose a combined jump starter and tyre inflator over separate devices?",
+      "a": "A combined pack like those tested here shares one battery between both functions, which Auto Express notes makes it cheaper than buying a dedicated jump starter and a separate tyre inflator, while also taking up less space in the boot or glovebox."
+    },
+    {
+      "q": "What battery capacity do I actually need?",
+      "a": "A larger capacity, like the AstroAI's 27,000mAh here, means more jump starts and tyre inflations before needing a recharge, useful if you don't check the pack's charge regularly. A smaller capacity around 8,000-12,000mAh, like the ATEK or Draper here, is usually enough for occasional use as long as you keep it topped up."
+    },
+    {
+      "q": "How much does jump cable length matter?",
+      "a": "Longer cables give you more flexibility in where you can position the pack relative to the battery, which matters if engine bay access is awkward. Auto Express found cable lengths varied significantly across the packs tested, from as short as 14cm to 35cm on the Ring Ultrastart-Air, so it's worth checking this spec if you anticipate tight parking situations."
+    },
+    {
+      "q": "Can these packs inflate a space-saver spare tyre?",
+      "a": "Not always. Auto Express found the budget ATEK pack's 36PSI maximum wasn't enough to correctly inflate some space-saver spares, which often need higher pressures than a standard tyre. Check a pack's maximum PSI rating against your specific spare tyre's requirement before relying on it."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Auto Express: best car jump starter packs",
+      "url": "https://www.autoexpress.co.uk/best-car-jump-starter-packs"
+    }
+  ]
+}
