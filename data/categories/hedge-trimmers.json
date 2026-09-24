@@ -1,0 +1,148 @@
+{
+  "slug": "hedge-trimmers",
+  "title": "Best Cordless Hedge Trimmers UK",
+  "short": "Cordless hedge trimmers compared by cutting power, blade length and battery life, from lightweight shrub clippers to heavy-duty conifer-busting models.",
+  "intro": "A hedge trimmer's cutting power and battery life matter more than blade length alone, since a trimmer that jams on thick branches makes any job slower. This guide compares trimmers tested by Expert Reviews on real conifer, box, laurel and hornbeam hedges in their own garden.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Bosch",
+      "name": "UniversalHedgeCut 18-55",
+      "badge": "Best overall",
+      "best_for": "Medium to large gardens with a range of hedge types",
+      "key_spec": "55cm blade, 20mm max branch width, 80-minute runtime",
+      "summary": "Expert Reviews' top pick, chewing through everything from lonicera to laurel and sticky woody conifer hedging with ease. It's heavier than budget trimmers but gives much more cutting power, using Bosch's Power For All battery shared across the wider ecosystem, charging in just over an hour for up to 80 minutes of use.",
+      "specs": {"Blade length": "55cm", "Max branch width": "20mm", "Weight": "2.6kg", "Charge time": "60 minutes"},
+      "pros": ["Unbeatable stamina and performance", "Handles large and untidy hedges with ease", "Shares batteries across the Power For All ecosystem"],
+      "cons": ["Heavier than budget lightweight trimmers"],
+      "asin": "",
+      "search": "Bosch UniversalHedgeCut 18-55"
+    },
+    {
+      "brand": "Gardena",
+      "name": "Comfort Cut 50/18V",
+      "badge": "Best for small to mid-sized gardens",
+      "best_for": "Buyers who want strong performance with excellent ergonomics",
+      "key_spec": "50cm blade, 20mm max branch width, non-slip handles",
+      "summary": "Well-balanced and solidly built, with grippy handles and good protection, which Expert Reviews called one of the most ergonomic trimmers tested. It pushed smoothly through lonicera, privet, conifer and hornbeam with genuine cutting power for a lightweight model, though it runs a little noisy at peak.",
+      "specs": {"Blade length": "50cm", "Max branch width": "20mm", "Weight": "2.8kg"},
+      "pros": ["Great performance and ease of use", "Comfortable, low-vibration handling", "Shares Power For All batteries with Flymo, Husqvarna and Bosch"],
+      "cons": ["Fairly noisy at peak (94dB)", "Not suited to heavy-duty work"],
+      "asin": "",
+      "search": "Gardena Comfort Cut 50/18V hedge trimmer"
+    },
+    {
+      "brand": "Terratek",
+      "name": "20V Electric Cordless Hedge Trimmer",
+      "badge": "Best budget",
+      "best_for": "Casual gardeners with just a small hedge or two",
+      "key_spec": "51cm blade, 15mm max branch width, includes battery and charger",
+      "summary": "A budget kit that includes trimmer, battery and charger for what other brands charge for a bare tool alone. Expert Reviews found enough power for most hedging types, easily handling lonicera and hornbeam, though heavyweight conifer or laurel can jam it up.",
+      "specs": {"Blade length": "51cm", "Max branch width": "15mm", "Weight": "2.5kg", "Battery": "1.3Ah, 60-minute charge"},
+      "pros": ["Includes battery and charger in the price", "Handles most hedging types well", "Batteries interchangeable with other Terratek tools"],
+      "cons": ["Struggles with heavyweight conifer or laurel", "Modest 1.3Ah battery capacity"],
+      "asin": "",
+      "search": "Terratek 20V Cordless Hedge Trimmer"
+    },
+    {
+      "brand": "Flymo",
+      "name": "18V EasiCut 450",
+      "badge": "Best lightweight",
+      "best_for": "Shaping and trimming lightweight hedges",
+      "key_spec": "45cm blade, 16mm max branch width, 2.6kg",
+      "summary": "Expert Reviews found this feels lighter than its actual weight thanks to good balance and comfortable handles, zipping through leaves and smaller branches without fuss. It's manoeuvrable for shaping lonicera or privet, though it lacks the power for thicker conifer hedges and jams beyond its 16mm max width.",
+      "specs": {"Blade length": "45cm", "Max branch width": "16mm", "Weight": "2.6kg"},
+      "pros": ["Comfortable, easy handling", "Great manoeuvrability for shaping hedges", "Chunky triggers and good blade guard"],
+      "cons": ["Lacks power for thicker conifer hedges", "16mm cutting width is a hard limit"],
+      "asin": "",
+      "search": "Flymo 18V EasiCut 450"
+    },
+    {
+      "brand": "Makita",
+      "name": "DUH751Z",
+      "badge": "Best for dense, difficult hedges",
+      "best_for": "Buyers with masses of thick conifer or woody hedging",
+      "key_spec": "75cm blade, 23.5mm max branch width, triple-edged teeth",
+      "summary": "A serious alternative to petrol models, with a massive blade and triple-edged tooth design that Expert Reviews found trimmed a thick fir hedge in double-quick time without jamming. Over 90 minutes of runtime from Makita's 18V 5.0Ah battery, though at 4.5kg it's heavy work on the arms.",
+      "specs": {"Blade length": "75cm", "Max branch width": "23.5mm", "Weight": "4.5kg"},
+      "pros": ["Breaks up even the toughest hedges", "Very long runtime (90+ minutes)", "Comfortable rotating handle"],
+      "cons": ["Heavy at 4.5kg", "Overkill for smaller hedges and gardens"],
+      "asin": "",
+      "search": "Makita DUH751Z hedge trimmer"
+    },
+    {
+      "brand": "Husqvarna",
+      "name": "Aspire H50-P4A",
+      "badge": "Best for short hedges and shrubs",
+      "best_for": "Compact hedges and shrubs that need real cutting power",
+      "key_spec": "50cm blade, 23mm max branch width, 2,800 cuts/minute",
+      "summary": "A compact trimmer with a powerful motor and wider tooth gap that Expert Reviews found sliced through branches up to 23mm without resistance, surpassing expectations on overgrown lonicera and dense conifer. A removable leaf catcher is a smart touch, and batteries are shared across Husqvarna, Gardena, Flymo and Bosch.",
+      "specs": {"Blade length": "50cm", "Max branch width": "23mm", "Weight": "3.1kg", "Cutting speed": "2,800 cuts/minute"},
+      "pros": ["Formidable cutting power for its size", "Compact and easy to handle", "Removable leaf catcher", "Shares batteries across Power 4 All ecosystem"],
+      "cons": ["Not ideal for large gardens with extensive hedging"],
+      "asin": "",
+      "search": "Husqvarna Aspire H50-P4A hedge trimmer"
+    },
+    {
+      "brand": "Worx",
+      "name": "WG801E",
+      "badge": "Best shrub clippers",
+      "best_for": "Topiary shaping and sculpting smaller shrubs",
+      "key_spec": "10-20cm blade, 8mm max branch width, 3 interchangeable blades",
+      "summary": "A pint-sized handheld trimmer that Expert Reviews found genuinely useful for reaching up high and clipping tops, with three blades for different topiary needs or cutting grasses. Its real skill is shaping and sculpting smaller shrubs and lightweight box or lonicera hedging, though it's not for larger hedges.",
+      "specs": {"Blade length": "10-20cm", "Max branch width": "8mm", "Weight": "550g"},
+      "pros": ["Great for shaping and sculpting shrubs", "Lightweight, easy to wield up high", "Three interchangeable blades included"],
+      "cons": ["Not suited to larger hedges", "Long 3-hour charge time"],
+      "asin": "",
+      "search": "Worx WG801E shrub clippers"
+    },
+    {
+      "brand": "Kärcher",
+      "name": "HGE 18-50",
+      "badge": "Best for big gardens",
+      "best_for": "Buyers who want an all-round trimmer for tough, unruly hedges",
+      "key_spec": "50cm blade, 22mm max branch width, rotating handle",
+      "summary": "A great all-rounder that Expert Reviews found handled larger, tougher and more unruly shrubs and hedges with ease, from beech to hornbeam to overgrown conifer. An ingenious lever lets you rotate the blade around the top handle to match your working angle, with nearly an hour of runtime from the larger battery.",
+      "specs": {"Blade length": "50cm", "Max branch width": "22mm", "Weight": "2.9kg", "Charge time": "44 minutes"},
+      "pros": ["Trims just about everything with ease", "Rotating blade for comfortable working angles", "Strong stamina from the battery"],
+      "cons": ["The odd very thick branch can still slow it down"],
+      "asin": "",
+      "search": "Karcher HGE 18-50 hedge trimmer"
+    },
+    {
+      "brand": "Einhell",
+      "name": "GE-HC 18 Li T",
+      "badge": "Best for tall hedges",
+      "best_for": "Reaching the top of hedges 7ft and above without a ladder",
+      "key_spec": "40cm blade on 1.7m telescopic pole, pivoting head, swappable chainsaw attachment",
+      "summary": "An extendable trimmer that Expert Reviews found let them reach the top of a 2-3m hedge without a ladder, with a pivoting head for side or top trimming. A clever party trick: the head swaps for a mini-chainsaw attachment, which worked superbly on an overgrown hornbeam hedge and for light tree pruning.",
+      "specs": {"Blade length": "40cm", "Pole reach": "Up to 1.7m", "Max branch width": "22mm", "Weight": "3.9kg"},
+      "pros": ["Reaches tall hedges without a ladder", "Pivoting head for side and top trimming", "Swappable mini-chainsaw attachment", "Shares Power X-Change batteries with other Einhell tools"],
+      "cons": ["Can feel unwieldy on smaller hedges"],
+      "asin": "",
+      "search": "Einhell GE-HC 18 Li T hedge trimmer"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What blade length do I need?",
+      "a": "A shorter blade (40-50cm), like the Gardena or Husqvarna here, is easier to manoeuvre for shaping and smaller hedges. A longer blade (55cm+), like the Bosch or Makita, covers more hedge per pass, better suited to long runs of hedging in a larger garden."
+    },
+    {
+      "q": "What maximum branch width should I look for?",
+      "a": "For soft, regularly-trimmed hedges like privet or lonicera, a modest 15-16mm capacity is usually enough. For tougher or more overgrown hedging like conifer or laurel, look for a trimmer rated to at least 20-23mm to avoid jamming, like the Bosch, Husqvarna or Kärcher here."
+    },
+    {
+      "q": "Is a telescopic or pole hedge trimmer worth it?",
+      "a": "If you have tall hedges (around 7ft or higher), a telescopic model like the Einhell here lets you trim the top safely without a ladder. For hedges you can comfortably reach from the ground, a standard handheld trimmer is lighter and easier to control."
+    },
+    {
+      "q": "Does sharing a battery system across tools matter?",
+      "a": "Many brands, including Bosch, Gardena, Flymo and Husqvarna, use shared battery platforms (Power For All or Power 4 All), so a battery bought for one tool works across the whole range. This is worth checking if you already own other cordless garden tools, since it can save buying a spare battery and charger."
+    }
+  ],
+  "sources": [
+    {"name": "Expert Reviews: best cordless hedge trimmers", "url": "https://www.expertreviews.co.uk/home-garden/garden-tools/best-cordless-hedge-trimmers"}
+  ]
+}
