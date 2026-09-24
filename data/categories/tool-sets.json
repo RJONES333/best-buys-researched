@@ -1,0 +1,109 @@
+{
+  "slug": "tool-sets",
+  "title": "Best Home Tool Kits UK",
+  "short": "Home tool kits compared by build quality, tool selection and case design, from basic starter kits to comprehensive mechanic's sets.",
+  "intro": "The right tool kit depends on how ambitious your DIY projects get: a compact kit suits basic fixes, while a comprehensive set with full-size tools handles bigger jobs. This guide compares kits hands-on tested by Bob Vila's reviewers, assessing build quality, comfort and how well each performed on real household tasks.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "Stanley",
+      "name": "94-248 65-Piece Homeowner's Tool Kit",
+      "badge": "Best overall",
+      "best_for": "Buyers who want full-size, genuinely capable tools rather than a toy-like kit",
+      "key_spec": "65 pieces, full-size hammer and pliers, 16ft tape measure, molded case",
+      "summary": "Bob Vila's testers found this stands out by including full-size tools rather than the smaller hand tools many kits scale down to, hammering an 8D framing nail into a 2x4 with ease. Ergonomic rubberised handles make bigger jobs comfortable, though the tape measure feels cheap and the socket selection is limited to eight sizes.",
+      "specs": {"Pieces": "65", "Type": "General", "Storage": "Molded plastic case"},
+      "pros": ["Durable build with ergonomic, rubberised handles", "Includes genuinely capable full-size tools", "Molded case keeps tools neatly organised"],
+      "cons": ["Tape measure feels noticeably low quality", "Limited socket selection (eight sizes)"],
+      "asin": "",
+      "search": "Stanley 94-248 65-Piece Homeowner's Tool Kit"
+    },
+    {
+      "brand": "Apollo Tools",
+      "name": "DT9706 39-Piece General Tool Set",
+      "badge": "Best value",
+      "best_for": "Renters or apartment dwellers who need light-duty basics",
+      "key_spec": "39 pieces, compact case, interchangeable screwdriver with labelled bits",
+      "summary": "Designed with smaller jobs in mind, Bob Vila found the tools as durably made as pricier kits despite their smaller size, thanks to carbon steel and heat-treated chrome steel construction. The interchangeable screwdriver with oversized handle impressed testers most, though the compact tools suit light-duty tasks only.",
+      "specs": {"Pieces": "39", "Type": "General", "Storage": "Molded plastic case"},
+      "pros": ["Comfortable screwdriver handles and grips", "Utility scissors cut thick cardboard easily", "Compact case fits in a kitchen drawer"],
+      "cons": ["Small tools suited only for light-duty tasks"],
+      "asin": "",
+      "search": "Apollo Tools DT9706 39-Piece Tool Set"
+    },
+    {
+      "brand": "Black+Decker",
+      "name": "LDX120PK 68-Piece Drill & Home Tool Kit",
+      "badge": "Best for new homeowners",
+      "best_for": "First-time homeowners who want a cordless drill bundled in",
+      "key_spec": "68 pieces, 20V cordless drill included, broad drill bit range",
+      "summary": "The standout here is a genuinely powerful 20V cordless drill that Bob Vila's testers used to bore a 1-inch hole through a 2x6 with a paddle bit. The rest of the hand tools feel solid but are suited mainly to light-duty jobs, and the Phillips screwdriver is oddly too large for standard screws.",
+      "specs": {"Pieces": "68", "Type": "General", "Storage": "Storage bag"},
+      "pros": ["Powerful 20V cordless drill included", "Large ergonomic grips feel comfortable", "Includes a wide range of useful drill bits"],
+      "cons": ["Phillips screwdriver too large for standard screws", "Hammer and tape measure are light-duty only"],
+      "asin": "",
+      "search": "Black and Decker LDX120PK Drill and Home Tool Kit"
+    },
+    {
+      "brand": "Crescent",
+      "name": "180-Piece SAE/Metric Professional Tool Set",
+      "badge": "Best for serious DIYers",
+      "best_for": "Weekend warriors who want a huge socket and screwdriver selection",
+      "key_spec": "180 pieces, 4mm-20mm and 5/32in-1in sockets, double-door case",
+      "summary": "Bob Vila's testers found the sockets fit snugly and the ratchets locked securely, with a longer 3/8-inch wrench providing extra torque for tough bolts. The double-door case was easier to open than typical clamshell designs, though there's no hammer or tape measure included.",
+      "specs": {"Pieces": "180", "Type": "General and auto mechanic", "Storage": "Molded plastic case"},
+      "pros": ["Broad range of metric and imperial sockets", "Full screwdriver set plus bit driver", "Ergonomic handles and durable chrome-steel build", "Sturdy double-door carrying case"],
+      "cons": ["Missing essentials like a hammer and tape measure"],
+      "asin": "",
+      "search": "Crescent 180-Piece Professional Tool Set"
+    },
+    {
+      "brand": "DeWalt",
+      "name": "DWMT73802 142-Piece Mechanics Tool Set",
+      "badge": "Best for cars",
+      "best_for": "Home mechanics who want a comprehensive socket and driver collection",
+      "key_spec": "142 pieces, 3/16in-7/8in and 5mm-19mm sockets, spark plug socket included",
+      "summary": "A comprehensive set that Bob Vila found let them smoothly ratchet bolts and reach deep into a car engine thanks to well-fitted extenders and adapters. Knurled surfaces make sockets and drivers easy to grip, though there's no 1/2-inch driver for the extra torque stubborn bolts sometimes need.",
+      "specs": {"Pieces": "142", "Type": "Auto mechanic", "Storage": "Molded plastic case"},
+      "pros": ["Comprehensive deep, metric and imperial sockets", "High-quality steel for long-lasting durability", "Carrying case keeps all pieces secure"],
+      "cons": ["Flat ratchet handles uncomfortable under heavy pressure", "No 1/2-inch driver included"],
+      "asin": "",
+      "search": "DeWalt DWMT73802 Mechanics Tool Set"
+    },
+    {
+      "brand": "Carsolt",
+      "name": "10-Piece Garden Tool Set",
+      "badge": "Best for gardening",
+      "best_for": "Buyers who want a complete set of hand tools for weeding and planting",
+      "key_spec": "10 pieces, heavy-gauge stainless steel, canvas tote storage",
+      "summary": "Includes multiple trowels, pruning shears, a hand saw, a hand rake and a weed puller, all with large molded ergonomic handles that Bob Vila found comfortable over long sessions. The stainless steel construction resists rust well, though the exposed pruner is vulnerable to dirt and trowels can bend under heavy pressure.",
+      "specs": {"Pieces": "10", "Type": "Gardening", "Storage": "Canvas tote bag"},
+      "pros": ["Ergonomic rubberised handles for all-day comfort", "Durable heavy-gauge stainless steel", "Covers all essential gardening hand tools", "Canvas tote keeps tools organised"],
+      "cons": ["Exposed pruner vulnerable to dirt", "Trowels may bend under heavy pressure"],
+      "asin": "",
+      "search": "Carsolt 10-Piece Garden Tool Set"
+    }
+  ],
+  "guide": [
+    {
+      "q": "How many pieces do I actually need?",
+      "a": "A high piece count often just means more screwdriver bits and small adapters rather than genuinely useful tools. A well-chosen 40-65 piece general kit, like the Stanley or Apollo here, covers most household needs; go bigger only if you specifically need a wide socket range for car or mechanical work."
+    },
+    {
+      "q": "Should I get a general kit or a specialist one?",
+      "a": "A general home tool kit covers everyday repairs like hanging shelves or tightening fixtures. If you regularly work on a car or bike, a dedicated mechanics or bike-specific set, like the DeWalt or Cyclists kit here, includes sockets and specialist tools a general kit won't have."
+    },
+    {
+      "q": "Does tool size matter as much as the count?",
+      "a": "Yes. Some budget kits scale down hammers, pliers and screwdrivers to fit a compact case, which limits them to light-duty tasks like picture hanging rather than bigger jobs. If you want to drive full-size nails or tackle real DIY projects, check that the core hand tools are genuinely full-sized, not just numerous."
+    },
+    {
+      "q": "Is a case with molded slots worth it?",
+      "a": "A hard case with molded slots for each tool makes it far easier to spot a missing tool at a glance and keeps everything from rattling around in transport, compared to a simple storage bag. It's a genuine convenience, especially if the kit will be moved between rooms, a car boot or a garage shelf regularly."
+    }
+  ],
+  "sources": [
+    {"name": "Bob Vila: the best home tool kits", "url": "https://www.bobvila.com/reviews/best-home-tool-kits-2026/"}
+  ]
+}

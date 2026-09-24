@@ -49,9 +49,9 @@ GROUPS = {
     "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "electric-shavers"],
     "Kids": ["trending-kids-toys"],
     "Garden": ["lawn-mowers", "pressure-washers", "bbqs"],
-    "DIY & tools": ["cordless-drills"],
+    "DIY & tools": ["cordless-drills", "tool-sets"],
     "Automotive": ["dash-cams"],
-    "Luggage & travel": ["suitcases"],
+    "Luggage & travel": ["suitcases", "travel-adaptors"],
     "Pet supplies": ["dog-beds", "cat-carriers", "automatic-pet-feeders"],
     "Baby": ["baby-monitors", "pushchairs", "toddler-car-seats"],
 }
