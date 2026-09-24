@@ -1,0 +1,218 @@
+{
+  "slug": "food-processors",
+  "title": "Best Food Processors UK",
+  "short": "Food processors compared for chopping evenness, slicing speed and ease of cleaning, from compact everyday choppers to large-capacity batch-cooking machines.",
+  "intro": "A food processor's real test is whether it actually gets used week to week, not how many attachments it comes with. This guide compares processors tested hands-on by Mumsnet's team, judged on how evenly they chop, slicing and grating performance, how well they handle heavier jobs like dough, and how annoying they are to clean.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Ninja",
+      "name": "Detect 3-in-1 Power Blender and Processor Pro",
+      "badge": "Best overall",
+      "best_for": "Buyers who want one powerful machine to replace several kitchen gadgets",
+      "key_spec": "1.8L bowl, 2.1L jug, 700ml cup, BlendSense auto Detect Dial, 1200W",
+      "summary": "Tested and recommended by Mumsnet Senior Content Editor Rebecca, this replaces multiple appliances with genuinely powerful, smooth blending. The BlendSense Detect Dial figures out speed and timing automatically, which Rebecca found a real help rather than a gimmick, though it's bulky on the worktop and not suitable for hot liquids.",
+      "specs": {
+        "Bowl capacity": "1.8L (plus 2.1L jug, 700ml cup)",
+        "Power": "1200W",
+        "Power levels": "3",
+        "Price guide": "£230"
+      },
+      "pros": [
+        "Replaces multiple appliances",
+        "Powerful, smooth blending",
+        "BlendSense auto-detects speed and timing",
+        "Easy enough for non-confident cooks",
+        "Dishwasher-safe parts"
+      ],
+      "cons": [
+        "Bulky and heavy on the worktop",
+        "Lots of attachments to store",
+        "Not suitable for hot liquids"
+      ],
+      "asin": "",
+      "search": "Ninja Detect 3-in-1 Power Blender and Processor Pro"
+    },
+    {
+      "brand": "Russell Hobbs",
+      "name": "24732 Desire Food Processor",
+      "badge": "Best budget",
+      "best_for": "Buyers who want solid everyday performance without paying a premium",
+      "key_spec": "2.5L bowl, 1.5L blender jug, two speeds plus pulse, 600W",
+      "summary": "Mumsnet found this a no-frills model that still does a good job at around the £70 mark, coming with a blender jug and a full range of useful attachments. The creamer disc handles smooth soups and sauces well, and all attachments are dishwasher-safe, though it feels a little less robust than pricier models and can be noisy in use.",
+      "specs": {
+        "Bowl capacity": "2.5L",
+        "Power": "600W",
+        "Power levels": "2 plus pulse",
+        "Price guide": "£70"
+      },
+      "pros": [
+        "Budget price with a blender jug included",
+        "Good range of attachments for the price",
+        "Dishwasher-safe parts",
+        "Thoughtful, stylish design for a budget model"
+      ],
+      "cons": [
+        "Feels less robust than pricier models",
+        "A little noisy in use"
+      ],
+      "asin": "",
+      "search": "Russell Hobbs 24732 Desire Food Processor"
+    },
+    {
+      "brand": "Cuisinart",
+      "name": "FP8U Easy Prep Pro Blender",
+      "badge": "Best compact",
+      "best_for": "Buyers short on storage space who want a processor that can live on the counter",
+      "key_spec": "1.9L capacity with two bowl sizes, small footprint, two speeds plus pulse, 350W",
+      "summary": "Mumsnet found this a clever buy for anyone short on cupboard space, with a small footprint that means it won't be in the way left out on the counter. It's great at basic jobs like grating carrots and making pesto, and the two bowl sizes avoid washing a huge bowl for a small job, though there's no dedicated storage box for the blades and discs.",
+      "specs": {
+        "Capacity": "1.9L (with 0.7L bowl option)",
+        "Power": "350W",
+        "Power levels": "2 plus pulse",
+        "Price guide": "£125"
+      },
+      "pros": [
+        "Small footprint suits limited kitchen space",
+        "Good price",
+        "Two bowl sizes avoid over-washing for small jobs",
+        "Great at everyday basic tasks"
+      ],
+      "cons": [
+        "Less powerful than larger models",
+        "No dedicated storage for blades and discs"
+      ],
+      "asin": "",
+      "search": "Cuisinart FP8U Easy Prep Pro Blender"
+    },
+    {
+      "brand": "KitchenAid",
+      "name": "5KFP0919 2.1 Litre Food Processor",
+      "badge": "Best for style",
+      "best_for": "Buyers who want a processor that looks as good as it performs",
+      "key_spec": "2.1L bowl, stacked disc storage inside the bowl, two speeds plus pulse, 350W",
+      "summary": "Mumsnet found this sturdy, stylish processor easy and intuitive to use and assemble, impressively powerful for its compact size yet quiet in operation. Discs stack and store neatly inside the processor itself, and it preps everything from veg to cheese efficiently, though it's pricey and doesn't offer the three-in-one versatility of rivals like the Ninja.",
+      "specs": {
+        "Bowl capacity": "2.1L",
+        "Power": "350W",
+        "Power levels": "2 plus pulse",
+        "Price guide": "£200"
+      },
+      "pros": [
+        "Stylish, retro design",
+        "Relatively quiet in use",
+        "Compact yet powerful",
+        "Discs store neatly inside the bowl"
+      ],
+      "cons": [
+        "Pricey for what it offers",
+        "Less versatile than combo blender-processor models"
+      ],
+      "asin": "",
+      "search": "KitchenAid 5KFP0919 2.1 Litre Food Processor"
+    },
+    {
+      "brand": "Magimix",
+      "name": "5200XL Food Processor",
+      "badge": "Best luxury",
+      "best_for": "Serious home cooks who want a machine built to last decades",
+      "key_spec": "3.6L capacity, three stacking bowls, 1100W, 30-year motor promise",
+      "summary": "Mumsnet found this speeds through heavy-duty work like kneading dough with no problem and is lightning fast chopping veg, despite being surprisingly quiet for its power. Three stacking bowls let you whip a single egg or a massive batch of bread dough, backed by a 30-year motor promise, though it's heavy and the small bowls only work nested inside the largest one.",
+      "specs": {
+        "Bowl capacity": "3.6L (three nested bowls)",
+        "Power": "1100W",
+        "Motor warranty": "30 years",
+        "Price guide": "£370"
+      },
+      "pros": [
+        "Large capacity, great for bulk cooking",
+        "Powerful yet quiet motor",
+        "Premium build quality",
+        "30-year motor promise"
+      ],
+      "cons": [
+        "Quite heavy to move",
+        "Expensive",
+        "Small bowls can only be used stacked inside the largest"
+      ],
+      "asin": "",
+      "search": "Magimix 5200XL Food Processor"
+    },
+    {
+      "brand": "Bosch",
+      "name": "MultiTalent 8 Food Processor",
+      "badge": "Best large capacity",
+      "best_for": "Buyers cooking for large numbers who want maximum power and functions",
+      "key_spec": "3.9L bowl, 1200W, Smart Tool Detection, around 50 functions with full attachment range",
+      "summary": "Mumsnet found power and size delivered in spades, with one of the biggest bowls tested and 1,200W to power through anything. Smart Tool Detection automatically works out the ideal speed for each task, and with the dough hook the large bowl handles up to 1.5kg of dough, though it requires significant storage space for all its attachments.",
+      "specs": {
+        "Bowl capacity": "3.9L",
+        "Power": "1200W",
+        "Max dough capacity": "1.5kg",
+        "Price guide": "£189"
+      },
+      "pros": [
+        "Large capacity for big batches",
+        "Excellent power output",
+        "Smart Tool Detection auto-selects speed",
+        "Around 50 functions across included attachments"
+      ],
+      "cons": [
+        "Requires a lot of storage space"
+      ],
+      "asin": "",
+      "search": "Bosch MultiTalent 8 Food Processor"
+    },
+    {
+      "brand": "Sage",
+      "name": "The Kitchen Wizz 16 3.6L",
+      "badge": "Best for baking",
+      "best_for": "Keen home bakers who want precision slicing and dough handling",
+      "key_spec": "3.6L capacity, 140mm feed chute, adjustable slicer and reversible shredder, 900W",
+      "summary": "Mumsnet found this feels like a hobby-worthy tool using precision engineering to chop, slice, purée and shred exactly as needed, with a robust motor and dough blade making light work of pizza or bread dough. The extra-large 140mm feed chute takes larger ingredients with minimal pre-cutting, though it's expensive and not all parts are dishwasher safe.",
+      "specs": {
+        "Bowl capacity": "3.6L",
+        "Power": "900W",
+        "Feed chute": "140mm",
+        "Price guide": "£410"
+      },
+      "pros": [
+        "Excellent power and precision",
+        "Comprehensive range of blades and discs",
+        "Extra-large feed chute reduces pre-cutting",
+        "Attachments store neatly in dedicated container"
+      ],
+      "cons": [
+        "Expensive",
+        "Not all parts are dishwasher safe"
+      ],
+      "asin": "",
+      "search": "Sage The Kitchen Wizz 16 3.6L"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Food processor or blender: do I need both?",
+      "a": "A food processor like most here is best for prepping and texture: chopping, slicing, grating and sometimes dough. A blender is better for smooth foods and liquids like soups and smoothies. A combo machine like the Ninja Detect here covers both, but check the blender jug is genuinely powerful rather than a weak bonus attachment."
+    },
+    {
+      "q": "What size food processor do I actually need?",
+      "a": "A mini chopper (0.5-1L) suits small jobs like herbs or a single onion. A mid-sized processor (1.5-2.5L), like the KitchenAid or Cuisinart here, covers most family needs from grating cheese to prepping traybake veg. A large model (3L+), like the Magimix or Bosch here, is worth it only if you batch cook, cook for crowds, or bake frequently and have the storage space."
+    },
+    {
+      "q": "How much does the feed tube size matter?",
+      "a": "A larger feed tube, like the Sage Kitchen Wizz's 140mm chute here, lets you feed in bigger pieces of veg while the machine is running, saving time on pre-chopping. A narrow feed tube means more prep work beforehand, which adds up if you're processing large quantities regularly."
+    },
+    {
+      "q": "What should I check before buying, beyond the attachments list?",
+      "a": "Check ease of cleaning (are bowls and blades dishwasher-safe), storage space for the machine and its attachments, and whether the base has non-slip feet to stop it wandering on the worktop during heavy use. It's also worth checking that replacement bowls and lids are easily available, since these are the parts most likely to crack over time."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Mumsnet: best food processors",
+      "url": "https://www.mumsnet.com/swearsby/best-food-processors"
+    }
+  ]
+}

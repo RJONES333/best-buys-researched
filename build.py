@@ -28,6 +28,7 @@ GROUPS = {
         "toasters", "dehumidifiers", "air-purifiers", "heated-airers",
         "electric-blankets", "electric-heaters", "kitchen-knives",
         "washing-machines", "microwaves", "fridge-freezers", "steam-irons",
+        "food-processors",
     ],
     "Cleaning": ["robot-vacuums", "cordless-vacuums", "steam-cleaners"],
     "Tech & gadgets": [

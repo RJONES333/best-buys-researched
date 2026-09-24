@@ -3,11 +3,12 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Food processors (Home & kitchen)
 - Action cameras (Tech & gadgets)
 - Projectors (Tech & gadgets)
 - Soundbars (Tech & gadgets)
 - Tablets (Tech & gadgets)
+- Gaming chairs (Tech & gadgets or Home office)
+- Office chairs (Home office)
 
 ## Rejected (no genuine hands-on testing source found, don't retry)
 - Dog leads and harnesses — PetsRadar's page is mostly generic affiliate "reasons to buy/avoid" copy with only one genuinely tested product. Which?'s test methodology is excellent (real dogs, water-resistance testing) but results are paywalled behind login. Rover.com's "reviews" are mostly scraped Amazon customer quotes labelled "most helpful review", same pattern as the rejected Origym boxing gloves source. Worth retrying later if a UK outlet publishes an unpaywalled hands-on test.
@@ -38,6 +39,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Steam cleaners / mops — Trusted Reviews (6 products)
 - Fridge freezers — Trusted Reviews (8 products)
 - Steam irons — Mumsnet (6 products)
+- Food processors — Mumsnet (7 products)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes
