@@ -59,7 +59,7 @@ GROUPS = {
         "grass-trimmers",
     ],
     "DIY & tools": ["cordless-drills", "tool-sets", "smoke-alarms"],
-    "Automotive": ["dash-cams", "tyre-inflators", "car-phone-mounts", "jump-starters", "electric-scooters"],
+    "Automotive": ["dash-cams", "tyre-inflators", "car-phone-mounts", "jump-starters"],
     "Luggage & travel": ["suitcases", "travel-adaptors"],
     "Pet supplies": ["dog-beds", "cat-carriers", "automatic-pet-feeders", "pet-cameras"],
     "Baby": ["baby-monitors", "pushchairs", "toddler-car-seats", "baby-carriers", "high-chairs"],
