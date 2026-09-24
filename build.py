@@ -49,7 +49,7 @@ GROUPS = {
     "Clothing": ["mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "golf-club-sets"],
     "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "electric-shavers", "hair-clippers"],
-    "Kids": ["trending-kids-toys"],
+    "Kids": ["trending-kids-toys", "trampolines"],
     "Garden": [
         "lawn-mowers", "pressure-washers", "bbqs", "hedge-trimmers",
         "garden-pest-repellers", "leaf-blowers",
