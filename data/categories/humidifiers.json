@@ -1,0 +1,268 @@
+{
+  "slug": "humidifiers",
+  "title": "Best Humidifiers UK",
+  "short": "Ultrasonic, warm mist and evaporative humidifiers compared on measured humidity rise, noise and running costs, from £19 bedside models to air-purifier combos.",
+  "intro": "A humidifier's real test is how much it raises the humidity in a room and how quietly it does it. This guide compares humidifiers tested by Expert Reviews in a closed test room, with baseline humidity readings taken before switching on and again after 15 and 30 minutes, noise measured with a sound meter and power draw measured on mains models. Prices are as reviewed in 2024.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Aennon",
+      "name": "Cool Mist Humidifier",
+      "badge": "Best all-round",
+      "best_for": "Most buyers who want a quiet, capable humidifier at a low price",
+      "key_spec": "2.8L tank, automatic shut-off, adjustable mist flow, colour night light, oil-compatible",
+      "summary": "Expert Reviews' best all-round pick, incredibly quiet yet putting out a good, consistent flow of vapour, with a 2.8L tank that only needed filling once a day. Mist output was more consistent than some cheaper and pricier machines, and it's easy to clean, though the mist can leave damp patches on nearby curtains and furnishings.",
+      "specs": {
+        "Tank size": "2.8L",
+        "Automatic shut-off": "Yes",
+        "Dimensions": "20 x 21 x 29cm",
+        "Price guide": "£17-£40"
+      },
+      "pros": [
+        "Very quiet with a strong, consistent mist flow",
+        "Auto shut-off makes it safe for children's rooms",
+        "Large tank needs filling only once a day",
+        "Easy to clean, essential oils can be added"
+      ],
+      "cons": [
+        "Mist can dampen curtains and furnishings nearby",
+        "No warranty listed"
+      ],
+      "asin": "",
+      "search": "Aennon Cool Mist Humidifier 2.8L"
+    },
+    {
+      "brand": "Levoit",
+      "name": "Dual 150",
+      "badge": "Best for bedrooms",
+      "best_for": "Light sleepers who want a quiet humidifier with a big tank",
+      "key_spec": "3L tank, up to 25 hours running, 28dB maximum measured, directional mist outlet",
+      "summary": "Expert Reviews measured this raising humidity in the test room by around 18% in half an hour, while never exceeding 28dB, which wasn't audible above ambient noise in a living room or bedroom. The twist-knob control is simple and the outlet angle can be adjusted, though there's no humidity sensor or automatic control (that needs the pricier Dual 200S).",
+      "specs": {
+        "Tank size": "3L",
+        "Running time": "Up to 25 hours",
+        "Noise measured": "28dB maximum",
+        "Price guide": "£50"
+      },
+      "pros": [
+        "Raised test room humidity by about 18% in 30 minutes",
+        "Very quiet, 28dB at most",
+        "Easy twist-knob controls and lift-off lid",
+        "Essential oils safe to add"
+      ],
+      "cons": [
+        "No humidity sensor or automatic mode"
+      ],
+      "asin": "",
+      "search": "Levoit Dual 150 humidifier"
+    },
+    {
+      "brand": "SmartDevil",
+      "name": "Cool Mist Humidifier 500ml",
+      "badge": "Best budget",
+      "best_for": "Buyers wanting a simple, near-silent bedside or desk humidifier for very little money",
+      "key_spec": "500ml tank, USB powered, 12 hours continuous or 18 hours intermittent, LED night light",
+      "summary": "Expert Reviews found this raised humidity in a small test room by 18% in half an hour, producing a fine mist rather than the condensation some cheap models leave, and staying virtually silent at 1m. It's powered by micro-USB and runs up to 12 hours continuously, though the small 500ml tank and basic controls limit it to small spaces.",
+      "specs": {
+        "Tank size": "500ml",
+        "Running time": "12 hours continuous / 18 hours intermittent",
+        "Power": "Micro-USB",
+        "Price guide": "£19"
+      },
+      "pros": [
+        "Very cheap",
+        "Fine mist without coating the area in condensation",
+        "Near silent, inaudible at 1m",
+        "USB powered, so portable"
+      ],
+      "cons": [
+        "Small tank capacity",
+        "No automatic settings"
+      ],
+      "asin": "",
+      "search": "SmartDevil Cool Mist Humidifier 500ml USB"
+    },
+    {
+      "brand": "Vicks",
+      "name": "VH845 Warm Mist Humidifier",
+      "badge": "Best for winter",
+      "best_for": "Anyone wanting warm mist for colds, congestion and sore throats",
+      "key_spec": "3.8L tank, warm mist, up to 12 hours, Vicks VapoPad menthol compatible",
+      "summary": "Expert Reviews found warm, moist air that helps relieve congestion and sore throats, with the option of Vicks VapoPads for a menthol aroma. It has a large 3.8L tank and auto shut-off at a fair price, but warm mist makes it less suited to summer use, and daily cleaning is recommended, which the reviewer found a chore.",
+      "specs": {
+        "Tank size": "3.8L",
+        "Running time": "Up to 12 hours",
+        "Mist type": "Warm",
+        "Price guide": "£42"
+      },
+      "pros": [
+        "Warm mist soothes congestion and sore throats",
+        "Large 3.8L tank",
+        "Optional menthol VapoPads",
+        "Auto shut-off, 2-year warranty"
+      ],
+      "cons": [
+        "Not ideal in summer",
+        "Daily cleaning recommended"
+      ],
+      "asin": "",
+      "search": "Vicks VH845 Warm Mist Humidifier"
+    },
+    {
+      "brand": "Stadler Form",
+      "name": "Eva Humidifier",
+      "badge": "Best for large rooms",
+      "best_for": "Larger living spaces where you want automatic humidity control",
+      "key_spec": "6.3L tank, up to 80m² coverage, five humidity settings, remote and Wi-Fi app, under 30dB typically",
+      "summary": "Expert Reviews found this covers a larger area than any other unit in the test, up to about 900 square feet, with a huge 6.3L tank lasting up to a full day and an auto mode that stops it over-humidifying. Noise was typically well under 30dB and it's easy to clean, but the warm mode seemed to do little and replacement filtration cartridges add to the cost.",
+      "specs": {
+        "Tank size": "6.3L",
+        "Coverage": "Up to 80m²",
+        "Noise measured": "Typically well under 30dB",
+        "Price guide": "£169"
+      },
+      "pros": [
+        "Covers up to 80m² (a large two-bedroom flat)",
+        "Auto mode holds a set humidity level",
+        "Very quiet, remote and Wi-Fi app control",
+        "Dimmable or switch-off LEDs"
+      ],
+      "cons": [
+        "Warm mode seems less effective",
+        "Costly consumables such as filter cartridges"
+      ],
+      "asin": "",
+      "search": "Stadler Form Eva humidifier"
+    },
+    {
+      "brand": "Babymoov",
+      "name": "Hygro+",
+      "badge": "Best for kids' rooms",
+      "best_for": "Parents who want easy setup and a timer for a child's bedroom",
+      "key_spec": "3.8L tank, up to 22 hours running, touch controls showing humidity and temperature, lifetime warranty",
+      "summary": "Expert Reviews found a full tank lasted through two nights, with touchscreen controls that made it easy to monitor room humidity and temperature and a timer that switches it off automatically. Instructions were clear and it's quiet and simple to clean, though the multicolour night light has no dimmer and cycles colours quickly.",
+      "specs": {
+        "Tank size": "3.8L",
+        "Running time": "Up to 22 hours",
+        "Warranty": "Lifetime",
+        "Price guide": "£80"
+      },
+      "pros": [
+        "Clear instructions and easy setup",
+        "Touch controls show humidity and temperature",
+        "Tank lasted two nights",
+        "Quiet and simple to clean"
+      ],
+      "cons": [
+        "Night light has no dimmer and may be too bright",
+        "Fast colour cycling is not restful"
+      ],
+      "asin": "",
+      "search": "Babymoov Hygro+ humidifier"
+    },
+    {
+      "brand": "Sharp",
+      "name": "UA-HD40U-L Air Purifier with Humidification",
+      "badge": "Best 2-in-1 purifier and humidifier",
+      "best_for": "Buyers wanting cleaner air and humidity from one machine in a small room",
+      "key_spec": "Evaporative humidifier plus HEPA purifier, 2.5L tank, automatic humidity control, covers 26m², 47dB at full power measured",
+      "summary": "Expert Reviews found an effective purifier with intelligent air quality and humidity sensors, plus evaporative humidification that switches on automatically only when humidity falls below set thresholds, so it won't over-humidify damp-prone rooms. It's the most expensive unit tested, and the fan measured up to 47dB at full power.",
+      "specs": {
+        "Tank size": "2.5L",
+        "Coverage": "26m² (larger HD50U-L covers 38m²)",
+        "Noise measured": "47dB at full power",
+        "Price guide": "£270"
+      },
+      "pros": [
+        "Air purifying and humidifying in one",
+        "Automatic humidity control avoids over-humidifying",
+        "Removable tank fills from tap or bottle",
+        "Air quality and humidity sensors"
+      ],
+      "cons": [
+        "Noisy at high fan speeds",
+        "Expensive",
+        "Filter, tank and tray need periodic cleaning"
+      ],
+      "asin": "",
+      "search": "Sharp UA-HD40U-L air purifier humidifier"
+    },
+    {
+      "brand": "Stadler Form",
+      "name": "Oskar Little",
+      "badge": "Best compact",
+      "best_for": "Buyers who want a stylish, energy-saving evaporative humidifier for bedrooms",
+      "key_spec": "Evaporative, 2.5L tank, two power levels, eco plant-fibre filter, up to 50m²",
+      "summary": "Expert Reviews found this compact evaporative unit boosts humidity quickly on its top setting and is close to silent on its lower one, with an eco-friendly filter to replace roughly every two months. It's easy to use with a water-level window and auto shut-off, but it isn't ideal for hard water areas and the tank is small for how much moisture it produces.",
+      "specs": {
+        "Tank size": "2.5L",
+        "Coverage": "Up to 50m²",
+        "Filter": "Plant and textile fibre, replace about every 2 months",
+        "Price guide": "£130"
+      },
+      "pros": [
+        "Fast humidification on the high setting",
+        "Close to silent on low",
+        "Energy-saving and eco-friendly filter",
+        "Water-level window and auto shut-off"
+      ],
+      "cons": [
+        "Not suited to hard water areas",
+        "Small tank for its output"
+      ],
+      "asin": "",
+      "search": "Stadler Form Oskar Little humidifier"
+    },
+    {
+      "brand": "Dyson",
+      "name": "Pure Humidify+Cool",
+      "badge": "Best high-end",
+      "best_for": "Buyers who want a humidifier, air purifier and tower fan in one design-led unit",
+      "key_spec": "Humidifier, HEPA purifier and bladeless fan, UV lamp, app and remote, 3.2m/s airflow measured, 5-year warranty",
+      "summary": "Expert Reviews found this very quiet when just purifying at its lowest setting, reaching 56dB with the fan at maximum, and measured air speeds of 3.2m/s at full tilt. A UV lamp kills bacteria before mist is released, so it's extremely easy to keep clean, though at the reviewed £749 it's unsurprisingly expensive.",
+      "specs": {
+        "Functions": "Humidifier, air purifier, tower fan",
+        "Noise measured": "56dB at maximum fan",
+        "Warranty": "5 years",
+        "Price guide": "£350-£749"
+      },
+      "pros": [
+        "Three functions in one attractive unit",
+        "UV lamp keeps the water path bacteria-free",
+        "Very quiet at lower settings",
+        "Long 5-year warranty"
+      ],
+      "cons": [
+        "Very expensive",
+        "Needs periodic deep-clean descaling"
+      ],
+      "asin": "",
+      "search": "Dyson Pure Humidify+Cool PH01"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What humidity level should I aim for at home?",
+      "a": "Expert Reviews puts the ideal at around 40%, with 30-50% considered fine for health and comfort. Below 30% is too dry and can worsen dry skin, congestion and allergies, while above 50-60% encourages bacteria, dust mites and mould. A basic hygrometer costs roughly £8-£30, or many humidifiers here have one built in."
+    },
+    {
+      "q": "Ultrasonic, warm mist or evaporative: what's the difference?",
+      "a": "Ultrasonic models like the Levoit Dual 150 and Aennon here use vibration to make a cool mist and are practically silent. Warm mist units like the Vicks VH845 heat the water and suit cold weather. Evaporative models like the Stadler Form Oskar Little push air through a damp filter, and need more regular cleaning because bacteria can build up in the wick."
+    },
+    {
+      "q": "How often do I need to clean a humidifier?",
+      "a": "Regularly, to prevent mould and bacteria. Some, like the Vicks VH845, recommend daily cleaning, while a model with a UV lamp like the Dyson here mainly needs a periodic descaling deep-clean. Always check the mist outlets and replace or clean any filter as the maker advises."
+    },
+    {
+      "q": "Which features matter most?",
+      "a": "Automatic shut-off when the tank runs dry is the key safety feature, followed by a timer so it switches off after you fall asleep, and clear, easy instructions. Whether you want cool or warm mist depends on the season, and a humidity sensor with auto mode, as on the Stadler Form Eva, stops you over-humidifying a room."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best humidifiers",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/air-treatment/best-humidifiers"
+    }
+  ]
+}
