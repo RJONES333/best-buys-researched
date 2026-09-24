@@ -55,7 +55,7 @@ GROUPS = {
     "Kids": ["trending-kids-toys", "trampolines"],
     "Garden": [
         "lawn-mowers", "pressure-washers", "bbqs", "hedge-trimmers",
-        "garden-pest-repellers", "leaf-blowers",
+        "garden-pest-repellers", "leaf-blowers", "robot-lawn-mowers",
     ],
     "DIY & tools": ["cordless-drills", "tool-sets", "smoke-alarms"],
     "Automotive": ["dash-cams", "tyre-inflators", "car-phone-mounts", "jump-starters"],

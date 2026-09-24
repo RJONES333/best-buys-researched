@@ -3,7 +3,6 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Robot lawn mowers (Garden)
 - Grass trimmers / strimmers (Garden)
 - Humidifiers (Home & kitchen)
 - Home security cameras (Tech & gadgets, distinct from pet cameras)
@@ -48,6 +47,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Soundbars — Expert Reviews (9 products)
 - Tablets — Trusted Reviews (8 products)
 - Video doorbells — Expert Reviews (9 products)
+- Robot lawn mowers — Ideal Home (4 products)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes

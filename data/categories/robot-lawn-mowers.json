@@ -1,0 +1,139 @@
+{
+  "slug": "robot-lawn-mowers",
+  "title": "Best Robot Lawn Mowers UK",
+  "short": "Wire-free robot lawn mowers compared for mapping speed, cut quality and noise, tested in a real garden across setup, mowing performance and obstacle avoidance.",
+  "intro": "A robot lawn mower's real test is how it handles your actual garden, not a demo lawn. This guide compares mowers tested by Ideal Home's Gardens Editor Sophie King in her own 38m² garden, assessing unboxing, setup, mapping speed and accuracy, mowing precision, obstacle avoidance and ongoing maintenance.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Eufy",
+      "name": "E15 Robot Lawn Mower",
+      "badge": "Best premium",
+      "best_for": "Buyers who want a sturdy machine with extensive app customisation",
+      "key_spec": "800m² max lawn, pure vision FSD technology, no boundary wire or RTK station needed, 56dB noise",
+      "summary": "Tested by Ideal Home's Sophie King, this provided a neat, intuitive cut with brilliant obstacle detection and a genuinely simple setup, just four screws to connect the charging station. It uses high-precision cameras and AI algorithms to map a lawn via Wi-Fi or 4G with no boundary wire needed, and Sophie watched the map build in real time on the app, though it's expensive and louder than some rivals tested.",
+      "specs": {
+        "Max lawn size": "800m²",
+        "Cutting height range": "25-75mm",
+        "Noise level": "56dB",
+        "Price guide": "£1,159-£1,499"
+      },
+      "pros": [
+        "Brilliant obstacle detection",
+        "Clean, even cut",
+        "Intuitive, informative app",
+        "No boundary wire or RTK station required"
+      ],
+      "cons": [
+        "Expensive",
+        "Heavy at 12.5kg",
+        "Louder than some rivals tested"
+      ],
+      "asin": "",
+      "search": "Eufy E15 Robot Lawn Mower"
+    },
+    {
+      "brand": "Mammotion",
+      "name": "YUKA Mini 2 1000",
+      "badge": "Best for efficiency",
+      "best_for": "Buyers who want fast mapping and a striped lawn finish",
+      "key_spec": "1000m² max lawn, LiDAR mapping in around 3 minutes, 19cm cutting width",
+      "summary": "Ideal Home's Sophie King found this mapped her lawn in just three minutes, far faster than the Eufy E15, with a speed that made her laugh at how purposeful it seemed. The cut itself was breathtaking, effortlessly striping the lawn to an even 50mm finish, though there's no garage roof for the charging station and it needs extra manual toggling around perimeters and stepping stones.",
+      "specs": {
+        "Max lawn size": "1000m²",
+        "Cutting height range": "20-60mm",
+        "Mapping time": "~3 minutes",
+        "Price guide": "£999-£1,199"
+      },
+      "pros": [
+        "Very fast lawn mapping",
+        "Excellent lawn striping",
+        "Fantastic object avoidance",
+        "Clear, thorough setup instructions in-app"
+      ],
+      "cons": [
+        "No garage roof for the charging station",
+        "Needs extra manual attention around perimeters and stepping stones"
+      ],
+      "asin": "",
+      "search": "Mammotion YUKA Mini 2 1000 Robot Lawn Mower"
+    },
+    {
+      "brand": "Segway",
+      "name": "Navimow i208 LiDAR",
+      "badge": "Best quiet mower with top features",
+      "best_for": "Buyers who want the widest cut and near-silent operation with advanced tech",
+      "key_spec": "800m² max lawn, 22cm cutting width (widest tested), LiDAR plus onboard vision sensors, works day or night",
+      "summary": "Ideal Home's Sophie King found this sounded quieter than the Eufy E15 during testing, at 59dB so whisper-quiet she forgot it was on, with the tougher grass making more noise than the machine itself. It has the widest cutting width of the group at 22cm, covering more lawn per pass, and LiDAR-based satellite-free navigation lets it work day or night, though it's heavy to lift and push.",
+      "specs": {
+        "Max lawn size": "800m²",
+        "Cutting width": "22cm (widest tested)",
+        "Noise level": "59dB (perceived quietest with best features)",
+        "Price guide": "£1,278"
+      },
+      "pros": [
+        "Widest cutting width of the mowers tested",
+        "Very quiet in real-world use",
+        "Ultra-quick mapping",
+        "Works day or night via LiDAR navigation"
+      ],
+      "cons": [
+        "Heavy to lift and push"
+      ],
+      "asin": "",
+      "search": "Segway Navimow i208 LiDAR Robot Lawn Mower"
+    },
+    {
+      "brand": "Bosch",
+      "name": "VISIMOW18V-100",
+      "badge": "Best budget",
+      "best_for": "Beginners or those on a budget who want the simplest possible setup",
+      "key_spec": "100m² max lawn, SmartVision camera with AI SpotMow, three-button setup, quietest tested at 52dB",
+      "summary": "Ideal Home's Sophie King called this by far the most straightforward, no-nonsense mower tested, with an easy three-button setup and an intuitive, even cut. Its SmartVision camera travels the lawn based on what it sees rather than a methodical pattern, giving one of the neatest finishes of any mower tested, though it's slower than rivals and won't stripe the lawn.",
+      "specs": {
+        "Max lawn size": "100m²",
+        "Weight": "7.6kg (with battery)",
+        "Noise level": "52dB (quietest tested)",
+        "Price guide": "£334.96"
+      },
+      "pros": [
+        "Really easy three-button setup",
+        "Clean, even cut",
+        "Quietest mower tested",
+        "Small enough for easy storage"
+      ],
+      "cons": [
+        "Slower than other mowers tested",
+        "Won't create lawn stripes",
+        "Suits only smaller lawns (100m² max)"
+      ],
+      "asin": "",
+      "search": "Bosch VISIMOW18V-100 robot lawn mower"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need a robot lawn mower with boundary wires?",
+      "a": "No, and it's worth avoiding them if you can. Older robot mowers required a boundary wire dug into the lawn's perimeter, but newer wire-free models like all four tested here use AI-assisted cameras or LiDAR to detect boundaries and obstacles instead, making installation far simpler."
+    },
+    {
+      "q": "How does mapping speed affect day-to-day use?",
+      "a": "A faster initial map, like the Mammotion YUKA Mini 2's roughly 3-minute mapping time, gets your mower cutting grass sooner and makes it quicker to re-map if your garden layout changes. Once mapped, most mowers work autonomously in the background regardless of initial mapping speed."
+    },
+    {
+      "q": "Does a robot mower stripe my lawn like a push mower can?",
+      "a": "Only some do. The Mammotion YUKA Mini 2 here effortlessly striped the lawn during testing, while the Bosch VISIMOW's random, vision-based mowing pattern gives a thoroughly even cut but no visible stripes. If lawn stripes matter to you, check a mower's mowing pattern before buying rather than assuming all robot mowers stripe like a cylinder push mower."
+    },
+    {
+      "q": "How much does noise level matter?",
+      "a": "It matters most if your mower will run during the day near windows, home offices or neighbouring gardens. Testing found perceived loudness doesn't always match the dB spec exactly, the Segway Navimow i208 sounded quieter in real use than its 59dB rating and the Eufy E15's 56dB rating suggested, so real-world testing is a better guide than the spec sheet alone."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ideal Home: best robot lawn mowers",
+      "url": "https://www.idealhome.co.uk/garden/garden-tools/best-robot-lawn-mowers"
+    }
+  ]
+}
