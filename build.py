@@ -55,7 +55,7 @@ GROUPS = {
         "garden-pest-repellers", "leaf-blowers",
     ],
     "DIY & tools": ["cordless-drills", "tool-sets", "smoke-alarms"],
-    "Automotive": ["dash-cams", "tyre-inflators"],
+    "Automotive": ["dash-cams", "tyre-inflators", "car-phone-mounts"],
     "Luggage & travel": ["suitcases", "travel-adaptors"],
     "Pet supplies": ["dog-beds", "cat-carriers", "automatic-pet-feeders"],
     "Baby": ["baby-monitors", "pushchairs", "toddler-car-seats"],
