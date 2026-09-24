@@ -1,0 +1,83 @@
+{
+  "slug": "rowing-machines",
+  "title": "Best Rowing Machines UK",
+  "short": "Home rowing machines compared by resistance type, connectivity and comfort, from budget-friendly to premium smart rowers.",
+  "intro": "A rowing machine gives a genuinely zero-impact, full-body cardio workout, but comfort, noise and screen quality vary hugely between models. This guide compares rowers tested by Men's Fitness in their own homes for at least a month each, covering the full damper range, connectivity and storage.",
+  "reviewed": "2026-09-23",
+  "verified": "2026-09-23",
+  "products": [
+    {
+      "brand": "NordicTrack",
+      "name": "RW900 Rower",
+      "badge": "Best overall",
+      "best_for": "Buyers with the space and budget for a premium, feature-packed rower",
+      "key_spec": "22in touchscreen, SmartAdjust machine learning, 10-year frame warranty",
+      "summary": "Men's Fitness's top pick, smooth and ultra-quiet running similar to machines seen in commercial gyms, with a large tilting touchscreen and SmartAdjust technology that tailors every workout to your progress. It's a genuine investment with an ongoing membership fee, plus a large, bulky footprint that needs real space to store.",
+      "specs": {"Display": "22in touchscreen", "Dimensions": "208 x 55.8 x 132.1cm", "Warranty": "10-year frame, 2-year parts"},
+      "pros": ["Exquisite design and quiet running", "Large touchscreen with great speakers", "Huge library of trainer-led workouts", "Workouts adapt to your progression"],
+      "cons": ["Premium price plus monthly membership", "Very large and bulky"],
+      "asin": "",
+      "search": "NordicTrack RW900 Rower"
+    },
+    {
+      "brand": "Aviron",
+      "name": "Strong Series Rower",
+      "badge": "Best for workout motivation",
+      "best_for": "Buyers who get bored easily and want entertainment built in",
+      "key_spec": "22in touchscreen, dual air/magnetic resistance, streaming service access included",
+      "summary": "Men's Fitness found the dual air and magnetic resistance gives an authentic rowing feel with plenty of fine-tuning, and a Whisper nylon belt kept noise genuinely low. Membership unlocks not just guided workouts but Netflix, Disney+ and Spotify too, which testers found kept sessions properly entertaining, though it needs tall ceilings and a fair amount of space.",
+      "specs": {"Display": "22in touchscreen", "Dimensions": "213.4 x 68.6 x 121.9cm", "Warranty": "10-year frame, 1-year parts"},
+      "pros": ["Great for beginners", "Easy to stand and store", "Low-decibel resistance mechanism", "Membership includes major streaming services"],
+      "cons": ["Expensive with optional membership fees", "Bulky, requires tall ceilings"],
+      "asin": "",
+      "search": "Aviron Strong Series Rower"
+    },
+    {
+      "brand": "WaterRower",
+      "name": "Original Series",
+      "badge": "Best for indoor storage and authentic feel",
+      "best_for": "Buyers who want the most realistic rowing motion and a striking design",
+      "key_spec": "Water flywheel resistance, S4 Performance Monitor, wood finish",
+      "summary": "Uses a water flywheel for what Men's Fitness called a smooth, realistic and immersive rowing experience unlike any other machine tested, with a striking wooden design that suits smart home interiors. The standard monitor is fairly basic, though Bluetooth and third-party app upgrades are available, and it's comparatively compact for storage.",
+      "specs": {"Resistance": "Water flywheel", "Dimensions": "209 x 53 x 56cm", "Warranty": "5-year frame, 3-year parts"},
+      "pros": ["Unique, natural rowing motion", "Easy to store", "Choice of wood finishes", "Distinctive design"],
+      "cons": ["Low seat and steep angled foot position", "High price once you add extras"],
+      "asin": "",
+      "search": "WaterRower Original Series"
+    },
+    {
+      "brand": "Hydrow",
+      "name": "Wave Rower",
+      "badge": "Best compact smart rower",
+      "best_for": "Buyers who want Hydrow's connected experience in a smaller footprint",
+      "key_spec": "16in touchscreen, compact brushed aluminium design, custom colourways",
+      "summary": "Smaller and cheaper than the original Hydrow, with a sleek, minimal design Men's Fitness found genuinely space-saving alongside smooth, quiet operation. It gives access to engaging live and on-demand classes for a connected fitness experience, though the screen can be tricky to operate and Bluetooth audio has a noticeable delay.",
+      "specs": {"Display": "16in touchscreen", "Dimensions": "204 x 49 x 110cm", "Warranty": "1 year"},
+      "pros": ["Cheaper than the original Hydrow", "Compact design", "Smooth and quiet operation", "Engaging live and on-demand classes"],
+      "cons": ["Screen can be tricky to operate", "Built-in speakers could be better", "Noticeable Bluetooth audio delay"],
+      "asin": "",
+      "search": "Hydrow Wave Rower"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Air, magnetic or water resistance: what's the difference?",
+      "a": "Air resistance rowers get harder to pull the faster you row, giving a natural, athletic feel favoured by serious rowers. Magnetic resistance is quieter and more consistent, good for shared living spaces. Water resistance, like the WaterRower here, aims to replicate the actual feel and sound of rowing on open water."
+    },
+    {
+      "q": "Do I need a smart, subscription-based rower?",
+      "a": "A smart rower with a large touchscreen and guided classes, like the NordicTrack or Aviron here, genuinely helps with motivation and structure, but comes with an ongoing monthly membership cost on top of the purchase price. A simpler rower with a basic monitor, like the standard WaterRower, covers the core workout without recurring fees."
+    },
+    {
+      "q": "How much space do I actually need?",
+      "a": "Plan for roughly 2.4m x 0.6m (8ft x 2ft) of clear floor space while rowing, plus extra height clearance for taller machines like the Aviron. Many rowers fold or stand upright for storage, like the Aviron and WaterRower here, which matters if you don't have a dedicated home gym space."
+    },
+    {
+      "q": "What are the actual fitness benefits over other cardio machines?",
+      "a": "Rowing is zero-impact, unlike running, and works nearly every major muscle group across the drive phase: legs, then core, then upper body. Men's Fitness notes it also achieves higher oxygen consumption at a lower heart rate than treadmill workouts, while still burning a serious number of calories."
+    }
+  ],
+  "sources": [
+    {"name": "Men's Fitness: best rowing machines", "url": "https://mensfitness.co.uk/review/best-rowing-machines/"}
+  ]
+}

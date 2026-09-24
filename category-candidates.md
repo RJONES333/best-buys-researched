@@ -3,8 +3,6 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Boxing gloves (Sports)
-- Sleeping bags (Fitness & outdoors)
 - Hedge trimmers (Garden)
 - Leaf blowers (Garden)
 - Smoke alarms (DIY & tools)
@@ -21,8 +19,6 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Fridge freezers (Home & kitchen)
 - Irons (Home & kitchen)
 - Food processors (Home & kitchen)
-- Resistance bands (Fitness & outdoors)
-- Rowing machines (Fitness & outdoors)
 - Exercise bikes (Fitness & outdoors)
 - Action cameras (Tech & gadgets)
 - Projectors (Tech & gadgets)
@@ -31,8 +27,12 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 
 ## Rejected (no genuine hands-on testing source found, don't retry)
 - Garden furniture — every source checked (Ideal Home, Gardens Illustrated, Homes & Gardens) was a retailer/brand roundup, not structured product-level testing with real pros/cons.
+- Boxing gloves — tried 3 times. Garage Gym Reviews' page only renders one product (Hayabusa T3) via text extraction, likely lazy-loaded content the browser tool can't trigger. Origym is Amazon-review-percentage aggregation, not genuine hands-on testing. Worth retrying later with a different source (e.g. Men's Health UK, Boxing News) if one surfaces, but don't re-attempt these two.
 
 ## Done this session
 - Microwaves — Trusted Reviews (7 products)
 - Golf club sets for beginners — Golf Monthly (8 products)
-(see git log for the full list of ~33 guides added 2026-09-23/24)
+- Sleeping bags — Live for the Outdoors (8 products)
+- Resistance bands — Tom's Guide (8 products)
+- Rowing machines — Men's Fitness (4 products)
+(see git log for the full list of ~36 guides added 2026-09-23/24)
