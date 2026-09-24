@@ -1,0 +1,262 @@
+{
+  "slug": "projectors",
+  "title": "Best Projectors UK",
+  "short": "Home cinema projectors compared for colour accuracy, brightness and audio, measured with a colorimeter, from budget portables to premium native 4K and ultra-short-throw models.",
+  "intro": "A projector's real test is measured colour accuracy and brightness, not marketing lumens claims. This guide compares projectors tested by Expert Reviews in a darkened room with an 80-100in screen, using a colorimeter mounted 30cm from the screen to check brightness, contrast, colour accuracy and colour depth, alongside real streaming, Blu-ray and PS5 gaming sources.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Hisense",
+      "name": "C2 Pro",
+      "badge": "Best overall",
+      "best_for": "Buyers who want an all-round, easy-to-use 4K HDR projector",
+      "key_spec": "4K HDR, 2,600 ANSI lumens, 93% DCI-P3 HDR gamut measured, RGB laser, up to 300in image",
+      "summary": "Expert Reviews' top pick, with bright, rich 4K HDR pictures measured at 93% DCI-P3 HDR gamut coverage, a terrific result. VIDAA software is straightforward to navigate with major streaming apps built in, and a low-latency gaming mode plus brilliant audio at moderate volumes make it a best-in-class all-rounder, though its app selection is more limited than some rivals.",
+      "specs": {
+        "Resolution": "4K (1080p native, pixel-shifted)",
+        "Brightness": "2,600 ANSI lumens",
+        "DCI-P3 HDR gamut measured": "93%",
+        "Price guide": "£1,499"
+      },
+      "pros": [
+        "Excellent measured colour and HDR performance",
+        "Powerful built-in audio",
+        "Easy-to-navigate VIDAA software",
+        "Low-latency gaming mode included"
+      ],
+      "cons": [
+        "Limited streaming app selection compared to some rivals"
+      ],
+      "asin": "",
+      "search": "Hisense C2 Pro projector"
+    },
+    {
+      "brand": "Anker",
+      "name": "Nebula Capsule 3",
+      "badge": "Best budget",
+      "best_for": "Buyers who want strong colour performance in the most compact form factor",
+      "key_spec": "1080p, 200 ANSI lumens, 91.4% sRGB / 74.8% DCI-P3 measured, Google TV built in",
+      "summary": "Expert Reviews measured colour gamut coverage superior to many larger projectors, reproducing colours very effectively in a dark room despite its can-sized footprint. Built-in Google TV makes accessing content easy with all major UK catch-up apps present, and the audio output impressed testers with warmth and detail, though battery life is short and the angle can't be adjusted.",
+      "specs": {
+        "Resolution": "1080p",
+        "Brightness": "200 ANSI lumens",
+        "sRGB gamut measured": "91.4%",
+        "Price guide": "£339-£399"
+      },
+      "pros": [
+        "Strong measured colour accuracy for its size",
+        "Very compact and portable",
+        "Built-in Google TV with UK catch-up apps",
+        "Surprisingly powerful audio output"
+      ],
+      "cons": [
+        "Short battery life",
+        "Projection angle can't be adjusted"
+      ],
+      "asin": "",
+      "search": "Anker Nebula Capsule 3 projector"
+    },
+    {
+      "brand": "Sony",
+      "name": "VPL-XW5000ES",
+      "badge": "Best native 4K",
+      "best_for": "Buyers who want genuine native 4K resolution, not pixel-shifted",
+      "key_spec": "True native 3,840 x 2,160 SXRD display, 2,000 ANSI lumens, Delta E 2.6/1.7 measured (Reference mode)",
+      "summary": "Expert Reviews found this combines cutting-edge SDR and HDR performance with a great design, using genuine native 4K SXRD display technology rather than pixel-shifting. Motion is handled brilliantly and frame-by-frame HDR tone mapping delivers punch and detail, with Delta E colour errors measured below 1 after calibration, though lens controls are manual and it lacks HDMI 2.1.",
+      "specs": {
+        "Resolution": "True native 4K",
+        "Brightness": "2,000 ANSI lumens",
+        "Delta E measured (Reference mode)": "2.6 greyscale / 1.7 colour",
+        "Price guide": "£3,999"
+      },
+      "pros": [
+        "Supremely detailed, genuine native 4K images",
+        "Highly accurate colour, verified by measurement",
+        "Compact, stylish build",
+        "Bright laser source that won't dim significantly over time"
+      ],
+      "cons": [
+        "Manual lens controls",
+        "Doesn't support HDMI 2.1"
+      ],
+      "asin": "",
+      "search": "Sony VPL-XW5000ES projector"
+    },
+    {
+      "brand": "XGIMI",
+      "name": "MoGo 4 Laser",
+      "badge": "Best portable",
+      "best_for": "Buyers who want a truly grab-and-go projector for any surface",
+      "key_spec": "1080p, 550 ISO lumens, 360° rotation, around 2 hours battery, triple laser light source",
+      "summary": "Expert Reviews found the clever design a major factor in this being the best portable projector, at just over 20cm tall with a battery lasting around two hours. Full 360-degree rotation lets it project onto almost any surface, and the triple laser source pushed brightness visibly above similarly priced rivals, though battery life could still be better.",
+      "specs": {
+        "Resolution": "1080p",
+        "Brightness": "550 ISO lumens",
+        "Battery life": "~2 hours",
+        "Price guide": "£539"
+      },
+      "pros": [
+        "Highly portable at just over 20cm tall",
+        "360-degree rotation for projecting anywhere",
+        "Brighter than similarly priced rivals",
+        "Doubles as a Bluetooth speaker"
+      ],
+      "cons": [
+        "Battery life could be longer"
+      ],
+      "asin": "",
+      "search": "XGIMI MoGo 4 Laser projector"
+    },
+    {
+      "brand": "Nebula",
+      "name": "X1",
+      "badge": "Best for sound quality",
+      "best_for": "Buyers who want a projector that can genuinely replace a soundbar",
+      "key_spec": "4K, 3,500 ANSI lumens, 89% DCI-P3 HDR gamut measured, dual 15W woofers plus dual 5W tweeters",
+      "summary": "Expert Reviews found the built-in audio here beats every other projector tested, with forward-, upward- and side-firing drivers creating a wide, deep soundstage that can give some soundbars a run for their money. Picture quality impressed too, measured at 89% DCI-P3 HDR gamut coverage, though it lacks BBC iPlayer support.",
+      "specs": {
+        "Resolution": "4K (1080p native, pixel-shifted)",
+        "Brightness": "3,500 ANSI lumens",
+        "DCI-P3 HDR gamut measured": "89%",
+        "Price guide": "£2,199"
+      },
+      "pros": [
+        "Best-in-class built-in audio",
+        "Breathtaking image scale and detail",
+        "Simple to set up",
+        "Optional accessory bundle adds satellite speakers"
+      ],
+      "cons": [
+        "No BBC iPlayer support"
+      ],
+      "asin": "",
+      "search": "Nebula X1 projector"
+    },
+    {
+      "brand": "Samsung",
+      "name": "Premiere 9",
+      "badge": "Best ultra-short-throw",
+      "best_for": "Buyers who want a huge image from a projector sitting right against a wall",
+      "key_spec": "4K, 0.189:1 throw ratio, 100% DCI-P3 / 92% BT.2020 gamut measured, 26dB noise measured",
+      "summary": "Expert Reviews found this fills a 130in screen from just 24cm away, better than any other ultra-short-throw projector tested, with peerless measured gamut coverage of 100% DCI-P3 and 92% BT.2020. Filmmaker mode accuracy was superb with Delta E errors below the visible threshold, and noise measured just 26dB at a sensible viewing distance, though it's very expensive.",
+      "specs": {
+        "Resolution": "4K (1080p native, pixel-shifted)",
+        "Throw ratio": "0.189:1",
+        "DCI-P3 gamut measured": "100%",
+        "Price guide": "£4,399"
+      },
+      "pros": [
+        "Best ultra-short-throw performance tested",
+        "Exceptional measured colour gamut coverage",
+        "Very quiet in operation",
+        "Superb Filmmaker mode accuracy"
+      ],
+      "cons": [
+        "Extremely expensive"
+      ],
+      "asin": "",
+      "search": "Samsung Premiere 9 projector"
+    },
+    {
+      "brand": "XGIMI",
+      "name": "Horizon S Pro",
+      "badge": "Best value 4K",
+      "best_for": "Buyers who want pixel-shifted 4K performance without a premium price",
+      "key_spec": "4K, 1,800 ISO lumens, 93.5% DCI-P3 gamut measured with Delta E below 2, dual 12W Harman Kardon speakers",
+      "summary": "Expert Reviews found aggressive pricing combined with engaging images and immersive audio makes this the pick for great-value 4K, reproducing 93.5% of the DCI-P3 gamut with a Delta E error below two, invisible to the naked eye. The audio felt so clear and powerful that testers sometimes thought it was coming from separate speakers, though it isn't particularly bright and can show soap opera effect.",
+      "specs": {
+        "Resolution": "4K (1080p native, pixel-shifted)",
+        "Brightness": "1,800 ISO lumens",
+        "DCI-P3 gamut measured": "93.5%",
+        "Price guide": "£1,189"
+      },
+      "pros": [
+        "Excellent measured colour accuracy for the price",
+        "Immersive, powerful built-in audio",
+        "Very easy to set up",
+        "Strong value for genuine 4K performance"
+      ],
+      "cons": [
+        "Not particularly bright",
+        "Occasional soap opera motion effect"
+      ],
+      "asin": "",
+      "search": "XGIMI Horizon S Pro projector"
+    },
+    {
+      "brand": "BenQ",
+      "name": "X500i",
+      "badge": "Best for gaming",
+      "best_for": "Gamers who want low input lag and dedicated game visual modes",
+      "key_spec": "4K, 2,200 lumens, 4.2ms input lag measured, three dedicated Game modes",
+      "summary": "Expert Reviews measured lightning-fast 4.2ms input lag across three different Game modes, which automatically activate as soon as a gaming source is detected. Each mode had a positive, distinct impact in testing: RPG mode made visuals more cinematic, SPG brightened sports colours, and FPS improved clarity in dark areas, though overall brightness is on the lower side.",
+      "specs": {
+        "Resolution": "4K (1080p native, pixel-shifted)",
+        "Brightness": "2,200 lumens",
+        "Input lag measured": "4.2ms",
+        "Price guide": "£1,314-£1,499"
+      },
+      "pros": [
+        "Extremely low measured input lag",
+        "Three distinct, genuinely useful game modes",
+        "Effective HDR performance",
+        "Automatically switches to gaming mode"
+      ],
+      "cons": [
+        "Lacks brightness compared to rivals"
+      ],
+      "asin": "",
+      "search": "BenQ X500i projector"
+    },
+    {
+      "brand": "Anker",
+      "name": "Nebula Mars 3",
+      "badge": "Best outdoor",
+      "best_for": "Buyers who want a rugged projector for garden or road-trip use",
+      "key_spec": "1080p, 1,000 ANSI lumens, over 5 hours battery in Eco mode measured, IPX3 water resistance",
+      "summary": "Expert Reviews found this nailed the battery-life test, lasting over five hours in Eco mode while streaming Netflix, a key reason it's their favourite outdoor projector. An integrated handle makes it easy to carry, its drop-resistant casing and IPX3 water resistance suit UK weather, and a 40W three-speaker system packs a real punch, though the interface has some frustrations.",
+      "specs": {
+        "Resolution": "1080p",
+        "Brightness": "1,000 ANSI lumens",
+        "Battery life measured": "5+ hours (Eco mode)",
+        "Price guide": "£699"
+      },
+      "pros": [
+        "Exceptional measured battery life",
+        "Rugged, drop-resistant, water-resistant build",
+        "Easy to carry with an integrated handle",
+        "Powerful 40W three-speaker audio"
+      ],
+      "cons": [
+        "Some user interface frustrations"
+      ],
+      "asin": "",
+      "search": "Anker Nebula Mars 3 projector"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need a genuine native 4K projector, or is pixel-shifted 4K good enough?",
+      "a": "True native 4K projectors like the Sony VPL-XW5000ES here cost many thousands of pounds, while pixel-shifting techniques using a 1080p panel, as used by the Hisense C2 Pro and XGIMI Horizon S Pro here, simulate 4K at a fraction of the cost. Expert Reviews notes the technology has reached a point where it's near-impossible to tell the difference without running native and pixel-shifted models side by side."
+    },
+    {
+      "q": "How many lumens do I actually need?",
+      "a": "More lumens generally means a brighter, more watchable image in daylight or lit rooms, but how much you need depends heavily on your room's ambient light and screen size. A dedicated dark home cinema room can work well with 1,000-2,000 lumens like several models here, while a brighter living room benefits from a higher-lumen model like the Nebula X1's 3,500 ANSI lumens."
+    },
+    {
+      "q": "Long-throw, short-throw or ultra-short-throw: which do I need?",
+      "a": "A long-throw projector (throw ratio 1:1 or more) needs to sit further from the screen for the same image size. A short-throw model sits closer, and an ultra-short-throw projector like the Samsung Premiere 9 here (throw ratio 0.189:1) can fill a huge screen from centimetres away, ideal for small rooms, though geometric distortion is more likely and keystone correction becomes more important."
+    },
+    {
+      "q": "Lamp, LED or laser light source: what's the difference?",
+      "a": "A lamp source is cheapest but generates more heat and noise with a shorter lifespan. LED is compact, quiet and long-lasting but typically dimmer. Laser, used in the Hisense C2 Pro, Nebula X1 and Samsung Premiere 9 here, gives an ultra-long lifespan, strong colours and high contrast while running quietly, but costs more upfront."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best projectors",
+      "url": "https://www.expertreviews.co.uk/technology/tvs-home-cinema/best-projectors"
+    }
+  ]
+}

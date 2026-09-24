@@ -38,7 +38,7 @@ GROUPS = {
         "pc-monitors", "mechanical-keyboards", "webcams", "monitor-arms",
         "external-ssds", "wifi-routers", "smartwatches", "printers",
         "portable-power-stations", "smart-rings", "gaming-chairs",
-        "office-chairs", "action-cameras",
+        "office-chairs", "action-cameras", "projectors",
     ],
     "Sleep & comfort": ["mattress-toppers", "pillows", "duvets"],
     "Bathroom": ["bath-towels"],
