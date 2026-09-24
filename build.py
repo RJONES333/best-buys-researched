@@ -54,7 +54,7 @@ GROUPS = {
         "lawn-mowers", "pressure-washers", "bbqs", "hedge-trimmers",
         "garden-pest-repellers", "leaf-blowers",
     ],
-    "DIY & tools": ["cordless-drills", "tool-sets"],
+    "DIY & tools": ["cordless-drills", "tool-sets", "smoke-alarms"],
     "Automotive": ["dash-cams"],
     "Luggage & travel": ["suitcases", "travel-adaptors"],
     "Pet supplies": ["dog-beds", "cat-carriers", "automatic-pet-feeders"],
