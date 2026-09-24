@@ -1,0 +1,186 @@
+{
+  "slug": "office-chairs",
+  "title": "Best Office Chairs UK",
+  "short": "Office chairs compared for comfort, adjustability and build quality, tested through full working days, from budget ergonomic picks to design-icon premium models.",
+  "intro": "An office chair's real test is how it feels after sitting in it for a full working day, not how it looks in a product shot. This guide compares chairs tested by Expert Reviews, who assembled, sat in and scored each one on comfort, features and ease of use from their London office.",
+  "reviewed": "2026-09-24",
+  "verified": "2026-09-24",
+  "products": [
+    {
+      "brand": "Slouch",
+      "name": "Task One",
+      "badge": "Best overall",
+      "best_for": "Buyers who want strong ergonomics at a reasonable price",
+      "key_spec": "Adjustable seat depth, 4-position recline lock, height/depth/angle-adjustable arms, adjustable lumbar support",
+      "summary": "Expert Reviews' favourite office chair, striking a rare balance of being genuinely comfortable and supportive while looking smart, at a reasonable price for an ergonomic chair. The fabric-upholstered foam seat and mesh backrest stayed comfortable through a full working day, though the armrests are harder than some rivals and forward tilt costs an extra £39.",
+      "specs": {
+        "Seat width": "50cm",
+        "Weight": "15kg",
+        "Adjustable lumbar support": "Yes",
+        "Price guide": "From £269 (without arms)"
+      },
+      "pros": [
+        "Comfortable with genuinely supportive features",
+        "Smart, unobtrusive design",
+        "Strong value for an ergonomic chair",
+        "Adjustable lumbar support, seat depth and arms"
+      ],
+      "cons": [
+        "Armrests could be more comfortable",
+        "Forward tilt feature costs extra"
+      ],
+      "asin": "",
+      "search": "Slouch Task One office chair"
+    },
+    {
+      "brand": "Sihoo",
+      "name": "M57",
+      "badge": "Best budget",
+      "best_for": "Buyers who want strong ergonomics without paying premium prices",
+      "key_spec": "Mesh seat and back, back tilt, adjustable lumbar support, fully adjustable arms, headrest included",
+      "summary": "Expert Reviews found this offers ergonomics and adjustability rarely seen at this price, including a headrest that's uncommon in this bracket. It's the chair Expert Reviews' own Managing Editor uses at home, with a comfortable, cool mesh design and full adjustability, though the reviewer noted it's something of a dust magnet.",
+      "specs": {
+        "Seat width": "51cm",
+        "Weight": "16.82kg",
+        "Adjustable lumbar support": "Yes",
+        "Price guide": "£230 (often discounted)"
+      },
+      "pros": [
+        "Excellent range of ergonomic features for the price",
+        "Comfortable, breathable mesh design",
+        "Includes a headrest, unusual at this price",
+        "Often available discounted during sales"
+      ],
+      "cons": [
+        "Mesh tends to attract dust"
+      ],
+      "asin": "",
+      "search": "Sihoo M57 office chair"
+    },
+    {
+      "brand": "Herman Miller",
+      "name": "Aeron",
+      "badge": "Best high-end",
+      "best_for": "Buyers with the budget for a design-icon chair with class-leading adjustability",
+      "key_spec": "Breathable mesh seat and backrest, extensive adjustability, 159kg max load, MoMA design collection piece",
+      "summary": "Expert Reviews found the breathable, buoyant mesh fabric and plentiful adjustable features made this comfortable and supportive despite lacking cushioning. It's both a pop culture and design icon, with genuinely little to criticise about the chair itself, though at over £1,000 it's only realistic for the biggest budgets.",
+      "specs": {
+        "Seat width": "51.4cm",
+        "Weight": "20kg",
+        "Max load": "159kg",
+        "Price guide": "£1,399"
+      },
+      "pros": [
+        "Exceptional range of adjustable features",
+        "Iconic, timeless design",
+        "Breathable mesh stays comfortable all day",
+        "Little to criticise on comfort or support"
+      ],
+      "cons": [
+        "Extremely expensive"
+      ],
+      "asin": "",
+      "search": "Herman Miller Aeron office chair"
+    },
+    {
+      "brand": "Orangebox",
+      "name": "Do Better",
+      "badge": "Best for ease of use",
+      "best_for": "Buyers who want automatic adjustment without fiddling with knobs",
+      "key_spec": "Automatic weight-balancing tilt mechanism, adjustable seat depth and lumbar support, 150kg max load",
+      "summary": "Expert Reviews found the standout feature here is a 'weight balancing mechanism' that automatically adjusts tilt tension to the user's weight, hitting a sweet spot without manual fiddling. It's also made from mostly recycled or recyclable materials with a smaller carbon footprint than its predecessor, though the armrests only adjust in height.",
+      "specs": {
+        "Seat width": "52cm",
+        "Weight": "14.6kg",
+        "Max load": "150kg",
+        "Price guide": "£549"
+      },
+      "pros": [
+        "Automatic tilt tension removes manual adjustment",
+        "Comfortable and supportive",
+        "Sustainable materials and lower carbon footprint",
+        "Easily adjustable seat depth and lumbar support"
+      ],
+      "cons": [
+        "Armrest adjustability limited to height only"
+      ],
+      "asin": "",
+      "search": "Orangebox Do Better office chair"
+    },
+    {
+      "brand": "Herman Miller",
+      "name": "Sayl",
+      "badge": "Best for style",
+      "best_for": "Buyers who want a genuinely distinctive-looking chair that's still comfortable",
+      "key_spec": "Golden Gate Bridge-inspired unframed backrest, adjustable seat depth, 159kg max load",
+      "summary": "Expert Reviews found this striking chair, inspired by San Francisco's Golden Gate Bridge, more comfortable than its hard, rubbery-looking backrest suggests, feeling supportive throughout a working day. It stands out in a world of drab mesh office chairs, though adjustable lumbar support and fully adjustable arms cost extra on top of the standard price.",
+      "specs": {
+        "Seat width": "46.4cm",
+        "Backrest material": "Plastic",
+        "Max load": "159kg",
+        "Price guide": "£929"
+      },
+      "pros": [
+        "Genuinely distinctive, striking design",
+        "More comfortable and supportive than it looks",
+        "Well-built with a design pedigree",
+        "Standard version comfortable for a full working day"
+      ],
+      "cons": [
+        "Adjustable lumbar support and arms cost extra"
+      ],
+      "asin": "",
+      "search": "Herman Miller Sayl office chair"
+    },
+    {
+      "brand": "Sihoo",
+      "name": "Doro S300",
+      "badge": "Best for adjustable features",
+      "best_for": "Buyers who want maximum adjustability and don't mind paying for it",
+      "key_spec": "Height/depth/width/angle-adjustable arms, 3-position tilt limiter, dual wing-like lumbar support, 136kg max load",
+      "summary": "Expert Reviews found this aerospace-inspired chair adjustable 'to the nth degree', with the most versatile arms tested, adjustable by height, depth, width and angle. The dual wing-like lumbar support proved much more comfortable and supportive than expected, though build quality felt slightly loose in areas and it's expensive at RRP (often discounted in sales).",
+      "specs": {
+        "Seat width": "51.5cm",
+        "Weight": "26.2kg",
+        "Max load": "136kg",
+        "Price guide": "£710 (often discounted)"
+      },
+      "pros": [
+        "Extremely extensive adjustability, especially the arms",
+        "Excellent, comfortable lumbar support",
+        "Heavy, substantial build",
+        "Often available for less than RRP"
+      ],
+      "cons": [
+        "Build quality feels slightly loose in places",
+        "Expensive at full price"
+      ],
+      "asin": "",
+      "search": "Sihoo Doro S300 office chair"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Does a good office chair really have to cost a lot?",
+      "a": "Expert Reviews' testing found pricier chairs generally give superior ergonomics, more adjustability and longer warranties, and genuinely cheap two-figure chairs tend to be a false economy in comfort and durability. That said, the budget-priced Sihoo M57 here proves a mid-range chair can offer excellent ergonomics without needing four figures."
+    },
+    {
+      "q": "What adjustments should I prioritise when setting up a new chair?",
+      "a": "Adjust height, back position and tilt so your lower back feels supported with a slight arch, your knees sit just below your hips, and your feet are flat on the floor or a footrest. Also check the seat depth: when you recline, the backrest shouldn't drop away from your back, and armrests should let your wrists and forearms extend straight out in front of you."
+    },
+    {
+      "q": "How important is a free-float tilt mechanism?",
+      "a": "Very, according to Expert Reviews' buying advice: the best chairs let you keep moving while seated rather than locking into one static position, since constant subtle movement is healthier for your back than rigid stillness. Features like the Orangebox Do Better's automatic weight-balancing tilt make this easier to get right without manual fiddling."
+    },
+    {
+      "q": "What warranty length should I look for?",
+      "a": "Expert Reviews recommends a warranty of five years or more for an office chair, since it needs to withstand years of daily use. A long warranty is also often a useful proxy for how confident the manufacturer is in the chair's build quality and longevity."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best office chairs",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/ergonomic-furniture/best-office-chair"
+    }
+  ]
+}
