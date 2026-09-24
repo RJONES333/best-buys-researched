@@ -50,7 +50,7 @@ GROUPS = {
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "golf-club-sets"],
     "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "electric-shavers", "hair-clippers"],
     "Kids": ["trending-kids-toys"],
-    "Garden": ["lawn-mowers", "pressure-washers", "bbqs", "hedge-trimmers"],
+    "Garden": ["lawn-mowers", "pressure-washers", "bbqs", "hedge-trimmers", "garden-pest-repellers"],
     "DIY & tools": ["cordless-drills", "tool-sets"],
     "Automotive": ["dash-cams"],
     "Luggage & travel": ["suitcases", "travel-adaptors"],

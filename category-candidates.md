@@ -3,7 +3,6 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Hedge trimmers (Garden)
 - Leaf blowers (Garden)
 - Smoke alarms (DIY & tools)
 - Extension leads (DIY & tools)
@@ -19,7 +18,6 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Fridge freezers (Home & kitchen)
 - Irons (Home & kitchen)
 - Food processors (Home & kitchen)
-- Exercise bikes (Fitness & outdoors)
 - Action cameras (Tech & gadgets)
 - Projectors (Tech & gadgets)
 - Soundbars (Tech & gadgets)
@@ -37,7 +35,9 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Rowing machines — Men's Fitness (4 products)
 - Portable power stations — TechRadar (7 products)
 - Smart rings — Wareable (8 products)
-(see git log for the full list of ~38 guides added 2026-09-23/24)
+- Hedge trimmers — Expert Reviews (9 products)
+- Exercise bikes — Men's Fitness (6 products)
+(see git log for the full list of ~40 guides added 2026-09-23/24)
 
 ## Trend research notes
 User asked to check "top 100 Google" products for ideas. Real signal: most Google Trends "top products" lists are dropshipping/fad content (mouth tape, sleep bonnets) that won't have genuine hands-on testing coverage — skip these. Two genuine hits worth the durable-goods/comparison-guide model came from that research: portable power stations and smart rings (both done above). Worth re-checking trend data periodically for similar crossover ideas, but don't chase fads without verifying a real testing source exists first.
