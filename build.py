@@ -29,7 +29,7 @@ GROUPS = {
         "electric-blankets", "electric-heaters", "kitchen-knives",
         "washing-machines", "microwaves",
     ],
-    "Cleaning": ["robot-vacuums", "cordless-vacuums"],
+    "Cleaning": ["robot-vacuums", "cordless-vacuums", "steam-cleaners"],
     "Tech & gadgets": [
         "samsung-chargers", "wireless-earbuds", "standing-desks",
         "over-ear-headphones", "gaming-headsets", "iphone-charging-cables",

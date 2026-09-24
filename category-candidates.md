@@ -3,7 +3,6 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Steam cleaners / mops (Cleaning)
 - Fridge freezers (Home & kitchen)
 - Irons (Home & kitchen)
 - Food processors (Home & kitchen)
@@ -38,6 +37,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - High chairs — Mumsnet (8 products)
 - Pet cameras — PetsRadar (8 products)
 - Trampolines — Mumsnet (9 products)
+- Steam cleaners / mops — Trusted Reviews (6 products)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes
