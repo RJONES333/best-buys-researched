@@ -36,6 +36,7 @@ GROUPS = {
         "gaming-mice", "tvs", "laptops", "power-banks", "bluetooth-speakers",
         "pc-monitors", "mechanical-keyboards", "webcams", "monitor-arms",
         "external-ssds", "wifi-routers", "smartwatches", "printers",
+        "portable-power-stations", "smart-rings",
     ],
     "Sleep & comfort": ["mattress-toppers", "pillows", "duvets"],
     "Bathroom": ["bath-towels"],
