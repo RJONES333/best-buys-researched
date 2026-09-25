@@ -4,7 +4,6 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 
 ## To try
 - Chainsaws (DIY & tools)
-- Tumble dryers (Home & kitchen)
 - Dishwashers (Home & kitchen)
 - Bread makers (Home & kitchen)
 - Stand mixers (Home & kitchen)
@@ -60,6 +59,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Humidifiers — Expert Reviews (9 products, page dated 2024)
 - Home security cameras — Expert Reviews (6 products)
 - Fans — Expert Reviews (9 products, updated Sept 2026)
+- Tumble dryers — Trusted Reviews (7 products, includes LG WashTower stack and LG Styler steam cabinet as listed by the source)
 - Food storage containers (Tupperware) — Mumsnet (6 products, user-requested)
 - Lunch boxes — Expert Reviews archived guide, April 2023 (5 products, user-requested). Mumsnet's adult lunch box page (10 products) is research-based with no hands-on testing, so not used; kids' lunch boxes not covered.
 (see git log for the full list of ~42 guides added 2026-09-23/24)
