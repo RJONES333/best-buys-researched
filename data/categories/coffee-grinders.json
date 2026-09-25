@@ -1,0 +1,183 @@
+{
+  "slug": "coffee-grinders",
+  "title": "Best Coffee Grinders UK",
+  "short": "Six hand and electric coffee grinders compared on grind consistency, adjustability, ease of cleaning and value.",
+  "intro": "Freshly ground beans beat pre-ground coffee, but grinders vary hugely in how finely, evenly and easily they grind. This guide is based on Expert Reviews' tested roundup, where each grinder was set up for a range of brewing methods (coarse for cafetieres, medium for filter, fine for espresso) using freshly roasted beans, with attention to grind consistency, ease of use and cleaning, hopper capacity and extras. The guide dates from 2024, so prices are as reviewed.",
+  "reviewed": "2026-09-25",
+  "verified": "2026-09-25",
+  "products": [
+    {
+      "brand": "Hario",
+      "name": "Skerton Pro Coffee Grinder",
+      "badge": "Best manual",
+      "best_for": "Anyone who wants a compact, affordable hand grinder and doesn't mind the effort",
+      "key_spec": "Hand grinder, ceramic burrs, 60g hopper, adjustable grind, sealable glass container",
+      "summary": "Expert Reviews rate it perhaps the best hand grinder around. Despite its compact size the hopper holds up to 60g of beans, and compared with the earlier Skerton Plus it has improved grind adjustment, a thicker handle and an anti-slip rubber grip. The obvious downside is that you grind by hand, which can be arduous or a wrist workout depending on your view.",
+      "specs": {
+        "Type": "Hand grinder",
+        "Burrs": "Ceramic",
+        "Capacity": "60g",
+        "Price guide": "£66 (as reviewed)"
+      },
+      "pros": [
+        "Easy to grind, compact size",
+        "Improved grind adjustment and anti-slip grip over the Skerton Plus",
+        "Grind container can be sealed with the included lid"
+      ],
+      "cons": [
+        "You have to grind by hand"
+      ],
+      "asin": "",
+      "search": "Hario Skerton Pro coffee grinder"
+    },
+    {
+      "brand": "Lavazza",
+      "name": "Coffee Grinder (manual)",
+      "badge": "Easiest to adjust",
+      "best_for": "Anyone who wants a slim hand grinder that switches grind size easily",
+      "key_spec": "Hand grinder, six grind levels via a dial, about 18g hopper",
+      "summary": "Expert Reviews found a neat, compact hand grinder with a simple dial for six preset grind levels, much easier than the Hario's screw adjustment, though the Hario allows finer tweaks. It holds only about 18g of beans and must be kept upright in the hands or beans can spill. At £59 it's not the cheapest manual grinder and the Hario beats it on capacity for less.",
+      "specs": {
+        "Type": "Hand grinder",
+        "Grind levels": "6 via dial",
+        "Capacity": "Around 18g",
+        "Price guide": "£59 (as reviewed)"
+      },
+      "pros": [
+        "Easy switching between grind sizes",
+        "Preset levels make it easy to judge coarseness",
+        "Slim and compact"
+      ],
+      "cons": [
+        "Small hopper, only about 18g of beans",
+        "Must be kept upright or beans can spill",
+        "Not the cheapest manual grinder"
+      ],
+      "asin": "",
+      "search": "Lavazza manual coffee grinder"
+    },
+    {
+      "brand": "Krups",
+      "name": "Expert GVX231 Burr Coffee Grinder",
+      "badge": "Best budget electric",
+      "best_for": "Espresso drinkers on a limited budget",
+      "key_spec": "Electric burr grinder, 17 grind levels, 2 to 12 cup dial, 225g hopper with airtight lid",
+      "summary": "Expert Reviews found about as affordable as a decent burr grinder gets: compact, quick and very easy to use, with a removable upper burr for easy cleaning. Unlike many budget grinders it delivers a fine espresso grind, but it struggles at the coarse end, with some users unable to get a coarse grind.",
+      "specs": {
+        "Type": "Electric burr grinder",
+        "Burrs": "Stainless steel",
+        "Capacity": "225g",
+        "Price guide": "£53 (as reviewed)"
+      },
+      "pros": [
+        "Fine espresso grind, unusual at this price",
+        "Compact, quick and very easy to use",
+        "Removable upper burr for easy cleaning"
+      ],
+      "cons": [
+        "Struggles to deliver a coarse grind"
+      ],
+      "asin": "",
+      "search": "Krups Expert GVX231 burr coffee grinder"
+    },
+    {
+      "brand": "Sage",
+      "name": "Dose Control Pro",
+      "badge": "Best for versatility",
+      "best_for": "Anyone who wants control from coarse French press to ultra-fine espresso",
+      "key_spec": "60 grind settings, conical stainless steel burrs, 340g hopper, portafilter cradles",
+      "summary": "Expert Reviews call it a versatile coffee-drinker's dream and the best bang-per-buck grinder they've used: 60 settings from coarse French press to ultra-fine espresso, easy to use and clean, with two portafilter cradle sizes. One downside they found is that with single cups it leaves some old grounds in the grind chamber.",
+      "specs": {
+        "Type": "Electric burr grinder",
+        "Burrs": "Stainless steel conical",
+        "Grind settings": "60",
+        "Capacity": "340g",
+        "Price guide": "£169 (as reviewed)"
+      },
+      "pros": [
+        "60 grind settings from coarse to ultra-fine",
+        "Easy to use and clean",
+        "Incredibly good value for what it does"
+      ],
+      "cons": [
+        "Leaves some old grounds in the grind chamber with single cups"
+      ],
+      "asin": "",
+      "search": "Sage Dose Control Pro coffee grinder"
+    },
+    {
+      "brand": "Baratza",
+      "name": "Sette 270",
+      "badge": "Best for precision",
+      "best_for": "Coffee connoisseurs who want uniform grounds and accurate dosing",
+      "key_spec": "30 macro plus 9 micro grind positions, LCD and timer, 275g hopper, doses to within 0.5g",
+      "summary": "Expert Reviews found a sleek, fast, easy-to-use grinder that delivers nearly flawless, uniform grounds and always doses within 0.5g. It's a real coffee connoisseur's machine, but very noisy and fairly pricey, so not for everyone.",
+      "specs": {
+        "Type": "Electric burr grinder",
+        "Burrs": "Stainless-steel cone and ring",
+        "Capacity": "275g",
+        "Price guide": "£300 (as reviewed)"
+      },
+      "pros": [
+        "Nearly flawless, uniform grounds",
+        "Accurate dosing to within 0.5g",
+        "Fast and easy to use"
+      ],
+      "cons": [
+        "Very noisy",
+        "Fairly pricey"
+      ],
+      "asin": "",
+      "search": "Baratza Sette 270 coffee grinder"
+    },
+    {
+      "brand": "Cuisinart",
+      "name": "DBM8U Burr Mill",
+      "badge": "Best for cold brew",
+      "best_for": "Cold brew, cafetière and percolator drinkers who want an even coarse grind",
+      "key_spec": "18 grind settings, 4 to 18 cup selector, auto shut-off, dishwasher-safe parts, 250g hopper, 5-year guarantee",
+      "summary": "Expert Reviews found a workhorse that churns out a consistently even coarse grind, ideal for cold brew, percolator and French press, with all removable parts dishwasher-safe and a five-year guarantee. It does less well on finer espresso grounds, so espresso drinkers should look at a pricier machine.",
+      "specs": {
+        "Type": "Electric burr grinder",
+        "Burrs": "Stainless steel",
+        "Capacity": "250g",
+        "Guarantee": "5 years",
+        "Price guide": "£59 (as reviewed)"
+      },
+      "pros": [
+        "Consistently even coarse grind",
+        "All removable parts are dishwasher-safe",
+        "Auto shut-off and five-year guarantee"
+      ],
+      "cons": [
+        "Less good at fine espresso grounds"
+      ],
+      "asin": "",
+      "search": "Cuisinart DBM8U burr mill coffee grinder"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Burr or blade grinder?",
+      "a": "Expert Reviews recommends a burr grinder for consistency and quality, especially if you spend a lot on beans. Blade grinders are the budget option, but automatic burr grinders start at around £35, and all the electric models here use burrs."
+    },
+    {
+      "q": "Which grinder is best for espresso?",
+      "a": "Espresso needs a fine, even grind and many budget burr grinders can't manage it. Of these, the Krups Expert delivers a fine espresso grind cheaply, the Sage Dose Control Pro covers ultra-fine with 60 settings, and the Baratza Sette 270 is the precision pick. The Cuisinart is weaker at fine grounds."
+    },
+    {
+      "q": "Is a manual grinder worth it?",
+      "a": "Hand grinders like the Hario Skerton Pro are an affordable alternative to electric grinders and compact, but you have to grind by hand. The Lavazza is easier to adjust but holds only about 18g of beans, so both suit one or two cups at a time."
+    },
+    {
+      "q": "What grind size for cold brew?",
+      "a": "Cold brew needs a coarse grind for easier filtration, sweetness and less bitterness, and fine grounds are best avoided. The Cuisinart DBM8U is Expert Reviews' pick for this and is also good for percolators, French presses and cafetières."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best coffee grinders (2024)",
+      "url": "https://www.expertreviews.co.uk/home-garden/small-appliances/coffee-machines/best-coffee-grinders"
+    }
+  ]
+}

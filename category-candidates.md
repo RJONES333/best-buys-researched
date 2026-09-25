@@ -59,6 +59,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Also done: golf rangefinders (11), golf bags (9). Not yet done: women's golf clothing, golf trolleys, golf umbrellas.
 - Dishwashers - Trusted Reviews (7 products, measured cost per cycle)
 - Stand mixers - Expert Reviews Sept 2024 guide (7 products)
+- Coffee grinders - Expert Reviews 2024 guide (6 products)
 - Portable air conditioners - Expert Reviews 2025 guide, updated July 2026 (4 products)
 - Ice cream makers - Expert Reviews May 2026 guide (6 products, 11 tested)
 - Rice cookers - Expert Reviews May 2025 guide (8 products)
