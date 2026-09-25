@@ -26,14 +26,20 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Monthly check (validate data, verify sources, stamp date)
+      - name: Quick check on every push (validate data only)
+        if: github.event_name == 'push'
+        run: python scripts/refresh.py --offline
+
+      - name: Monthly check (validate data, verify sources, stamp date, build review queue)
+        if: github.event_name != 'push'
         run: python scripts/refresh.py --stamp
 
-      - name: Commit stamped dates
+      - name: Commit stamped dates and review queue
+        if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add data review-queue.md
           git diff --cached --quiet || git commit -m "Monthly source verification"
           git push
 
