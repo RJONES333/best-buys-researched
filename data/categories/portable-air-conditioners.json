@@ -1,0 +1,154 @@
+{
+  "slug": "portable-air-conditioners",
+  "title": "Best Portable Air Conditioners UK",
+  "short": "Four portable air conditioners tested in real heatwaves, compared on cooling speed, noise, power use and set-up.",
+  "intro": "A portable air conditioner (PAC) cools a single room without installation, but they're heavy, noisy and vary a lot in price. This guide is based on Expert Reviews' tested roundup, where each unit was installed and run for at least three days. Testers measured cooling from at least 24 degrees at the start, after half an hour and after an hour, then tracked whether it held a steady temperature, and measured noise and power consumption. The guide dates from 2025 (updated July 2026), so prices are as reviewed.",
+  "reviewed": "2026-09-25",
+  "verified": "2026-09-25",
+  "products": [
+    {
+      "brand": "AEG",
+      "name": "ChillFlex Pro AXP26U339CW",
+      "badge": "Best overall",
+      "best_for": "Most people who want effective, energy-efficient cooling from a fairly compact unit",
+      "key_spec": "9,000BTU, A energy rating, also fan, heater and dehumidifier, 1.2L per hour water collection, 64dB",
+      "summary": "Expert Reviews' Best Buy: streamlined looks and top build quality with effective, energy-efficient cooling that got the tester's living room temperature down quickly in a mid-July hot week. It's relatively loud on the highest of three fan settings, the hose is short and AEG doesn't supply a window kit. It uses eco-friendlier R290 refrigerant and is very easy to use.",
+      "specs": {
+        "BTU rating": "9,000",
+        "Functions": "AC, dehumidifier, heater, fan",
+        "Energy rating": "A",
+        "Noise": "64dB",
+        "Hose length": "1.5m",
+        "Weight": "31kg to 34kg",
+        "Price guide": "£450 (as reviewed)"
+      },
+      "pros": [
+        "Effective cooling from a fairly compact unit",
+        "Uses R290 refrigerant, more eco-friendly than some low-cost units",
+        "Also works as a fan, heater and dehumidifier",
+        "Very easy to use, with top controls and a remote"
+      ],
+      "cons": [
+        "Relatively loud on the highest fan setting",
+        "Short exhaust hose makes it poor for high windows",
+        "No window kit supplied"
+      ],
+      "asin": "",
+      "search": "AEG ChillFlex Pro AXP26U339CW portable air conditioner"
+    },
+    {
+      "brand": "DeLonghi",
+      "name": "Pinguino PAC EL112",
+      "badge": "Best for features",
+      "best_for": "Larger rooms and anyone who wants automatic settings and Wi-Fi control",
+      "key_spec": "11,000BTU, A+ energy rating, Wi-Fi and Comfort app, CST remote with temperature and humidity sensors, up to 63dB",
+      "summary": "Expert Reviews found a big step up in price but packed with features. It took the test room from 25°C to 21°C in half an hour and 20°C an hour in, then held that temperature for a further hour. The remote senses temperature and humidity to set the air conditioning automatically. Noise measured 52dB at full tilt (46dB once stable), power use can reach 620 to 820W, and the tester had trouble connecting the app to a mesh Wi-Fi 6 network.",
+      "specs": {
+        "BTU rating": "11,000",
+        "Functions": "AC, dehumidifier, fan",
+        "Energy rating": "A+",
+        "Max noise": "63dB",
+        "Hose length": "1.2m",
+        "Weight": "33kg",
+        "Price guide": "£949 (as reviewed)"
+      },
+      "pros": [
+        "Automatic settings and speedy cooling",
+        "Held the temperature steady after cooling the room",
+        "Very easy to use, with a smart CST remote",
+        "Wi-Fi app adds scheduling"
+      ],
+      "cons": [
+        "Not silent despite the claims: 52dB at full tilt",
+        "Power consumption of 620 to 820W when working hard, so not cheap to run",
+        "Heavy at 33kg, best as a semi-permanent fitting",
+        "App had trouble connecting to a mesh Wi-Fi 6 network"
+      ],
+      "asin": "",
+      "search": "DeLonghi Pinguino PAC EL112 portable air conditioner"
+    },
+    {
+      "brand": "DeLonghi",
+      "name": "Pinguino PAC EX130CST",
+      "badge": "Best for larger rooms",
+      "best_for": "Medium to large spaces that need serious cooling power",
+      "key_spec": "13,000BTU, A++ energy rating, rooms up to 120m³, myEcoReal mode, Wi-Fi, up to 64dB",
+      "summary": "Expert Reviews found effortless cooling of medium-large spaces: it took the test room from 25°C to 20.5°C in half an hour and held about 20°C for the rest of a two-hour test, even in a heatwave. Pushing it down to 18°C was less successful. It's a chunky 32kg unit and still put out around 52dB while cooling and over 46dB in lowest fan mode, so the tester wouldn't want it on while sleeping.",
+      "specs": {
+        "BTU rating": "13,000",
+        "Functions": "AC, dehumidifier, fan",
+        "Energy rating": "A++",
+        "Max noise": "64dB",
+        "Hose length": "1.2m",
+        "Weight": "32kg",
+        "Price guide": "£999 (as reviewed)"
+      },
+      "pros": [
+        "Effortless cooling of medium to large spaces",
+        "Easy to use with touch controls and a smart CST remote",
+        "Wi-Fi app and myEcoReal mode"
+      ],
+      "cons": [
+        "Not quiet: around 52dB cooling, over 46dB in fan mode",
+        "Chunky and heavy at 32kg, too heavy to lug around the house",
+        "Struggled to reach 18°C"
+      ],
+      "asin": "",
+      "search": "DeLonghi Pinguino PAC EX130CST portable air conditioner"
+    },
+    {
+      "brand": "Meaco",
+      "name": "MeacoCool MC Series 7000",
+      "badge": "Best low cost",
+      "best_for": "Smaller rooms and anyone who wants a lighter, cheaper unit they can move around",
+      "key_spec": "7,000BTU, rooms up to 22m², A energy rating, 1.8m hose with window kits, 21kg, 65dB max",
+      "summary": "Expert Reviews found very effective cooling for the price, taking the living room from 24°C to 20°C within an hour, with minimum temperatures as low as 16°C. It's more portable at 21kg and comes with a 1.8m hose and window kits. The downsides are noise (around 58dBA in typical use) and power use, which rose to peaks of 641W during dehumidification, and with no internal tank the dehumidifier hose needs draining into a container.",
+      "specs": {
+        "BTU rating": "7,000",
+        "Functions": "AC, dehumidifier, fan",
+        "Energy rating": "A",
+        "Max noise": "65dB",
+        "Hose length": "1.8m",
+        "Weight": "21kg",
+        "Price guide": "£445 (as reviewed)"
+      },
+      "pros": [
+        "Effective cooling and dehumidifying",
+        "Lighter and more portable than most PACs",
+        "Supplied with a 1.8m hose and sash and sliding-door window kits",
+        "Uses R290 refrigerant"
+      ],
+      "cons": [
+        "Noisy, around 58dBA in typical use",
+        "Power use rises to 641W when dehumidifying",
+        "No internal tank, so the dehumidifier needs a drainage container"
+      ],
+      "asin": "",
+      "search": "MeacoCool MC Series 7000 portable air conditioner"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What BTU rating do I need?",
+      "a": "Match it to the room. Expert Reviews suggests a 9,000BTU unit handles roughly 45 cubic metres and a 12,000BTU unit around 90. Measure your room first, and don't go much bigger than you need, since larger units are heavier, pricier and use more power."
+    },
+    {
+      "q": "Are portable air conditioners noisy?",
+      "a": "Yes, they all have a compressor and fans. In these tests noise ranged from around 52dB to 58dB in normal use, with maximums up to 65dB. The tester advised taking claims of silent running with a pinch of salt and suggested cooling the room before bed, or using a fan instead, if noise bothers you."
+    },
+    {
+      "q": "Do I need a window for a portable air conditioner?",
+      "a": "Most true PACs need to vent hot air out of a window through a hose. Check the kit supplied: the MeacoCool comes with sash and sliding-door kits, while the AEG here has no window kit. A short hose limits where you can put the unit, and cheaper evaporative coolers below about £300 are less effective."
+    },
+    {
+      "q": "What does one cost to run?",
+      "a": "It depends on BTU rating and efficiency class. The DeLonghi EL112 drew 620 to 820W when working hard, and the MeacoCool peaked at 641W dehumidifying, so running costs add up in a long heatwave. Look for a higher energy class and clean the filters and drains at the end of each summer."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best portable air conditioner (2025, updated July 2026)",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/air-treatment/best-portable-air-conditioner"
+    }
+  ]
+}
