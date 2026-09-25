@@ -161,8 +161,9 @@ DISCLOSURE = (
 )
 
 
-def layout(title, description, path, body, jsonld=None, wide=False):
+def layout(title, description, path, body, jsonld=None, wide=False, noindex=False):
     canonical = f"{SITE_URL}{path}"
+    robots_meta = '<meta name="robots" content="noindex,follow">\n' if noindex else ""
     ld = ""
     if jsonld:
         blocks = jsonld if isinstance(jsonld, list) else [jsonld]
@@ -178,7 +179,7 @@ def layout(title, description, path, body, jsonld=None, wide=False):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(description)}">
-<link rel="canonical" href="{esc(canonical)}">
+{robots_meta}<link rel="canonical" href="{esc(canonical)}">
 <link rel="icon" type="image/svg+xml" href="{BASE}/assets/favicon.svg">
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(description)}">
@@ -461,8 +462,18 @@ def home_page(categories):
         "name": CONFIG["name"],
         "url": f"{SITE_URL}/",
     }
+    home_description = (
+        f"{len(categories)} research-based UK buying guides built from independent tests: "
+        "air fryers, headphones, vacuum cleaners, TVs, laptops, mattress toppers and more. "
+        "Sources listed on every guide."
+    )
     return layout(
-        f"{CONFIG['name']}: Buying Guides", CONFIG["tagline"], "/", body, [website_ld, org_ld], wide=True
+        f"{CONFIG['name']}: Independent UK Buying Guides",
+        home_description,
+        "/",
+        body,
+        [website_ld, org_ld],
+        wide=True,
     )
 
 
@@ -493,7 +504,7 @@ def disclosure_page():
 <p>{esc(CONFIG['name'])} is a participant in the Amazon EU Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk.</p>
 <p>Links marked as sponsored are affiliate links. Buying through them costs you nothing extra. Commissions do not influence which products we recommend or how we describe them.</p>
 </article>"""
-    return layout(f"Affiliate disclosure | {CONFIG['name']}", "How this site earns money through affiliate links.", "/affiliate-disclosure/", body)
+    return layout(f"Affiliate disclosure | {CONFIG['name']}", "How this site earns money through affiliate links.", "/affiliate-disclosure/", body, noindex=True)
 
 
 def privacy_page():
@@ -504,7 +515,7 @@ def privacy_page():
 <p>Our hosting provider may keep standard server logs, such as IP addresses, for security and operations.</p>
 <p>If we add analytics in future we will update this page first.</p>
 </article>"""
-    return layout(f"Privacy | {CONFIG['name']}", "How this site handles your data.", "/privacy/", body)
+    return layout(f"Privacy | {CONFIG['name']}", "How this site handles your data.", "/privacy/", body, noindex=True)
 
 
 def not_found_page():
@@ -514,7 +525,7 @@ def not_found_page():
 
 def sitemap(categories):
     today = datetime.date.today().isoformat()
-    urls = [("/", today), ("/about/", today), ("/affiliate-disclosure/", today), ("/privacy/", today)]
+    urls = [("/", today), ("/about/", today)]
     urls += [(f"/{c['slug']}/", c["reviewed"]) for c in categories]
     items = "".join(
         f"<url><loc>{esc(SITE_URL + u)}</loc><lastmod>{d}</lastmod></url>" for u, d in urls
