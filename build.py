@@ -51,7 +51,7 @@ GROUPS = {
         "sleeping-bags", "resistance-bands", "rowing-machines", "exercise-bikes",
     ],
     "Clothing": ["mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets"],
-    "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "golf-club-sets", "golf-balls", "golf-gloves"],
+    "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "golf-club-sets", "golf-balls", "golf-gloves", "golf-shirts"],
     "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "electric-shavers", "hair-clippers"],
     "Kids": ["trending-kids-toys", "trampolines"],
     "Garden": [
