@@ -3,6 +3,7 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
+- Garden sheds, 3ft x 6ft (Garden) — user-requested 2026-09-25 ("garden 3ft x 6ft text shed", read as "best"); researching
 - Chainsaws (DIY & tools)
 
 ## User requests awaiting a genuine source (2026-09-24)
@@ -51,6 +52,8 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Grass trimmers / strimmers — Expert Reviews (7 products)
 - Humidifiers — Expert Reviews (9 products, page dated 2024)
 - Home security cameras — Expert Reviews (6 products)
+- Food storage containers (Tupperware) — Mumsnet (6 products, user-requested)
+- Lunch boxes — Expert Reviews archived guide, April 2023 (5 products, user-requested). Mumsnet's adult lunch box page (10 products) is research-based with no hands-on testing, so not used; kids' lunch boxes not covered.
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes
