@@ -4,7 +4,7 @@
   "short": "12V car tyre inflators compared for inflation speed and gauge accuracy against a calibrated reference, from budget compressors to family-friendly dual-power units.",
   "intro": "A tyre inflator's real test is whether its pressure gauge can be trusted, since an inaccurate reading can leave a tyre dangerously under- or over-inflated. This guide compares inflators tested by Auto Express, timed against a stopwatch inflating a 15-inch wheel from 10 to 35PSI and checked against a calibrated reference gauge.",
   "reviewed": "2026-09-24",
-  "verified": "2026-09-24",
+  "verified": "2026-09-25",
   "products": [
     {
       "brand": "Ring",
@@ -187,7 +187,7 @@
     {
       "q": "Do I need a 12V or a mains-powered inflator?",
       "a": "A 12V inflator that plugs into your car's socket, like the Ring Ultrainflate models here, is the standard choice for topping up tyres and is what most dedicated tyre inflators use. A dual-power unit like the Halfords Advance also works from a 230V mains socket, which is useful if you regularly inflate other things like airbeds or sports equipment away from the car."
-      },
+    },
     {
       "q": "How long should inflating a tyre actually take?",
       "a": "In Auto Express's test, times to inflate a 15-inch wheel from 10 to 35PSI ranged from under two-and-a-half minutes for the fastest models to over three minutes for the slowest, like the Hilka. A faster inflation time is convenient, but it's worth weighing against gauge accuracy rather than choosing on speed alone."
