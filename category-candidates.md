@@ -3,13 +3,13 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Wine coolers (Home & kitchen)
 - Chainsaws (DIY & tools)
 
 ## User requests awaiting a genuine source (2026-09-24)
 - Boys' hair styling products for fine, straight hair, and girls' hair styling (user-requested; unclear whether products or haircut styles). Searched: Blue-Print (brand blog), bestproducts.guide / bestproductsreviews.co.uk (affiliate farms), Mumsnet forum threads and Tangle Teezer sponsored post (opinion, not testing). Boss Hunting "11 Best Hair Products For Men" is genuine first-person testing but Australian, adult, thinning hair, AUD prices. User confirmed 2026-09-24: they mean styling products. Also checked: Marie Claire UK "9 best products for thin hair" (Shannon Lawlor, Jan 2023) is genuine single-editor testing but adult thin hair, personal picks, no stated cons, only ~5 styling items (Sam McKnight Cool Girl Superlift, Percy & Reed mousse, Living Proof Full Dry Volume & Texture Spray, Cloud Nine wand, Hershesons dryer), so not enough to build a sourced guide. No UK tested source found for boys' styling products; GQ UK not surfaced by search. Still to try: Mother & Baby, Expert Reviews / Trusted Reviews hair sections, Good Housekeeping Institute, Which? (likely paywalled), fetching GQ UK / Men's Health UK grooming pages directly.
 
 ## Rejected (no genuine hands-on testing source found, don't retry)
+- Wine coolers — Which? results are paywalled. Ideal Home's wine fridge guide (Amy Cutmore, 2017) is a spec-list roundup with no testing or cons and 2017 prices. Other results were affiliate/retailer blogs (CoolDrop, appliancehunter, thekitchen-box) and US sites. Posh Living tested only one unit (Barcool VINO12). Retry only if Expert Reviews, Trusted Reviews or similar publish an open tested guide.
 - Electric scooters — USER DECLINED (2026-09-24, "dont do e-scooters"). Privately owned e-scooters are illegal on UK roads and pavements. Do not build or re-add.
 - Dog leads and harnesses — PetsRadar's page is mostly generic affiliate "reasons to buy/avoid" copy with only one genuinely tested product. Which?'s test methodology is excellent (real dogs, water-resistance testing) but results are paywalled behind login. Rover.com's "reviews" are mostly scraped Amazon customer quotes labelled "most helpful review", same pattern as the rejected Origym boxing gloves source. Worth retrying later if a UK outlet publishes an unpaywalled hands-on test.
 - Extension leads — Expert Reviews page is thin generic buying advice with no per-product pros/cons or testing methodology. Testix's "review" is almost certainly AI-generated fabricated content (claims like "noise from plugged-in devices remained under 35dB" make no sense for a passive cable). No genuine hands-on source found.
