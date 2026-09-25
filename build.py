@@ -29,7 +29,7 @@ GROUPS = {
         "electric-blankets", "electric-heaters", "kitchen-knives",
         "washing-machines", "microwaves", "fridge-freezers", "steam-irons",
         "food-processors", "humidifiers", "food-storage-containers",
-        "lunch-boxes",
+        "lunch-boxes", "fans",
     ],
     "Cleaning": ["robot-vacuums", "cordless-vacuums", "steam-cleaners"],
     "Tech & gadgets": [

@@ -1,0 +1,261 @@
+{
+  "slug": "fans",
+  "title": "Best Fans UK",
+  "short": "Desk, tower and pedestal fans compared on measured airflow, noise and power use, from a £30 desk fan to battery-powered air circulators.",
+  "intro": "A fan's real test is how much air it moves and how loud it is doing it. This guide compares fans tested by Expert Reviews, who assembled each one and measured airflow at 1m with a digital anemometer at minimum, medium and maximum settings, sound levels with a decibel meter, and power draw at the highest and lowest speeds. Prices are as reviewed and the guide was updated in September 2026.",
+  "reviewed": "2026-09-25",
+  "verified": "2026-09-25",
+  "products": [
+    {
+      "brand": "Meaco",
+      "name": "Sefte Pro 10in Pedestal Air Circulator",
+      "badge": "Best overall",
+      "best_for": "Buyers who want a powerful, quiet fan they can carry anywhere",
+      "key_spec": "Removable rechargeable battery (32+ hours on medium), 4.6m/s airflow at top speed, 35.5dBA maximum, 1.1m height or 59cm floor fan",
+      "summary": "Expert Reviews' top pick, with a removable, replaceable battery that gave over 32 hours on its medium setting and a modular design that works as a full-height pedestal or a 59cm floor fan. It measured 4.6m/s at top speed and 2.2m/s on its lowest, peaking at 35.5dBA and a virtually silent 24.5dBA on setting one, though at £200 it's expensive.",
+      "specs": {
+        "Airflow measured": "4.6m/s max, 3.1m/s mid, 2.2m/s low",
+        "Noise": "35.5dBA max, 24.5dBA lowest",
+        "Power": "26W",
+        "Price guide": "£200"
+      },
+      "pros": [
+        "Powerful yet quiet",
+        "Portable with a replaceable battery",
+        "Versatile modular height",
+        "3-year warranty"
+      ],
+      "cons": [
+        "Expensive"
+      ],
+      "asin": "",
+      "search": "Meaco Sefte Pro 10in Pedestal Air Circulator"
+    },
+    {
+      "brand": "Igenix",
+      "name": "DF0030 Tower Fan",
+      "badge": "Best cheap",
+      "best_for": "Small living rooms and bedrooms on a tight budget",
+      "key_spec": "30in tower, three speeds, 80° oscillation, integrated carry handle, 45W",
+      "summary": "Expert Reviews found this bargain easy to carry around the house, with decent airflow at each of its three speeds. It cooled a small living room fine and is good for taking heat out of a bedroom before bed, but even on its lowest setting it's far from silent, so it isn't ideal for sleeping.",
+      "specs": {
+        "Height": "76.2cm",
+        "Oscillation": "80°",
+        "Power": "45W",
+        "Price guide": "£33-£50"
+      },
+      "pros": [
+        "Very cheap",
+        "Easy to move, with a handle",
+        "Decent airflow at every speed"
+      ],
+      "cons": [
+        "Louder than more expensive rivals",
+        "Not silent even on its lowest setting"
+      ],
+      "asin": "",
+      "search": "Igenix DF0030 tower fan"
+    },
+    {
+      "brand": "Duux",
+      "name": "Whisper Flex 2",
+      "badge": "Best smart fan",
+      "best_for": "Buyers who want app control, schedules and voice assistant support",
+      "key_spec": "30 speeds, Night and Natural modes, Wi-Fi app, Alexa and Google Home, 3.5m/s measured",
+      "summary": "One of the cleverest fans Expert Reviews has tested, with 30 speed settings and a Natural mode that varies speed for a convincing breeze. It measured up to 3.5m/s and 45.8dBA at maximum, still far from raucous, with barely audible lower speeds, though the app and fiddly setup process need improving.",
+      "specs": {
+        "Airflow measured": "3.5m/s max, 2.3m/s medium",
+        "Noise": "45.8dBA max",
+        "Power": "27W",
+        "Price guide": "£180"
+      },
+      "pros": [
+        "Smart features work well: app, schedules, Google Home and Alexa",
+        "Quietly powerful",
+        "Stylish, with 30 speed settings"
+      ],
+      "cons": [
+        "App and setup process need improvement",
+        "Expensive"
+      ],
+      "asin": "",
+      "search": "Duux Whisper Flex 2 fan"
+    },
+    {
+      "brand": "Ansio",
+      "name": "30in Tower Fan",
+      "badge": "Best value",
+      "best_for": "Buyers who prioritise airflow over noise and features",
+      "key_spec": "30in tower, three speeds, 60° oscillation, 3.2m/s measured, mechanical timer, 49.9dBA maximum",
+      "summary": "Expert Reviews found this one of the more powerful tower fans tested for the money, reaching 3.2m/s at a metre away and still 2.4m/s on its lowest setting. It's loud though, at 41dB on low and 49.9dB at full, and airflow is strongest low down, but the old-school mechanical timer works well.",
+      "specs": {
+        "Airflow measured": "3.2m/s max, 2.4m/s lowest",
+        "Noise": "41dB low, 49.9dBA max",
+        "Power": "45W",
+        "Price guide": "£60"
+      },
+      "pros": [
+        "Huge airflow for the price",
+        "Compact for its power",
+        "Reliable mechanical timer"
+      ],
+      "cons": [
+        "Loud, hard to sleep through",
+        "Few modes or features"
+      ],
+      "asin": "",
+      "search": "Ansio 30in tower fan"
+    },
+    {
+      "brand": "Meaco",
+      "name": "Sefte Pro 10in Table Air Circulator",
+      "badge": "Best desk fan",
+      "best_for": "Buyers who want the most powerful, near-silent desk or table fan",
+      "key_spec": "Removable battery (up to 40 hours quoted), 4.6m/s airflow, 26.4-45.2dBA, 120° oscillation",
+      "summary": "Expert Reviews called this the table fan to beat for performance, with a removable battery for a take-anywhere floor or table fan. It measured up to 4.6m/s with sound as low as 26.4dBA and no louder than 45.2dBA, though it's a bit bulky for some surfaces (the smaller 8in model suits those).",
+      "specs": {
+        "Airflow measured": "4.6m/s max",
+        "Noise": "26.4-45.2dBA",
+        "Power": "26W",
+        "Price guide": "£120"
+      },
+      "pros": [
+        "Powerful airflow",
+        "Near-silent at low settings",
+        "Impressive battery life",
+        "3-year warranty"
+      ],
+      "cons": [
+        "Too big for some desks and surfaces"
+      ],
+      "asin": "",
+      "search": "Meaco Sefte Pro 10in Table Air Circulator"
+    },
+    {
+      "brand": "Princess",
+      "name": "Pedestal Air Circulator",
+      "badge": "Best for sleeping",
+      "best_for": "Light sleepers who want strong airflow and a proper Sleep mode",
+      "key_spec": "12 speeds, 4.3m/s max, oscillates horizontally and vertically, Sleep mode, 35.8dB at halfway",
+      "summary": "Expert Reviews found this among the more powerful fans tested, reaching 4.3m/s, but quiet enough at lower settings to doze comfortably: 2.5m/s at a mere 35.8dB halfway. A sensible Sleep mode steps the speed down every 30 minutes and the build is rock solid, though at top speed it reaches 48dB.",
+      "specs": {
+        "Airflow measured": "4.3m/s max, 2.9m/s at 43dB, 2.5m/s at 35.8dB",
+        "Noise": "48dBA max",
+        "Power": "20W",
+        "Price guide": "£120 (out of stock at B&Q on 4 Aug 2026)"
+      },
+      "pros": [
+        "Good for large spaces, oscillates on two axes",
+        "Quiet at lower settings, virtually silent on the lowest",
+        "Usable Natural mode and a Sleep mode",
+        "Rock-solid build with little wobble"
+      ],
+      "cons": [
+        "Louder at higher settings (48dB)"
+      ],
+      "asin": "",
+      "search": "Princess Pedestal Air Circulator fan"
+    },
+    {
+      "brand": "Dimplex",
+      "name": "Ion Fresh Cooling Tower Fan",
+      "badge": "Best tower fan",
+      "best_for": "Living rooms where looks and controlled airflow matter more than silence",
+      "key_spec": "1.07m tower, built-in ioniser, 7° tilt, 70° oscillation, 2.3m/s measured, 41-50dB",
+      "summary": "Expert Reviews liked the well-controlled airflow, classy brushed-copper finish, tilt feature and bundled remote, and found it made stuffy rooms more liveable. It measured 2.3m/s at maximum and 1.3m/s at its lowest, but it's not ideal for sleeping, at 41dB even at its quietest and 50dB at its worst.",
+      "specs": {
+        "Airflow measured": "2.3m/s max, 1.3m/s lowest",
+        "Noise": "41dB lowest, 50dBA max",
+        "Power": "45W",
+        "Price guide": "£101-£110"
+      },
+      "pros": [
+        "Well-controlled airflow with a wide 70° sweep",
+        "Attractive design with touch controls",
+        "Timer, sleep and natural modes plus remote",
+        "Tilt feature directs air upwards"
+      ],
+      "cons": [
+        "Not the best for sleeping",
+        "Ioniser benefits are controversial"
+      ],
+      "asin": "",
+      "search": "Dimplex Ion Fresh Cooling Tower Fan"
+    },
+    {
+      "brand": "Honeywell",
+      "name": "HT 900E TurboForce",
+      "badge": "Best budget desk fan",
+      "best_for": "Maximum cooling power for a small desk on a small budget",
+      "key_spec": "40W turbo motor, 2.7m/s measured, 90° tilting head, wall-mountable, 47.5dBA maximum",
+      "summary": "Expert Reviews called this a monster for a budget desk fan, with 2.7m/s gusts strong enough to send papers flying, plus a tilting head that also allows wall mounting. Construction is rock solid, but at medium or high speed it makes 'an unholy racket', reaching 47.5dB, and it's a bearable 40dB on low.",
+      "specs": {
+        "Airflow measured": "2.7m/s max",
+        "Noise": "40dB low, 47.5dBA max",
+        "Power": "40W",
+        "Price guide": "£30-£34"
+      },
+      "pros": [
+        "Powerful performance for the price",
+        "Rock-solid construction",
+        "Tilting head, wall-mountable",
+        "3-year warranty"
+      ],
+      "cons": [
+        "Loud at medium and high",
+        "No oscillation or remote"
+      ],
+      "asin": "",
+      "search": "Honeywell HT900E TurboForce fan"
+    },
+    {
+      "brand": "Levoit",
+      "name": "36in Tower Fan",
+      "badge": "Best for big rooms",
+      "best_for": "Larger living rooms wanting an efficient, well-built tower",
+      "key_spec": "36in tower, 3.2-3.3m/s measured, Auto and Sleep modes, 1-12 hour timer, about 20W on lower settings",
+      "summary": "Expert Reviews found this efficient way to cool a large area: 3.2m/s at top speed, 3.3m/s in Turbo, and 2.1m/s at around 32dB on its next-to-lowest setting, almost whisper quiet. It's well built with no wobble, has an Auto mode that follows room temperature, and uses only about 20W on lower settings, though it's loud at its highest speeds (44.4-45.2dB).",
+      "specs": {
+        "Airflow measured": "3.2m/s max, 3.3m/s Turbo, 2.1m/s at ~32dB",
+        "Noise": "44.4-45.2dB at highest",
+        "Power": "39W max, ~20W lower settings",
+        "Price guide": "£90"
+      },
+      "pros": [
+        "Cools large areas with little fuss",
+        "Auto and Sleep modes plus timer",
+        "Well built, no wobble",
+        "Efficient at lower speeds"
+      ],
+      "cons": [
+        "Loud at its highest speeds"
+      ],
+      "asin": "",
+      "search": "Levoit 36 inch tower fan"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Will a fan actually cool my room?",
+      "a": "A fan pushes air around rather than cooling it, so it won't cool a room as well as an air conditioner. Expert Reviews notes fans are far cheaper to buy and run, and with the UK's comparatively mild, dry summers, an air conditioning unit may be overkill anyway."
+    },
+    {
+      "q": "Desk fan, pedestal fan or tower fan?",
+      "a": "A desk fan (£20-£50, like the Honeywell here) only cools a desk-sized space. A pedestal fan is larger and more powerful for bigger spaces but bulky, and its height, pivot and oscillation are adjustable. A tower fan, like the Levoit or Dimplex here, gives near-pedestal cooling in a slimmer form, with less adjustability."
+    },
+    {
+      "q": "How noisy is too noisy for sleeping?",
+      "a": "Expert Reviews' rule of thumb: 35-40dB is quiet, 40-45dB is bearable, and above 45dB is too loud to sleep peacefully. Always use the lower speed settings, and consider a fan with a Sleep mode, like the Princess here, which reduces speed every 30 minutes."
+    },
+    {
+      "q": "Are fans expensive to run?",
+      "a": "No. Even the most powerful fans tested use around 40W at maximum, and the most efficient use under 20W at full blast and less than 5W at their lowest. Using the timer, a temperature-sensing Auto mode or a Sleep mode keeps costs down further."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best fans",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/air-treatment/best-fans-heatwave"
+    }
+  ]
+}
