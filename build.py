@@ -25,7 +25,7 @@ SITE_URL = CONFIG["site_url"].rstrip("/")
 GROUPS = {
     "Kitchen": [
         "air-fryers", "coffee-machines", "slow-cookers", "kettles", "blenders",
-        "toasters", "microwaves", "food-processors", "fridge-freezers",
+        "toasters", "microwaves", "food-processors", "fridge-freezers", "dishwashers",
         "kitchen-knives", "food-storage-containers", "lunch-boxes",
     ],
     "Laundry, heating & air": [

@@ -4,7 +4,6 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 
 ## To try
 - Chainsaws (DIY & tools)
-- Dishwashers (Home & kitchen)
 - Bread makers (Home & kitchen)
 - Stand mixers (Home & kitchen)
 - Rice cookers (Home & kitchen)
@@ -60,7 +59,8 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Home security cameras — Expert Reviews (6 products)
 - Fans — Expert Reviews (9 products, updated Sept 2026)
 - Dog poo bags — Countryfile tested roundup, 2025 (5 products, user-requested)
-- Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Not yet done: women's golf clothing, golf bags, rangefinders, trolleys, golf umbrellas.
+- Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Also done: golf rangefinders (11), golf bags (9). Not yet done: women's golf clothing, golf trolleys, golf umbrellas.
+- Dishwashers - Trusted Reviews (7 products, measured cost per cycle)
 - Tumble dryers — Trusted Reviews (7 products, includes LG WashTower stack and LG Styler steam cabinet as listed by the source)
 - Food storage containers (Tupperware) — Mumsnet (6 products, user-requested)
 - Lunch boxes — Expert Reviews archived guide, April 2023 (5 products, user-requested). Mumsnet's adult lunch box page (10 products) is research-based with no hands-on testing, so not used; kids' lunch boxes not covered.
