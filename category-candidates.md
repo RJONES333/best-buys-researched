@@ -4,7 +4,6 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 
 ## To try
 - Chainsaws (DIY & tools)
-- Stand mixers (Home & kitchen)
 - Cat litter boxes (Pet supplies)
 - Ice cream makers (Home & kitchen)
 
@@ -59,6 +58,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Dog poo bags — Countryfile tested roundup, 2025 (5 products, user-requested)
 - Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Also done: golf rangefinders (11), golf bags (9). Not yet done: women's golf clothing, golf trolleys, golf umbrellas.
 - Dishwashers - Trusted Reviews (7 products, measured cost per cycle)
+- Stand mixers - Expert Reviews Sept 2024 guide (7 products)
 - Rice cookers - Expert Reviews May 2025 guide (8 products)
 - Bread makers - Expert Reviews July 2023 guide (6 products; Tom's Guide list is US-market with 3 products, not used)
 - Tumble dryers — Trusted Reviews (7 products, includes LG WashTower stack and LG Styler steam cabinet as listed by the source)
