@@ -4,7 +4,7 @@
   "short": "Portable SSDs compared by sustained write speed, connector type and durability, from everyday drives to Thunderbolt 5 speed champions.",
   "intro": "A drive's rated speed is only part of the story: many cheaper SSDs slow down dramatically once their fast cache fills up on a large transfer. This guide compares drives tested by Tom's Hardware, which measures sustained write performance with a 15-minute Iometer benchmark rather than just peak burst speeds.",
   "reviewed": "2026-09-23",
-  "verified": "2026-09-24",
+  "verified": "2026-09-25",
   "products": [
     {
       "brand": "SanDisk",
