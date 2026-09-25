@@ -1,0 +1,188 @@
+{
+  "slug": "ice-cream-makers",
+  "title": "Best Ice Cream Makers UK",
+  "short": "Six ice cream makers compared on ice cream quality, ease of use, noise and versatility, from a £45 churn bowl to a £370 professional machine.",
+  "intro": "Ice cream makers differ hugely: some need a bowl pre-frozen for 24 hours, some have a built-in freezer, and some are as loud as a blender. This guide is based on Expert Reviews' tested roundup of 11 machines, where each was assessed the same way: timed with a stopwatch, bowl temperature tracked, capacity measured against the ice cream actually made, noise measured with a decibel reader, and a vanilla and chocolate ice cream made from an identical base recipe. Prices are as reviewed.",
+  "reviewed": "2026-09-25",
+  "verified": "2026-09-25",
+  "products": [
+    {
+      "brand": "Lakeland",
+      "name": "Digital Ice Cream Maker 1.8L",
+      "badge": "Best overall",
+      "best_for": "Anyone who wants reliably good ice cream without the fuss or the price",
+      "key_spec": "1.8L bowl, no built-in freezer, 40-minute churn, compact and lightweight, 3-year warranty",
+      "summary": "Expert Reviews' overall favourite and the cheapest machine they tested. It churns creamy, evenly textured ice cream with none of the icy graininess of some cheaper machines, and is extremely quiet (a high of 47dB with an occasional whine). It only makes ice cream, sorbet and froyo, getting the ice cream off the paddle can be messy, and it isn't dishwasher safe.",
+      "specs": {
+        "Built-in freezer": "No",
+        "Bowl size": "1.8L",
+        "Warranty": "3 years",
+        "Price guide": "£45 (as reviewed)"
+      },
+      "pros": [
+        "Extremely quiet",
+        "Very compact and lightweight",
+        "Over £100 cheaper than any other machine tested"
+      ],
+      "cons": [
+        "Can only make ice cream, sorbet and froyo",
+        "Messy getting ice cream off the paddle, and the bowl picked up scratches",
+        "Not dishwasher safe"
+      ],
+      "asin": "",
+      "search": "Lakeland Digital Ice Cream Maker 1.8L"
+    },
+    {
+      "brand": "Russell Hobbs",
+      "name": "Chilluxe Ice Cream Maker",
+      "badge": "Easiest to use",
+      "best_for": "Anyone who wants great results with minimal effort and doesn't mind noise",
+      "key_spec": "Six presets plus mix-in and re-spin, makes ice cream in 4 minutes, two 500ml tubs, 1-year warranty",
+      "summary": "Expert Reviews found the easiest machine to use: pop the mixture into the tub, lock it in and press a button, and four minutes later it's done, with genuinely great-tasting, well-textured ice cream. There's no built-in freezer, so the tub and mixture need freezing for 24 hours first, and it hits an average 82dB, as loud as a blender.",
+      "specs": {
+        "Built-in freezer": "No (freeze tub for 24 hours)",
+        "Accessories": "2 x 500ml tubs",
+        "Warranty": "1 year",
+        "Price guide": "£160 (as reviewed)"
+      },
+      "pros": [
+        "Very easy to use",
+        "Frozen dessert making process is fun to watch",
+        "Ice cream is made directly into storage tubs"
+      ],
+      "cons": [
+        "Very loud and bulky",
+        "Plastic door feels flimsy"
+      ],
+      "asin": "",
+      "search": "Russell Hobbs Chilluxe Ice Cream Maker 28750"
+    },
+    {
+      "brand": "Ninja",
+      "name": "CREAMi Deluxe 10-in-1",
+      "badge": "Most versatile",
+      "best_for": "Anyone who wants a frozen dessert all-rounder and can stomach the noise and price",
+      "key_spec": "Ten functions, three 710ml tubs, freeze the mixture for 24 hours first, 2-year warranty",
+      "summary": "Expert Reviews found a frozen dessert all-rounder rather than a traditional ice cream maker, with a clear instruction booklet and dishwasher-friendly parts. The first spin gave a crumbly rather than creamy texture so it needed a re-spin, the blade doesn't quite reach the bottom, and at 85dB it's the loudest machine they tested.",
+      "specs": {
+        "Built-in freezer": "No (freeze mixture for 24 hours)",
+        "Accessories": "3 x 710ml tubs",
+        "Warranty": "2 years",
+        "Price guide": "£250 (as reviewed)"
+      },
+      "pros": [
+        "Ten different functions",
+        "Dishwasher friendly and easy to clean",
+        "Makes very tasty desserts"
+      ],
+      "cons": [
+        "Really loud machine (85dB)",
+        "Incredibly expensive",
+        "First spin can be crumbly and need a re-spin"
+      ],
+      "asin": "",
+      "search": "Ninja CREAMi Deluxe 10-in-1 NC501UK"
+    },
+    {
+      "brand": "Cuisinart",
+      "name": "Frost Fusion",
+      "badge": "Best texture",
+      "best_for": "Anyone whose priority is shop-quality ice cream at the drop of a hat",
+      "key_spec": "1.5L, soft-serve style with dispensing chute, ice cream in 30 to 45 minutes with no 24-hour pre-freeze, 2-year warranty",
+      "summary": "Expert Reviews found the best ice cream of any machine tested: smooth, dense and properly churned like an ice cream shop, in 30 to 45 minutes with no pre-freeze. It looks like a commercial soft-serve machine, but the dispensing chute produced only drips after 30 minutes for ice cream (though it worked well for slushies), and the self-cleaning function left sticky residue that needed wiping by hand.",
+      "specs": {
+        "Bowl size": "1.5L",
+        "Time to make": "30 to 45 minutes",
+        "Warranty": "2 years",
+        "Price guide": "£300 (as reviewed)"
+      },
+      "pros": [
+        "Makes delicious ice cream",
+        "Very aesthetically pleasing",
+        "Makes frozen desserts in under an hour without pre-freezing"
+      ],
+      "cons": [
+        "Self-cleaning function doesn't work as well as anticipated",
+        "Fiddly getting the ice cream out of the machine"
+      ],
+      "asin": "",
+      "search": "Cuisinart Frost Fusion Slushy Machine Soft Serve Ice Cream Maker"
+    },
+    {
+      "brand": "ProCook",
+      "name": "Professional Ice Cream Maker 1.2L",
+      "badge": "Quietest",
+      "best_for": "Households that want a built-in freezer and low noise",
+      "key_spec": "1.2L, built-in freezer, automatic stop when ready, about an hour from nothing to ice cream, 2-year warranty",
+      "summary": "Expert Reviews found the quietest machine they tested, so quiet they ran it in the office without complaint. The built-in freezer means no 24-hour pre-freeze, and it stops automatically (vanilla in just over 53 minutes, chocolate in about 35). The ice cream is very firm, but the paddle is hard to pull out, awkward to scrape clean, and the ice cream needs to go back in the freezer before eating.",
+      "specs": {
+        "Built-in freezer": "Yes",
+        "Bowl size": "1.2L",
+        "Warranty": "2 years",
+        "Price guide": "£149 (as reviewed)"
+      },
+      "pros": [
+        "Really quiet",
+        "Built-in freezer so no pre-freezing needed",
+        "Sleek design with minimal controls is easy to use"
+      ],
+      "cons": [
+        "Takes a lot of effort to get the ice cream off the paddle",
+        "Ice cream needs to go back in the freezer before it can be eaten"
+      ],
+      "asin": "",
+      "search": "ProCook Professional Ice Cream Maker 1.2L"
+    },
+    {
+      "brand": "Sage",
+      "name": "Smart Scoop",
+      "badge": "Best professional",
+      "best_for": "Serious home ice cream makers who want hardness control and top results",
+      "key_spec": "12 hardness settings, four presets, manual mode, automatic hardness sensor, keep-cool function up to 3 hours",
+      "summary": "Expert Reviews (January 2024 review) found professional results for ice cream, sorbet, gelato and frozen yoghurt, with a flashing light for adding mix-ins, an ice cream van jingle when ready and a keep-cool function that holds the texture for up to three hours. The instruction booklet has 16 recipes with tips from Heston Blumenthal. It's incredibly expensive, the machine is huge for its bowl size, the parts aren't dishwasher-friendly, and the ice cream isn't easy to remove.",
+      "specs": {
+        "Hardness settings": "12",
+        "Presets": "4 plus manual",
+        "Keep cool": "Up to 3 hours",
+        "Price guide": "£370 (as reviewed)"
+      },
+      "pros": [
+        "Lots of options",
+        "Keep cool function",
+        "16 recipes in the booklet"
+      ],
+      "cons": [
+        "Incredibly expensive",
+        "The bowl could be bigger relative to the machine",
+        "Parts aren't dishwasher-friendly",
+        "Ice cream isn't the easiest to remove"
+      ],
+      "asin": "",
+      "search": "Sage Smart Scoop ice cream maker"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need an ice cream maker with a built-in freezer?",
+      "a": "It's more convenient: the ProCook Professional and Cuisinart Frost Fusion go from nothing to ice cream in around an hour with no pre-freezing. Cheaper machines like the Lakeland need the bowl frozen beforehand, and the Russell Hobbs and Ninja need the mixture frozen for 24 hours, so you have to plan ahead."
+    },
+    {
+      "q": "How noisy are ice cream makers?",
+      "a": "Very variable. Expert Reviews measured the Lakeland at a high of 47dB and the ProCook as the quietest, while the Russell Hobbs averaged 82dB (as loud as a blender) and the Ninja CREAMi Deluxe hit 85dB, the loudest they tested. If noise matters, choose a churn machine rather than a fast-spinning one."
+    },
+    {
+      "q": "Is a cheap ice cream maker good enough?",
+      "a": "Often, yes. The £45 Lakeland was Expert Reviews' overall favourite, making creamy, evenly textured ice cream. The trade-offs are that it makes only ice cream, sorbet and froyo, isn't dishwasher safe and needs the bowl pre-frozen, so pricier machines mainly buy convenience and versatility."
+    },
+    {
+      "q": "What else can they make?",
+      "a": "Most make sorbet and frozen yoghurt. The Ninja CREAMi Deluxe has ten functions, the Russell Hobbs makes ice cream, sorbet, milkshake and gelato, and the Cuisinart worked well for slushies. Check the functions before buying if you want more than plain ice cream."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best ice cream makers (2026)",
+      "url": "https://www.expertreviews.co.uk/home-garden/small-appliances/best-ice-cream-maker"
+    }
+  ]
+}

@@ -4,13 +4,12 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 
 ## To try
 - Chainsaws (DIY & tools)
-- Cat litter boxes (Pet supplies)
-- Ice cream makers (Home & kitchen)
 
 ## User requests awaiting a genuine source (2026-09-24)
 - Boys' hair styling products for fine, straight hair, and girls' hair styling (user-requested; unclear whether products or haircut styles). Searched: Blue-Print (brand blog), bestproducts.guide / bestproductsreviews.co.uk (affiliate farms), Mumsnet forum threads and Tangle Teezer sponsored post (opinion, not testing). Boss Hunting "11 Best Hair Products For Men" is genuine first-person testing but Australian, adult, thinning hair, AUD prices. User confirmed 2026-09-24: they mean styling products. Also checked: Marie Claire UK "9 best products for thin hair" (Shannon Lawlor, Jan 2023) is genuine single-editor testing but adult thin hair, personal picks, no stated cons, only ~5 styling items (Sam McKnight Cool Girl Superlift, Percy & Reed mousse, Living Proof Full Dry Volume & Texture Spray, Cloud Nine wand, Hershesons dryer), so not enough to build a sourced guide. No UK tested source found for boys' styling products; GQ UK not surfaced by search. Still to try: Mother & Baby, Expert Reviews / Trusted Reviews hair sections, Good Housekeeping Institute, Which? (likely paywalled), fetching GQ UK / Men's Health UK grooming pages directly.
 
 ## Rejected (no genuine hands-on testing source found, don't retry)
+- Cat litter boxes — PetsRadar's regular litter box guide (Dec 2024) has US retailers/products, and several picks are "currently with our tester" with no verdict. Its automatic litter box guide (Mar 2025) has genuine named-tester testing but is US-market ($ prices, Amazon US/Chewy/Walmart links; most models not clearly sold in the UK). Retry only if a UK outlet (Expert Reviews, Trusted Reviews, Mumsnet) publishes a tested guide.
 - Garden sheds, 3ft x 6ft (user-requested 2026-09-25, "garden 3ft x 6ft text shed", read as "best") — no hands-on tested source found. Real Homes "best small sheds" is a 2020 roundup with no testing and no 3x6ft models; Gardeners' World blocked (user declined that site earlier); the rest were manufacturer/retailer pages (Asgard, Atlas, Argos, Opal) and shed-shop review sites (WhatShed/WhichShed, likely customer-review or shop-linked, not checked in depth). Ask the user whether a lighter guide is acceptable if they still want it.
 - Wine coolers — Which? results are paywalled. Ideal Home's wine fridge guide (Amy Cutmore, 2017) is a spec-list roundup with no testing or cons and 2017 prices. Other results were affiliate/retailer blogs (CoolDrop, appliancehunter, thekitchen-box) and US sites. Posh Living tested only one unit (Barcool VINO12). Retry only if Expert Reviews, Trusted Reviews or similar publish an open tested guide.
 - Electric scooters — USER DECLINED (2026-09-24, "dont do e-scooters"). Privately owned e-scooters are illegal on UK roads and pavements. Do not build or re-add.
@@ -59,6 +58,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Also done: golf rangefinders (11), golf bags (9). Not yet done: women's golf clothing, golf trolleys, golf umbrellas.
 - Dishwashers - Trusted Reviews (7 products, measured cost per cycle)
 - Stand mixers - Expert Reviews Sept 2024 guide (7 products)
+- Ice cream makers - Expert Reviews May 2026 guide (6 products, 11 tested)
 - Rice cookers - Expert Reviews May 2025 guide (8 products)
 - Bread makers - Expert Reviews July 2023 guide (6 products; Tom's Guide list is US-market with 3 products, not used)
 - Tumble dryers — Trusted Reviews (7 products, includes LG WashTower stack and LG Styler steam cabinet as listed by the source)
