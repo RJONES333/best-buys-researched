@@ -23,35 +23,45 @@ SITE_URL = CONFIG["site_url"].rstrip("/")
 # A slug not listed here falls back to "More guides" so a new category file
 # never breaks the build; add it here when convenient.
 GROUPS = {
-    "Home & kitchen": [
+    "Kitchen": [
         "air-fryers", "coffee-machines", "slow-cookers", "kettles", "blenders",
-        "toasters", "dehumidifiers", "air-purifiers", "heated-airers",
-        "electric-blankets", "electric-heaters", "kitchen-knives",
-        "washing-machines", "microwaves", "fridge-freezers", "steam-irons",
-        "food-processors", "humidifiers", "food-storage-containers",
-        "lunch-boxes", "fans", "tumble-dryers",
+        "toasters", "microwaves", "food-processors", "fridge-freezers",
+        "kitchen-knives", "food-storage-containers", "lunch-boxes",
+    ],
+    "Laundry, heating & air": [
+        "washing-machines", "tumble-dryers", "steam-irons", "heated-airers",
+        "dehumidifiers", "humidifiers", "air-purifiers", "fans",
+        "electric-heaters", "electric-blankets",
     ],
     "Cleaning": ["robot-vacuums", "cordless-vacuums", "steam-cleaners"],
-    "Tech & gadgets": [
-        "samsung-chargers", "wireless-earbuds", "standing-desks",
-        "over-ear-headphones", "gaming-headsets", "iphone-charging-cables",
-        "gaming-mice", "tvs", "laptops", "power-banks", "bluetooth-speakers",
-        "pc-monitors", "mechanical-keyboards", "webcams", "monitor-arms",
-        "external-ssds", "wifi-routers", "smartwatches", "printers",
-        "portable-power-stations", "smart-rings", "gaming-chairs",
-        "office-chairs", "action-cameras", "projectors", "soundbars",
-        "tablets", "video-doorbells", "home-security-cameras",
+    "Audio & TV": [
+        "wireless-earbuds", "over-ear-headphones", "gaming-headsets",
+        "bluetooth-speakers", "soundbars", "tvs", "projectors",
     ],
+    "Computing & desk": [
+        "laptops", "tablets", "pc-monitors", "monitor-arms", "mechanical-keyboards",
+        "gaming-mice", "webcams", "external-ssds", "wifi-routers", "printers",
+        "standing-desks", "office-chairs", "gaming-chairs",
+    ],
+    "Phones, power & wearables": [
+        "samsung-chargers", "iphone-charging-cables", "power-banks",
+        "portable-power-stations", "smartwatches", "smart-rings",
+    ],
+    "Smart home & security": ["video-doorbells", "home-security-cameras", "action-cameras"],
     "Sleep & comfort": ["mattress-toppers", "pillows", "duvets"],
     "Bathroom": ["bath-towels"],
-    "Fitness & outdoors": [
-        "running-socks", "walking-socks", "winter-gloves", "womens-leggings",
-        "bike-lights", "yoga-mats", "adjustable-dumbbells", "hiking-boots",
-        "cycling-helmets", "family-tents", "swimming-goggles", "massage-guns",
-        "sleeping-bags", "resistance-bands", "rowing-machines", "exercise-bikes",
+    "Gym & fitness": [
+        "adjustable-dumbbells", "resistance-bands", "rowing-machines",
+        "exercise-bikes", "yoga-mats", "massage-guns",
     ],
-    "Clothing": ["mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets"],
-    "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "golf-club-sets", "golf-balls", "golf-gloves", "golf-shirts"],
+    "Camping & hiking": ["family-tents", "sleeping-bags", "hiking-boots"],
+    "Cycling": ["bike-lights", "cycling-helmets"],
+    "Clothing": [
+        "mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets",
+        "womens-leggings", "running-socks", "walking-socks", "winter-gloves",
+    ],
+    "Golf": ["golf-club-sets", "golf-balls", "golf-gloves", "golf-shirts"],
+    "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "swimming-goggles"],
     "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "electric-shavers", "hair-clippers"],
     "Kids": ["trending-kids-toys", "trampolines"],
     "Garden": [
