@@ -1,0 +1,302 @@
+{
+  "slug": "golf-rangefinders",
+  "title": "Best Golf Rangefinders UK",
+  "short": "Eleven laser rangefinders tested over multiple rounds, from a budget model with slope to GPS hybrids and ultra-compact lasers.",
+  "intro": "A rangefinder's real test is how quickly and reliably it locks onto the flag among trees and bushes, round after round. This guide compares rangefinders tested by Golf Monthly's Conor Keenan, who heads up their rangefinder, GPS and golf watch reviews, with help from colleagues. They test on-course over multiple rounds and in different conditions. The source lists a Nikon Coolshot heading over a Voice Caddie write-up, so the Voice Caddie entry here follows the text and specification table.",
+  "reviewed": "2026-09-25",
+  "verified": "2026-09-25",
+  "products": [
+    {
+      "brand": "Bushnell",
+      "name": "Tour Hybrid",
+      "badge": "Top pick",
+      "best_for": "Golfers who want laser accuracy plus instant GPS yardages to the green in one device",
+      "key_spec": "Built-in GPS front, centre and back yardages in the viewfinder, slope-compensated, 6x, 1,300 yards, IPX6",
+      "summary": "Golf Monthly's top pick and the best Bushnell they've tested: as you lock onto the pin, GPS front, centre and back distances to the green appear in the viewfinder. Its GPS activates instantly with no third-party apps or manual course selection, and slope-compensated distances work on both laser and GPS readings, though the viewfinder graphics could be a touch clearer.",
+      "specs": {
+        "Range": "1,300 yards",
+        "Magnification": "6x",
+        "Protection": "IPX6",
+        "Battery": "Replaceable CR-123"
+      },
+      "pros": [
+        "Rapid-fire detection",
+        "Built-in GPS gives a more accurate picture of your approach shot",
+        "GPS picks up the course quickly and automatically",
+        "Slope-compensated distances on both laser and GPS"
+      ],
+      "cons": [
+        "Graphics through the viewfinder could be a touch clearer"
+      ],
+      "asin": "",
+      "search": "Bushnell Tour Hybrid rangefinder"
+    },
+    {
+      "brand": "Inesis",
+      "name": "Golf 900 Laser Rangefinder",
+      "badge": "Best budget",
+      "best_for": "Golfers who want accurate yardages and slope at a low price",
+      "key_spec": "5-1,300 yards (flag 350), 6x, slope switch, First Target Priority, IPX2, 5,000 measurements",
+      "summary": "Golf Monthly found this performed valiantly against the Bushnell Tour V5 Shift, with a clear 6x view and a sturdy feel that held up in strong conditions. A First Target Priority system picks out the flagstick from trees and bushes and confirms with a vibration, accuracy stayed within +/- 1 yard, and slope compensation is rarely seen this cheaply, though it lacks the premium look of others.",
+      "specs": {
+        "Range": "5-1,300 yards (flag 350)",
+        "Magnification": "6x",
+        "Protection": "IPX2",
+        "Battery": "About 5,000 measurements"
+      },
+      "pros": [
+        "Superb distance accuracy",
+        "Slope functionality that can be easily disabled",
+        "Excellent value for money"
+      ],
+      "cons": [
+        "Lacks the premium appeal of others visually"
+      ],
+      "asin": "",
+      "search": "Inesis Golf 900 laser rangefinder"
+    },
+    {
+      "brand": "Shot Scope",
+      "name": "Pro L5",
+      "badge": "Best style",
+      "best_for": "Golfers who want a clear OLED display and a stylish white finish without overspending",
+      "key_spec": "Ultra-clear OLED display, 7x, 1,300 yards, cart magnet, about 5,800 measurements",
+      "summary": "Golf Monthly says this marks a turning point for Shot Scope, addressing feedback on earlier models with its first ultra-clear OLED display. The display is bright and clear, it's easy to pick the flag out of a busy background, and a magnet mounts it on a cart, but it lacks a premium look and feel.",
+      "specs": {
+        "Range": "1,300 yards",
+        "Magnification": "7x",
+        "Battery": "About 5,800 measurements, replaceable",
+        "Feature": "Magnet for cart mounting"
+      },
+      "pros": [
+        "Bright, clear display",
+        "Easy to pick out the flag from a busy background",
+        "Magnet for mounting on a cart"
+      ],
+      "cons": [
+        "Lacks a premium look and feel"
+      ],
+      "asin": "",
+      "search": "Shot Scope Pro L5 rangefinder"
+    },
+    {
+      "brand": "Bushnell",
+      "name": "Tour V7 Shift",
+      "badge": "Best display",
+      "best_for": "Golfers who want a class-leading OLED viewfinder and fast, reliable yardages",
+      "key_spec": "OLED display showing standard yardage in orange and slope-adjusted in green, 6x, 1,300 yards, IPX6, USB-C",
+      "summary": "Golf Monthly found the V7 builds on the popular V6 with thoughtful improvements, including a brilliant OLED display, a premium metal-detailed waterproof build and Pinseeker with Visual Jolt confirmation of a pin lock. It also adds a yardage recall button and Foresight Sports club recommendations, though many of its unique features aren't legal for competition use.",
+      "specs": {
+        "Range": "1,300 yards",
+        "Magnification": "6x",
+        "Protection": "IPX6",
+        "Battery": "USB-C rechargeable"
+      },
+      "pros": [
+        "Class-leading OLED display",
+        "Looks and feels fantastic",
+        "Fast, reliable yardages"
+      ],
+      "cons": [
+        "Many of the unique features aren't legal for competition use"
+      ],
+      "asin": "",
+      "search": "Bushnell Tour V7 Shift rangefinder"
+    },
+    {
+      "brand": "Blue Tees",
+      "name": "Captain Pro",
+      "badge": "Best features",
+      "best_for": "Golfers who want smart features and GPS via an app at a mid-tier price",
+      "key_spec": "7x OLED display, flag-lock vibration, IP67, USB-C, app with GPS yardages and club recommendations, 1,200 yards",
+      "summary": "Golf Monthly found features you'd expect on a device costing more than double, wrapped in a tough IP67 dust and waterproof rubber body with a crystal-clear 7x OLED display. Paired with the Blue Tees app it gives front, centre and back GPS yardages, aerial hole views and green heat maps, with an analytics subscription unlocking shot tracking, though the app could be improved.",
+      "specs": {
+        "Range": "1,200 yards",
+        "Magnification": "7x",
+        "Protection": "IP67",
+        "Battery": "USB-C rechargeable"
+      },
+      "pros": [
+        "Incredible features for the price",
+        "Superb 7x magnified display",
+        "Part of the growing, affordable Blue Tees ecosystem"
+      ],
+      "cons": [
+        "App could be improved",
+        "Carry case could do with an elastic clip"
+      ],
+      "asin": "",
+      "search": "Blue Tees Captain Pro rangefinder"
+    },
+    {
+      "brand": "Precision Pro",
+      "name": "Titan Elite Laser Rangefinder",
+      "badge": "Most durable",
+      "best_for": "Golfers who want a tough, feature-packed laser with a lost-device finder",
+      "key_spec": "Premium aluminium shell, IP67, 6x, 999 yards, USB-C, Find My Precision Pro, MySlope sync",
+      "summary": "Golf Monthly recommends this for anyone wanting a more durable laser than average, with a Visual Target Lock giving a lag-free pulse and ripple on the reticle so you know you've hit the flag rather than trees behind the green. Slope mode can sync with MySlope to your ball flight, the app connection is among the simplest they've tried, and Find My Precision Pro helps locate a dropped device.",
+      "specs": {
+        "Range": "999 yards",
+        "Magnification": "6x",
+        "Protection": "IP67",
+        "Battery": "USB-C rechargeable"
+      },
+      "pros": [
+        "Super speedy response time",
+        "Switching in and out of GPS mode is very easy",
+        "Packed with features"
+      ],
+      "cons": [
+        "Could have a slightly more premium aesthetic"
+      ],
+      "asin": "",
+      "search": "Precision Pro Titan Elite laser rangefinder"
+    },
+    {
+      "brand": "Mileseey",
+      "name": "GenePro G1",
+      "badge": "Best GPS",
+      "best_for": "Data-driven golfers who like a laser and a GPS map in one device",
+      "key_spec": "6x laser plus 2.13in AMOLED GPS touchscreen, 43,000+ preloaded courses, IPX7, about 15 hours",
+      "summary": "Golf Monthly found a unique hybrid combining a high-performing laser with a built-in touchscreen GPS showing green layouts, hazards and layup distances, plus flag-lock pulse and a rotating ring to toggle slope. The screen is vibrant and the laser fast, but the touchscreen can feel laggy and the GPS doesn't always automatically change holes on the next tee.",
+      "specs": {
+        "Range": "600 yards (flag)",
+        "Magnification": "6x",
+        "Protection": "IPX7 waterproof",
+        "Battery": "About 15 hours"
+      },
+      "pros": [
+        "Vibrant, detailed integrated touchscreen GPS",
+        "Clear graphics in the viewfinder",
+        "Easy pin detection",
+        "A lot of product for the money"
+      ],
+      "cons": [
+        "GPS doesn't always automatically change holes on the next tee"
+      ],
+      "asin": "",
+      "search": "Mileseey GenePro G1 rangefinder"
+    },
+    {
+      "brand": "Voice Caddie",
+      "name": "Laser Fit 2",
+      "badge": "Best lightweight",
+      "best_for": "Golfers who want an ultra-compact, pocket-sized laser",
+      "key_spec": "Under four ounces, 7x, 1,000 yards, Pin Tracer target lock, Ball-to-Pin triangulation, about 70 rounds",
+      "summary": "Golf Monthly found a very compact, pocket-sized laser for golfers who prioritise speed and portability, with rapid readouts from Pin Tracer target locking and a Ball-to-Pin triangulation mode for measuring from a cart on cart-path-only days. Interchangeable accent rings personalise it, but the outer casing is somewhat plasticky and, surprisingly, no carrying case is included.",
+      "specs": {
+        "Range": "1,000 yards",
+        "Magnification": "7x",
+        "Weight": "Under four ounces",
+        "Battery": "About 70 rounds"
+      },
+      "pros": [
+        "Very compact and light",
+        "Rapid readings with Pin Tracer target lock",
+        "Ball-to-Pin triangulation mode"
+      ],
+      "cons": [
+        "Somewhat plasticky outer casing",
+        "No carrying case included"
+      ],
+      "asin": "",
+      "search": "Voice Caddie Laser Fit 2 rangefinder"
+    },
+    {
+      "brand": "Bushnell",
+      "name": "A1-Slope",
+      "badge": "Most compact",
+      "best_for": "Golfers who want a small, sturdy laser with slope and long battery life",
+      "key_spec": "350+ yards, 6x, IPX6, slope switch, JOLT vibrations, BITE magnetic cart mount, 12+ hours",
+      "summary": "Bushnell's smallest rangefinder in the current lineup, which Golf Monthly found sturdy and well built, with fast, accurate readings with slope on or off. JOLT vibrations reliably confirm a flag lock, it has a magnetic cart mount and exceptional battery life, though the display could be clearer, particularly when shrubbery sits behind the green.",
+      "specs": {
+        "Range": "350+ yards",
+        "Magnification": "6x",
+        "Protection": "IPX6",
+        "Battery": "12+ hours"
+      },
+      "pros": [
+        "Excellent accuracy, especially the slope feature",
+        "Small but sturdy design",
+        "Impressive battery life"
+      ],
+      "cons": [
+        "Graphics on the display could have stood out more"
+      ],
+      "asin": "",
+      "search": "Bushnell A1 Slope rangefinder"
+    },
+    {
+      "brand": "Bushnell",
+      "name": "Pro X3+",
+      "badge": "Best for accuracy",
+      "best_for": "Golfers who want the most accurate yardages and don't mind the price and weight",
+      "key_spec": "7x, 600+ yards, IPX7, factors in slope, temperature and barometric pressure, Bluetooth app, wind data",
+      "summary": "Golf Monthly says that if price were no object this would likely be its top pick, setting the standard for how good a rangefinder can be by factoring in distance, slope, temperature and elevation. It's waterproof with a solid weight that helps golfers with shaky hands, and pairs with the Bushnell Golf app, though the new wind feature was a faff to calibrate and it feels heavy.",
+      "specs": {
+        "Range": "600+ yards",
+        "Magnification": "7x",
+        "Protection": "IPX7",
+        "Battery": "40+ rounds"
+      },
+      "pros": [
+        "Incredibly accurate",
+        "More secure slope switch",
+        "Partnering app enhances ease of use"
+      ],
+      "cons": [
+        "Heavy, substantial feel"
+      ],
+      "asin": "",
+      "search": "Bushnell Pro X3+ laser rangefinder"
+    },
+    {
+      "brand": "Shot Scope",
+      "name": "Pro X",
+      "badge": "Best customisation",
+      "best_for": "Golfers who want a reasonably priced laser with a personalised look",
+      "key_spec": "Slope on/off for competition, 6x, 800 yards, built-in cart magnet, target lock vibration, about 5,800 measures",
+      "summary": "Golf Monthly found a reasonably priced rangefinder that appeals to a wide range of players, with slope-adjusted distances that turn off easily for competition, target lock vibration and a built-in cart magnet. It stands out for customisable designs, from stock graphics and country flags to custom logos, and works with the app for aerial GPS maps, but the viewfinder is slightly dim.",
+      "specs": {
+        "Range": "800 yards",
+        "Magnification": "6x",
+        "Protection": "Water-resistant case",
+        "Battery": "About 5,800 measures"
+      },
+      "pros": [
+        "Rapid detection",
+        "Customisable side panel",
+        "Works alongside the app to give aerial GPS maps"
+      ],
+      "cons": [
+        "A little dull down the viewfinder"
+      ],
+      "asin": "",
+      "search": "Shot Scope Pro X rangefinder"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Laser rangefinder or GPS: which do I need?",
+      "a": "A laser gives an exact distance to whatever you aim at, such as the flag, but needs line of sight. GPS gives distances to the front, middle and back of the green and hazards without aiming. Hybrids like the Bushnell Tour Hybrid and Mileseey GenePro G1 here combine both, so you don't have to choose."
+    },
+    {
+      "q": "Is slope useful, and is it legal?",
+      "a": "Slope-adjusted distance accounts for elevation change, which can change which club you need. Most rangefinders here let you switch slope off, as the Inesis 900 and Shot Scope Pro X do, because slope isn't allowed in competitions, and Golf Monthly notes many of the Bushnell Tour V7 Shift's extra features aren't legal for competition use."
+    },
+    {
+      "q": "Why does pin lock vibration matter?",
+      "a": "It confirms you've locked onto the flag and not trees or bushes behind the green, a problem that has plagued many rangefinders. The Inesis 900, Bushnell A1-Slope and Bushnell Tour V7 Shift here all give a vibration or pulse when the pin is locked."
+    },
+    {
+      "q": "How much do I need to spend?",
+      "a": "Less than you might think: Golf Monthly found budget rangefinders like the Inesis 900 now deliver accurate yardages and slope, so basic models are no longer a waste of money. Spending more buys features such as a brighter OLED display, GPS, app integration and durability, as on the Blue Tees Captain Pro, Bushnell Tour Hybrid and Precision Pro Titan Elite."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Golf Monthly: best golf rangefinders",
+      "url": "https://www.golfmonthly.com/best-golf-deals/best-golf-laser-rangefinders-74127"
+    }
+  ]
+}

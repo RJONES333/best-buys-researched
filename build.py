@@ -60,7 +60,7 @@ GROUPS = {
         "mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets",
         "womens-leggings", "running-socks", "walking-socks", "winter-gloves",
     ],
-    "Golf": ["golf-club-sets", "golf-balls", "golf-gloves", "golf-shirts", "golf-trousers", "golf-shoes"],
+    "Golf": ["golf-club-sets", "golf-balls", "golf-gloves", "golf-shirts", "golf-trousers", "golf-shoes", "golf-rangefinders"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "swimming-goggles"],
     "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "electric-shavers", "hair-clippers"],
     "Kids": ["trending-kids-toys", "trampolines"],
