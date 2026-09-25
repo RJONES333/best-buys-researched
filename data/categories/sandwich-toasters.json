@@ -1,0 +1,162 @@
+{
+  "slug": "sandwich-toasters",
+  "title": "Best Sandwich Toasters UK",
+  "short": "Five toastie makers compared on sealing, browning, bread capacity and how easy they are to clean, from £17 to £78.",
+  "intro": "A good sandwich toaster should seal the sandwich well, brown it evenly and wipe clean easily. This guide is based on Expert Reviews' tested roundup, which notes that some models it tested for under £20 beat ones costing three times as much, so price isn't a guide to quality. The guide dates from 2024, so prices are as reviewed.",
+  "reviewed": "2026-09-25",
+  "verified": "2026-09-25",
+  "products": [
+    {
+      "brand": "Breville",
+      "name": "Sandwich/Panini Press and Toastie Maker VST025",
+      "badge": "Best value",
+      "best_for": "Anyone who wants to toast thicker breads like ciabatta and crumpets",
+      "key_spec": "3-slice stainless steel press, non-stick aluminium plates, stores upright with cord storage",
+      "summary": "Expert Reviews found a toastie maker that looks far more expensive than it is and copes with bread of different thicknesses, including ciabattas, paninis, crumpets and tea cakes. The non-stick plates make cleaning simple and it stores upright with cord storage. The only small gripe is there's no on/off switch, so it turns on when plugged in.",
+      "specs": {
+        "Model": "VST025",
+        "Removable plates": "No",
+        "Dimensions": "11.6 x 14.4 x 5.2cm",
+        "Price guide": "£30 (as reviewed)"
+      },
+      "pros": [
+        "Handles breads of different thickness, including ciabatta and crumpets",
+        "Non-stick plates make cleaning simple",
+        "Locks and stores upright with cord storage"
+      ],
+      "cons": [
+        "No on/off switch, so you turn it on at the socket",
+        "Plates aren't removable"
+      ],
+      "asin": "",
+      "search": "Breville VST025 sandwich panini press toastie maker"
+    },
+    {
+      "brand": "Breville",
+      "name": "Deep Fill Toastie Maker VST091",
+      "badge": "Best standard",
+      "best_for": "Anyone wanting a simple two-portion toastie maker that balances features and price",
+      "key_spec": "Two-slice, removable dishwasher-safe non-stick plates, cuts toastie in half, indicator light",
+      "summary": "Expert Reviews found the best budget two-portion toastie maker: affordable, super simple to use, with fully removable dishwasher-safe plates and step-by-step instructions to avoid overfilling. As long as you're careful you shouldn't get leaking or tearing, but the plates aren't the deepest they've seen and there's no time or temperature setting.",
+      "specs": {
+        "Model": "VST091",
+        "Removable plates": "Yes",
+        "Dimensions": "24 x 9.6 x 23.5cm",
+        "Price guide": "£30 (as reviewed)"
+      },
+      "pros": [
+        "Affordable and super simple to use",
+        "Fully removable, dishwasher-safe plates",
+        "Plates cut your toastie in half most of the time"
+      ],
+      "cons": [
+        "Deep-fill claim is a bit of a stretch",
+        "No time or temperature setting",
+        "Not ideal for panini or thicker bread"
+      ],
+      "asin": "",
+      "search": "Breville Deep Fill Toastie Maker VST091"
+    },
+    {
+      "brand": "Cuisinart",
+      "name": "Deep Stuff Sandwich Maker GRSM1U",
+      "badge": "Best under £100",
+      "best_for": "Serious sandwich makers who want thick breads and adjustable browning",
+      "key_spec": "Removable dishwasher-safe non-stick plates, adjustable temperature, cut-and-seal, 1-year warranty",
+      "summary": "Expert Reviews found solid removable plates deep enough for thicker breads such as focaccia and farmhouse loaves, a cut-and-seal system that gives two neat triangles, adjustable browning and a heat-ready light. Because the plates are so deep, fillings tended to leak out when using thinner bread.",
+      "specs": {
+        "Model": "GRSM1U",
+        "Removable plates": "Yes",
+        "Dimensions": "28 x 24 x 11cm",
+        "Warranty": "1 year",
+        "Price guide": "£78 (as reviewed)"
+      },
+      "pros": [
+        "Deep enough for focaccia and farmhouse loaves",
+        "Adjustable temperature for browning",
+        "Dishwasher-safe plates and cut-and-seal system"
+      ],
+      "cons": [
+        "Fillings tend to leak out when using thinner bread",
+        "More expensive than the average toastie maker"
+      ],
+      "asin": "",
+      "search": "Cuisinart Deep Stuff Sandwich Maker GRSM1U"
+    },
+    {
+      "brand": "Breville",
+      "name": "VST057 2 Portion Sandwich Toaster",
+      "badge": "Best budget",
+      "best_for": "Occasional toasties for one or two on a tight budget",
+      "key_spec": "Two-portion, indicator lights, 1-year warranty",
+      "summary": "Expert Reviews found a no-nonsense budget toastie maker with an excellent seal and nice even toast, especially for the first toastie. The plates are small so larger slices need trimming, and it struggles to keep up with consecutive sandwiches because the plates need to reheat between each one.",
+      "specs": {
+        "Model": "VST057",
+        "Removable plates": "No",
+        "Dimensions": "25 x 20 x 10cm",
+        "Warranty": "1 year",
+        "Price guide": "£17 (as reviewed)"
+      },
+      "pros": [
+        "Excellent seal",
+        "Nice even toast, especially for the first toastie",
+        "Indicators show clearly when it's ready"
+      ],
+      "cons": [
+        "Small plates struggle with big bread slices",
+        "Struggles to keep up with consecutive sandwiches"
+      ],
+      "asin": "",
+      "search": "Breville VST057 2 portion sandwich toaster"
+    },
+    {
+      "brand": "Cookworks",
+      "name": "4 Portion Sandwich Toaster",
+      "badge": "Best for families",
+      "best_for": "Families who want four sandwiches at a time",
+      "key_spec": "Four-portion, non-removable plates, 1-year warranty",
+      "summary": "Expert Reviews found a machine that makes four sandwiches at once, better for families than shared student houses because the sandwiches aren't large: larger loaves need the crusts cut off, though smaller pre-sliced ones fit perfectly. It ticked their boxes for quick heat-up, efficient non-stick coating, no spillage, even browning and easy storage. The non-removable plates make clean-up trickier.",
+      "specs": {
+        "Portions": "4",
+        "Removable plates": "No",
+        "Warranty": "1 year",
+        "Price guide": "£25 (as reviewed)"
+      },
+      "pros": [
+        "Makes four sandwiches at a time",
+        "Quick heat-up and even browning with no spillage",
+        "Efficient non-stick coating and easy to store"
+      ],
+      "cons": [
+        "Sandwiches aren't very big, so larger loaves need crusts cut off",
+        "Non-removable plates make clean-up trickier"
+      ],
+      "asin": "",
+      "search": "Cookworks 4 portion sandwich toaster Argos"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do removable plates matter?",
+      "a": "They make cleaning much easier. The Breville Deep Fill and Cuisinart here have removable dishwasher-safe plates, while the cheaper Breville VST057 and the Cookworks don't, and Expert Reviews notes the Cookworks' fixed plates make clean-up trickier."
+    },
+    {
+      "q": "How deep should the plates be?",
+      "a": "Deeper plates take thick breads like focaccia and farmhouse loaves, as the Cuisinart does, but fillings can leak out with thinner bread. Basic models like the Breville VST057 suit standard pre-sliced bread, and Expert Reviews found the Breville VST025 copes with ciabatta and crumpets."
+    },
+    {
+      "q": "Is a more expensive toastie maker better?",
+      "a": "Not necessarily. Expert Reviews found that some models under £20 were better than ones costing three times as much. Spending more, as with the £78 Cuisinart, buys deeper plates, adjustable temperature and dishwasher-safe parts."
+    },
+    {
+      "q": "How many toasties can I make at once?",
+      "a": "Most make two portions, but the Cookworks makes four at a time for families. The budget Breville VST057 struggles with consecutive sandwiches because the plates need to reheat, so if you're feeding several people choose a bigger machine."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best sandwich toaster (2024)",
+      "url": "https://www.expertreviews.co.uk/home-garden/small-appliances/best-sandwich-toaster"
+    }
+  ]
+}

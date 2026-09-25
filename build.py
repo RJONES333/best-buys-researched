@@ -25,7 +25,7 @@ SITE_URL = CONFIG["site_url"].rstrip("/")
 GROUPS = {
     "Kitchen": [
         "air-fryers", "coffee-machines", "slow-cookers", "kettles", "blenders",
-        "toasters", "microwaves", "food-processors", "fridge-freezers", "dishwashers", "bread-makers", "rice-cookers", "stand-mixers", "ice-cream-makers", "coffee-grinders",
+        "toasters", "microwaves", "food-processors", "fridge-freezers", "dishwashers", "bread-makers", "rice-cookers", "stand-mixers", "ice-cream-makers", "coffee-grinders", "sandwich-toasters",
         "kitchen-knives", "food-storage-containers", "lunch-boxes",
     ],
     "Laundry, heating & air": [
