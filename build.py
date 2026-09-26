@@ -48,7 +48,7 @@ GROUPS = {
         "portable-power-stations", "smartwatches", "smart-rings",
     ],
     "Smart home & security": ["video-doorbells", "home-security-cameras", "action-cameras"],
-    "Sleep & comfort": ["mattress-toppers", "pillows", "duvets"],
+    "Sleep & comfort": ["mattresses", "mattress-toppers", "pillows", "duvets"],
     "Bathroom": ["bath-towels"],
     "Gym & fitness": [
         "adjustable-dumbbells", "resistance-bands", "rowing-machines",
