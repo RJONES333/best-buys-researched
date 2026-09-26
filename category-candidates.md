@@ -3,7 +3,7 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Mumsnet tested guides: baby bouncers (mumsnet.com/reviews/baby-bouncers), nappies (mumsnet.com/swearsby/best-nappies), cot mattresses, breast pumps, toddler beds
+- Mumsnet tested guides: nappies (mumsnet.com/swearsby/best-nappies), cot mattresses, breast pumps, toddler beds
 - Expert Reviews mattress variants (side sleepers, king size, cooling, heavy people) - probably overlap with mattresses guide
 - Other Expert Reviews small-appliance/beauty/home guides not yet covered (browse expertreviews.co.uk/home-garden and /beauty-wellness)
 
@@ -64,6 +64,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Also done: golf rangefinders (11), golf bags (9). Not yet done: women's golf clothing, golf trolleys, golf umbrellas.
 - Dishwashers - Trusted Reviews (7 products, measured cost per cycle)
 - Stand mixers - Expert Reviews Sept 2024 guide (7 products)
+- Baby bouncers and rockers - Mumsnet, updated April 2026 (6 of 7 products)
 - Travel cots - Mumsnet, updated June 2026 (10 products)
 - Mattresses - Expert Reviews, updated Sept 2026 (10 products, slept on 2 weeks to 3 months)
 - Sandwich toasters - Expert Reviews 2024 guide (5 products)
