@@ -3,7 +3,7 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Mumsnet tested guides: nappies (mumsnet.com/swearsby/best-nappies), cot mattresses, breast pumps, toddler beds
+- Mumsnet tested guides: toddler beds, baby bottles, changing bags, breastfeeding pillows, potties (check each is a /reviews/ page with named parent-testers, not /swearsby/)
 - Expert Reviews mattress variants (side sleepers, king size, cooling, heavy people) - probably overlap with mattresses guide
 - Other Expert Reviews small-appliance/beauty/home guides not yet covered (browse expertreviews.co.uk/home-garden and /beauty-wellness)
 
@@ -11,6 +11,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Boys' hair styling products for fine, straight hair, and girls' hair styling (user-requested; unclear whether products or haircut styles). Searched: Blue-Print (brand blog), bestproducts.guide / bestproductsreviews.co.uk (affiliate farms), Mumsnet forum threads and Tangle Teezer sponsored post (opinion, not testing). Boss Hunting "11 Best Hair Products For Men" is genuine first-person testing but Australian, adult, thinning hair, AUD prices. User confirmed 2026-09-24: they mean styling products. Also checked: Marie Claire UK "9 best products for thin hair" (Shannon Lawlor, Jan 2023) is genuine single-editor testing but adult thin hair, personal picks, no stated cons, only ~5 styling items (Sam McKnight Cool Girl Superlift, Percy & Reed mousse, Living Proof Full Dry Volume & Texture Spray, Cloud Nine wand, Hershesons dryer), so not enough to build a sourced guide. No UK tested source found for boys' styling products; GQ UK not surfaced by search. Still to try: Mother & Baby, Expert Reviews / Trusted Reviews hair sections, Good Housekeeping Institute, Which? (likely paywalled), fetching GQ UK / Men's Health UK grooming pages directly.
 
 ## Rejected (no genuine hands-on testing source found, don't retry)
+- Nappies — Mumsnet "Swears By" page (June 2026) is forum-quote recommendations; only Rascals was hand-tested. Not hands-on testing. (Mumsnet /swearsby/ pages generally are forum roundups; /reviews/ pages with named parent-testers are the ones to use.)
 - Built-in ovens — Expert Reviews guide (Aug 2023) is a spec/user-feedback roundup ("according to Miele", "users applaud"), not hands-on testing.
 - Alarm clocks — Expert Reviews (Mar 2024) has only thin testing notes and niche items (runaway clock, £555 luxury clock); not enough for a solid guide.
 - Juicers — Expert Reviews guide is genuine but published April 2022 with no update date, so prices/models are stale. Retry only if refreshed.
@@ -64,6 +65,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Also done: golf rangefinders (11), golf bags (9). Not yet done: women's golf clothing, golf trolleys, golf umbrellas.
 - Dishwashers - Trusted Reviews (7 products, measured cost per cycle)
 - Stand mixers - Expert Reviews Sept 2024 guide (7 products)
+- Breast pumps - Mumsnet, updated July 2026 (6 of 9 products)
 - Baby bouncers and rockers - Mumsnet, updated April 2026 (6 of 7 products)
 - Travel cots - Mumsnet, updated June 2026 (10 products)
 - Mattresses - Expert Reviews, updated Sept 2026 (10 products, slept on 2 weeks to 3 months)
