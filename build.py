@@ -33,7 +33,7 @@ GROUPS = {
         "dehumidifiers", "humidifiers", "air-purifiers", "fans", "portable-air-conditioners",
         "electric-heaters", "electric-blankets",
     ],
-    "Cleaning": ["robot-vacuums", "cordless-vacuums", "steam-cleaners"],
+    "Cleaning": ["robot-vacuums", "cordless-vacuums", "corded-vacuum-cleaners", "steam-cleaners"],
     "Audio & TV": [
         "wireless-earbuds", "over-ear-headphones", "gaming-headsets",
         "bluetooth-speakers", "soundbars", "tvs", "projectors",

@@ -1,0 +1,180 @@
+{
+  "slug": "corded-vacuum-cleaners",
+  "title": "Best Corded and Specialist Vacuum Cleaners UK",
+  "short": "Six corded, wet-and-dry, handheld and compact vacuums tested by Expert Reviews, for jobs a cordless stick doesn't cover.",
+  "intro": "Not every cleaning job suits a cordless stick vacuum. This guide covers the corded, wet-and-dry and specialist machines from Expert Reviews' tested roundup of over 90 vacuums (for cordless stick vacuums, see our separate cordless vacuums guide). Vacuums are tested in a domestic setting on everyday tasks, plus measured spill tests using flour, Cheerios and pet hair on short-pile carpet and hard floor, weighing how much of each spill ends up in the bin after a single pass, along with suction and battery tests where relevant.",
+  "reviewed": "2026-09-27",
+  "verified": "2026-09-27",
+  "products": [
+    {
+      "brand": "Numatic",
+      "name": "Henry Hoover HVR160",
+      "badge": "Best budget corded",
+      "best_for": "Anyone who wants a British institution with a huge bin and cheap running costs",
+      "key_spec": "620W, 9L bin, cylinder, 26.8m mains cable, optional bagless",
+      "summary": "Expert Reviews found effective dust-gathering matched with pleasingly quiet performance, and a huge 9L bin capacity that dwarfs other vacuums in its roundup. The most recent model halved the power rating from 1,200W to 620W, but suction is still respectable. Its biggest appeal is value: replacement bags and filters are relatively cheap. The long cable can become tangled, it's best suited to smaller particles on carpet, and the basic floor head has no roller for deeper dirt.",
+      "specs": {
+        "Type": "Corded cylinder",
+        "Power": "620W",
+        "Bin capacity": "9L",
+        "Price guide": "£160 (as reviewed)"
+      },
+      "pros": [
+        "Effective, quiet performance",
+        "Huge 9L bin capacity",
+        "Cheap replacement bags and filters"
+      ],
+      "cons": [
+        "Long cable can become tangled",
+        "Best suited to smaller particles on carpet",
+        "Basic floor head has no roller for deeper dirt"
+      ],
+      "asin": "",
+      "search": "Numatic Henry Hoover HVR160"
+    },
+    {
+      "brand": "Shark",
+      "name": "Classic Upright Vacuum NV602UK",
+      "badge": "Best budget corded upright",
+      "best_for": "Carpet-focused homes on a budget who still want a lift-away hose",
+      "key_spec": "750W, 1.1L bin, corded upright, lift-away vacuuming unit and hose",
+      "summary": "Expert Reviews found powerful suction and a lift-away unit and hose that helps it clean areas a traditional upright can't reach, at an affordable price for Shark's upright range. It only has a brush bar rather than Shark's dual floor head with a fluffy roller, so it isn't quite as effective on hard flooring, and it lacks Shark's anti-tangle technology, so the brush bar needs regular cleaning of long hair.",
+      "specs": {
+        "Type": "Corded upright",
+        "Power": "750W",
+        "Bin capacity": "1.1L",
+        "Price guide": "£130 (as reviewed)"
+      },
+      "pros": [
+        "Powerful suction for the price",
+        "Lift-away unit and hose reach awkward areas",
+        "Fantastic value"
+      ],
+      "cons": [
+        "Only a brush bar, less effective on hard floor",
+        "No anti-tangle technology"
+      ],
+      "asin": "",
+      "search": "Shark Classic Upright Vacuum NV602UK"
+    },
+    {
+      "brand": "Numatic",
+      "name": "George",
+      "badge": "Best wet and dry",
+      "best_for": "Anyone who wants to vacuum and shampoo carpets and upholstery with one machine",
+      "key_spec": "15L bin, corded cylinder, wet and dry, washes carpets, hard floors and upholstery",
+      "summary": "Expert Reviews found few vacuums perform as many functions as George: it vacuums like its red sibling Henry, but with adjustments can also wash carpets, hard floors and upholstery with water and detergent, sucking up the dirty water afterwards to leave the area almost dry. Its vacuuming relies solely on suction with no motorised roller brush, so it isn't the best clean on its own, but Expert Reviews calls it reasonable for the price.",
+      "specs": {
+        "Type": "Corded cylinder, wet and dry",
+        "Bin capacity": "15L",
+        "Price guide": "£279 (as reviewed)"
+      },
+      "pros": [
+        "Vacuums, washes and dries carpets, hard floors and upholstery",
+        "Large 15L bin",
+        "Reasonable for the price given its versatility"
+      ],
+      "cons": [
+        "Vacuuming isn't the best clean, lacks a motorised roller",
+        "Not the best choice for hard floor vacuuming alone"
+      ],
+      "asin": "",
+      "search": "Numatic George vacuum"
+    },
+    {
+      "brand": "Vax",
+      "name": "ONEPWR Blade 5 Dual Pet & Car",
+      "badge": "Best for hard floors, cars and pets",
+      "best_for": "Mixed carpet and hard floor homes with pets or cars to clean",
+      "key_spec": "Cordless, 3.9kg, dual-action floor head, two batteries included",
+      "summary": "Expert Reviews found a dual-action floor head with a brush roller for carpet and a fluffy roller for hard floor that handles the transition between surfaces well, with the fluffy roller really helping it excel on hard floor. It didn't handle carpet quite as well as the best dual-roller Shark rivals, but performed well for the price. It comes with a generous set of pet and car accessories and two batteries, so one can charge while the other's in use.",
+      "specs": {
+        "Type": "Cordless",
+        "Weight": "3.9kg",
+        "Bin capacity": "700ml",
+        "Price guide": "£405 (as reviewed)"
+      },
+      "pros": [
+        "Handles carpet and hard floor cleaning well",
+        "Generous selection of pet and car accessories",
+        "Comes with two batteries"
+      ],
+      "cons": [
+        "Doesn't handle carpet quite as well as the best dual-roller rivals"
+      ],
+      "asin": "",
+      "search": "Vax ONEPWR Blade 5 Dual Pet Car"
+    },
+    {
+      "brand": "Dyson",
+      "name": "V12 Detect Slim",
+      "badge": "Best for smaller homes",
+      "best_for": "Smaller houses and flats that want Dyson power in a lighter, more compact vacuum",
+      "key_spec": "Cordless, laser dust detection, brush roller and fluffy roller heads, live particle count display",
+      "summary": "Expert Reviews found all the tools and features of a flagship Dyson cordless stick in a smaller, lighter, more convenient format. It has separate floor heads for carpet and hard floor, with the fluffy roller's green laser illuminating dirt and dust, and a screen that displays live particle counts and doubles as a control panel and battery indicator.",
+      "specs": {
+        "Type": "Cordless",
+        "Price guide": "£550 (as reviewed)"
+      },
+      "pros": [
+        "Full Dyson cleaning power in a smaller, lighter format",
+        "Laser dust detection on the hard floor head",
+        "Live particle count display"
+      ],
+      "cons": [
+        "Small collection bin"
+      ],
+      "asin": "",
+      "search": "Dyson V12 Detect Slim"
+    },
+    {
+      "brand": "Shark",
+      "name": "WandVac 2.0",
+      "badge": "Best handheld",
+      "best_for": "Quick clean-ups on sofas, car seats and upholstery that don't need a full vacuum",
+      "key_spec": "0.6kg, 100ml bin, 15-minute battery, charging station, boost button",
+      "summary": "Expert Reviews found a small, light wand vacuum that sits on its charging station, always ready for quick jobs. It comes with a dusting brush and crevice tool plus an upholstery nozzle for furniture and car seats, and a boost button increases suction when needed. It managed spills well in testing, though the tiny bin needs emptying after each significant use.",
+      "specs": {
+        "Type": "Handheld",
+        "Weight": "0.6kg",
+        "Bin capacity": "100ml",
+        "Price guide": "£129 (as reviewed)"
+      },
+      "pros": [
+        "Small, light and always charged on its station",
+        "Comes with dusting, crevice and upholstery attachments",
+        "Boost button for extra suction"
+      ],
+      "cons": [
+        "Tiny bin needs emptying after each significant use",
+        "Only 15 minutes of battery life"
+      ],
+      "asin": "",
+      "search": "Shark WandVac 2.0"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Cylinder or upright?",
+      "a": "Cylinder vacuums like the Henry Hoover and Numatic George typically have larger bin capacity but you drag them behind you. Uprights like the Shark Classic take up less space for storage and are less cumbersome to manoeuvre, though they usually need emptying more often."
+    },
+    {
+      "q": "Bagged or bagless?",
+      "a": "Bagged vacuums like the Henry Hoover keep dust neatly contained and are tidy to empty, at the cost of buying replacement bags. Bagless models store dirt in a see-through bin, which can be messy to empty but saves on running costs."
+    },
+    {
+      "q": "Is a wet-and-dry vacuum worth it?",
+      "a": "If you want to shampoo carpets and upholstery as well as vacuum, the Numatic George does both, sucking up dirty water to leave surfaces almost dry. Its vacuuming alone isn't as thorough as a dedicated vacuum with a motorised brush roll, so it suits mixed jobs rather than being your only vacuum."
+    },
+    {
+      "q": "Do I need a separate handheld vacuum?",
+      "a": "A dedicated handheld like the Shark WandVac 2.0 is worth it if you often vacuum sofas, car seats or small spills and don't want to get a full-size vacuum out. Its short battery life and small bin suit quick jobs rather than a full clean."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best vacuum cleaners (2025)",
+      "url": "https://www.expertreviews.co.uk/home-garden/vacuums-cleaning/best-vacuum-cleaner"
+    }
+  ]
+}
