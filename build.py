@@ -64,7 +64,7 @@ GROUPS = {
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "swimming-goggles"],
     "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "travel-hair-dryers"],
     "Men": ["electric-shavers", "hair-clippers", "beard-trimmers"],
-    "Women": ["epilators"],
+    "Women": ["epilators", "bikini-trimmers"],
     "Kids": ["trending-kids-toys", "trampolines", "balance-bikes", "kids-scooters"],
     "Garden": [
         "lawn-mowers", "pressure-washers", "bbqs", "hedge-trimmers",
