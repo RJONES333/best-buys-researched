@@ -3,13 +3,8 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Electric grills - Expert Reviews 2025 (6 products)
-- Beard trimmers - Expert Reviews, updated Dec 2025 (8 products). Personal care group user-requested split 2026-09-27: now nested Men (electric-shavers, hair-clippers, beard-trimmers) and Women (epilators) subgroups under Personal care, matching Golf-under-Sports pattern.
-- Epilators - Expert Reviews 2024 (4 products, women's hair removal)
-- Travel hair dryers - Expert Reviews, updated June 2025 (7 products)
-- Bikini trimmers - Expert Reviews, updated May 2025 (5 products, Women)
-- IPL/laser hair removal - Expert Reviews 2025, 12-week test protocol (6 products, Women)
-- Nose hair trimmers - Expert Reviews 2023 (5 products, Men)
+- Circular saws done. Other Expert Reviews DIY/power tools candidates: jigsaws, multi-tools, paint sprayers, mitre saws, garden multi-tools, table saws, tool bags, impact drivers, sanders, stud finders.
+
 - Men's hair removal cream - Expert Reviews 2023 (5 products, Men, road-tested including intimate areas)
 - Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, best-coverless-duvets, vacuum-cleaners. (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
 - Expert Reviews mattress variants (side sleepers, king size, cooling, heavy people) - probably overlap with mattresses guide

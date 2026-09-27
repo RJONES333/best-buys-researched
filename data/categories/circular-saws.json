@@ -1,0 +1,139 @@
+{
+  "slug": "circular-saws",
+  "title": "Best Circular Saws UK",
+  "short": "Four circular saws tested on plywood, decking and a fence post, from a £40 budget model to a £134 tradesperson-grade Makita.",
+  "intro": "A circular saw cuts a wide range of materials in seconds, delivering a straighter cut than a jigsaw and far quicker than hand tools. This guide is based on Expert Reviews' tested roundup, covering corded, cordless and mini circular saws. Testers measured cutting depth at 90 and 45 degrees, no-load blade speed, weight, ease of adjusting angle and depth, noise levels running freely and while cutting, and quality of supplied accessories, then cut plywood, decking and a wooden fence post to judge ergonomics and neatness of cut. Prices are as reviewed.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Makita",
+      "name": "1200W 190mm Circular Saw 240V",
+      "badge": "Best corded",
+      "best_for": "Tradespeople and serious DIYers who want a tough, dependable saw",
+      "key_spec": "3.8kg, 190mm blade, 66mm cutting depth at 90°, 5,200rpm no-load speed, tough plastic carry case",
+      "summary": "Expert Reviews' Best Buy: made almost entirely from metal aside from the handle and motor shroud, and feels like it could withstand a drop from a workbench. It made short work of test cuts with well-placed trigger and release buttons, and its 3.8kg weight gave confident, reassuring operation, though it may be too cumbersome for some uses. Depth adjusts by sliding a lever (no guide, so measure yourself), while the bevel angle has a guide for accuracy. It recorded 100dB running freely and 108dB while cutting.",
+      "specs": {
+        "Weight": "3.8kg",
+        "Blade diameter": "190mm",
+        "Cutting depth (90°)": "66mm",
+        "No-load speed": "5,200rpm",
+        "Price guide": "£134 (as reviewed)"
+      },
+      "pros": [
+        "Tough, mostly metal construction",
+        "Reassuring weight and confident operation",
+        "Comes with parallel guide, allen key and carry case"
+      ],
+      "cons": [
+        "May be too cumbersome for some uses",
+        "No depth guide, so measurements must be made manually",
+        "Loudest saw tested"
+      ],
+      "asin": "",
+      "search": "Makita 1200W 190mm Circular Saw 240V"
+    },
+    {
+      "brand": "Ryobi",
+      "name": "18V ONE+ Cordless 150mm Circular Saw",
+      "badge": "Best cordless",
+      "best_for": "Portability and working away from a power socket",
+      "key_spec": "2.16kg (excluding battery), 150mm blade, 45mm cutting depth at 90°, 4,700rpm no-load speed, ONE+ battery ecosystem",
+      "summary": "Expert Reviews found this tough to beat for sheer portability, surprisingly compact for a full-sized circular saw and affordable if you already own ONE+ batteries. A 2.5Ah battery is claimed to cut 36 metres of 13mm plywood on a charge, rising to 80 metres with a 5Ah battery. It was the quietest saw tested at 89dB running freely and 101dB while cutting, making a smooth, clean cut, with helpful depth and angle scales. It's less deep-cutting than the Makita, at 45mm rather than 66mm.",
+      "specs": {
+        "Weight": "2.16kg (excluding battery)",
+        "Blade diameter": "150mm",
+        "Cutting depth (90°)": "45mm",
+        "No-load speed": "4,700rpm",
+        "Price guide": "£89-£96 (as reviewed)"
+      },
+      "pros": [
+        "Excellent portability, surprisingly compact",
+        "Quietest saw tested",
+        "Depth and angle scales are helpful and welcome"
+      ],
+      "cons": [
+        "Shallower cutting depth than the corded Makita",
+        "Needs a compatible battery and charger to be affordable"
+      ],
+      "asin": "",
+      "search": "Ryobi 18V ONE+ Cordless 150mm Circular Saw"
+    },
+    {
+      "brand": "Einhell",
+      "name": "TC-CS Corded Mini Circular Saw Kit 450W",
+      "badge": "Best mini",
+      "best_for": "Confined spaces and quick, precise 90-degree cuts",
+      "key_spec": "2kg (unit), 85mm blade, 23mm cutting depth at 90° (no angled cutting), 6,000rpm no-load speed, dead-man's switch",
+      "summary": "Expert Reviews found this indispensable for confined spaces: light at just 2kg with a grinder-sized handle that's easy to hold, and operation couldn't be simpler, set the depth, release the footplate lock and flick the switch, which must be held for safety and stops the saw when released. It can't cut at an angle, but is perfect for quick plywood cuts, trimming firewood and plunge cuts. It comes with a case, parallel guide and allen keys.",
+      "specs": {
+        "Weight": "3.37kg (with kit)",
+        "Blade diameter": "85mm",
+        "Cutting depth (90°)": "23mm",
+        "No-load speed": "6,000rpm",
+        "Price guide": "£45 (as reviewed)"
+      },
+      "pros": [
+        "Light and easy to hold in confined spaces",
+        "Very simple to operate, with a safety dead-man's switch",
+        "Comes with a case, parallel guide and allen keys"
+      ],
+      "cons": [
+        "Can't cut at an angle",
+        "Shallow 23mm maximum cutting depth"
+      ],
+      "asin": "",
+      "search": "Einhell TC-CS Mini Circular Saw"
+    },
+    {
+      "brand": "Mac Allister",
+      "name": "1200W 220-240V 165mm Corded Circular Saw MSCS1200",
+      "badge": "Best value",
+      "best_for": "Occasional DIY use on a tight budget",
+      "key_spec": "3.37kg, 165mm blade, 55mm cutting depth at 90°, 5,000rpm no-load speed",
+      "summary": "Expert Reviews found much of what they liked about the Makita at a much lower price, forgiving the more extensive use of plastic in its construction. The blade-on-the-right, handle-on-the-left layout suits left-handers and professionals, with a well-placed thumb switch making it ergonomically sound. A lever adjusts cutting depth and a knob varies the angle, both with accuracy marks. It's a touch louder than the Makita and its no-load speed is only fractionally behind.",
+      "specs": {
+        "Weight": "3.37kg",
+        "Blade diameter": "165mm",
+        "Cutting depth (90°)": "55mm",
+        "No-load speed": "5,000rpm",
+        "Price guide": "£40 (as reviewed)"
+      },
+      "pros": [
+        "Highly impressive for occasional use at a low price",
+        "Ergonomically sound, well-placed thumb switch",
+        "Depth and angle adjustments both have accuracy marks"
+      ],
+      "cons": [
+        "More extensive use of plastic than the Makita",
+        "A touch louder than the Makita"
+      ],
+      "asin": "",
+      "search": "Mac Allister 1200W Corded Circular Saw MSCS1200"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Corded or cordless?",
+      "a": "A corded saw like the Makita or Mac Allister never suffers a flat battery and gives consistent power for demanding cuts. A cordless saw like the Ryobi offers ultimate portability away from a power source and avoids the risk of cutting through a cable, especially useful in confined spaces."
+    },
+    {
+      "q": "How deep a cut do I need?",
+      "a": "The Makita cuts deepest at 66mm (90°), suited to thicker timber, while the Ryobi (45mm), Mac Allister (55mm) and especially the mini Einhell (23mm, no angled cuts) suit lighter jobs like plywood, decking or trimming firewood."
+    },
+    {
+      "q": "Does blade speed matter?",
+      "a": "Yes: a faster no-load speed generally gives more control and a cleaner cut. The Einhell mini saw spins fastest at 6,000rpm, followed by the Makita at 5,200rpm, though blade size and tooth count also affect cut quality."
+    },
+    {
+      "q": "Left- or right-handed saw?",
+      "a": "Some saws, like the Makita and Mac Allister, have the handle on the left and blade on the right; the Ryobi is the reverse. Choose whichever gives you a clearer view of the cutting line and feels more natural, though for most home DIY it makes little practical difference."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best circular saw (2023)",
+      "url": "https://www.expertreviews.co.uk/home-garden/diy-power-tools/best-circular-saws"
+    }
+  ]
+}
