@@ -308,7 +308,7 @@ def category_page(cat, all_categories):
 
     crumb_html, crumb_ld = breadcrumb([
         ("Guides", f"{SITE_URL}/"),
-        (group, None),
+        (group, f"{SITE_URL}/#{slugify(group)}"),
         (cat["title"], None),
     ])
 
@@ -405,7 +405,7 @@ def home_page(categories):
 <span>{len(c['products'])} picks · reviewed {esc(fmt_month(c['reviewed']))}</span></a>"""
             for c in by_group[group]
         )
-        sections.append(f'<section class="guide-group"><h2>{esc(group)}</h2>\n<div class="tiles">{tiles}</div></section>')
+        sections.append(f'<section class="guide-group" id="{slugify(group)}"><h2>{esc(group)}</h2>\n<div class="tiles">{tiles}</div></section>')
     tiles_html = "\n".join(sections)
 
     total_products = sum(len(c["products"]) for c in categories)
