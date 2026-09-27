@@ -62,7 +62,9 @@ GROUPS = {
     ],
     "Golf": ["golf-club-sets", "golf-balls", "golf-gloves", "golf-shirts", "golf-trousers", "golf-shoes", "golf-rangefinders", "golf-bags", "golf-trolleys", "golf-push-trolleys", "golf-umbrellas", "womens-golf-shirts"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "swimming-goggles"],
-    "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "electric-shavers", "hair-clippers"],
+    "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "travel-hair-dryers"],
+    "Men": ["electric-shavers", "hair-clippers", "beard-trimmers"],
+    "Women": ["epilators"],
     "Kids": ["trending-kids-toys", "trampolines", "balance-bikes", "kids-scooters"],
     "Garden": [
         "lawn-mowers", "pressure-washers", "bbqs", "hedge-trimmers",
@@ -88,7 +90,7 @@ def group_for(slug):
 # is shown as a subsection of Sports rather than its own top-level heading.
 # group_for() still returns the child name ("Golf") so breadcrumbs can note
 # it; PARENT_OF resolves that up to the top-level group for display.
-PARENT_OF = {"Golf": "Sports"}
+PARENT_OF = {"Golf": "Sports", "Men": "Personal care", "Women": "Personal care"}
 
 
 def top_group_for(slug):

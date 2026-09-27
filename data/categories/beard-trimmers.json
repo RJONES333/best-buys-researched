@@ -1,0 +1,233 @@
+{
+  "slug": "beard-trimmers",
+  "title": "Best Beard Trimmers UK",
+  "short": "Eight beard trimmers tested on real facial hair over several days, from a £27 budget workhorse to a £130 waterproof premium model.",
+  "intro": "A beard trimmer needs to cut evenly without snagging, navigate the contours of a face, and last through a full trim without running flat. This guide is based on Expert Reviews' tested roundup (updated December 2025), where each trimmer was tried on thick, bushy facial hair around 2cm long, then again several days later on new growth, judging cutting lengths, precision, charge time, battery performance, ergonomics and value. Prices are as reviewed.",
+  "reviewed": "2026-09-27",
+  "verified": "2026-09-27",
+  "products": [
+    {
+      "brand": "Remington",
+      "name": "Barba",
+      "badge": "Best budget",
+      "best_for": "Anyone who wants a simple, reliable trimmer that lasts for years",
+      "key_spec": "1.5-18mm cutting range, 9 length increments, ceramic blades, 40-minute usage time, mains-usable when flat",
+      "summary": "Expert Reviews' Best Buy: a mechanical adjustment wheel makes choosing from nine trimming lengths easy, with only one clip-on comb so there's nothing to lose, and ceramic blades that never need oiling. It cuts evenly every time without snagging. The reviewer's own decade-old example still works; his main gripe is battery life, though it can be used plugged into the mains, and a lithium-ion version lasting up to an hour costs £38.",
+      "specs": {
+        "Cutting range": "1.5-18mm",
+        "Length increments": "9",
+        "Usage time": "40 minutes",
+        "Waterproof": "No",
+        "Price guide": "£27 (as reviewed)"
+      },
+      "pros": [
+        "Excellent value under £30",
+        "No snagging, cuts evenly every time",
+        "Ceramic blades need no oiling"
+      ],
+      "cons": [
+        "Battery could last longer between charges"
+      ],
+      "asin": "",
+      "search": "Remington Barba Beard Trimmer MB320C"
+    },
+    {
+      "brand": "Wahl",
+      "name": "Aqua Blade",
+      "badge": "Best overall",
+      "best_for": "The closest possible trim, including in the shower",
+      "key_spec": "0.2-25mm cutting range, 12 guide combs, waterproof, 3-hour usage time, 1-hour charge",
+      "summary": "Wahl claims this is the only beard trimmer you'll ever need, and Expert Reviews found the closeness of its cut backs that up: it's the nearest you'll get to shaving without a foil or wet shaver. After several months of use the reviewer was most impressed by cut closeness, and it's showerproof with a 3-hour battery life. There's no guard, so the reviewer cut himself a couple of times when he didn't pull his neck skin taut.",
+      "specs": {
+        "Cutting range": "0.2-25mm",
+        "Length increments": "8",
+        "Usage time": "3 hours",
+        "Waterproof": "Water-resistant/showerproof",
+        "Price guide": "£95 (as reviewed)"
+      },
+      "pros": [
+        "Cuts twice as close as rivals, to 0.2mm",
+        "Waterproof for use in the shower",
+        "Lasts an impressive 3 hours between charges"
+      ],
+      "cons": [
+        "No guard, so there's a cut risk without careful use"
+      ],
+      "asin": "",
+      "search": "Wahl Aqua Blade beard trimmer"
+    },
+    {
+      "brand": "Braun",
+      "name": "BT5260",
+      "badge": "Best value",
+      "best_for": "A brilliant all-round trimmer without spending a fortune",
+      "key_spec": "1-20mm cutting range, 39 length increments in 0.5mm steps, AutoSensing power, washable, free razor included",
+      "summary": "Expert Reviews found excellent, effortless results thanks to Braun's AutoSensing technology, which adjusts power to the beard's thickness. It can be approached from any direction without precise positioning and cuts smoothly and evenly with zero snagging, plus a detail-trimmer attachment for neat lines and a free Gillette razor in the box, making it the best value on the list. Thinner hairs occasionally clogged the comb when used on head hair.",
+      "specs": {
+        "Cutting range": "1-20mm",
+        "Length increments": "39",
+        "Usage time": "1hr 40mins",
+        "Waterproof": "Fully washable",
+        "Price guide": "£40 (as reviewed)"
+      },
+      "pros": [
+        "Versatile with smooth, even cuts from any angle",
+        "AutoSensing technology adjusts to beard thickness",
+        "Comes with a detail trimmer and free razor"
+      ],
+      "cons": [
+        "Thinner hairs can clog the comb"
+      ],
+      "asin": "",
+      "search": "Braun BT5260 Beard Trimmer"
+    },
+    {
+      "brand": "Philips",
+      "name": "Beard Trimmer 9000 Prestige",
+      "badge": "Best build quality",
+      "best_for": "A weighty, premium-feeling trimmer for shorter, well-groomed styles",
+      "key_spec": "0.2-10mm cutting range, 30 length increments, steel comb, fully waterproof, 2-hour usage time",
+      "summary": "Expert Reviews found a steel comb that doesn't flex under pressure like plastic rivals, with a chunky metallic design that feels reassuringly weighty. It's fully waterproof for use and cleaning in the shower, and battery performance is solid at two hours from an hour's charge. With a maximum length of 10mm, it isn't the best choice for longer beards.",
+      "specs": {
+        "Cutting range": "0.2-10mm",
+        "Length increments": "30",
+        "Usage time": "2 hours",
+        "Waterproof": "100% waterproof",
+        "Price guide": "£130 (as reviewed)"
+      },
+      "pros": [
+        "Great construction, doesn't flex like plastic rivals",
+        "Fully waterproof",
+        "Solid 2-hour battery life"
+      ],
+      "cons": [
+        "Not the best choice for longer beards"
+      ],
+      "asin": "",
+      "search": "Philips Beard Trimmer 9000 Prestige"
+    },
+    {
+      "brand": "Panasonic",
+      "name": "ER-CKN1 MULTISHAPE Modular Personal Care System",
+      "badge": "Best customisable",
+      "best_for": "Anyone who wants one main unit that expands to cover every grooming task",
+      "key_spec": "1-20mm cutting range, 39 length increments, modular attachment system (nose trimmer, shaver, toothbrush), waterproof",
+      "summary": "Expert Reviews found one of the most innovative and best-looking trimmers tested: buy the main unit, then add attachments for nose trimming, shaving or even an electric toothbrush. It powered through beard hair without any problem and was an absolute dream to hold, with a sleek matt finish that feels built to last. It isn't the cheapest option tested.",
+      "specs": {
+        "Cutting range": "1-20mm",
+        "Length increments": "39",
+        "Usage time": "50 minutes",
+        "Waterproof": "Yes",
+        "Price guide": "£70 (as reviewed)"
+      },
+      "pros": [
+        "Highly customisable with attachments for every grooming task",
+        "Powers through beard hair with no problems",
+        "Sleek design, feels built to last"
+      ],
+      "cons": [
+        "Not the cheapest option if you just want a basic trimmer"
+      ],
+      "asin": "",
+      "search": "Panasonic ER-CKN1 MULTISHAPE"
+    },
+    {
+      "brand": "Philips",
+      "name": "OneBlade 360 For Face",
+      "badge": "Best for travel",
+      "best_for": "Precision edging and packing small for trips",
+      "key_spec": "0.5-9mm cutting range, 12 length settings, 360 flexing blade, fully waterproof, USB charging",
+      "summary": "Expert Reviews found this compact hybrid trimmer/shaver, not much bigger than a fat cigar, the best tool they've tried for defining beard lines around the neck, chin and cheeks. The 360 Blade flexes in all directions to keep constant skin contact, and it's designed so it's almost impossible to nick yourself. The blade needs replacing roughly every four months, at around £25 for a pack of three.",
+      "specs": {
+        "Cutting range": "0.5-9mm",
+        "Length increments": "12",
+        "Usage time": "1hr 30mins",
+        "Waterproof": "Fully waterproof",
+        "Price guide": "£55 (as reviewed)"
+      },
+      "pros": [
+        "Great for travel due to its small size",
+        "Excellent for precision edging around the neck and cheeks",
+        "Variety of settings, fully waterproof"
+      ],
+      "cons": [
+        "Blade needs replacing roughly every 4 months, an ongoing cost"
+      ],
+      "asin": "",
+      "search": "Philips OneBlade 360 For Face"
+    },
+    {
+      "brand": "BaByliss",
+      "name": "SuperStubble XTP Beard Trimmer",
+      "badge": "Best digital",
+      "best_for": "Precision-focused users who want a digital display and a flexible head",
+      "key_spec": "0.4-5mm cutting range in 0.2mm increments, digital display, floating flexible head, fully waterproof",
+      "summary": "Expert Reviews found a great range of lengths adjustable in fine 0.2mm increments, with a digital display showing the exact length in use and remembering the last setting. The floating, flexible head follows facial contours a bit like an electric shaver head, making the trim feel a little more comfortable, though it didn't necessarily speed things up. Best suited to those who want hi-tech features rather than a basic, no-frills trimmer.",
+      "specs": {
+        "Cutting range": "0.4-5mm",
+        "Length increments": "0.2mm increments",
+        "Usage time": "1hr 10mins",
+        "Waterproof": "Fully waterproof",
+        "Price guide": "£110 (as reviewed)"
+      },
+      "pros": [
+        "Advanced digital features with precise 0.2mm adjustment",
+        "Flexible head follows facial contours",
+        "Battery life display shows remaining cutting time"
+      ],
+      "cons": [
+        "Not for those wanting a basic, no-frills trimmer"
+      ],
+      "asin": "",
+      "search": "BaByliss SuperStubble XTP Beard Trimmer"
+    },
+    {
+      "brand": "Remington",
+      "name": "G4 Graphite Trimmer",
+      "badge": "Best for attachments",
+      "best_for": "One trimmer that covers beard, head, body, nose and eyebrows",
+      "key_spec": "1.5-20mm beard range, two fixed combs, nose/ear/eyebrow trimmer, mini foil and TST attachment, storage pouch",
+      "summary": "Expert Reviews found a versatile trimmer that does it all: two fixed combs for face, head or body, an adjustable 2-20mm beard and hair comb, a nose, ear and eyebrow trimmer, a mini foil attachment and a close-trim TST attachment, all in a soft storage pouch. It trims beards from 1.5mm (or shorter without the comb) up to 20mm and did a decent job across the range tested. It has a slower charge time than others and isn't waterproof.",
+      "specs": {
+        "Cutting range": "1.5-20mm (beard)",
+        "Waterproof": "No",
+        "Price guide": "£43 (as reviewed)"
+      },
+      "pros": [
+        "Versatile selection of attachments for face, head, body and nose",
+        "Tailors to a wide range of grooming needs",
+        "Handy storage pouch included"
+      ],
+      "cons": [
+        "Slower charge time than others",
+        "Not waterproof"
+      ],
+      "asin": "",
+      "search": "Remington G4 Graphite Trimmer"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What cutting range do I need?",
+      "a": "For designer stubble, a shorter maximum range like the Philips OneBlade (up to 9mm) or BaByliss SuperStubble (up to 5mm) is enough. For longer beards, the Wahl Aqua Blade (up to 25mm) or Braun BT5260 and Remington G4 (up to 20mm) give far more room to grow before you need a new trimmer."
+    },
+    {
+      "q": "Is a waterproof trimmer worth it?",
+      "a": "If you like to trim in the shower or want easy rinse-clean, look for 'fully waterproof' models like the Wahl Aqua Blade, Philips 9000 Prestige, Panasonic MULTISHAPE, Philips OneBlade and BaByliss SuperStubble. The budget Remington Barba and Remington G4 aren't waterproof."
+    },
+    {
+      "q": "How much battery life do I actually need?",
+      "a": "Most trimmers here run for over an hour, plenty for a single trim. The Wahl Aqua Blade leads with 3 hours, useful for travel without a charger, while the budget Remington Barba's shorter 40-minute runtime can be topped up by using it plugged into the mains."
+    },
+    {
+      "q": "Do I need extra attachments?",
+      "a": "If you want one tool for your whole grooming routine, the Panasonic MULTISHAPE and Remington G4 both add nose, ear, body or shaving attachments. If you just want a dedicated beard trimmer, the Remington Barba or Wahl Aqua Blade keep things simple."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best beard trimmer (updated December 2025)",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/hair-care-grooming/best-beard-trimmers"
+    }
+  ]
+}
