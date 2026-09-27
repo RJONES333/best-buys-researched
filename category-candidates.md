@@ -3,7 +3,7 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-cabin-approved-strollers, best-mattress-for-back-pain, best-coverless-duvets, vacuum-cleaners. (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
+- Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, best-coverless-duvets, vacuum-cleaners. (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
 - Expert Reviews mattress variants (side sleepers, king size, cooling, heavy people) - probably overlap with mattresses guide
 - Other Expert Reviews small-appliance/beauty/home guides not yet covered (browse expertreviews.co.uk/home-garden and /beauty-wellness)
 
@@ -67,6 +67,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Also done: golf rangefinders (11), golf bags (9). Not yet done: women's golf clothing, golf trolleys, golf umbrellas.
 - Dishwashers - Trusted Reviews (7 products, measured cost per cycle)
 - Stand mixers - Expert Reviews Sept 2024 guide (7 products)
+- Cabin-approved strollers - Mumsnet, updated July 2026 (7 products not already in lightweight-strollers guide)
 - Baby carrier backpacks (hiking/travel) - Mumsnet, updated May 2026 (7 products)
 - Nursing/maternity bras - Mumsnet, updated June 2026 (8 of 10+ products)
 - Pregnancy pillows - Mumsnet, updated March 2026 (7 products)
