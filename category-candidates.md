@@ -3,7 +3,7 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- More Men/Women personal care candidates from Expert Reviews: facial hair removal/facial epilator (women's, check overlap with epilators.json), hair removal cream (men's and general).
+- More Men/Women personal care candidates from Expert Reviews: facial hair removal/facial epilator (women's, check overlap with epilators.json).
 - Electric grills - Expert Reviews 2025 (6 products)
 - Beard trimmers - Expert Reviews, updated Dec 2025 (8 products). Personal care group user-requested split 2026-09-27: now nested Men (electric-shavers, hair-clippers, beard-trimmers) and Women (epilators) subgroups under Personal care, matching Golf-under-Sports pattern.
 - Epilators - Expert Reviews 2024 (4 products, women's hair removal)
@@ -11,6 +11,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Bikini trimmers - Expert Reviews, updated May 2025 (5 products, Women)
 - IPL/laser hair removal - Expert Reviews 2025, 12-week test protocol (6 products, Women)
 - Nose hair trimmers - Expert Reviews 2023 (5 products, Men)
+- Men's hair removal cream - Expert Reviews 2023 (5 products, Men, road-tested including intimate areas)
 - Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, best-coverless-duvets, vacuum-cleaners. (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
 - Expert Reviews mattress variants (side sleepers, king size, cooling, heavy people) - probably overlap with mattresses guide
 - Other Expert Reviews small-appliance/beauty/home guides not yet covered (browse expertreviews.co.uk/home-garden and /beauty-wellness)
