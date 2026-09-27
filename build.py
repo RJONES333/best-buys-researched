@@ -73,7 +73,7 @@ GROUPS = {
     "Automotive": ["dash-cams", "tyre-inflators", "car-phone-mounts", "jump-starters"],
     "Luggage & travel": ["suitcases", "travel-adaptors"],
     "Pet supplies": ["dog-beds", "cat-carriers", "automatic-pet-feeders", "pet-cameras", "dog-poo-bags"],
-    "Baby": ["baby-monitors", "pushchairs", "toddler-car-seats", "baby-carriers", "high-chairs", "travel-cots", "baby-bouncers", "breast-pumps", "stair-gates", "baby-bottles", "sterilisers", "changing-bags"],
+    "Baby": ["baby-monitors", "pushchairs", "toddler-car-seats", "baby-carriers", "high-chairs", "travel-cots", "baby-bouncers", "breast-pumps", "stair-gates", "baby-bottles", "sterilisers", "changing-bags", "newborn-cribs"],
 }
 
 
