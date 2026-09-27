@@ -62,9 +62,9 @@ GROUPS = {
     ],
     "Golf": ["golf-club-sets", "golf-balls", "golf-gloves", "golf-shirts", "golf-trousers", "golf-shoes", "golf-rangefinders", "golf-bags", "golf-trolleys", "golf-push-trolleys", "golf-umbrellas", "womens-golf-shirts"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "swimming-goggles"],
-    "Personal care": ["electric-toothbrushes", "hair-dryers", "hair-straighteners", "travel-hair-dryers"],
+    "Personal care": ["electric-toothbrushes"],
     "Men": ["electric-shavers", "hair-clippers", "beard-trimmers", "nose-hair-trimmers", "mens-hair-removal-cream"],
-    "Women": ["epilators", "bikini-trimmers", "ipl-hair-removal"],
+    "Women": ["epilators", "bikini-trimmers", "ipl-hair-removal", "hair-dryers", "hair-straighteners", "travel-hair-dryers"],
     "Kids": ["trending-kids-toys", "trampolines", "balance-bikes", "kids-scooters"],
     "Garden": [
         "lawn-mowers", "pressure-washers", "bbqs", "hedge-trimmers",
