@@ -1,0 +1,187 @@
+{
+  "slug": "ipl-hair-removal",
+  "title": "Best IPL and Laser Hair Removal Machines UK",
+  "short": "Six at-home IPL and laser hair removal devices tested over 12 weeks, compared on speed, pain levels and how long results last.",
+  "intro": "At-home IPL and laser hair removal machines use light or laser energy to damage the hair follicle so regrowth slows or stops, offering a cheaper long-term alternative to salon treatments. This guide is based on Expert Reviews' tested roundup, where each device was used as directed for at least 12 weeks, assessing pain levels, ease of use, app compatibility and effectiveness. Testers logged how thick regrowth was after each treatment, how long results lasted, flash rate, and how long it took to treat a full leg. Prices are as reviewed.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Philips",
+      "name": "Lumea Prestige",
+      "badge": "Best all-round IPL",
+      "best_for": "Buyers who want the top-end Lumea features for less than the flagship model",
+      "key_spec": "IPL, corded, 4 attachments, 2-second flash rate, 450,000 flashes, Sense IQ skin sensor, 100-day money-back guarantee",
+      "summary": "Expert Reviews' top all-rounder: it gets almost all the features of the pricier Lumea 9000 for less money, including four attachments, a fast 2.5-second flash rate and comfortable curved treatment windows. The Sense IQ button scans skin before treatment to recommend the most comfortable intensity, which testers found really intuitive, skipping the trial and error other IPL devices need. Corded operation was found to be faster than cordless treatments, and the reviewer found the cord plenty long enough.",
+      "specs": {
+        "Type": "IPL",
+        "Corded/cordless": "Corded",
+        "Attachments": "4",
+        "Flash rate": "2 seconds",
+        "Price guide": "£490 (as reviewed)"
+      },
+      "pros": [
+        "Range of attachments and intensities",
+        "Skin sensor recommends the right intensity automatically",
+        "450,000 flashes, enough for 20+ years of treatments"
+      ],
+      "cons": [
+        "Corded operation might be restrictive"
+      ],
+      "asin": "",
+      "search": "Philips Lumea Prestige IPL"
+    },
+    {
+      "brand": "SmoothSkin",
+      "name": "Pure Fit",
+      "badge": "Best value",
+      "best_for": "Fast treatments on a budget",
+      "key_spec": "IPL, corded, 1 precision attachment, fastest flash rate tested (0.86s), 3 modes, safety sensor",
+      "summary": "Expert Reviews found the fastest flash rate of any device tested, treating a single leg in just over nine minutes versus almost 18 minutes for the next fastest. The tester saw a significant reduction in hair growth after four weeks, and results were still holding months after the final treatment. It's safe for weekly treatments and comes with a precision attachment for the face, bikini line and underarms. It was the most uncomfortable IPL tested, though switching to 'comfort' mode removes the pain entirely, and there's no companion app.",
+      "specs": {
+        "Type": "IPL",
+        "Corded/cordless": "Corded",
+        "Attachments": "1",
+        "Flash rate": "0.86 seconds",
+        "Price guide": "£249 (as reviewed)"
+      },
+      "pros": [
+        "Fastest treatment time of any device tested",
+        "Remarkable value for money",
+        "Safe for weekly treatments"
+      ],
+      "cons": [
+        "Marginally less comfortable than rivals on full power",
+        "No app to track treatments"
+      ],
+      "asin": "",
+      "search": "SmoothSkin Pure Fit IPL"
+    },
+    {
+      "brand": "CurrentBody",
+      "name": "Skin Laser Hair Removal Device",
+      "badge": "Best laser",
+      "best_for": "Fast, effectively permanent results with minimal pain",
+      "key_spec": "810nm laser diode, corded, no attachments, 0.84-second flash rate, 6 intensity settings, Ice Cooling technology",
+      "summary": "Using a more direct, concentrated laser than IPL, this device penetrates deeper into the follicle. After just four weeks of regular treatment the tester found around 80% of leg hairs stopped growing back, with remaining hairs lighter and thinner. The large treatment window and superfast flash rate meant both full legs were treated in 14 minutes. Despite the laser's power, in-built Ice Cooling made it completely painless even at the highest of six intensity settings. It's expensive and has no precision attachments for smaller areas, though it comes with a 90-day money-back guarantee.",
+      "specs": {
+        "Type": "Laser hair removal",
+        "Corded/cordless": "Corded",
+        "Attachments": "None",
+        "Flash rate": "0.84 seconds",
+        "Price guide": "£579 (as reviewed)"
+      },
+      "pros": [
+        "Fast treatments with effectively permanent results",
+        "Completely painless thanks to Ice Cooling technology",
+        "Safety sensor checks skin tone before treatment"
+      ],
+      "cons": [
+        "Expensive",
+        "No precision attachments for smaller areas"
+      ],
+      "asin": "",
+      "search": "CurrentBody Skin Laser Hair Removal Device"
+    },
+    {
+      "brand": "Philips",
+      "name": "Lumea 9000",
+      "badge": "Best cordless",
+      "best_for": "Treating anywhere in the home without being tied to a socket",
+      "key_spec": "IPL, corded and cordless, 4 curved attachments (body, face, bikini, underarms), SmartSkin sensor, companion app",
+      "summary": "Cordless operation is a game-changer here, freeing you to treat unwanted hair in privacy anywhere in the home. Like the Lumea Prestige it has a SmartSkin sensor that automatically detects the right intensity for skin tone, and four curved attachments that are simple to swap. The reviewer found the companion app simple to use, with reminders that were 'a godsend' in a busy schedule. The main trade-off is a shorter battery life in cordless mode.",
+      "specs": {
+        "Type": "IPL",
+        "Corded/cordless": "Both",
+        "Attachments": "4",
+        "Flash rate": "2 seconds",
+        "Price guide": "£500 (as reviewed)"
+      },
+      "pros": [
+        "Cordless and corded operation for use anywhere",
+        "SmartSkin sensor and simple treatment-scheduling app",
+        "Four attachments for body, face, bikini and underarms"
+      ],
+      "cons": [
+        "Short battery life in cordless mode"
+      ],
+      "asin": "",
+      "search": "Philips Lumea 9000 IPL"
+    },
+    {
+      "brand": "Silk'n",
+      "name": "Infinity Fast",
+      "badge": "Best compact",
+      "best_for": "Travelling with a small, easy-to-use device",
+      "key_spec": "IPL, eHPL technology, corded, no attachments, 1.13-second flash rate, hard shell travel case included",
+      "summary": "Expert Reviews found a fabulous reduction in arm and leg hair growth after just four treatments, with smooth results lasting well over a month, thanks to eHPL technology combining galvanic and optical energy to penetrate deeper into pores. It's ergonomically designed to fit snugly in the palm of the hand, ideal for travel, and comes with a hard shell case and plug adaptor. The faster 'Fast' version (1.13s flashes) is worth the extra cost over the standard model (2.3s). It lacks attachments for smaller areas, and the tracking app isn't very useful.",
+      "specs": {
+        "Type": "IPL",
+        "Corded/cordless": "Corded",
+        "Attachments": "None",
+        "Flash rate": "1.13 seconds",
+        "Price guide": "£350 (as reviewed)"
+      },
+      "pros": [
+        "Compact and comfortable to hold, great for travel",
+        "Fast flash rate for the size",
+        "Comes with a hard shell travel case and plug adaptor"
+      ],
+      "cons": [
+        "No attachments for smaller areas like the bikini line or face",
+        "Treatment tracking app isn't very useful"
+      ],
+      "asin": "",
+      "search": "Silk'n Infinity Fast IPL"
+    },
+    {
+      "brand": "Philips",
+      "name": "Lumea Advanced",
+      "badge": "Best affordable Lumea",
+      "best_for": "A limited budget without sacrificing treatment power",
+      "key_spec": "IPL, corded, 3 attachments (body, face, bikini), 5 intensity settings, 250,000 flashes, 3.5-second flash rate",
+      "summary": "The entry-level Philips Lumea skips the fancy features but Expert Reviews found the bare-bones IPL treatment just as powerful and effective, £150 less than the next model up. Its 250,000 flashes are still enough for over 20 years of treatments, and its lightweight, gun-shaped design is easy to operate. The main downside is a much slower flash rate: a full leg treatment took 27 minutes versus 18 minutes on the Lumea Prestige, but hair reduction results were the same.",
+      "specs": {
+        "Type": "IPL",
+        "Corded/cordless": "Corded",
+        "Attachments": "3",
+        "Flash rate": "3.5 seconds",
+        "Price guide": "£270 (as reviewed)"
+      },
+      "pros": [
+        "Treating smaller areas well with 3 attachments",
+        "Same effective hair reduction as pricier Lumea models",
+        "£150 cheaper than the next model up"
+      ],
+      "cons": [
+        "Slow flash rate means large areas take a long time"
+      ],
+      "asin": "",
+      "search": "Philips Lumea Advanced IPL"
+    }
+  ],
+  "guide": [
+    {
+      "q": "IPL or laser hair removal?",
+      "a": "IPL (intense pulsed light) devices like the Philips Lumea and SmoothSkin use broad-spectrum light and are generally cheaper. Laser devices like the CurrentBody Skin use a more concentrated, direct laser diode that can penetrate deeper, and Expert Reviews' tester saw around 80% of leg hairs stop growing back after just four weeks."
+    },
+    {
+      "q": "How long before I see results?",
+      "a": "Expert Reviews tested each device for at least 12 weeks. Testers reported a significant reduction in hair growth after around four weeks of regular treatment on several models, with results from the CurrentBody Skin and SmoothSkin Pure Fit lasting months after the final session."
+    },
+    {
+      "q": "Is treatment painful?",
+      "a": "It varies by device and intensity setting. The SmoothSkin Pure Fit was found the most uncomfortable on its highest setting, though switching to 'comfort' mode removed the pain. The CurrentBody Skin laser device was completely painless even at maximum intensity thanks to its Ice Cooling technology."
+    },
+    {
+      "q": "Corded or cordless?",
+      "a": "Corded devices like the Philips Lumea Prestige were actually found faster than cordless treatments in testing, since power isn't limited by battery. The Philips Lumea 9000 offers both, useful for treating anywhere in the home, but has a shorter battery life in cordless mode."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best IPL and laser hair removal machines (2025)",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/hair-care-grooming/best-laser-hair-removal-machine"
+    }
+  ]
+}
