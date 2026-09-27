@@ -1,0 +1,139 @@
+{
+  "slug": "multi-tools",
+  "title": "Best Oscillating Multi-Tools UK",
+  "short": "Four oscillating multi-tools compared on power, attachments and value, from a £33 budget pick to a £142 professional DeWalt.",
+  "intro": "An oscillating multi-tool vibrates an attachment back and forth rapidly, turning into a sander, saw, scraper or grout remover depending on what's clicked on, and its surgical cutting action lets you cut flush against a wall or deck where a full-size saw can't reach. This guide is based on Expert Reviews' tested roundup, comparing corded and cordless models on power, oscillation angle, attachments included and ease of changing blades. Prices are as reviewed.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Bosch",
+      "name": "PMF 220 CE",
+      "badge": "Best corded",
+      "best_for": "A versatile corded multi-tool with fast attachment changes",
+      "key_spec": "220W, 20,000rpm top speed, 1.4° oscillation angle, magnetic Starlock tool holder, 1.1kg",
+      "summary": "Expert Reviews found an excellent, versatile corded model that comes with a sanding head and paper inserts plus straight and circular blades, along with a depth gauge and plastic case; the side handle for heavier jobs is sold separately. The magnetic tool holder uses a universal screw system, and Bosch claims you can switch attachments in three seconds, though its proprietary Starlock fitting means generic universal blades won't fit. The 220W motor and four-position depth gauge make short work of most cutting jobs.",
+      "specs": {
+        "Power": "220W",
+        "Top speed": "20,000rpm",
+        "Weight": "1.1kg",
+        "Cordless": "No",
+        "Price guide": "£90 (as reviewed)"
+      },
+      "pros": [
+        "Fast three-second attachment changes",
+        "Depth gauge helps control cuts precisely",
+        "Comes with sanding, straight and circular blade attachments"
+      ],
+      "cons": [
+        "Proprietary Starlock fitting limits blade compatibility",
+        "Side handle sold separately"
+      ],
+      "asin": "",
+      "search": "Bosch PMF 220 CE multi-tool"
+    },
+    {
+      "brand": "Silverline",
+      "name": "Tools 430787 DIY Multi Tool",
+      "badge": "Best value",
+      "best_for": "Occasional DIY jobs on a tight budget",
+      "key_spec": "300W, 23,000rpm top speed, 3° oscillation angle, six-stage speed selector, hex key blade change, 1.45kg",
+      "summary": "Expert Reviews called this a bargain: a mains-powered 300W motor with a maximum 23,000rpm oscillation rate should slice through most jobs, with a six-stage selector to build up power for cutting then rein it back if debris starts flying. It comes with a flat blade, curved blade, sanding shoe, paper inserts and the hex key needed to swap them, though there's no attachable side handle and vibration can be a problem. Replacement blade packs cost almost as much as the tool itself.",
+      "specs": {
+        "Power": "300W",
+        "Top speed": "23,000rpm",
+        "Weight": "1.45kg",
+        "Cordless": "No",
+        "Price guide": "£33 (as reviewed)"
+      },
+      "pros": [
+        "Very cheap for a 300W multi-tool",
+        "Six-stage speed selector",
+        "Soft-grip body finish"
+      ],
+      "cons": [
+        "Requires a hex key to change blades",
+        "No side handle, vibration can be an issue",
+        "Replacement blades are pricey relative to the tool"
+      ],
+      "asin": "",
+      "search": "Silverline 430787 DIY Multi Tool"
+    },
+    {
+      "brand": "Teeno",
+      "name": "20VMAX Cordless Oscillating Multi-Tool Kit",
+      "badge": "Best cordless",
+      "best_for": "Buyers who want a complete cordless kit with nothing missing",
+      "key_spec": "20V, 15,000rpm top speed, 1-hour fast charger and battery included, quick-release blade lever, LED work light, 2.78kg",
+      "summary": "Expert Reviews found a rare cordless multi-tool sold as a complete set: inside the case is the tool, a 20V battery, a fast charger that fills it within an hour, three saw blades, a scraper and a sanding shoe with ten inserts, so you can unpack it and start work straight away. Blades change via a quick-release lever that also houses an LED work light. The only thing missing is a side handle to help grip the tool.",
+      "specs": {
+        "Power": "20V",
+        "Top speed": "15,000rpm",
+        "Weight": "2.78kg",
+        "Cordless": "Yes",
+        "Price guide": "£60 (as reviewed)"
+      },
+      "pros": [
+        "Complete kit with battery, charger and blades included",
+        "Quick-release blade changing with built-in LED light",
+        "Fast one-hour charger"
+      ],
+      "cons": [
+        "No side handle for extra grip",
+        "Lower top speed than the corded models here"
+      ],
+      "asin": "",
+      "search": "Teeno 20VMAX Cordless Oscillating Multi-Tool Kit"
+    },
+    {
+      "brand": "DeWalt",
+      "name": "DWE315KT 300W Oscillating Multi-Tool",
+      "badge": "Best for accessories",
+      "best_for": "Regular or professional use where you don't want to miss any attachment",
+      "key_spec": "300W, 22,000rpm top speed, 1.6° oscillation angle, 37-piece accessory set, work light, dust-extraction adapter, 2.0kg",
+      "summary": "Expert Reviews found a tool aimed squarely at professionals, larger than most and lacking the side handle that makes these tools easier to manage, but with a remarkable 37-piece accessory set: a nail-cutting wood blade, grout removal blade, sanding head with 25 inserts, semi-circular and straight wood blades, a scraper, depth gauge, dust-extraction adapter and two hex keys. A powerful work light illuminates the cutting surface, and a universal adapter lets you attach extra blades beyond the included set.",
+      "specs": {
+        "Power": "300W",
+        "Top speed": "22,000rpm",
+        "Weight": "2.0kg",
+        "Cordless": "No",
+        "Price guide": "£142 (as reviewed)"
+      },
+      "pros": [
+        "Remarkable 37-piece accessory set",
+        "Powerful work light and dust-extraction adapter",
+        "Universal adapter for extra blade compatibility"
+      ],
+      "cons": [
+        "No side handle for grip",
+        "Pricier and larger than most multi-tools"
+      ],
+      "asin": "",
+      "search": "DeWalt DWE315KT 300W Oscillating Multi-Tool"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Corded or cordless multi-tool?",
+      "a": "A corded model like the Bosch, Silverline or DeWalt works all day without recharging and suits occasional use near a power socket. A cordless model like the Teeno gives freedom of movement, useful if you're already invested in a battery system or working somewhere without easy power access."
+    },
+    {
+      "q": "Does oscillation angle matter?",
+      "a": "A wider oscillation angle, like the Silverline's 3°, cuts more quickly, while a narrower angle, like the Bosch's 1.4°, generally gives a higher-quality finish. Choose based on whether speed or precision matters more for your typical jobs."
+    },
+    {
+      "q": "What attachments do I need?",
+      "a": "Common attachments include cutting blades, grinding discs, sanding shoes and grout-removal blades. The DeWalt comes with a huge 37-piece set covering most jobs out of the box, while the Silverline and Teeno include a smaller core set that covers the basics."
+    },
+    {
+      "q": "Should I check the blade fitting system?",
+      "a": "Some brands, like Bosch's Starlock system, use proprietary fittings that limit you to that brand's own blades, while others use a more universal fitting or adapter, as on the DeWalt. Check this before buying extra blades to avoid compatibility surprises."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best multi-tool (2024)",
+      "url": "https://www.expertreviews.co.uk/home-garden/diy-power-tools/best-multi-tool"
+    }
+  ]
+}
