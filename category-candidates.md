@@ -65,6 +65,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Also done: golf rangefinders (11), golf bags (9). Not yet done: women's golf clothing, golf trolleys, golf umbrellas.
 - Dishwashers - Trusted Reviews (7 products, measured cost per cycle)
 - Stand mixers - Expert Reviews Sept 2024 guide (7 products)
+- Women's socks (user-requested "all types") - OutdoorGearLab, Mar 2025, US test, UK-sold brands only, no prices (6 products). Compression, thermal and bed socks NOT covered: only affiliate/retailer sources found (Yours, Sock Geeks, bestproductsreviews.co.uk, US Walmart/AOL listings). Running and walking socks already exist as separate guides.
 - Kids' scooters (non-motorised) - Mumsnet, updated Aug 2026 (6 named-tester products of 12)
 - Baby bottles - Mumsnet, updated Mar 2026 (7 products)
 - Balance bikes - Mumsnet, updated Sept 2026 (7 tested-by-named-parent products of 9+)

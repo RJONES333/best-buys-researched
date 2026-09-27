@@ -58,7 +58,7 @@ GROUPS = {
     "Cycling": ["bike-lights", "cycling-helmets"],
     "Clothing": [
         "mens-down-jackets", "womens-puffer-jackets", "mens-belts", "ski-jackets",
-        "womens-leggings", "running-socks", "walking-socks", "winter-gloves",
+        "womens-leggings", "running-socks", "walking-socks", "womens-socks", "winter-gloves",
     ],
     "Golf": ["golf-club-sets", "golf-balls", "golf-gloves", "golf-shirts", "golf-trousers", "golf-shoes", "golf-rangefinders", "golf-bags"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "swimming-goggles"],
