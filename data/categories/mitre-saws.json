@@ -1,0 +1,113 @@
+{
+  "slug": "mitre-saws",
+  "title": "Best Mitre Saws UK",
+  "short": "Three mitre saws tested for precision cuts, angles and ease of use, from a £69 budget model to a £204 cordless Ryobi.",
+  "intro": "A mitre saw makes short work of precise angled, bevelled and straight cuts in wood, non-ferrous metals and plastics, and is a step up for more advanced DIY projects. This guide is based on Expert Reviews' tested roundup, which looked at features, general ease of use and how straightforward each saw was to assemble, the clarity of instructions, and each saw's ability to cut to all its available angles and bevel options. Prices are as reviewed.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Wickes",
+      "name": "210mm Corded Compound Mitre Saw 1800W",
+      "badge": "Best compound",
+      "best_for": "Budget-conscious DIYers who want solid features without a big outlay",
+      "key_spec": "0-45° bevel, 210mm blade, 5,000rpm no-load speed, 7.5kg, 60mm cutting depth at 90°",
+      "summary": "Expert Reviews found a quality feel and a suite of features that belies the low price, with clear, comprehensive assembly instructions despite a fair bit of assembly required. It's easy to set a mitre angle, locking in easily at 15-degree intervals though slightly trickier for angles in between, and a rear knob with gauge tilts the saw up to 45 degrees for bevel cuts. It cuts to 60mm depth at 90 degrees, plenty for most uses, and includes a dust extractor bag, though there's no storage for the allen key and screwdriver needed to swap blades.",
+      "specs": {
+        "Bevel capacity": "0-45°",
+        "Blade size": "210mm",
+        "No-load speed": "5,000rpm",
+        "Weight": "7.5kg",
+        "Price guide": "£69 (as reviewed)"
+      },
+      "pros": [
+        "Quality feel and features for the price",
+        "Heavy, confidence-inspiring base",
+        "Clear, comprehensive assembly instructions"
+      ],
+      "cons": [
+        "Fairly loud in operation",
+        "No storage for the allen key and screwdriver needed for blade changes"
+      ],
+      "asin": "",
+      "search": "Wickes 210mm Corded Compound Mitre Saw 1800W"
+    },
+    {
+      "brand": "Ryobi",
+      "name": "18V ONE+ Cordless Mitre Saw",
+      "badge": "Best cordless",
+      "best_for": "Portability and quiet operation without sacrificing cutting power",
+      "key_spec": "0-45° bevel, 210mm blade, 4,200rpm no-load speed, 7.9kg (excluding battery), carrying handle, adjustable fence and clamp",
+      "summary": "Expert Reviews found this feels tough and built to last despite weighing just 7.9kg without the battery, with a carrying handle that's useful since mitre saws are notoriously bulky. The large front handle makes selecting a mitre angle even easier than the Wickes, and once the battery is slotted in, operation is simple: grip, release catch, squeeze trigger. It was easily the quietest saw tested and made short work of the test cuts, with a fence, workpiece clamp, dust collection bag and allen key storage included.",
+      "specs": {
+        "Bevel capacity": "0-45°",
+        "Blade size": "210mm",
+        "No-load speed": "4,200rpm",
+        "Weight": "7.9kg (excluding battery)",
+        "Price guide": "£204 (as reviewed)"
+      },
+      "pros": [
+        "Easily the quietest saw tested",
+        "Carrying handle aids portability",
+        "Allen key storage, adjustable fence and workpiece clamp"
+      ],
+      "cons": [
+        "More expensive than the corded Wickes",
+        "Needs a compatible battery to use"
+      ],
+      "asin": "",
+      "search": "Ryobi 18V ONE+ Cordless Mitre Saw"
+    },
+    {
+      "brand": "Einhell",
+      "name": "254mm Single Bevel Sliding Mitre Saw with Stand 230V",
+      "badge": "Best sliding",
+      "best_for": "Wider workpieces and anyone who wants to keep the saw off their main workbench",
+      "key_spec": "0-45° bevel (single), 254mm blade, 4,800rpm no-load speed, 310mm sliding travel, 17.75kg, laser guide, tough stand included",
+      "summary": "Expert Reviews found the only saw on test with a sliding function, letting it cut much wider pieces as well as being satisfying to use, backed by a tough, weighty included stand that makes it the heaviest saw tested by some margin. The huge 254mm blade cuts deep, and a laser guide helps accuracy, though it's better suited to indoor use as it struggles to be seen in bright sunlight. It's single-bevel only, so workpieces must be flipped for reverse cuts, takes a while to assemble, and is very loud, with ear protection recommended.",
+      "specs": {
+        "Bevel capacity": "0-45° (single bevel)",
+        "Blade size": "254mm",
+        "No-load speed": "4,800rpm",
+        "Weight": "17.75kg",
+        "Price guide": "£200 (as reviewed)"
+      },
+      "pros": [
+        "Sliding function cuts much wider pieces",
+        "Huge 254mm blade cuts deep",
+        "Includes a tough, weighty stand"
+      ],
+      "cons": [
+        "Single bevel only, workpieces must be flipped for reverse cuts",
+        "Very loud, ear protection recommended",
+        "Laser guide struggles to be seen in bright sunlight"
+      ],
+      "asin": "",
+      "search": "Einhell 254mm Single Bevel Sliding Mitre Saw"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Single or double bevel?",
+      "a": "A single bevel saw, like the Einhell here, only tilts one direction, so you flip the workpiece for reverse cuts. Double bevel saws tilt both ways for more versatility but cost more; skilled users may find flipping the workpiece manageable, but it can complicate things for beginners."
+    },
+    {
+      "q": "Do I need a sliding mitre saw?",
+      "a": "A sliding saw, like the Einhell, lets the blade travel forward and back, increasing the width it can cut in one pass, useful for wider boards and skirting. If you mainly cut narrower stock, a standard compound mitre saw like the Wickes or Ryobi is simpler and lighter."
+    },
+    {
+      "q": "Corded or cordless?",
+      "a": "A corded saw like the Wickes costs less and needs no charging, but ties you to a power supply. A cordless saw like the Ryobi is more portable and, in this test, was notably quieter, but you need to factor in battery life and cost if you don't already own compatible batteries."
+    },
+    {
+      "q": "Where will I use it?",
+      "a": "Most mitre saws can be mounted to a workbench with bolts, like the Wickes and Ryobi. If you don't have a dedicated bench, a saw with its own stand, like the Einhell, saves you finding a separate solution, though it adds significant weight and bulk."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best mitre saws (2023)",
+      "url": "https://www.expertreviews.co.uk/home-garden/diy-power-tools/best-mitre-saws"
+    }
+  ]
+}
