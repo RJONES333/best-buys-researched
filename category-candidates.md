@@ -64,7 +64,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Home security cameras — Expert Reviews (6 products)
 - Fans — Expert Reviews (9 products, updated Sept 2026)
 - Dog poo bags — Countryfile tested roundup, 2025 (5 products, user-requested)
-- Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Also done: golf rangefinders (11), golf bags (9). Not yet done: women's golf clothing, golf trolleys, golf umbrellas.
+- Golf gear (user-requested): golf balls (7, Golf Monthly), golf gloves (9), men's golf shirts (10 of ~20), golf trousers (12), golf shoes (12), all Golf Monthly. Also done: golf rangefinders (11), golf bags (9), golf trolleys (9, electric). Not yet done: women's golf clothing, golf push trolleys (non-electric), golf umbrellas.
 - Dishwashers - Trusted Reviews (7 products, measured cost per cycle)
 - Stand mixers - Expert Reviews Sept 2024 guide (7 products)
 - Cabin-approved strollers - Mumsnet, updated July 2026 (7 products not already in lightweight-strollers guide)

@@ -1,0 +1,253 @@
+{
+  "slug": "golf-trolleys",
+  "title": "Best Electric Golf Trolleys UK",
+  "short": "Nine electric golf trolleys tested on the course, from GPS all-rounders to remote-controlled and hands-free follow models.",
+  "intro": "An electric golf trolley takes the effort out of getting your clubs round 18 holes, whether that's a simple manual push-button trolley, one you steer by remote, or one that follows you automatically. This guide is based on Golf Monthly's tested roundup (updated September 2026), where the reviewer put trolleys through their paces across a range of days and courses, judging build quality, folding mechanisms, stability on terrain, GPS accuracy and battery life. Golf Monthly's team includes golfers who use electric trolleys during their own rounds and no manufacturer receives preferential treatment.",
+  "reviewed": "2026-09-27",
+  "verified": "2026-09-27",
+  "products": [
+    {
+      "brand": "Motocaddy",
+      "name": "M5 GPS Electric Trolley",
+      "badge": "Top pick",
+      "best_for": "Golfers who want the most well-rounded trolley with helpful on-course tech",
+      "key_spec": "10.5kg, 3.5in touchscreen GPS, 40,000 pre-loaded courses, lithium battery",
+      "summary": "Golf Monthly's top pick for ease of use, sturdy build and helpful tech, particularly the GPS. The hi-res 3.5in touchscreen was a cinch to use even in poor weather, giving accurate yardages to the front and back of the green and hazards, with an adjustable pin position. The chassis lets the battery stay in place when folding, and the 28.8V drive system felt smooth and stable even on challenging terrain. Folding latches are quite stiff.",
+      "specs": {
+        "Weight": "10.5kg",
+        "Screen": "3.5in LCD touchscreen",
+        "Pre-loaded courses": "40,000",
+        "Price guide": "Check retailer for current price"
+      },
+      "pros": [
+        "Folds down compactly and quickly",
+        "Distances displayed on a crystal clear touchscreen",
+        "Ability to move the pin position enhances strategy"
+      ],
+      "cons": [
+        "Folding latches are quite stiff"
+      ],
+      "asin": "",
+      "search": "Motocaddy M5 GPS Electric Trolley"
+    },
+    {
+      "brand": "PowaKaddy",
+      "name": "CT12 GPS Electric Trolley",
+      "badge": "Most compact",
+      "best_for": "Golfers who want one of the best GPS systems in a chassis that's easy to store",
+      "key_spec": "9.9kg (without battery), 5in portrait touchscreen, folded 510 x 425 x 375mm, 40,000 courses",
+      "summary": "Golf Monthly's pick for the best compact electric trolley, with folded dimensions that make it easy to get in and out of the car and a folding system that's straightforward to use. The 5in full-colour portrait screen is wonderfully clear, and the portrait orientation makes more sense for a hole's layout while keeping the handle uncluttered. It includes stroke index information and a digital scorecard, and the reviewer called it a genuinely great-looking trolley.",
+      "specs": {
+        "Weight": "9.9kg (without battery)",
+        "Screen": "5in full colour portrait TFT",
+        "Pre-loaded courses": "40,000",
+        "Price guide": "Check retailer for current price"
+      },
+      "pros": [
+        "Superb screen and GPS functionality",
+        "Compact folding chassis is easy to use",
+        "One of the best-looking chassis on the market"
+      ],
+      "cons": [
+        "An unnecessary purchase if you already have a GPS device or rangefinder"
+      ],
+      "asin": "",
+      "search": "PowaKaddy CT12 GPS Electric Trolley"
+    },
+    {
+      "brand": "Motocaddy",
+      "name": "SE Electric Trolley",
+      "badge": "Best value",
+      "best_for": "Golfers moving up from a push trolley or carry bag without a big outlay",
+      "key_spec": "9kg, no screen, USB charging port, lithium or lead-acid battery, 36-hole range on lithium",
+      "summary": "Golf Monthly's pick for value: it has all you need without extra features that push the price up, and a handy USB charging port under the handle that the reviewer used to charge a phone and rangefinder during a round. It was easy to fold up and down and, at 9kg, isn't overly heavy, with upgraded tyres adding durability and stability on the course.",
+      "specs": {
+        "Weight": "9kg",
+        "Screen": "None",
+        "Battery": "Lithium or lead-acid",
+        "Price guide": "Check retailer for current price"
+      },
+      "pros": [
+        "Super quick folding mechanism",
+        "USB charging point built in",
+        "36-hole range battery in the lithium option"
+      ],
+      "cons": [
+        "No screen on handle"
+      ],
+      "asin": "",
+      "search": "Motocaddy SE Electric Trolley"
+    },
+    {
+      "brand": "Stewart Golf",
+      "name": "Vertx Remote Trolley",
+      "badge": "Best remote model",
+      "best_for": "Golfers who want a stylish, class-leading remote-controlled trolley",
+      "key_spec": "14.90kg, Active Terrain Control system, two-step fold, 27 or 45-hole lithium battery options",
+      "summary": "Golf Monthly's favoured remote trolley: well-engineered and stylish, with a simple two-step folding system that leaves a compact shape with a carry handle. Stewart's Active Terrain Control system adapts the trolley to course conditions for real stability across varied terrain, and lets Stewart use smaller wheels to keep weight and size down. There's no built-in GPS, so it suits golfers who already have a GPS device, and the remote is bulkier than some competitors'.",
+      "specs": {
+        "Weight": "14.90kg",
+        "Screen": "None",
+        "Battery": "Lithium, 27 or 45 holes",
+        "Price guide": "Check retailer for current price"
+      },
+      "pros": [
+        "Superb stability via Active Terrain Control",
+        "Folds compactly with a neat carry handle",
+        "Market-leading 27 or 45-hole battery capacities"
+      ],
+      "cons": [
+        "Remote bulkier than competitors",
+        "No built-in GPS"
+      ],
+      "asin": "",
+      "search": "Stewart Golf Vertx Remote Trolley"
+    },
+    {
+      "brand": "Motocaddy",
+      "name": "2026 M7 GPS Remote Electric Trolley",
+      "badge": "Excellent GPS",
+      "best_for": "Golfers who want the most advanced GPS mapping and remote steering",
+      "key_spec": "14.90kg, 3.5in LCD touchscreen, 3D hole mapping with flyover, cable-free auto-disconnecting battery, 28V lithium",
+      "summary": "A significant upgrade on the well-regarded 2025 M7, with a faster, more responsive interface, detailed 3D hole mapping, pinch-and-zoom 2D maps and a flyover feature for courses played for the first time, plus shot tracking and Bluetooth smartphone notifications. The remote steering is sharp and instinctive, and the cable-free battery auto-disconnects to reveal the charging port. The touchscreen stays in landscape orientation, which some may prefer in portrait.",
+      "specs": {
+        "Weight": "14.90kg",
+        "Screen": "3.5in LCD touchscreen",
+        "Pre-loaded courses": "40,000",
+        "Price guide": "Check retailer for current price"
+      },
+      "pros": [
+        "Superb improvements to the GPS user interface",
+        "Compact folding with an automatic folding front wheel",
+        "Smart new remote design",
+        "Auto-disconnecting battery"
+      ],
+      "cons": [
+        "Some may prefer portrait screen orientation"
+      ],
+      "asin": "",
+      "search": "Motocaddy 2026 M7 GPS Remote Electric Trolley"
+    },
+    {
+      "brand": "Stewart Golf",
+      "name": "Q Follow Electric Trolley",
+      "badge": "Unique follow feature",
+      "best_for": "Golfers who want a genuinely hands-free trolley that follows them round",
+      "key_spec": "14kg, retractable stabiliser wheels, Smart Power lithium battery, 36-hole range on hilly courses",
+      "summary": "The headline feature lets the trolley follow you around the course, and in testing reliability was excellent, consistently tracking and stopping right by the ball. A retractable stabiliser of two smaller wheels deploys automatically during setup to keep it upright at all times. Setup is quick and there's no need to remove the battery. It's a relatively heavy trolley, so those with back issues should take care lifting it, though the integrated carry handle helps.",
+      "specs": {
+        "Weight": "14kg",
+        "Screen": "None",
+        "Battery": "Smart Power lithium, 36 holes",
+        "Price guide": "Check retailer for current price"
+      },
+      "pros": [
+        "Genuine hands-free follow functionality unique to the market",
+        "Easy to assemble and operate",
+        "Battery lasts for 36 holes, even on hilly courses"
+      ],
+      "cons": [
+        "Still quite heavy to lift"
+      ],
+      "asin": "",
+      "search": "Stewart Golf Q Follow Electric Trolley"
+    },
+    {
+      "brand": "PowaKaddy",
+      "name": "RX12 GPS Electric Trolley",
+      "badge": "Best screen",
+      "best_for": "Golfers who most value screen quality and responsiveness",
+      "key_spec": "14kg, 5in HD portrait touchscreen, 1.1GHz processor, 40,000 courses, 30V lithium battery",
+      "summary": "The 5in touchscreen is powered by a 1.1GHz processor that makes it as responsive as a smartphone, delivering reliable yardages, performance stats, a shot measure function and a movable pin feature. The remote handset has been upgraded and is much sleeker. The reviewer still had to straighten the trolley a few times during testing, and it's not as stable over tricky terrain as some other models in the guide.",
+      "specs": {
+        "Weight": "14kg",
+        "Screen": "5in HD portrait touchscreen",
+        "Pre-loaded courses": "40,000",
+        "Price guide": "Check retailer for current price"
+      },
+      "pros": [
+        "Superb portrait GPS touchscreen",
+        "Updated remote is much sleeker",
+        "Compact folding mechanism is easy to use"
+      ],
+      "cons": [
+        "Requires more attention navigating slopes than some rivals"
+      ],
+      "asin": "",
+      "search": "PowaKaddy RX12 GPS Electric Trolley"
+    },
+    {
+      "brand": "MGI",
+      "name": "AI 500 GPS All Terrain Electric Trolley",
+      "badge": "Best folding mechanism",
+      "best_for": "Golfers who want the quickest, most fuss-free fold in a rugged trolley",
+      "key_spec": "14.2kg, 4in all-weather touchscreen, one-button folding, inverting rear wheels, anti-tip rear wheel",
+      "summary": "Stands out for a clever one-button folding system that collapses a sturdy chassis and all-terrain wheels into a compact unit via inverting rear wheels and a tuck-away front wheel. The 4in portrait GPS touchscreen is clear and responsive, with an automatic flyover feature that's particularly helpful on an unfamiliar course, and an integrated rear anti-tip wheel keeps it stable on undulating terrain and sideslopes. The control dial isn't as responsive as some others.",
+      "specs": {
+        "Weight": "14.2kg",
+        "Screen": "4in full colour all-weather touchscreen",
+        "Pre-loaded courses": "40,000",
+        "Price guide": "Check retailer for current price"
+      },
+      "pros": [
+        "Portrait orientation of the GPS screen makes perfect sense",
+        "Quality of the touchscreen and graphics",
+        "Quick folding mechanism with minimal fuss"
+      ],
+      "cons": [
+        "Control dial isn't as responsive as some others"
+      ],
+      "asin": "",
+      "search": "MGI AI 500 GPS All Terrain Electric Trolley"
+    },
+    {
+      "brand": "Navee",
+      "name": "Birdie 3X Electric Push Cart",
+      "badge": "Best looking",
+      "best_for": "Golfers who want strong looks matched with genuinely stable performance",
+      "key_spec": "17.2kg, dual independent rear-drive motors, five wheels, manual remote or hands-free follow, 36-hole battery",
+      "summary": "Golf Monthly's pick for looks, but with substance behind the styling: dual independent rear-drive motors and five wheels made it impressively stable even on 25% inclines. It switches between manual power-assist via remote and a hands-free 'follow me' mode; the remote control proved more reliable in testing, while follow mode needs more caution around bunkers and bridges. The claimed 36-hole battery life proved accurate. It's one of the more expensive options in the guide.",
+      "specs": {
+        "Weight": "17.2kg",
+        "Screen": "140 x 35mm HD LED",
+        "Battery": "Lithium, 36 holes",
+        "Price guide": "Check retailer for current price"
+      },
+      "pros": [
+        "Easy to set up and fold",
+        "Powerful motor, stable even on 25% inclines",
+        "Works really well with remote control"
+      ],
+      "cons": [
+        "Follow-me mode isn't as easy as it could be",
+        "One of the more expensive options"
+      ],
+      "asin": "",
+      "search": "Navee Birdie 3X Electric Push Cart"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Manual, remote or follow trolley?",
+      "a": "A manual electric trolley, like the Motocaddy SE, drives forward at the touch of a button and you steer it. A remote trolley, like the Stewart Golf Vertx or Motocaddy M7, is controlled with a handset so you can walk ahead unencumbered. A follow trolley, like the Stewart Golf Q Follow or Navee Birdie 3X's follow mode, tracks you automatically, though this guide's testers found the manual/remote modes more reliable around bunkers and obstacles."
+    },
+    {
+      "q": "Do I need GPS built in?",
+      "a": "It's convenient if you don't already use a golf GPS watch or rangefinder: models like the Motocaddy M5, PowaKaddy CT12 and RX12, and MGI AI 500 all include large, clear touchscreens with yardages and course mapping. If you already have a rangefinder, a screen-free option like the Motocaddy SE or Stewart Golf Vertx saves money."
+    },
+    {
+      "q": "Portrait or landscape GPS screen?",
+      "a": "Golf Monthly's reviewer favours portrait orientation, as on the PowaKaddy CT12, RX12 and MGI AI 500, saying it makes more sense for how a hole is laid out and keeps the handle area uncluttered. The Motocaddy M5 and M7 use landscape screens instead."
+    },
+    {
+      "q": "How much does weight matter?",
+      "a": "Lighter trolleys like the Motocaddy SE (9kg) and PowaKaddy CT12 (9.9kg) are easier to lift in and out of a car boot. Remote and follow trolleys tend to be heavier, up to around 17kg for the Navee Birdie 3X, since they carry motors and larger batteries."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Golf Monthly: best electric golf trolleys (updated September 2026)",
+      "url": "https://www.golfmonthly.com/best-golf-deals/best-electric-golf-trolleys-82413"
+    }
+  ]
+}
