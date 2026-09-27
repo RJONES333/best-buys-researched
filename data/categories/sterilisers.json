@@ -1,0 +1,242 @@
+{
+  "slug": "sterilisers",
+  "title": "Best Baby Bottle Sterilisers UK",
+  "short": "Eight sterilisers compared across UV, steam, cold water and travel types, tested by parents on capacity, speed and ease of use.",
+  "intro": "Sterilising kills bacteria on bottles, teats and pump parts, and the best method depends on your kitchen, budget and how many bottles you get through. This guide is based on Mumsnet's tested roundup (updated June 2026), where parent-testers tried each steriliser in real use and Mumsnet also drew on forum recommendations and feeding guidelines. Prices shown are those quoted by Mumsnet at time of writing and change often, so check before buying. The NHS recommends sterilising feeding equipment until your baby is at least 12 months old.",
+  "reviewed": "2026-09-27",
+  "verified": "2026-09-27",
+  "products": [
+    {
+      "brand": "Tommee Tippee",
+      "name": "Ultra UV Steriliser",
+      "badge": "Best overall",
+      "best_for": "Parents who want a fast, chemical-free steriliser that also cleans phones and dummies",
+      "key_spec": "UV light, six bottles, 35-minute cycle, indefinite storage mode",
+      "summary": "Mumsnet's Best Buy: it sterilises without steam, heat or chemicals, killing up to 99.9% of harmful bacteria in 35 minutes for up to six bottles. A storage mode keeps everything sterile indefinitely, which one Mumsnetter said made it much easier than drying after a steam or microwave steriliser. It can also be used for toothbrushes and phones. It's quite pricey.",
+      "specs": {
+        "Type": "UV",
+        "Capacity": "6 bottles",
+        "Cycle time": "35 minutes",
+        "Price guide": "£100 (at time of writing, was £150)"
+      },
+      "pros": [
+        "More energy efficient than steam sterilisers",
+        "Kills up to 99.9% of harmful bacteria",
+        "Doesn't use harmful chemicals or hot steam"
+      ],
+      "cons": [
+        "Quite pricey"
+      ],
+      "asin": "",
+      "search": "Tommee Tippee Ultra UV Steriliser"
+    },
+    {
+      "brand": "Medela",
+      "name": "Quick Clean MicroSteam Microwave Bags",
+      "badge": "Best budget",
+      "best_for": "Small kitchens, grandparents' houses, holidays and light daily use",
+      "key_spec": "Microwave bags, 2 bottles per bag, 3-minute cycle, reusable up to 20 times, 5 bags included",
+      "summary": "Mumsnet found them reliable, compact and good value: each bag fits two bottles, can be reused up to 20 times, and needs no assembly or pre-cleaning. A cool marked area avoids burnt fingers and a hole lets you pour out water safely. You need a microwave to use them, and sterilising only two bottles per cycle is labour-intensive if bottle-feeding full time. No measuring jug is included.",
+      "specs": {
+        "Type": "Microwave bags",
+        "Capacity": "2 bottles per bag",
+        "Cycle time": "3 minutes",
+        "Price guide": "£10 (at time of writing, was £13)"
+      },
+      "pros": [
+        "Costs about the same as a fortnightly nappy bill but lasts far longer",
+        "Small and portable, great for small kitchens and travel",
+        "Quick three-minute cycle, no assembly or cleaning required",
+        "Each bag reusable up to 20 times"
+      ],
+      "cons": [
+        "Only sterilises two bottles per cycle",
+        "Requires a microwave to work",
+        "No measuring jug included"
+      ],
+      "asin": "",
+      "search": "Medela Quick Clean MicroSteam microwave bags"
+    },
+    {
+      "brand": "Tommee Tippee",
+      "name": "Super-Steam Advanced Electric Steriliser",
+      "badge": "Best steam",
+      "best_for": "Families who get through up to six bottles a day and want a simple electric steriliser",
+      "key_spec": "Electric steam, about 6 bottles over two tiers, 5-minute cycle, 24-hour sterile storage",
+      "summary": "Winner of Mumsnet's Best Steriliser award. Testers found it exceptionally straightforward, with a one-touch cycle of just five minutes, one of the shortest of the electric sterilisers tested, and a thoughtful marking system showing how much water to add for Tommee Tippee bottles. It's cheaper to run than a microwave option long term, though pricier to buy, doesn't fit extra-tall bottles like Dr Brown's, and has no extra features.",
+      "specs": {
+        "Type": "Electric steam",
+        "Capacity": "About 6 bottles",
+        "Cycle time": "5 minutes",
+        "Price guide": "£38 (at time of writing, was £75)"
+      },
+      "pros": [
+        "Takes up very little counter space",
+        "Sturdy, safe materials and design",
+        "Inexpensive to run",
+        "Simple interface and rapid cycle"
+      ],
+      "cons": [
+        "More expensive initial outlay than microwave or travel versions",
+        "Doesn't fit extra-tall bottles like Dr Brown's",
+        "No extra features"
+      ],
+      "asin": "",
+      "search": "Tommee Tippee Super Steam Advanced Electric Steriliser"
+    },
+    {
+      "brand": "Bebello",
+      "name": "Washer 4-in-1 Baby Bottle Washer and Steriliser",
+      "badge": "Best to rent",
+      "best_for": "Parents who want to wash, sterilise and dry bottles in one machine without buying outright",
+      "key_spec": "Electric steam wash and sterilise, 8 small or 6 large bottles, 19-minute wash cycle, rent or buy",
+      "summary": "Mumsnet's parent-tester Cath scored it almost full marks for efficiency, capacity, value and ease of use, and said she wished she'd found it when her son was younger, as it would have saved hand-washing and microwave sterilising. It uses natural steam to kill up to 99.9% of germs, claims up to 88% less water than hand-washing, and easily fit four Dr Brown's bottles in testing. The water tank is a little awkward to refill when full.",
+      "specs": {
+        "Type": "Electric steam wash and steriliser",
+        "Capacity": "8 small or 6 large bottles",
+        "Cycle time": "19 minutes wash, up to 149 minutes full wash-sterilise-dry",
+        "Price guide": "From £38/month to rent, £199 to buy (at time of writing)"
+      },
+      "pros": [
+        "Uses natural steam to kill 99.9% of germs, no chemicals",
+        "Wash cycle finishes in 19 minutes",
+        "No discolouration of bottles after sterilising",
+        "Very simple to use"
+      ],
+      "cons": [
+        "Pricey to purchase",
+        "Tank is awkward to refill when full"
+      ],
+      "asin": "",
+      "search": "Bebello Washer 4-in-1 baby bottle washer steriliser"
+    },
+    {
+      "brand": "Milton",
+      "name": "Cold Water Steriliser",
+      "badge": "Best cold water",
+      "best_for": "Families with multiple babies or high bottle use who want a cheap, no-electricity option",
+      "key_spec": "Cold water tablets or fluid, 5-litre container, 15-minute submersion, 24-hour sterile, weighted grid",
+      "summary": "Mumsnet found a low-tech, flexible solution that's popular on maternity wards and with parents of multiple babies: dissolve tablets in the container, submerge items for 15 minutes, and they stay sterile for 24 hours, with more items addable as needed. It's inexpensive to buy and run. The solution smells of chlorine, as will your kitchen and equipment, and the bucket is heavy and needs to be kept out of children's reach.",
+      "specs": {
+        "Type": "Cold water",
+        "Capacity": "6 bottles plus pump parts",
+        "Contact time": "15 minutes, sterile for 24 hours",
+        "Price guide": "£22 (at time of writing)"
+      },
+      "pros": [
+        "Scales easily up and down, good for awkward-shaped items",
+        "Inexpensive to buy and maintain",
+        "Items stay sterile for 24 hours and can be added as needed"
+      ],
+      "cons": [
+        "Bucket takes up sink or counter space and must be kept from children",
+        "Sterilising fluid smells of chlorine"
+      ],
+      "asin": "",
+      "search": "Milton Cold Water Steriliser"
+    },
+    {
+      "brand": "Momcozy",
+      "name": "KleanPal Pro Baby Bottle Steriliser",
+      "badge": "Best premium",
+      "best_for": "Parents who want washing, drying and 72-hour sterile storage in one premium machine",
+      "key_spec": "Electric steam, 4 bottles, HEPA-filtered airflow, sterile storage up to 72 hours",
+      "summary": "Mumsnet's tester Sarah found it well designed with many options, producing spotlessly clean bottles and parts with no fading. A HEPA-filtered system keeps items sterile for up to 72 hours. Its capacity is modest at just four bottles per cycle, so frequent feeders may need several cycles a day, and Sarah noted it's very energy consuming and doesn't wash many bottles at once. It's bulky on the counter and costly.",
+      "specs": {
+        "Type": "Electric steam",
+        "Capacity": "4 bottles",
+        "Sterile storage": "Up to 72 hours",
+        "Price guide": "£240 (at time of writing, was £350)"
+      },
+      "pros": [
+        "Thorough steam sterilisation",
+        "No discolouration on bottles or parts",
+        "Fast wash option and good safety features"
+      ],
+      "cons": [
+        "Small capacity, only four bottles at a time",
+        "Quite bulky on kitchen counters",
+        "Costly and energy consuming"
+      ],
+      "asin": "",
+      "search": "Momcozy KleanPal Pro baby bottle steriliser"
+    },
+    {
+      "brand": "Milton",
+      "name": "Solo Travel Steriliser",
+      "badge": "Best travel",
+      "best_for": "Holidays, grandparents' houses or childminders, and small microwaves",
+      "key_spec": "Travel steriliser cup, 1 bottle, works in microwave (2 minutes) or cold water (15 minutes), 24-hour sterile",
+      "summary": "Mumsnet found the most adaptable travel steriliser tested, generously sized for a bottle or pump parts and usable in a microwave or with cold water solution, whichever suits. A flat-lipped lid lets it lie horizontally in a small microwave, a feature not found in other travel models tested. It only fits one bottle or one set of pump parts at a time (not both), leaks on its side when full, and its width makes it hard to open when hot or wet.",
+      "specs": {
+        "Type": "Travel steriliser cup",
+        "Capacity": "1 bottle",
+        "Cycle time": "2 minutes microwave, 15 minutes cold water",
+        "Price guide": "£11 (at time of writing)"
+      },
+      "pros": [
+        "Can be stored in a cupboard when not in use",
+        "Keeps items sterile for 24 hours",
+        "Works in the microwave or with cold water solution",
+        "Short cycle either way"
+      ],
+      "cons": [
+        "Less roomy than some microwave bags, fits one bottle or one pump set",
+        "Leaks on its side when filled with water",
+        "Hard to open when wet or very hot"
+      ],
+      "asin": "",
+      "search": "Milton Solo Travel Steriliser"
+    },
+    {
+      "brand": "Dr Brown's",
+      "name": "All-in-One Steriliser and Dryer",
+      "badge": "Best large capacity",
+      "best_for": "Families with larger or taller bottles who want a spacious steriliser with a dryer",
+      "key_spec": "Electric steam and dry, 6 bottles, 8-minute cycle, measuring jug and tongs included, 24-hour sterile",
+      "summary": "Mumsnet found a professional-looking display that shows the cycle stage, a spacious interior for larger bottles, and an accessories basket that makes retrieving small items easier. A measuring jug and tongs are included and items stay sterile for 24 hours. The eight-minute cycle isn't the quickest tested, the short wire limits counter placement, and it costs more than some other electric models like the Tommee Tippee Super-Steam.",
+      "specs": {
+        "Type": "Electric steam and dryer",
+        "Capacity": "6 bottles",
+        "Cycle time": "8 minutes",
+        "Price guide": "£76 (at time of writing, was £110)"
+      },
+      "pros": [
+        "Professional-looking display shows cycle stage",
+        "Spacious interior for larger bottles",
+        "Accessories basket and measuring jug and tongs included"
+      ],
+      "cons": [
+        "Eight-minute cycle isn't the quickest tested",
+        "Short wire limits counter placement",
+        "More expensive than some other electric models"
+      ],
+      "asin": "",
+      "search": "Dr Brown's All-in-One Steriliser and Dryer"
+    }
+  ],
+  "guide": [
+    {
+      "q": "UV, steam or cold water?",
+      "a": "UV, like the Tommee Tippee Ultra, uses no heat or chemicals and can hold sterility indefinitely in storage mode. Steam sterilisers, electric or microwave, are quick but need drying or careful handling. Cold water, like Milton's, needs no electricity and is cheap to scale up, but leaves a chlorine smell."
+    },
+    {
+      "q": "How many bottles do I need to sterilise at once?",
+      "a": "Match capacity to your feeding pattern. The Medela microwave bags and Milton Solo travel steriliser fit one or two bottles, fine for occasional use, while the Tommee Tippee Super-Steam and Dr Brown's All-in-One hold six, and the Bebello Washer up to eight small bottles for heavy daily use."
+    },
+    {
+      "q": "What's best for travelling or grandparents' houses?",
+      "a": "Mumsnet's pick is the Milton Solo Travel Steriliser, which works in a microwave or with cold water solution and stores flat in a cupboard. The Medela microwave bags are also compact and portable for small kitchens or holidays."
+    },
+    {
+      "q": "How long do sterilised bottles stay sterile?",
+      "a": "Most of these keep items sterile for 24 hours if left sealed: the Tommee Tippee UV, Milton Cold Water, Milton Solo and Dr Brown's All-in-One all quote 24 hours, while the Momcozy KleanPal Pro's HEPA-filtered system extends this to 72 hours."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Mumsnet: best sterilisers (updated June 2026)",
+      "url": "https://www.mumsnet.com/reviews/sterilisers"
+    }
+  ]
+}
