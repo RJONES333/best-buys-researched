@@ -1,0 +1,189 @@
+{
+  "slug": "impact-drivers",
+  "title": "Best Impact Drivers UK",
+  "short": "Six cordless impact drivers tested on pine, maple and seasoned hardwood, compared on torque, weight and ease of use.",
+  "intro": "An impact driver drives long screws into hard wood with minimal effort by combining screwing action with a fast hammering motion, delivering far more torque than a standard drill driver. This guide is based on Expert Reviews' tested roundup, where each driver was tested on real timber, including pine, maple and seasoned hardwood, comparing torque, weight, balance, speed control and included features. Prices are as reviewed and mostly exclude battery and charger unless stated.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Gtech",
+      "name": "20V Impact Driver",
+      "badge": "Best for most people",
+      "best_for": "Great value with everything included in the box",
+      "key_spec": "1.12kg, brushed motor, 20V, 180Nm max torque, variable speed trigger, 12-bit set with battery and charger included",
+      "summary": "Expert Reviews found one of the lightest and smallest drivers tested at 1.12kg, ideal for confined spaces, with 180Nm of torque that drove four-inch screws all the way into pine and well-seasoned hardwood in testing (hardwood stripped one screw head, put down to using a cheap screw rather than the tool). The variable speed trigger starts slowly for alignment before ramping up, though the last centimetre of travel suddenly jumps to full power. Comes with battery, charger and 12 quality bit heads, making it great value.",
+      "specs": {
+        "Weight": "1.12kg",
+        "Motor": "Brushed",
+        "Voltage": "20V",
+        "Max torque": "180Nm",
+        "Price guide": "£130 (as reviewed, with battery and charger)"
+      },
+      "pros": [
+        "One of the lightest and smallest drivers tested",
+        "Comes with battery, charger and 12 bit heads",
+        "Smooth, sensitive variable speed trigger"
+      ],
+      "cons": [
+        "Trigger ramps to full power abruptly in the last centimetre of travel"
+      ],
+      "asin": "",
+      "search": "Gtech 20V Impact Driver"
+    },
+    {
+      "brand": "DeWalt",
+      "name": "DCF887D2 Kit",
+      "badge": "Best brushless",
+      "best_for": "Driving long screws through difficult materials with excellent balance",
+      "key_spec": "1.31kg, brushless motor, 18V, 205Nm max torque, 3-speed switch, magnetic bit holder, trouser clip",
+      "summary": "Expert Reviews found small, powerful batteries that run for hours and keep weight down to 1.31kg, the second lightest tested, sitting perfectly level whether used vertically or horizontally. The brushless motor's 205Nm torque suits almost all heavy-duty applications, and the driver excelled driving long screws through maple with a fine-headed screw in testing. It has three LEDs, a magnetic holder for spare bits and a trouser clip. The bit sleeve springs bits out enthusiastically on ejection, so watch where they land.",
+      "specs": {
+        "Weight": "1.31kg",
+        "Motor": "Brushless",
+        "Voltage": "18V",
+        "Max torque": "205Nm",
+        "Price guide": "£331 (as reviewed, with battery and charger; body only around £80)"
+      },
+      "pros": [
+        "Excellent balance vertically or horizontally",
+        "Excels at driving long screws through difficult materials",
+        "Slim, ergonomic and extraordinarily comfortable grip"
+      ],
+      "cons": [
+        "Bit ejects with force and can be lost if not careful",
+        "Expensive as a full kit"
+      ],
+      "asin": "",
+      "search": "DeWalt DCF887D2 Impact Driver Kit"
+    },
+    {
+      "brand": "Ryobi",
+      "name": "One+ R18IDBL",
+      "badge": "Best high-torque",
+      "best_for": "Outright power for the toughest driving jobs, especially decking",
+      "key_spec": "1.54kg (with 2.5Ah battery), brushless motor, 18V, 270Nm max torque, dedicated DeckDrive mode, 4 power levels",
+      "summary": "Expert Reviews found a frictionless, brushless motor delivering 270Nm, more powerful than anything else in the roundup, though the extra power adds weight at 1.54kg with a slim battery attached. A specialised DeckDrive mode is optimised for decking, and testers found it drove decking screws deep with zero fuss and hardly any pressure or kickback on the wrist. The chunky grip suits bigger hands, and Ryobi's batteries are said to give 20% longer runtime than rivals. The spring-loaded bit sleeve ejects bits a little too enthusiastically, and it arrives without a battery or charger.",
+      "specs": {
+        "Weight": "1.54kg (with battery)",
+        "Motor": "Brushless",
+        "Voltage": "18V",
+        "Max torque": "270Nm",
+        "Price guide": "£120 (as reviewed, without battery and charger)"
+      },
+      "pros": [
+        "Most powerful torque of any driver tested",
+        "Dedicated DeckDrive mode for decking work",
+        "Excellent balance and comfort when used horizontally"
+      ],
+      "cons": [
+        "Heaviest of the more affordable drivers tested",
+        "Arrives without battery and charger"
+      ],
+      "asin": "",
+      "search": "Ryobi One+ R18IDBL Impact Driver"
+    },
+    {
+      "brand": "Makita",
+      "name": "LXT DTD152Z",
+      "badge": "Best budget",
+      "best_for": "Reliable, trusted-brand performance without paying for a brushless motor",
+      "key_spec": "1.57kg (with 4.0Ah battery), brushed motor, 18V, 165Nm max torque, twin LED headlights, no power modes",
+      "summary": "Expert Reviews found a cheaper brushed motor delivering an adequate 165Nm, more than enough to drive most screw lengths, with no issues driving a 4-inch screw into pine, though it took longer on maple. The variable speed trigger isn't as sophisticated as pricier rivals and there's no option for different power modes. It weighed 1.57kg with the larger battery tested, making it feel a little bottom-heavy horizontally, though Makita's range of smaller batteries can improve balance at the cost of runtime.",
+      "specs": {
+        "Weight": "1.57kg (with battery)",
+        "Motor": "Brushed",
+        "Voltage": "18V",
+        "Max torque": "165Nm",
+        "Price guide": "£55 (as reviewed, without battery and charger)"
+      },
+      "pros": [
+        "Great value for pretty much any DIY task",
+        "Trusted, popular brand among professionals",
+        "Very bright twin LED headlights"
+      ],
+      "cons": [
+        "No power modes",
+        "Feels bottom-heavy with the larger battery"
+      ],
+      "asin": "",
+      "search": "Makita LXT DTD152Z Impact Driver"
+    },
+    {
+      "brand": "Bosch",
+      "name": "EasyImpactDrive 12",
+      "badge": "Best compact",
+      "best_for": "The lightest possible driver for weight-conscious DIYers",
+      "key_spec": "1kg (with 12V battery), brushed motor, 12V, 100Nm max torque, two-speed power switch",
+      "summary": "Expert Reviews found the lightest driver on test at just 1kg with its optional mini 12V battery, small enough to fit in a drawer, though it isn't the best balanced and can't stand upright on its battery mid-job. Despite being the least powerful driver tested at 100Nm, it proved surprisingly capable driving a 4-inch screw into pine with no problem. A two-speed power switch is a bonus for a DIY-range model from Bosch's greener, more affordable line.",
+      "specs": {
+        "Weight": "1kg (with battery)",
+        "Motor": "Brushed",
+        "Voltage": "12V",
+        "Max torque": "100Nm",
+        "Price guide": "£59 (as reviewed, without battery and charger)"
+      },
+      "pros": [
+        "Lightest driver tested, fits in a drawer",
+        "Surprisingly capable despite lowest torque tested",
+        "Two-speed power switch"
+      ],
+      "cons": [
+        "Least powerful driver tested",
+        "Not the best balanced, can't stand upright on the battery"
+      ],
+      "asin": "",
+      "search": "Bosch EasyImpactDrive 12"
+    },
+    {
+      "brand": "Milwaukee",
+      "name": "M18FID-0",
+      "badge": "Best for features",
+      "best_for": "Serious DIYers and professionals who want smart, adaptive power modes",
+      "key_spec": "1.7kg (with 18V battery), brushless Powerstate motor, 18V, 203Nm max torque, 4 power modes with auto-adjust, LED and power gauge",
+      "summary": "Expert Reviews found a compact driver with a brushless Powerstate motor delivering 203Nm, ample for heavy-duty tasks, quoting a user who said 'this driver just tears in and I've yet to find a screw it can't drive.' Four power modes offer different speed and torque ranges, with a clever fourth mode that automatically adjusts bit speed if it detects high resistance. It has a front LED and a handy power gauge showing battery status, but arrives without a battery or charger.",
+      "specs": {
+        "Weight": "1.7kg (with battery)",
+        "Motor": "Brushless",
+        "Voltage": "18V",
+        "Max torque": "203Nm",
+        "Price guide": "£115 (as reviewed, without battery and charger)"
+      },
+      "pros": [
+        "Four power modes including auto-adjusting resistance detection",
+        "Powerful and tough for heavy-duty work",
+        "LED light and battery power gauge"
+      ],
+      "cons": [
+        "Arrives without battery and charger",
+        "One of the heavier drivers tested"
+      ],
+      "asin": "",
+      "search": "Milwaukee M18FID-0 Impact Driver"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Impact driver or drill driver?",
+      "a": "A drill driver suits light jobs like flat-pack furniture and drilling into walls, using an adjustable torque clutch to avoid over-driving screws, but it needs more forearm pressure and can strip screw heads. An impact driver adds a hammering action for driving long screws into hardwood with far less effort, but has no adjustable torque clutch and can't drill holes, since it only accepts hex-shank screw bits."
+    },
+    {
+      "q": "How much torque do I need?",
+      "a": "For typical DIY, 150-200Nm (as on the Gtech, Makita or DeWalt) is plenty. If you regularly work with decking or dense hardwood, a higher-torque model like the Ryobi (270Nm) or Milwaukee (203Nm) copes more easily, though extra torque usually means extra weight."
+    },
+    {
+      "q": "Brushed or brushless motor?",
+      "a": "Brushless motors, like those in the DeWalt, Ryobi and Milwaukee, tend to be more efficient and compact for their power. Brushed motors, as in the Gtech, Makita and Bosch, are usually cheaper and still perform well for typical DIY use, as Expert Reviews found in testing."
+    },
+    {
+      "q": "Does weight matter?",
+      "a": "Yes, especially for overhead or extended work. The Bosch (1kg) and Gtech (1.12kg) are the lightest tested, good for confined spaces or long sessions, while higher-torque models like the Milwaukee (1.7kg) and Ryobi (1.54kg) are heavier but more powerful."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best impact driver (2024)",
+      "url": "https://www.expertreviews.co.uk/home-garden/diy-power-tools/best-impact-driver"
+    }
+  ]
+}

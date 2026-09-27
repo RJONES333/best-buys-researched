@@ -3,7 +3,7 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Circular saws, jigsaws, multi-tools, mitre saws done (paint sprayers rejected, no genuine testing). Other Expert Reviews DIY/power tools candidates: garden multi-tools, table saws, tool bags, impact drivers, sanders, stud finders.
+- Circular saws, jigsaws, multi-tools, mitre saws done (paint sprayers rejected, no genuine testing). Other Expert Reviews DIY/power tools candidates: garden multi-tools, table saws, tool bags, sanders, stud finders.
 
 - Men's hair removal cream - Expert Reviews 2023 (5 products, Men, road-tested including intimate areas)
 - Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, best-coverless-duvets, vacuum-cleaners. (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
