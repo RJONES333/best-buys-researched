@@ -1,0 +1,163 @@
+{
+  "slug": "sanders",
+  "title": "Best Sanders UK",
+  "short": "Five corded and cordless sanders tested on different woods and sandpaper grades, from a £39 detail sander to a £120 multi-function tool.",
+  "intro": "The right sander depends on the job: a random orbital for general work, a detail sander for tight corners, or a multi-function model that swaps between heads. This guide is based on Expert Reviews' tested roundup, where each sander was personally used at all available speeds and modes, outdoors in dry weather, on a range of woods including large surfaces and hard-to-reach sections, with different sandpaper grades, judging ergonomics, weight, power and dust control. Prices are as reviewed.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Bosch",
+      "name": "PEX 220 A",
+      "badge": "Best orbital sander",
+      "best_for": "A versatile, user-friendly corded sander for a range of tasks",
+      "key_spec": "220W, 1.2kg, 125mm disc, 24,000opm, velcro-type sheet fastening, microfilter dust box",
+      "summary": "Expert Reviews found this incredibly easy to use: velcro-type fastening replaces sanding sheets in seconds, and a toggle on/off switch leaves fingers free to hold the soft, contoured grip. The powerful 220W motor and lightweight, compact design with a 125mm disc suit both tricky areas and larger jobs like a door or worktop. The small microfilter dust box keeps dust to a minimum but can be a little hard to clip back in after emptying, and there's no variable speed.",
+      "specs": {
+        "Weight": "1.2kg",
+        "Max speed": "24,000opm",
+        "Pad diameter": "125mm",
+        "Power": "220W",
+        "Price guide": "£52 (as reviewed)"
+      },
+      "pros": [
+        "User-friendly, sanding sheets swap in seconds",
+        "Lightweight and versatile for a range of tasks",
+        "Effective microfilter dust box"
+      ],
+      "cons": [
+        "Doesn't offer variable speed",
+        "Dust box can be tricky to clip back in"
+      ],
+      "asin": "",
+      "search": "Bosch PEX 220 A sander"
+    },
+    {
+      "brand": "Worx",
+      "name": "Sandeck WX820",
+      "badge": "Best multi-function",
+      "best_for": "Anyone who wants several sander types without buying multiple machines",
+      "key_spec": "40W, 2kg, 5 interchangeable heads (finishing, orbital, detail, finger, curved area), hyperlock clamping, 6 speeds, hard carry case",
+      "summary": "Expert Reviews found this effectively five sanders in one, with interchangeable heads swapped via a tool-free 'hyperlock' clamping system that Worx says provides one ton of clamping force. It comes with a microfilter dust box, six speed options for good control, and a hard carry case for storage and transport, unlike most sanders. Being cordless it isn't as powerful as a corded sander, but the battery is interchangeable with other Worx Powershare tools.",
+      "specs": {
+        "Weight": "2kg",
+        "Max speed": "10,000opm",
+        "Speeds": "6",
+        "Power": "40W",
+        "Price guide": "£120 without battery, £140 with (as reviewed)"
+      },
+      "pros": [
+        "Incredibly versatile with five interchangeable head types",
+        "Six speed options for precise control",
+        "Comes with a hard carry case, unlike most sanders"
+      ],
+      "cons": [
+        "Not as powerful as a corded sander"
+      ],
+      "asin": "",
+      "search": "Worx Sandeck WX820"
+    },
+    {
+      "brand": "Bosch",
+      "name": "PSM 100 A",
+      "badge": "Best detail sander",
+      "best_for": "Fiddly, hard-to-reach areas and precision tasks, especially for beginners",
+      "key_spec": "100W, 0.9kg, 104cm² triangular pointed pad, 26,000opm, rotatable plate, second sanding section",
+      "summary": "Expert Reviews found this, like its bigger sibling the PEX 220 A, incredibly easy to get to grips with: attach a sanding sheet, insert the dust box, plug in and go, making it great for beginners. The triangular pointed plate reaches into corners and can be rotated to extend its lifespan, with a second section for when more surface area is needed, unusual for a detail sander. The dust box is small, though it can be optionally attached to a vacuum for less mess, and there's only a single speed.",
+      "specs": {
+        "Weight": "0.9kg",
+        "Max speed": "26,000opm",
+        "Pad size": "104cm²",
+        "Power": "100W",
+        "Price guide": "£39 (as reviewed)"
+      },
+      "pros": [
+        "Compact and precise, great for corners",
+        "Very easy to use, ideal for beginners",
+        "Rotatable plate with a second sanding section"
+      ],
+      "cons": [
+        "Not suited to bigger jobs",
+        "Single speed only"
+      ],
+      "asin": "",
+      "search": "Bosch PSM 100 A detail sander"
+    },
+    {
+      "brand": "Makita",
+      "name": "BO4556",
+      "badge": "Best value finishing sander",
+      "best_for": "A simple, effective palm sander without breaking the bank",
+      "key_spec": "200W, 1.1kg, 112x102mm pad, 14,000opm, single-speed, clamp system for regular sandpaper sheets",
+      "summary": "Expert Reviews found an excellent value finishing (palm) sander, compact and lightweight with single-speed operation, easy to use thanks to a toggle switch and soft non-slip grip. It has an effective dust bag, not a given for affordable finishing sanders, and a simple clamp system that works with regular sandpaper sheets. The cable isn't very long, and the provided punch plate for cutting sheets to size isn't great, so pre-pierced sheets are recommended.",
+      "specs": {
+        "Weight": "1.1kg",
+        "Max speed": "14,000opm",
+        "Pad size": "112 x 102mm",
+        "Power": "200W",
+        "Price guide": "£56 (as reviewed)"
+      },
+      "pros": [
+        "Excellent value, simple and effective",
+        "Easy to use, non-slip grip",
+        "Effective dust bag included"
+      ],
+      "cons": [
+        "Short cable",
+        "Provided punch plate is a bit weak"
+      ],
+      "asin": "",
+      "search": "Makita BO4556 finishing sander"
+    },
+    {
+      "brand": "Makita",
+      "name": "DBO180Z",
+      "badge": "Best cordless orbital",
+      "best_for": "Working away from a power socket without sacrificing too much control",
+      "key_spec": "190W, 1.7kg, 125mm pad, 11,000opm, 2.8mm orbit diameter, 3 speed settings, 36-minute charge time",
+      "summary": "Expert Reviews found this cordless design frees you from a power socket, taking just 36 minutes to charge in testing with around 45 minutes of runtime at the highest speed. It's taller than corded sanders and the battery weight gets in the way of the grip somewhat, but it's easy to use with three speed settings for good control. The maximum speed isn't particularly high, but a large 2.8mm orbit diameter helps compensate, and testers found dust extraction above average with quiet operation.",
+      "specs": {
+        "Weight": "1.7kg",
+        "Max speed": "11,000opm",
+        "Pad diameter": "125mm",
+        "Speeds": "3",
+        "Price guide": "£89 (as reviewed, without battery)"
+      },
+      "pros": [
+        "Cordless freedom with a fast 36-minute charge",
+        "Three speed settings for good control",
+        "Above-average dust extraction, quiet in operation"
+      ],
+      "cons": [
+        "Grip is tricky to access with the battery attached",
+        "Maximum speed isn't particularly high"
+      ],
+      "asin": "",
+      "search": "Makita DBO180Z cordless orbital sander"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What type of sander do I need?",
+      "a": "A random orbital sander, like the Bosch PEX 220 A, is the most versatile all-rounder if you can only buy one. A detail sander, like the Bosch PSM 100 A, suits corners and precision work, and a finishing (palm) sander, like the Makita BO4556, suits flat areas before painting or oiling. A multi-function model like the Worx Sandeck covers several of these in one tool."
+    },
+    {
+      "q": "Corded or cordless?",
+      "a": "A corded sander like the Bosch PEX 220 A or PSM 100 A gives consistent power with no battery to charge, ideal if you're near a socket. A cordless model like the Makita DBO180Z or Worx Sandeck offers freedom of movement, at some cost to raw power and with the battery adding weight."
+    },
+    {
+      "q": "Do I need variable speed?",
+      "a": "A slower speed avoids removing material too quickly and gives more control, useful for delicate work. The Worx Sandeck (6 speeds) and Makita DBO180Z (3 speeds) offer this; the Bosch PEX 220 A, Bosch PSM 100 A and Makita BO4556 are all single speed."
+    },
+    {
+      "q": "How important is dust collection?",
+      "a": "Sanding creates a lot of dust, so a good dust box matters, especially indoors. All the sanders here include one, and the Bosch PSM 100 A can also connect to a vacuum cleaner for extra extraction. Check how easy the dust box is to empty and refit, since Expert Reviews found the Bosch PEX 220 A's a little fiddly."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best sander (2024)",
+      "url": "https://www.expertreviews.co.uk/home-garden/diy-power-tools/best-sanders"
+    }
+  ]
+}
