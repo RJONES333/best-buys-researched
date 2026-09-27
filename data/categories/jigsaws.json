@@ -1,0 +1,161 @@
+{
+  "slug": "jigsaws",
+  "title": "Best Jigsaws UK",
+  "short": "Five jigsaws compared on power, blade-changing, dust control and handling, from a £40 budget model to a £129 professional Dewalt.",
+  "intro": "A jigsaw cuts sheet materials like plywood, acrylic and chipboard in straight lines, angles and curves, guided by a flat plate that slides against the surface. This guide is based on Expert Reviews' tested roundup, covering corded and cordless models and judging power, blade-changing ease, dust extraction, vibration, handling and included accessories. Prices are as reviewed.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Black+Decker",
+      "name": "500W Autoselect Scorpion-Powered Electric Saw",
+      "badge": "Best multipurpose",
+      "best_for": "Buyers who want a jigsaw, pruning saw and reciprocating saw in one tool",
+      "key_spec": "Corded, 500W, push-button blade change, three-metre cable, 0-2,700 strokes per minute, carry case included",
+      "summary": "Expert Reviews found this combines a garden pruning saw, jigsaw and general reciprocating saw in one package, automatically switching speed depending on which blade is inserted. It's perfect for buying one tool rather than three, though not a complete master of any single trade. Blade changing uses a push-button rather than a screwdriver, and it comes with a carry case, but has no dust extraction, is heavier than dedicated jigsaws, and can be slightly awkward to start.",
+      "specs": {
+        "Cordless": "No",
+        "Power": "500W",
+        "Weight": "3.7kg",
+        "Strokes per minute": "0-2,700",
+        "Price guide": "£70 (as reviewed)"
+      },
+      "pros": [
+        "Combines jigsaw, pruning saw and reciprocating saw in one",
+        "Push-button blade changing",
+        "Comes with a carry case"
+      ],
+      "cons": [
+        "Not a complete master of any single trade",
+        "No dust extraction, heavier than dedicated jigsaws"
+      ],
+      "asin": "",
+      "search": "Black+Decker 500W Scorpion powered saw"
+    },
+    {
+      "brand": "Bosch",
+      "name": "PST 700 E Compact",
+      "badge": "Best for clean work spaces",
+      "best_for": "DIY enthusiasts who want dust control and an easy, lightweight tool",
+      "key_spec": "Corded, 500W, 1.7kg, dust extraction port and front air blow, squeeze-to-release blade change, 500-3,100 strokes per minute",
+      "summary": "Expert Reviews found a well-put-together, powerful yet lightweight corded jigsaw that vents dust out of a rear tube connectable to a vacuum cleaner, and can blow air out of the front to clear the cutting line for better visibility. A soft grip and low-vibration motor make it easy to control, and changing the blade is as simple as squeezing the mount's sides. There's no orbital motion, but it's a great all-rounder for a clean work area.",
+      "specs": {
+        "Cordless": "No",
+        "Power": "500W",
+        "Weight": "1.7kg",
+        "Strokes per minute": "500-3,100",
+        "Price guide": "£44 (as reviewed)"
+      },
+      "pros": [
+        "Dust extraction and front air blow for a clean cutting line",
+        "Lightweight and easy to control, low vibration",
+        "Simple squeeze-release blade changing"
+      ],
+      "cons": [
+        "No orbital motion"
+      ],
+      "asin": "",
+      "search": "Bosch PST 700 E Compact jigsaw"
+    },
+    {
+      "brand": "Ryobi",
+      "name": "R18JS-0 One+ 18V Cordless Jigsaw",
+      "badge": "Best for Ryobi kit owners",
+      "best_for": "Anyone who already owns Ryobi One+ batteries and wants top-end features at a mid-range price",
+      "key_spec": "Cordless (18V, no battery/charger included), 2.3kg, variable speed, trigger lock, LED lights, orbital action, quick-release blade lever",
+      "summary": "Expert Reviews found Ryobi has packed in top-end features usually reserved for pricier tools: variable speed control, a trigger lock for long cuts, LED lights and an orbital action that exposes more of the blade for longer blade life. Build quality feels sturdy and handling is excellent, with quick-release blade changing. It comes with neither battery nor charger, which adds significantly to the real cost unless you already own Ryobi One+ kit, and it has no dust extraction.",
+      "specs": {
+        "Cordless": "Yes (18V)",
+        "Weight": "2.3kg",
+        "Strokes per minute": "Up to 3,000",
+        "Price guide": "£93 (as reviewed, body only)"
+      },
+      "pros": [
+        "Top-end features for a mid-range price",
+        "Excellent handling and build quality",
+        "Quick-release blade changing"
+      ],
+      "cons": [
+        "No battery or charger included",
+        "No dust extraction"
+      ],
+      "asin": "",
+      "search": "Ryobi R18JS-0 One+ 18V Cordless Jigsaw"
+    },
+    {
+      "brand": "VonHaus",
+      "name": "Jigsaw 800W",
+      "badge": "Best for sheer power",
+      "best_for": "Buyers who want a powerful, laser-guided jigsaw at a budget price",
+      "key_spec": "Corded, 800W, laser guide, tool-less blade change, four-position speed switch, 800-3,000 strokes per minute",
+      "summary": "Expert Reviews found this cheap corded model notable for being more powerful than many rivals thanks to its 800W motor, without sacrificing accuracy thanks to a projected laser guide. It slices through materials easily with the right blade, has tool-less blade changing and an easy four-position speed switch. It's compact but not particularly light, and testers noted a fair amount of vibration to watch out for.",
+      "specs": {
+        "Cordless": "No",
+        "Power": "800W",
+        "Weight": "3.2kg",
+        "Strokes per minute": "800-3,000",
+        "Price guide": "£40 (as reviewed)"
+      },
+      "pros": [
+        "More powerful than many rivals at a low price",
+        "Laser guide helps accuracy",
+        "Tool-less blade changing"
+      ],
+      "cons": [
+        "Not particularly light",
+        "Noticeable vibration in use"
+      ],
+      "asin": "",
+      "search": "VonHaus Jigsaw 800W"
+    },
+    {
+      "brand": "Dewalt",
+      "name": "DCS331N-XJ XR",
+      "badge": "Best for professionals",
+      "best_for": "Tradespeople who want a smooth, powerful jigsaw for all-day use",
+      "key_spec": "Cordless (18V, body only), 2.4kg, anti-vibration counterbalance, dust blower and port, 3-position pendulum action, variable-pressure speed trigger",
+      "summary": "Expert Reviews found a professional tool with a fan-cooled motor with replaceable brushes for longevity, and a keyless blade-change system that's quick to operate. The anti-vibration counterbalance is the standout feature, smoothing out cuts whatever material is being cut, alongside a dust blower and extraction port and three-position pendulum action for curves. A unique variable-pressure trigger increases blade speed the harder you squeeze. It comes with no battery, charger or case, and may be overkill for occasional DIY.",
+      "specs": {
+        "Cordless": "Yes (18V, body only)",
+        "Weight": "2.4kg",
+        "Strokes per minute": "Up to 3,000",
+        "Price guide": "£129 (as reviewed, body only)"
+      },
+      "pros": [
+        "Anti-vibration counterbalance smooths out cuts",
+        "Dust blower and extraction port",
+        "Variable-pressure speed trigger, keyless blade change"
+      ],
+      "cons": [
+        "No battery, charger or case included",
+        "May be overkill for occasional DIY use"
+      ],
+      "asin": "",
+      "search": "Dewalt DCS331N-XJ XR cordless jigsaw"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Corded or cordless jigsaw?",
+      "a": "A corded model like the Bosch or VonHaus is cheaper and works all day without recharging, though the trailing cable can be a minor annoyance. A cordless model like the Ryobi or Dewalt offers freedom of movement, but check whether the battery and charger are included, as several cordless jigsaws here are sold as body-only."
+    },
+    {
+      "q": "Do I need dust extraction?",
+      "a": "If you cut indoors regularly, dust control matters: the Bosch vents dust out the back for a vacuum connection and can blow air to clear the cutting line, and the Dewalt has both a dust blower and extraction port. The Black+Decker, Ryobi and VonHaus have no dust extraction."
+    },
+    {
+      "q": "How is blade changing different between models?",
+      "a": "Quick-release or tool-less systems, like on the Bosch, Ryobi, VonHaus and Dewalt, are far faster than older screwdriver or allen key methods. The Black+Decker uses a push-button system, simple but not quite as quick as a lever release."
+    },
+    {
+      "q": "What blade should I use?",
+      "a": "Blades are graded by teeth per inch. Fewer, wider-spaced teeth suit chipboard and general wood, while finer, more densely packed teeth suit metal. Buy a variety pack to cover different materials, and check any pendulum or orbital action, which speeds cutting but can increase splintering on delicate materials."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best jigsaw (2023)",
+      "url": "https://www.expertreviews.co.uk/home-garden/diy-power-tools/best-jigsaw"
+    }
+  ]
+}
