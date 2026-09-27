@@ -84,6 +84,17 @@ def group_for(slug):
     return "More guides"
 
 
+# Sidebar/homepage groups that nest visually under a parent group, e.g. Golf
+# is shown as a subsection of Sports rather than its own top-level heading.
+# group_for() still returns the child name ("Golf") so breadcrumbs can note
+# it; PARENT_OF resolves that up to the top-level group for display.
+PARENT_OF = {"Golf": "Sports"}
+
+
+def top_group_for(slug):
+    return PARENT_OF.get(group_for(slug), group_for(slug))
+
+
 def sidebar_label(title):
     """Drop the leading "Best " from a guide title for quicker skimming in the
     sidebar menu. Full titles are kept everywhere else (H1s, tiles, <title>)."""
@@ -100,14 +111,20 @@ def sidebar_nav(categories, current_slug):
     group_order = list(GROUPS.keys())
     ordered_groups = [g for g in group_order if g in by_group]
     ordered_groups += [g for g in by_group if g not in ordered_groups]
+    top_groups = [g for g in ordered_groups if g not in PARENT_OF]
+
+    def render_items(items):
+        return "".join(
+            f'<li><a href="{BASE}/{c["slug"]}/"{" aria-current=\"page\"" if c["slug"] == current_slug else ""}>{esc(sidebar_label(c["title"]))}</a></li>'
+            for c in items
+        )
 
     sections = []
-    for group in ordered_groups:
-        items = "".join(
-            f'<li><a href="{BASE}/{c["slug"]}/"{" aria-current=\"page\"" if c["slug"] == current_slug else ""}>{esc(sidebar_label(c["title"]))}</a></li>'
-            for c in by_group[group]
-        )
-        sections.append(f'<p class="sidebar-heading">{esc(group)}</p><ul>{items}</ul>')
+    for group in top_groups:
+        parts = [f'<p class="sidebar-heading">{esc(group)}</p><ul>{render_items(by_group[group])}</ul>']
+        for child in [g for g in ordered_groups if PARENT_OF.get(g) == group]:
+            parts.append(f'<p class="sidebar-subheading">{esc(child)}</p><ul>{render_items(by_group[child])}</ul>')
+        sections.append("".join(parts))
     sections_html = "".join(sections)
 
     return f"""<nav class="sidebar-nav" aria-label="All guides">
@@ -304,7 +321,7 @@ def category_page(cat, all_categories):
     year = datetime.date.fromisoformat(cat["reviewed"]).year
     title = f"{cat['title']} ({year}): Our Top Picks"
     products = cat["products"]
-    group = group_for(cat["slug"])
+    group = top_group_for(cat["slug"])
 
     crumb_html, crumb_ld = breadcrumb([
         ("Guides", f"{SITE_URL}/"),
@@ -398,14 +415,23 @@ def home_page(categories):
     ordered_groups = [g for g in group_order if g in by_group]
     ordered_groups += [g for g in by_group if g not in ordered_groups]
 
-    sections = []
-    for group in ordered_groups:
-        tiles = "".join(
+    def tiles_for(items):
+        return "".join(
             f"""<a class="tile" href="{BASE}/{c['slug']}/" data-search="{esc((c['title'] + ' ' + c['short']).lower())}"><h3>{esc(c['title'])}</h3><p>{esc(c['short'])}</p>
 <span>{len(c['products'])} picks · reviewed {esc(fmt_month(c['reviewed']))}</span></a>"""
-            for c in by_group[group]
+            for c in items
         )
-        sections.append(f'<section class="guide-group" id="{slugify(group)}"><h2>{esc(group)}</h2>\n<div class="tiles">{tiles}</div></section>')
+
+    top_groups = [g for g in ordered_groups if g not in PARENT_OF]
+    sections = []
+    for group in top_groups:
+        inner = f'<div class="tiles">{tiles_for(by_group[group])}</div>'
+        for child in [g for g in ordered_groups if PARENT_OF.get(g) == group]:
+            inner += (
+                f'<div class="guide-subgroup"><h3 class="guide-subgroup-title">{esc(child)}</h3>'
+                f'<div class="tiles">{tiles_for(by_group[child])}</div></div>'
+            )
+        sections.append(f'<section class="guide-group" id="{slugify(group)}"><h2>{esc(group)}</h2>\n{inner}</section>')
     tiles_html = "\n".join(sections)
 
     total_products = sum(len(c["products"]) for c in categories)
