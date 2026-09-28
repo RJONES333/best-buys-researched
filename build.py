@@ -194,6 +194,7 @@ DISCLOSURE = (
 
 def layout(title, description, path, body, jsonld=None, wide=False, noindex=False):
     canonical = f"{SITE_URL}{path}"
+    og_image = f"{SITE_URL}{BASE}/assets/og-image.png"
     robots_meta = '<meta name="robots" content="noindex,follow">\n' if noindex else ""
     ld = ""
     if jsonld:
@@ -217,6 +218,13 @@ def layout(title, description, path, body, jsonld=None, wide=False, noindex=Fals
 <meta property="og:type" content="website">
 <meta property="og:url" content="{esc(canonical)}">
 <meta property="og:site_name" content="{esc(CONFIG['name'])}">
+<meta property="og:image" content="{esc(og_image)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{esc(title)}">
+<meta name="twitter:description" content="{esc(description)}">
+<meta name="twitter:image" content="{esc(og_image)}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&display=swap">
@@ -356,13 +364,24 @@ def category_page(cat, all_categories):
     )
 
     related = [c for c in all_categories if group_for(c["slug"]) == group and c["slug"] != cat["slug"]][:4]
+    related_heading = "Related guides"
+    if len(related) < 4:
+        # Small or single-category groups (e.g. Lighting, Bathroom) would
+        # otherwise dead-end with nothing else to click through to; top up
+        # with other guides site-wide so every page always links onward.
+        fallback = [
+            c for c in all_categories
+            if c["slug"] != cat["slug"] and c not in related
+        ]
+        related = related + fallback[: 4 - len(related)]
+        related_heading = "You might also like"
     related_html = ""
     if related:
         related_items = "".join(
             f'<a class="tile" href="{BASE}/{r["slug"]}/"><h3>{esc(r["title"])}</h3><p>{esc(r["short"])}</p></a>'
             for r in related
         )
-        related_html = f"""<h2>Related guides</h2>
+        related_html = f"""<h2>{related_heading}</h2>
 <div class="tiles">{related_items}</div>"""
 
     body = f"""<article>
