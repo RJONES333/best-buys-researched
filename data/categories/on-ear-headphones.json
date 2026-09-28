@@ -1,0 +1,185 @@
+{
+  "slug": "on-ear-headphones",
+  "title": "Best On-Ear Headphones UK",
+  "short": "Six on-ear headphones tested for comfort, clamping force and sound across genres, from an £18 wired budget pair to a £149 mainstream-music favourite.",
+  "intro": "On-ear headphones sit between bulky over-ear cans and in-ear earbuds, resting on rather than around the ear for a lighter, more portable middle ground. This guide is based on Expert Reviews' tested roundup, where testers assess build quality, comfort and clamping force, test audio performance across Bluetooth codecs, evaluate companion apps, monitor battery life in real-world use, and put noise cancellation and microphones through their paces across different environments.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Marshall",
+      "name": "Major IV",
+      "badge": "Best overall",
+      "best_for": "Buyers who want exceptional battery life without sacrificing sound",
+      "key_spec": "Bluetooth + 3.5mm jack, 80-hour battery, wireless charging, 165g",
+      "summary": "Expert Reviews' top pick, delivering exceptional stamina without sacrificing performance. Articulate mids and treble make it well suited to vocal-heavy and rock music, and testers found it more comfortable than rivals for extended listening, with Marshall's iconic branding on the earpads as a nice touch.",
+      "specs": {
+        "Connectivity": "Bluetooth + 3.5mm jack",
+        "Battery life": "80 hours",
+        "Weight": "165g",
+        "Price guide": "£129 (at time of writing)"
+      },
+      "pros": [
+        "Exceptional 80-hour battery life",
+        "Articulate mids and treble",
+        "More comfortable than rivals for long sessions",
+        "Supports wireless charging"
+      ],
+      "cons": [
+        "Not the lightest option on test"
+      ],
+      "asin": "",
+      "search": "Marshall Major IV headphones"
+    },
+    {
+      "brand": "Sennheiser",
+      "name": "HD 25",
+      "badge": "Best wired",
+      "best_for": "Buyers who want durability and strong passive noise isolation without Bluetooth",
+      "key_spec": "3.5mm/6.3mm jack, 140g, removable 1.5m cable, modular replaceable parts",
+      "summary": "Expert Reviews found this built for durability, with an adjustable headband, scratch-resistant pads and a modular design where worn parts can be replaced rather than binning the whole headphone. Strong clamping force gives remarkable passive noise isolation, and audio is neutral and balanced across genres, though bass lacks depth for low-frequency enthusiasts.",
+      "specs": {
+        "Connectivity": "3.5mm / 6.3mm jack",
+        "Weight": "140g",
+        "Cable": "1.5m, removable",
+        "Price guide": "£129 (at time of writing)"
+      },
+      "pros": [
+        "Remarkable passive noise isolation",
+        "Modular design with replaceable parts",
+        "Neutral, balanced sound across genres",
+        "Very durable build"
+      ],
+      "cons": [
+        "Bass lacks depth",
+        "No Bluetooth"
+      ],
+      "asin": "",
+      "search": "Sennheiser HD 25 headphones"
+    },
+    {
+      "brand": "Beats",
+      "name": "Solo 3",
+      "badge": "Best for mainstream music",
+      "best_for": "Buyers who mainly listen to pop, dance and mainstream genres on an iPhone",
+      "key_spec": "Bluetooth + 3.5mm jack, 40-hour battery, Apple Spatial Audio compatible, 215g",
+      "summary": "Expert Reviews found this delivers punchy highs and deep, impactful lows, perfect for dance and mainstream genres, though mid-range detail suffers, limiting its appeal for classical listeners. Seamless iOS integration and a lightweight design make it attractive despite that mid-range compromise.",
+      "specs": {
+        "Connectivity": "Bluetooth + 3.5mm jack",
+        "Battery life": "40 hours",
+        "Weight": "215g",
+        "Price guide": "£149 (at time of writing)"
+      },
+      "pros": [
+        "Punchy highs and impactful bass",
+        "Seamless iOS integration",
+        "Apple Spatial Audio support"
+      ],
+      "cons": [
+        "Mid-range detail suffers",
+        "Less suited to classical or acoustic genres"
+      ],
+      "asin": "",
+      "search": "Beats Solo 3 headphones"
+    },
+    {
+      "brand": "Jabra",
+      "name": "Elite 45h",
+      "badge": "Best under £100",
+      "best_for": "Buyers who want app-based sound customisation on a budget",
+      "key_spec": "Bluetooth only, 50-hour battery, memory foam cushions, EQ via Jabra Sound+ app",
+      "summary": "Expert Reviews found the memory foam ear cushions ensure comfort, with 40mm drivers delivering dynamic sound and strong vocal and treble handling. App-based EQ personalisation through the Jabra Sound+ app is a genuine differentiator at this price, though some sound leakage occurs at high volumes.",
+      "specs": {
+        "Connectivity": "Bluetooth only",
+        "Battery life": "50 hours",
+        "Weight": "160g",
+        "Price guide": "£70 (at time of writing)"
+      },
+      "pros": [
+        "Comfortable memory foam cushions",
+        "App-based EQ customisation",
+        "Strong vocal and treble handling",
+        "Long 50-hour battery"
+      ],
+      "cons": [
+        "Some sound leakage at high volumes"
+      ],
+      "asin": "",
+      "search": "Jabra Elite 45h headphones"
+    },
+    {
+      "brand": "Sony",
+      "name": "MDR-ZX310",
+      "badge": "Best budget wired",
+      "best_for": "Buyers who want a cheap, portable pair for basic everyday listening",
+      "key_spec": "3.5mm jack, 127g, 1.2m cable, foldable design",
+      "summary": "Expert Reviews summed this up as a 'you get what you pay for' pick, offering solid mid-range and treble articulation for the price. Bass lacks punch, but its real appeal lies in portability, a robust foldable build and trusted Sony branding at a minimal cost.",
+      "specs": {
+        "Connectivity": "3.5mm jack",
+        "Weight": "127g",
+        "Cable": "1.2m",
+        "Price guide": "£18 (at time of writing)"
+      },
+      "pros": [
+        "Very cheap",
+        "Foldable, portable design",
+        "Solid mid-range and treble for the price"
+      ],
+      "cons": [
+        "Bass lacks punch",
+        "No Bluetooth or ANC"
+      ],
+      "asin": "",
+      "search": "Sony MDR-ZX310 headphones"
+    },
+    {
+      "brand": "Adidas",
+      "name": "Sport RPT-01",
+      "badge": "Best for exercise",
+      "best_for": "Buyers who want washable, sweat-resistant on-ear headphones for the gym",
+      "key_spec": "Bluetooth 5.0, 40-hour battery, IPX4 water resistance, removable washable cushions",
+      "summary": "Expert Reviews highlighted the rare combination of removable, washable components and IPX4 water resistance, unusual for on-ear headphones. A snug fit and punchy sound profile suit gym environments well, though the knob-style controls are fiddly and need an adjustment period.",
+      "specs": {
+        "Connectivity": "Bluetooth 5.0",
+        "Battery life": "40 hours",
+        "Water resistance": "IPX4",
+        "Price guide": "£120 (at time of writing)"
+      },
+      "pros": [
+        "Removable, washable ear cushions and headband",
+        "IPX4 water resistance",
+        "Snug, secure fit for exercise",
+        "Punchy sound profile"
+      ],
+      "cons": [
+        "Fiddly knob controls"
+      ],
+      "asin": "",
+      "search": "Adidas Sport RPT-01 headphones"
+    }
+  ],
+  "guide": [
+    {
+      "q": "On-ear, over-ear, or in-ear?",
+      "a": "On-ear headphones like these sit lighter and more compactly on your head than over-ear cans, at some cost to passive noise isolation and comfort over very long sessions. They're generally more portable than over-ear headphones and more comfortable for extended wear than many earbuds. See our [over-ear headphones](/over-ear-headphones/) guide if you want bigger drivers and stronger noise cancelling."
+    },
+    {
+      "q": "Wired or wireless?",
+      "a": "A wired pair like the Sennheiser HD 25 or Sony MDR-ZX310 needs no charging and often gives the strongest passive noise isolation through clamping force alone. A wireless pair like the Marshall Major IV or Beats Solo 3 trades that for convenience and portability, at the cost of needing to remember to charge it."
+    },
+    {
+      "q": "Do I need water resistance?",
+      "a": "Only the Adidas Sport RPT-01 here carries an IP rating (IPX4), reflecting its exercise focus. If you plan to wear on-ear headphones for workouts, prioritise a rated, washable design like this one rather than a pair built for general listening."
+    },
+    {
+      "q": "How much does clamping force matter?",
+      "a": "Expert Reviews found stronger clamping force, as on the Sennheiser HD 25, gives better passive noise isolation without relying on active noise cancelling, but can feel tighter over long sessions. If comfort during extended wear matters most, a looser-fitting pair like the Marshall Major IV may suit you better."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best on-ear headphones (updated 28 November 2023)",
+      "url": "https://www.expertreviews.co.uk/technology/headphones-audio/best-on-ear-headphones"
+    }
+  ]
+}

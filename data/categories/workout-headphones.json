@@ -1,0 +1,191 @@
+{
+  "slug": "workout-headphones",
+  "title": "Best Workout and Sports Headphones UK",
+  "short": "Six workout headphones and earbuds tested through real gym sessions, runs and swims, from open-ear and bone-conduction designs to sweat-proof over-ear cans.",
+  "intro": "Standard headphones tend to fall out, fog up with sweat or block out traffic noise you actually need to hear on a run. This guide is based on Men's Fitness UK's tested roundup (updated 15 September 2026), where testers Kieran Alger, Mike Sawh and Laurence McJannet wore each pair through real gym sessions, runs and swims, judging secure fit, sweat and water resistance, sound quality, battery life and, where relevant, workout-tracking accuracy.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Apple",
+      "name": "AirPods Pro 3",
+      "badge": "Best overall",
+      "best_for": "iPhone users who want reliable workout tracking alongside excellent ANC",
+      "key_spec": "IP57 rated, adaptive ANC, 8hr battery (24hr with case), Bluetooth 5.3, 5.5g per earbud",
+      "summary": "Men's Fitness UK's top pick, calling workout tracking here the most reliable they've come across in any earbuds, a first for Apple. Noise cancellation blocks out gym and traffic noise even better than the previous generation, and Transparency mode lets sound back in cleanly when needed, in a tougher, more sweat-resistant design than before.",
+      "specs": {
+        "Water resistance": "IP57",
+        "Battery life": "8hr in buds, 24hr with case (ANC on)",
+        "Connectivity": "Bluetooth 5.3",
+        "Price guide": "Check current price (at time of writing)"
+      },
+      "pros": [
+        "Most reliable workout tracking tested",
+        "Excellent adaptive noise cancellation",
+        "Tougher, more sweat-resistant design",
+        "Clean Transparency mode"
+      ],
+      "cons": [
+        "Fit could still be problematic for some ears",
+        "Heart rate sensor mainly works with Apple apps"
+      ],
+      "asin": "",
+      "search": "Apple AirPods Pro 3"
+    },
+    {
+      "brand": "Shokz",
+      "name": "OpenSwim Pro",
+      "badge": "Best open-ear",
+      "best_for": "Swimmers and multi-sport athletes who want bone conduction with Bluetooth",
+      "key_spec": "IP68 rated, bone conduction, 32GB MP3 storage, 9hr battery, Bluetooth 5.4, 27.3g",
+      "summary": "Men's Fitness UK's tester wore these along roads and in both the pool and gym, finding them comfortable and secure, with decent sound quality for a bone conductor. The addition of Bluetooth alongside built-in MP3 storage is a genuine upgrade over earlier Shokz models, and they survived stress tests including high-heat exposure.",
+      "specs": {
+        "Water resistance": "IP68",
+        "Battery life": "9 hours",
+        "Connectivity": "Bluetooth 5.4",
+        "Price guide": "£199 (at time of writing)"
+      },
+      "pros": [
+        "IP68 waterproof, swim-safe",
+        "Built-in 32GB MP3 storage for swimming without a phone",
+        "Secure, comfortable, lightweight fit",
+        "Survived stress testing"
+      ],
+      "cons": [
+        "No charging case",
+        "Bluetooth battery life fell short of claims in testing",
+        "Sound is a bit lightweight"
+      ],
+      "asin": "",
+      "search": "Shokz OpenSwim Pro"
+    },
+    {
+      "brand": "Nothing",
+      "name": "Ear 2",
+      "badge": "Best-sounding earbuds",
+      "best_for": "Buyers who want premium sound and style without the premium AirPods price",
+      "key_spec": "IP54 (buds) / IP55 (case), adaptive ANC, 6.3hr battery (ANC off), Bluetooth 5.3, 4.5g per earbud",
+      "summary": "Men's Fitness UK found these offer fantastic value at nearly half the price of the Apple AirPods Pro, balancing everyday use with workout demands. The 11.6mm drivers sounded great in testing, and the extended-stem design stayed secure even on steep runs, though physical press controls weren't the most responsive mid-run.",
+      "specs": {
+        "Water resistance": "IP54 (buds), IP55 (case)",
+        "Battery life": "6.3hr (ANC off), 4hr (ANC on)",
+        "Connectivity": "Bluetooth 5.3, dual device",
+        "Price guide": "Roughly half the price of AirPods Pro (at time of writing)"
+      },
+      "pros": [
+        "Fantastic value for the sound quality",
+        "Secure, comfortable fit for running",
+        "Customisable ANC, transparency and EQ",
+        "Incredibly quick charging"
+      ],
+      "cons": [
+        "Physical controls not the most responsive on the run",
+        "Missing advanced lost-earbud geolocation"
+      ],
+      "asin": "",
+      "search": "Nothing Ear 2 earbuds"
+    },
+    {
+      "brand": "H2O Audio",
+      "name": "RIPT Ultra",
+      "badge": "Best over-ear",
+      "best_for": "Buyers who want fully immersive sound and ANC for gym-only sessions",
+      "key_spec": "IPX5 sweat-proof, adaptive ANC, swappable silicone/leather cushions, 50hr battery, 2-year warranty",
+      "summary": "Men's Fitness UK rated this one of the most effective active noise cancellation implementations they've tried, so immersive that testers recommend it for gym-based workouts only rather than outdoor use where awareness of surroundings matters. Interchangeable, washable silicone and leather cushions are a standout feature, and the 50-hour battery easily covers a week of sessions.",
+      "specs": {
+        "Water resistance": "IPX5 sweat-proof",
+        "Battery life": "50 hours",
+        "Warranty": "2 years",
+        "Price guide": "£187.22 (at time of writing)"
+      },
+      "pros": [
+        "Exceptionally effective ANC",
+        "Interchangeable washable cushions",
+        "Long 50-hour battery",
+        "2-year warranty"
+      ],
+      "cons": [
+        "Buttons can be tricky to locate mid-workout",
+        "ANC is so immersive it's not suited to outdoor use"
+      ],
+      "asin": "",
+      "search": "H2O Audio RIPT Ultra headphones"
+    },
+    {
+      "brand": "H2O Audio",
+      "name": "Tri Run",
+      "badge": "Best budget bone conductor",
+      "best_for": "Buyers who want open-ear safety and waterproofing without a premium price",
+      "key_spec": "IPX8 waterproof, bone conduction, open-ear design, 6hr battery",
+      "summary": "Men's Fitness UK found this delivers a third of the price of market-leading bone conductors with sound, comfort and ease of use that hold up well against rivals costing three times as much. Testers highlighted how quickly you forget you're wearing them, a genuine plus over pricier open-ear alternatives, with battery life that exceeded expectations.",
+      "specs": {
+        "Water resistance": "IPX8",
+        "Battery life": "6 hours",
+        "Design": "Bone conduction, open-ear",
+        "Price guide": "£74.14 (at time of writing)"
+      },
+      "pros": [
+        "Excellent value for an open-ear headphone",
+        "Easy to use and pair",
+        "Battery life exceeds expectations",
+        "Comfortable, easy to forget you're wearing them"
+      ],
+      "cons": [
+        "Proprietary charging cable",
+        "Bass is a little thin, typical of open-ear designs"
+      ],
+      "asin": "",
+      "search": "H2O Audio Tri Run open-ear headphones"
+    },
+    {
+      "brand": "Bose",
+      "name": "Ultra Open Earbuds",
+      "badge": "Best open-ear earbuds",
+      "best_for": "Buyers who want premium sound while staying fully aware of their surroundings",
+      "key_spec": "IPX4, open-ear design, OpenAudio technology, up to 7hr battery, Bluetooth multipoint",
+      "summary": "Men's Fitness UK called this the best-sounding open-ear buds they've tested, delivering rich, immersive audio while an innovative hook design keeps you fully aware of traffic and surroundings, ideal for road running or cycling. They can feel slightly unstable, and the price is steep, but the situational awareness genuinely works as intended.",
+      "specs": {
+        "Water resistance": "IPX4",
+        "Battery life": "Up to 7 hours",
+        "Connectivity": "Bluetooth multipoint",
+        "Price guide": "£149.99 (at time of writing)"
+      },
+      "pros": [
+        "Best-sounding open-ear buds tested",
+        "Keeps you aware of surroundings, ideal for road running",
+        "Versatile for workouts, commuting and work"
+      ],
+      "cons": [
+        "Can feel slightly unstable",
+        "Expensive",
+        "No wireless charging"
+      ],
+      "asin": "",
+      "search": "Bose Ultra Open Earbuds"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Open-ear, in-ear, or over-ear for workouts?",
+      "a": "Open-ear and bone-conduction designs like the Shokz or H2O Audio Tri Run leave your ear canal free, keeping you aware of traffic or gym surroundings, at some cost to bass depth. In-ear buds like the Nothing Ear 2 or Apple AirPods Pro 3 give richer sound and active noise cancellation for gym-only focus. Over-ear options like the H2O Audio RIPT Ultra offer the most immersive sound but are bulkier to carry."
+    },
+    {
+      "q": "How much water resistance do I actually need?",
+      "a": "For general gym sweat, an IPX4 rating like the Bose Ultra Open Earbuds is usually enough. For running in the rain or open-water swimming, look for IP68 or IPX8 like the Shokz OpenSwim Pro or H2O Audio Tri Run, both fully submersible."
+    },
+    {
+      "q": "Should I run with noise cancellation on?",
+      "a": "Men's Fitness UK specifically recommends the H2O Audio RIPT Ultra's strong ANC for gym-only use rather than outdoor running, since blocking out traffic noise on the road is a safety risk. For outdoor exercise, an open-ear design like the Bose Ultra Open Earbuds or Shokz keeps you aware of your surroundings by design."
+    },
+    {
+      "q": "Do I need workout tracking built into the earbuds?",
+      "a": "Men's Fitness UK found the Apple AirPods Pro 3's workout and heart-rate tracking the most reliable of any earbuds tested, useful if you want one fewer device to carry. Most other options here rely on a separate watch or phone for tracking, which is perfectly fine if you already use one."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Men's Fitness UK: best workout headphones (updated 15 September 2026)",
+      "url": "https://mensfitness.co.uk/review/best-workout-headphones/"
+    }
+  ]
+}

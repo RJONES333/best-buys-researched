@@ -35,8 +35,8 @@ GROUPS = {
     ],
     "Cleaning": ["robot-vacuums", "cordless-vacuums", "corded-vacuum-cleaners", "steam-cleaners"],
     "Audio & TV": [
-        "wireless-earbuds", "over-ear-headphones", "gaming-headsets",
-        "bluetooth-speakers", "soundbars", "tvs", "projectors",
+        "wireless-earbuds", "over-ear-headphones", "on-ear-headphones", "kids-headphones",
+        "workout-headphones", "gaming-headsets", "bluetooth-speakers", "soundbars", "tvs", "projectors",
     ],
     "Computing & desk": [
         "laptops", "tablets", "pc-monitors", "monitor-arms", "mechanical-keyboards",
