@@ -1,0 +1,134 @@
+{
+  "slug": "foot-warmers",
+  "title": "Best Foot Warmers and Heated Slippers UK",
+  "short": "Four foot warmers and heated slippers tested for warmth and comfort, from a 75p-a-use disposable warmer to a plug-in electric foot warmer.",
+  "intro": "Since we lose a lot of heat through our extremities, warming just the feet can be a cheaper way to stay comfortable than heating a whole room. This guide is based on Mumsnet's tested roundup (updated December 2025), where testers tried each product themselves, alongside forum recommendations, judging warmth, ease of use, comfort and value. Prices shown are those quoted by Mumsnet at time of writing.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Beurer",
+      "name": "FW20UK Cosy Foot Warmer",
+      "badge": "Best overall",
+      "best_for": "All-day warmth under a desk while working from home",
+      "key_spec": "Mains-powered, 3 heat settings, soft fleece lining (washable at 30°C), 90-minute auto shut-off",
+      "summary": "Mumsnet's tester found a super soft fleece lining and three heat levels make this an incredibly cosy treat for feet in winter, with an illuminated control panel for easy switching between settings and a 90-minute auto shut-off for safety. It takes some time to fully warm up, and Mumsnet users report needing the hottest setting to really feel the benefit, but it's ideal for popping under a desk and staying warm and snug throughout the working day.",
+      "specs": {
+        "Type": "Electric, mains-powered",
+        "Portable": "No",
+        "Heat settings": "3",
+        "Price guide": "£43 (at time of writing)"
+      },
+      "pros": [
+        "Easy to use",
+        "Soft and cosy lining",
+        "Auto shut-off after 90 minutes"
+      ],
+      "cons": [
+        "Takes time to warm up"
+      ],
+      "asin": "",
+      "search": "Beurer FW20UK Cosy Foot Warmer"
+    },
+    {
+      "brand": "HotHands",
+      "name": "Foot Warmers",
+      "badge": "Best budget",
+      "best_for": "Cheap, portable warmth for occasional outdoor use",
+      "key_spec": "Air-activated, one size, single-use, heat lasts around 5 hours, 75p per use",
+      "summary": "Mumsnet's tester peeled off a paper strip and stuck the warmer to a sock, feeling impressive heat within a few seconds, with a nice gentle warmth for around five hours (less than the advertised eight). Once applied, shoes go on as normal, making them great for outdoor use, and they weren't too obtrusive though a little extra padding was noticeable around the toes. At 75p per use they're cheap for occasional cold days, but costs add up with frequent use, and they're single-use so not the most eco-friendly.",
+      "specs": {
+        "Type": "Air-activated",
+        "Portable": "Yes",
+        "Heat lasts": "Around 5 hours",
+        "Price guide": "£4 for a pack of five (at time of writing)"
+      },
+      "pros": [
+        "Cheap option with impressive heat",
+        "Easy to use on the go",
+        "Can be used indoors and outside"
+      ],
+      "cons": [
+        "Single-use, so not the most eco-friendly",
+        "Heat fades after around five hours, less than the advertised eight"
+      ],
+      "asin": "",
+      "search": "HotHands Foot Warmers"
+    },
+    {
+      "brand": "Warmies",
+      "name": "Fully Heatable Slippers Scented with French Lavender",
+      "badge": "Best heated slippers",
+      "best_for": "A quick, scented boost of warmth for relaxing on the sofa",
+      "key_spec": "Microwaveable, one size, spot clean only, warmth lasts about 30 minutes",
+      "summary": "Mumsnet's tester found these super easy to use: pop the whole pair in the microwave for a minute to warm through, then slip them on. The calming lavender and wheat scent was a highlight, ideal for soothing the senses at the end of a busy day, and they made a great addition when curling up on the sofa or working from home. They're a little heavy for walking around the house, don't stay warm as long as electric foot warmers (about 30 minutes, standard for this style), and are spot clean only.",
+      "specs": {
+        "Type": "Microwaveable",
+        "Portable": "Yes",
+        "Warmth lasts": "About 30 minutes",
+        "Price guide": "£13 (at time of writing)"
+      },
+      "pros": [
+        "Soothing lavender scent",
+        "Heats up quickly and easily",
+        "Provides a short-term boost of gentle warmth"
+      ],
+      "cons": [
+        "Heavy to move around in",
+        "Spot clean only",
+        "Comes up big for small feet (one size fits all)"
+      ],
+      "asin": "",
+      "search": "Warmies Fully Heatable Slippers French Lavender"
+    },
+    {
+      "brand": "Kuddly",
+      "name": "Komfies Heated Slippers",
+      "badge": "Best heated slipper boot",
+      "best_for": "A more luxurious, boot-style microwaveable slipper that's fully machine washable",
+      "key_spec": "Microwaveable (removable clay inserts), one size, machine washable once inserts removed, warmth lasts about 30 minutes",
+      "summary": "Mumsnet's tester found these felt much more luxurious than the Warmies, with a thicker sole for comfort, though the Warmies gave a stronger heat in the first five minutes. Heating just needs the clay inserts removed and warmed in the microwave for the specified time, giving gentle warmth on top of the foot for around 30 minutes. Once the inserts are out, the boots can go in the washing machine, a plus over the Warmies. They're pricier and a little noisy underfoot, though this is more of a padding sound than anything distracting.",
+      "specs": {
+        "Type": "Microwaveable (removable inserts)",
+        "Portable": "Yes",
+        "Warmth lasts": "About 30 minutes",
+        "Price guide": "£19 (at time of writing)"
+      },
+      "pros": [
+        "Very comfy with a thicker sole",
+        "Machine washable once inserts are removed",
+        "Elasticated ankle traps extra heat"
+      ],
+      "cons": [
+        "More expensive than Warmies",
+        "A little noisy when walking"
+      ],
+      "asin": "",
+      "search": "Kuddly Komfies Heated Slippers"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Electric, air-activated or microwaveable?",
+      "a": "An electric foot warmer like the Beurer gives longer, adjustable warmth but needs a mains socket nearby. Air-activated warmers like HotHands are portable and instant but single-use. Microwaveable options like the Warmies or Kuddly Komfies reheat repeatedly but only stay warm for around 30 minutes at a time."
+    },
+    {
+      "q": "How long does each option stay warm?",
+      "a": "The Beurer runs for as long as it's plugged in, with a 90-minute auto shut-off for safety. HotHands lasted around five hours in testing. The microwaveable Warmies and Kuddly Komfies both give about 30 minutes of warmth per heating, standard for this style of slipper."
+    },
+    {
+      "q": "Can I wash them?",
+      "a": "The Beurer's fleece lining is washable at 30°C. The Kuddly Komfies can go in the washing machine once the clay inserts are removed, which the Warmies can't manage, as they're spot clean only. HotHands are single-use so washing doesn't apply."
+    },
+    {
+      "q": "Are foot warmers good for poor circulation?",
+      "a": "Mumsnet notes that foot warmers and heated slippers can help ease numbness and discomfort from conditions like Raynaud's syndrome by keeping the extremities warm, though those with a massaging function may offer extra benefit by helping blood flow. If you have a circulatory condition, check with a healthcare professional before regular use."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Mumsnet: best foot warmers and heated slippers (updated December 2025)",
+      "url": "https://www.mumsnet.com/swearsby/best-foot-warmers-and-heated-slippers"
+    }
+  ]
+}
