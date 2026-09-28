@@ -1,0 +1,129 @@
+{
+  "slug": "car-scratch-removers",
+  "title": "Best Car Scratch Removers UK",
+  "short": "Four scratch removers tested on a bonnet deliberately marked with a craft knife, wire wool and a plastic trim tool, from a £10 budget compound to a £25.50 full kit.",
+  "intro": "Not every scratch needs a respray, and a good cutting compound can make light surface marks far less visible with nothing more than hand polishing. This guide is based on Auto Express's tested roundup, where testers deliberately marked an old bonnet with a craft knife, wire wool and a plastic trim-removal tool to create a range of scratch severities, then applied each scratch remover with a set amount of pressure to simulate realistic hand polishing.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "T-Cut",
+      "name": "Perfect Compound",
+      "badge": "Best overall",
+      "best_for": "Buyers who want the strongest, most reliable results by hand or machine",
+      "key_spec": "500ml, works by hand or machine, green cutting compound",
+      "summary": "Auto Express's top performer, working quickly to make the wire wool and trim tool marks barely visible on the test bonnet. It's available in formats for both hand and machine application, and while not the cheapest on test, testers called it good value and noted it's widely available.",
+      "specs": {
+        "Size": "500ml",
+        "Application": "Hand or machine",
+        "Price guide": "£12.50 (at time of writing)"
+      },
+      "pros": [
+        "Strongest results on test",
+        "Works quickly",
+        "Available for hand or machine use",
+        "Widely available"
+      ],
+      "cons": [
+        "Not the cheapest option on test"
+      ],
+      "asin": "",
+      "search": "T-Cut Perfect Compound"
+    },
+    {
+      "brand": "Angelwax",
+      "name": "Regenerate",
+      "badge": "Easiest to apply",
+      "best_for": "Buyers polishing larger areas who want an easy-flowing, less abrasive compound",
+      "key_spec": "250ml, flows easily, less abrasive feel than rivals",
+      "summary": "Auto Express found this flows easily and feels less abrasive than the competition, making it easier to work over larger areas. Results nearly matched the class-leading T-Cut, with only the deepest craft knife marks still visible afterwards, though the smaller 250ml bottle costs the same as T-Cut's larger 500ml.",
+      "specs": {
+        "Size": "250ml",
+        "Application": "Hand",
+        "Price guide": "£12.50 (at time of writing)"
+      },
+      "pros": [
+        "Easy to apply over large areas",
+        "Less abrasive feel",
+        "Results close to the class winner"
+      ],
+      "cons": [
+        "Smaller bottle for the same price as the winner"
+      ],
+      "asin": "",
+      "search": "Angelwax Regenerate scratch remover"
+    },
+    {
+      "brand": "Diamondbrite",
+      "name": "Diamond Cut",
+      "badge": "Best value",
+      "best_for": "Buyers who want a wallet-friendly compound with added gloss-filling wax",
+      "key_spec": "500ml, contains microscopic particles plus wax and silicone",
+      "summary": "Auto Express's best value pick, using microscopic particles combined with wax and silicone layers to fill minor imperfections and boost gloss on top of cutting away light marks. It's easy to apply, but testers found the protective coating washes away within a few car washes, and the silicone content can cause fisheye issues if paint or touch-up is applied nearby afterwards.",
+      "specs": {
+        "Size": "500ml",
+        "Contains": "Cutting particles, wax and silicone",
+        "Price guide": "£10 (at time of writing)"
+      },
+      "pros": [
+        "Cheapest option on test",
+        "Fills minor imperfections and boosts gloss",
+        "Easy to apply"
+      ],
+      "cons": [
+        "Protective coating washes away quickly",
+        "Silicone content can interfere with later paintwork"
+      ],
+      "asin": "",
+      "search": "Diamondbrite Diamond Cut scratch remover"
+    },
+    {
+      "brand": "Autoglym",
+      "name": "Scratch Removal Kit",
+      "badge": "Most complete kit",
+      "best_for": "Buyers who want everything included in one box for a proper job",
+      "key_spec": "100ml cutting paste plus 100ml resin polish, foam pad and cloth included",
+      "summary": "Auto Express found this comprehensive kit, including a cutting paste, a resin polish, a foam applicator pad and a cloth, easy to use and capable of matching the T-Cut's finish quality. It took roughly double the application time of the simpler single-product options and costs significantly more, but suits buyers who want a complete, guided process.",
+      "specs": {
+        "Sizes": "100ml cutting paste + 100ml resin polish",
+        "Includes": "Foam pad and cloth",
+        "Price guide": "£25.50 (at time of writing)"
+      },
+      "pros": [
+        "Matches the winner's finish quality",
+        "Everything needed included in one kit",
+        "Easy step-by-step process"
+      ],
+      "cons": [
+        "Most expensive option on test",
+        "Takes roughly double the application time"
+      ],
+      "asin": "",
+      "search": "Autoglym Scratch Removal Kit"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Will a scratch remover fix any scratch?",
+      "a": "Auto Express's test used marks from a craft knife, wire wool and a plastic trim tool, a range representing light-to-moderate surface damage. These products work on scratches that haven't gone through the clear lacquer to bare metal; deeper scratches will need touch-up paint or professional repair."
+    },
+    {
+      "q": "By hand or by machine?",
+      "a": "Auto Express tested these by hand, and the winning T-Cut Perfect Compound is also available in a format suited to machine polishing for faster results over larger areas. Hand application takes longer but needs no extra equipment."
+    },
+    {
+      "q": "Is a cheaper product as good as a pricier one?",
+      "a": "Not always in the long run. Auto Express found the budget Diamondbrite Diamond Cut gave a good initial gloss boost, but its protective coating washed away within a few car washes, unlike the longer-lasting results from the T-Cut and Angelwax."
+    },
+    {
+      "q": "Is a full kit worth the extra cost?",
+      "a": "Auto Express found the Autoglym Scratch Removal Kit matched the winning T-Cut's finish quality but took twice as long to apply and cost more than double. It's worth it mainly if you want a guided, all-in-one process rather than buying a compound alone."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Auto Express: best car scratch removers",
+      "url": "https://www.autoexpress.co.uk/car-care/86280/best-scratch-removers-2024"
+    }
+  ]
+}
