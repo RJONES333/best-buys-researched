@@ -74,7 +74,7 @@ GROUPS = {
         "grass-trimmers",
     ],
     "DIY & tools": ["cordless-drills", "tool-sets", "smoke-alarms", "circular-saws", "jigsaws", "multi-tools", "mitre-saws", "impact-drivers", "sanders"],
-    "Automotive": ["dash-cams", "tyre-inflators", "car-phone-mounts", "jump-starters", "car-vacuum-cleaners", "car-battery-chargers"],
+    "Automotive": ["dash-cams", "tyre-inflators", "car-phone-mounts", "jump-starters", "car-vacuum-cleaners", "car-battery-chargers", "wiper-blades", "car-seat-covers"],
     "Luggage & travel": ["suitcases", "travel-adaptors"],
     "Pet supplies": ["dog-beds", "cat-carriers", "automatic-pet-feeders", "pet-cameras", "dog-poo-bags"],
     "Baby": ["baby-monitors", "pushchairs", "toddler-car-seats", "baby-carriers", "high-chairs", "travel-cots", "baby-bouncers", "breast-pumps", "stair-gates", "baby-bottles", "sterilisers", "changing-bags", "newborn-cribs", "travel-systems", "lightweight-strollers", "double-buggies", "baby-car-seats", "nursing-bras", "baby-carrier-backpacks", "cabin-approved-strollers"],
