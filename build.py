@@ -66,6 +66,7 @@ GROUPS = {
     "Men": ["electric-shavers", "hair-clippers", "beard-trimmers", "nose-hair-trimmers", "mens-hair-removal-cream"],
     "Women": ["epilators", "bikini-trimmers", "ipl-hair-removal", "hair-dryers", "hair-straighteners", "travel-hair-dryers"],
     "Kids": ["trending-kids-toys", "trampolines", "balance-bikes", "kids-scooters"],
+    "Lighting": ["smart-bulbs"],
     "Garden": [
         "lawn-mowers", "pressure-washers", "bbqs", "hedge-trimmers",
         "garden-pest-repellers", "leaf-blowers", "robot-lawn-mowers",

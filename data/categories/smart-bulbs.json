@@ -1,0 +1,228 @@
+{
+  "slug": "smart-bulbs",
+  "title": "Best Smart Bulbs and Lighting Systems UK",
+  "short": "Eight smart lighting systems, bulbs and LED strips compared on setup, features and value, from a budget Wi-Fi bulb to a full Philips Hue system.",
+  "intro": "Smart bulbs let you control colour, brightness and schedules from an app or voice assistant, and can be part of a hub-based system or connect directly over Wi-Fi. This guide is based on Expert Reviews' tested roundup, where each system or bulb was set up through its app, tested for scheduling, scenes, colour-changing and fade features, and paired with Google Home and Alexa to check voice control. Prices are as reviewed.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Philips",
+      "name": "Hue Starter Kit",
+      "badge": "Best smart lighting system",
+      "best_for": "The most comprehensive, tightly integrated smart lighting system",
+      "key_spec": "Zigbee with Ethernet hub, E27/B22/E14/GU10 bulbs plus lamps, strips and outdoor lighting, tuneable and colour, motion sensors",
+      "summary": "Expert Reviews found setup extremely straightforward: connect the compact bridge to your router, screw in the bulbs and you're away. Hue covers everything from basic tunable white bulbs to GU10 spotlights, strips and outdoor lighting, and being Zigbee-based it also works with third-party Zigbee bulbs, though with fewer features. The app makes it easy to add bulbs, sensors, switches and plugs, group them into rooms or zones, and schedule or trigger routines via Alexa or Google Assistant. TV sync needs a separate £230 HDMI box. The bulbs are expensive next to cheaper Wi-Fi brands.",
+      "specs": {
+        "Type": "Zigbee system with Ethernet hub",
+        "Bulb fittings": "E27, B22, E14, GU10, plus strips and lamps",
+        "Sensors": "Motion",
+        "Price guide": "£80 starter kit (as reviewed)"
+      },
+      "pros": [
+        "Extremely straightforward setup",
+        "Widest range of bulbs, lamps, strips and outdoor lighting",
+        "Works with third-party Zigbee bulbs"
+      ],
+      "cons": [
+        "Bulbs are expensive compared with cheaper Wi-Fi brands",
+        "TV sync needs a separate £230 HDMI Play box"
+      ],
+      "asin": "",
+      "search": "Philips Hue White Starter Kit"
+    },
+    {
+      "brand": "Hive",
+      "name": "Active Lighting Starter Kit",
+      "badge": "Best for a growing smart home",
+      "best_for": "Households that also want smart heating and EV charging in one ecosystem",
+      "key_spec": "Zigbee system with Ethernet or wireless hub, E27/B22/E14/GU10 bulbs, motion and door sensors, no physical switches",
+      "summary": "Expert Reviews found Hive's lighting works well alongside its wider portfolio of heating and EV charging products, with routines that bring lights and heating on together in the morning or evening, and sensors that trigger lights when you come through the door. The 'mimic' feature that turns lights on and off automatically while you're away is a particular favourite. Hive can't match Philips' range of lamps and strips, and there are no physical buttons or rotary switches, so control relies on the app, voice or sensors. It works with HomeKit, Google Home and Alexa, and testers found the lights reliable and easy to set up.",
+      "specs": {
+        "Type": "Zigbee system with hub",
+        "Bulb fittings": "E27, B22, E14, GU10",
+        "Sensors": "Motion, door",
+        "Price guide": "£99 starter kit (as reviewed)"
+      },
+      "pros": [
+        "Works alongside Hive heating, plugs and EV charging",
+        "Useful 'mimic' feature simulates occupancy while away",
+        "Reliable, easy setup"
+      ],
+      "cons": [
+        "Smaller range of lamps and strip lights than Hue",
+        "No physical switches, relies on app, voice or sensors"
+      ],
+      "asin": "",
+      "search": "Hive Active Lighting Starter Kit"
+    },
+    {
+      "brand": "Ikea",
+      "name": "TRÅDFRI",
+      "badge": "Best budget starter kit",
+      "best_for": "A DIY smart lighting system at a bargain price",
+      "key_spec": "Zigbee-compatible, E27/E14/GU10 bulbs, £60 Dirigera hub, wireless dimmer switch option with no app needed",
+      "summary": "Expert Reviews found you can pair a wireless bulb with a wireless dimmer for basic dimmable lighting without touching an app, or add the £60 Dirigera hub for a full smart system for less than rivals. Ikea has expanded the range to include smart plugs, worktop lights, LED strips, sensors and buttons, with a slicker app and support for Alexa, HomeKit and Google Home. Hue still has the edge on flashy features, but TRÅDFRI does better on price and value.",
+      "specs": {
+        "Type": "Zigbee system with Dirigera hub",
+        "Bulb fittings": "E27, E14, GU10",
+        "Switches": "Yes, works without an app",
+        "Price guide": "£60 Dirigera hub (as reviewed)"
+      },
+      "pros": [
+        "Bargain-basement pricing",
+        "Works without an app using wireless dimmer switches",
+        "Growing range of bulbs, plugs and worktop lights"
+      ],
+      "cons": [
+        "Fewer flashy features than Philips Hue"
+      ],
+      "asin": "",
+      "search": "Ikea TRADFRI smart lighting Dirigera"
+    },
+    {
+      "brand": "Innr",
+      "name": "Smart Bulbs",
+      "badge": "Best budget smart bulbs",
+      "best_for": "Filling gaps in a Hue system or building a cheap Echo-based setup",
+      "key_spec": "Zigbee bulbs (E27/B22/E14/GU10), works with a Hue bridge or Echo Plus, tuneable and colour options",
+      "summary": "Expert Reviews found Innr's bulbs a little trickier to set up than Hue's own but very reliable once running, with white and tuneable bulbs delivering good light and colour bulbs only a little behind Hue's for vibrancy. They lack some of Hue's advanced features, but the range has grown to include coloured GU10s and retro filament styles, with colour bulbs significantly cheaper than the competition, making them a good way to save money filling in a Hue setup.",
+      "specs": {
+        "Type": "Zigbee bulbs",
+        "Bulb fittings": "E27, B22, E14, GU10",
+        "Price guide": "£23 for two bulbs (as reviewed)"
+      },
+      "pros": [
+        "Significantly cheaper colour bulbs than Hue",
+        "Very reliable once set up",
+        "Works with a Hue bridge or Echo Plus"
+      ],
+      "cons": [
+        "A little trickier to set up than Hue's own bulbs",
+        "Lacks some of Hue's advanced features"
+      ],
+      "asin": "",
+      "search": "Innr smart bulb Zigbee"
+    },
+    {
+      "brand": "Meross",
+      "name": "MSL120",
+      "badge": "Best budget Wi-Fi bulbs",
+      "best_for": "Setting up a smarter home on a limited budget",
+      "key_spec": "Wi-Fi bulbs (E27/B22), 16.7 million colours, no hub needed, works with Alexa, Google Home and SmartThings",
+      "summary": "Expert Reviews found full-colour RGB bulbs at a budget price, well-made with an estimated 22-year lifespan. Connectivity can be hit and miss at the edge of Wi-Fi range, though the same is true of pricier bulbs, and a mesh network solves it. The same app used for Meross's smart plugs and sockets gives full control of brightness, tone and colour, with scenes and routines, plus Alexa, Google Home and SmartThings voice control.",
+      "specs": {
+        "Type": "Wi-Fi bulbs",
+        "Bulb fittings": "E27, B22",
+        "Colours": "16.7 million",
+        "Price guide": "£17 for two bulbs (as reviewed)"
+      },
+      "pros": [
+        "No compromise on build quality despite the low price",
+        "Full colour range with scenes and routines",
+        "Works with Alexa, Google Home and SmartThings"
+      ],
+      "cons": [
+        "Connectivity can be hit and miss at the edge of Wi-Fi range"
+      ],
+      "asin": "",
+      "search": "Meross MSL120 smart bulb"
+    },
+    {
+      "brand": "TP-Link Tapo",
+      "name": "L535E Matter Smart Wi-Fi LED bulb",
+      "badge": "Best for features",
+      "best_for": "The most future-proof, feature-packed single Wi-Fi bulb",
+      "key_spec": "Wi-Fi/Matter bulb (E27), 16.7 million colours, auto colour-temperature mode, energy tracking, themes and schedules",
+      "summary": "Expert Reviews found an impressive range of capabilities for the price: configure via a Matter-compatible Google hub with a QR code, or connect directly over Wi-Fi with the Tapo app. Auto mode adjusts colour temperature to match natural light through the day, and the app tracks usage and energy consumption per bulb. Themes cycle through colours, and an Away setting simulates occupancy. It's disappointing there's no B22 version with Matter support, though a non-Matter Tapo bulb covers most features.",
+      "specs": {
+        "Type": "Wi-Fi/Matter bulb",
+        "Bulb fittings": "E27",
+        "Colours": "16.7 million",
+        "Price guide": "£15 (as reviewed)"
+      },
+      "pros": [
+        "Impressive feature set for the price, including Matter support",
+        "Auto mode matches colour temperature to natural light",
+        "Tracks energy usage per bulb"
+      ],
+      "cons": [
+        "No B22 version with Matter support"
+      ],
+      "asin": "",
+      "search": "TP-Link Tapo L535E Matter smart bulb"
+    },
+    {
+      "brand": "Govee",
+      "name": "Smart A19 LED light bulbs",
+      "badge": "Best for entertainment",
+      "best_for": "Party lighting and music-reactive effects",
+      "key_spec": "Wi-Fi bulbs (B22), 2,700K-6,500K white tones plus 16.7 million colours, mic-reactive effects, Effects Lab custom themes",
+      "summary": "Expert Reviews found chunky, solidly built bulbs that often appear at bargain prices, with a huge palette of white tones and colours, though brightness adjustment below 30% in 1% steps made little practical difference. Beyond standard scheduling and scenes, Govee adds pulsing or colour-shifting patterns and effects that match lighting to your smartphone's microphone input, making it a strong pick for parties, plus a custom Effects Lab for mixing your own themes.",
+      "specs": {
+        "Type": "Wi-Fi bulbs",
+        "Bulb fittings": "B22",
+        "Colours": "16.7 million",
+        "Price guide": "£17 (as reviewed)"
+      },
+      "pros": [
+        "Feels solidly built despite bargain pricing",
+        "Huge range of white tones and colours",
+        "Music-reactive and animated party effects"
+      ],
+      "cons": [
+        "1% brightness increments make little difference below 30%"
+      ],
+      "asin": "",
+      "search": "Govee Smart A19 LED light bulb"
+    },
+    {
+      "brand": "Govee",
+      "name": "M1 LED strip light",
+      "badge": "Best LED strip",
+      "best_for": "Subtle accent lighting around furniture or under surfaces",
+      "key_spec": "60 LEDs per metre, 2m or 5m lengths, 20 individually tuneable segments, Matter support, Govee Home app",
+      "summary": "Expert Reviews found a popular strip light with 20 segments that can each be set to different tones or colours via the Govee Home app, alongside Govee's regular bulbs. Matter support is included for easy configuration with a compatible hub, though the test kit had no QR code and needed the code pulled from Govee's app after initial Wi-Fi setup. It suits subtle glows above or beneath surfaces, but can also run wild pulsing, animated colour effects, some intense enough to carry seizure warnings in the app, alongside gentler options for relaxation.",
+      "specs": {
+        "LEDs": "60 per metre",
+        "Lengths": "2m or 5m",
+        "Segments": "20, individually tuneable",
+        "Price guide": "£80 for 2m (as reviewed)"
+      },
+      "pros": [
+        "20 individually tuneable segments per strip",
+        "Matter support for easy hub configuration",
+        "Wide range of effects from subtle to party-ready"
+      ],
+      "cons": [
+        "Matter QR code wasn't included in the test kit"
+      ],
+      "asin": "",
+      "search": "Govee M1 LED strip light"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Hub-based system or standalone Wi-Fi bulbs?",
+      "a": "Hub-based systems like Philips Hue, Hive and Ikea TRÅDFRI use Zigbee and tend to be more reliable at scale, with wider ranges of lamps, strips and sensors, but need a bridge. Standalone Wi-Fi bulbs like Meross, TP-Link Tapo and Govee connect directly to your router with no extra hardware, which is simpler for just a few bulbs."
+    },
+    {
+      "q": "Which system is cheapest to build out?",
+      "a": "Ikea TRÅDFRI is the most affordable full system, and its bulbs can even work without an app using wireless dimmer switches. Innr bulbs are a cheap way to add colour bulbs to an existing Hue setup, and budget Wi-Fi bulbs like Meross need no hub at all."
+    },
+    {
+      "q": "Do smart bulbs work with existing light switches?",
+      "a": "Yes, but turning a smart bulb off at a physical switch cuts its power and stops it responding to the app or voice control until switched back on, when it may return to full brightness rather than its last setting. For full smart control, avoid switching bulbs off at the wall."
+    },
+    {
+      "q": "What about LED strips for accent lighting?",
+      "a": "The Govee M1 strip light offers individually tuneable segments for subtle glows around furniture or under cabinets, as well as louder party effects. It integrates with the same app as Govee's standard bulbs, so it can sit within a wider Govee smart lighting setup."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best smart bulbs (2024)",
+      "url": "https://www.expertreviews.co.uk/home-garden/best-smart-bulbs-smart-lighting"
+    }
+  ]
+}
