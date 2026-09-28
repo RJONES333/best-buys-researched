@@ -33,6 +33,9 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 ## Rejected (this batch)
 - Smart speakers (Amazon Echo, Google Nest, etc) — Expert Reviews roundup has no "how we test" methodology, just affiliate-style verdicts; also stale product generations (2020/2022 Echo models).
 - Bathroom scales — Expert Reviews page (2023) has no explicit "how we test" section; only scattered anecdotal testing hints, and outdated (published May 2023).
+
+## Added
+- Men's boxers/underwear (Clothing) — Men's Fitness UK tested roundup (updated 15 Sept 2026), named reviewers (Kieran Alger, Laurence McJannet), explicit "why you can trust us" methodology: worn for real workouts, judged on sweat-wicking, waistband/cuff comfort, support, chafing. Winner CXP Endurance Shorts. Requested by user.
 - Foot warmers and heated slippers done (4 of 5 products, Kuddly/Beurer/HotHands/Warmies; Snailax massager dropped, not tested).
 - Heated socks — Mumsnet page (mumsnet.com/swearsby/best-heated-socks) only shows genuine "we tested"/"Tested by" language for 2 of 6 products (Bertschat, HotHands); the other 4 (insoles, Savior ski socks, Snowdeer, Warmies) are pure spec/marketing copy, and the closing "How we chose" section confirms the overall method is forum + research, not hands-on testing. Not enough genuinely tested products for a full guide.
 - Electric blankets/heated throws — already covered by existing electric-blankets.json (built earlier session from the same Mumsnet source); do not recreate as a separate "heated-throws" category.
