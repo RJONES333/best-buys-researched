@@ -1,0 +1,176 @@
+{
+  "slug": "car-battery-chargers",
+  "title": "Best Car Battery Chargers UK",
+  "short": "Six car battery chargers tested on flat and heavily discharged batteries, timing how fast each reached 80% charge and checking safety features.",
+  "intro": "A dead car battery is one of the most common reasons for a failed MOT or a no-start on a cold morning, and a decent charger can keep an occasionally-used car's battery topped up between drives. This guide is based on Auto Express's tested roundup, where testers charged three 12V batteries with each unit: a 68Ah battery discharged to 10.5V (timing how long it took to reach 80% charge), a heavily discharged 95Ah pack, and a deeply flat 5Ah battery at 2V, alongside checking instruction clarity, cable length, waterproofing and safety features.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Draper",
+      "name": "12V Intelligent Charger",
+      "badge": "Best overall",
+      "best_for": "Buyers who want quick, reliable charging with essential features at the lowest price on test",
+      "key_spec": "10A output, 3m total cable reach, IP65 rated, LCD display",
+      "summary": "Auto Express's overall winner, combining the essential features most drivers need with quick charging, a rugged IP65-rated design, and the lowest price of the group, earning a full 5-star rating. Testers found the LCD display clear and the 3m combined cable reach practical for most engine bay layouts.",
+      "specs": {
+        "Output": "10A",
+        "Cable reach": "3m",
+        "Waterproof rating": "IP65",
+        "Price guide": "£71.98 (at time of writing)"
+      },
+      "pros": [
+        "Quick charging performance",
+        "Rugged, waterproof IP65 design",
+        "Lowest price of the group tested",
+        "Clear LCD display"
+      ],
+      "cons": [
+        "Cable reach shorter than the Ring and NOCO"
+      ],
+      "asin": "",
+      "search": "Draper 12V Intelligent Battery Charger"
+    },
+    {
+      "brand": "Ring",
+      "name": "Ultra Charge 10",
+      "badge": "Fastest charging",
+      "best_for": "Buyers who want the fastest charge and don't mind paying more for extra features",
+      "key_spec": "10A output, 4.3m cable, colour LCD, alternator-test function, carrying case",
+      "summary": "Auto Express found this was the fastest of the group to reach 80% charge, backed by a colour LCD screen, a handy alternator-test function and a carrying case for storage. Testers felt the extra £28 over the Draper isn't fully justified by the performance gain, but it's a strong choice if you want the quickest results and the added features.",
+      "specs": {
+        "Output": "10A",
+        "Cable reach": "4.3m",
+        "Extra features": "Alternator-test function, carrying case",
+        "Price guide": "£99.98 (at time of writing)"
+      },
+      "pros": [
+        "Fastest to 80% charge on test",
+        "Colour LCD screen",
+        "Alternator-test function",
+        "Longer 4.3m cable"
+      ],
+      "cons": [
+        "Costs more without a proportionate performance gain"
+      ],
+      "asin": "",
+      "search": "Ring Ultra Charge 10 battery charger"
+    },
+    {
+      "brand": "NOCO",
+      "name": "Genius5",
+      "badge": "Best design",
+      "best_for": "Buyers who want a neat, wall-mountable charger for permanent garage storage",
+      "key_spec": "5A output, 4m cable, Velcro-strapped wall mount, Force Charge mode",
+      "summary": "Auto Express liked this charger's elegant simplicity, and it's the only one on test with a Velcro-strapped wall mount for tidy garage storage. A four-metre cable, large battery clamps and a Force Charge mode for severely flat batteries all impressed, though its 5A maximum output means it isn't the fastest charger here.",
+      "specs": {
+        "Output": "5A",
+        "Cable reach": "4m",
+        "Mounting": "Velcro-strapped wall mount",
+        "Price guide": "£85.95 (at time of writing)"
+      },
+      "pros": [
+        "Neat, wall-mountable design",
+        "Force Charge mode for severely flat batteries",
+        "Long 4m cable and large clamps"
+      ],
+      "cons": [
+        "Lower 5A maximum output means slower charging"
+      ],
+      "asin": "",
+      "search": "NOCO Genius5 battery charger"
+    },
+    {
+      "brand": "OptiMate",
+      "name": "5 Select",
+      "badge": "Best for classic cars",
+      "best_for": "Owners of classic or older vehicles running 6V electrical systems",
+      "key_spec": "Switchable 6V/12V, lead-acid batteries only, 3A output",
+      "summary": "Auto Express notes this targets classic car owners specifically, with a switchable 6V/12V setting that most modern chargers don't offer. It's limited to lead-acid batteries only and its 3A output was the slowest on test, but for older vehicles needing 6V charging it fills a gap the rest of the group can't.",
+      "specs": {
+        "Output": "3A",
+        "Voltage": "Switchable 6V/12V",
+        "Compatibility": "Lead-acid only",
+        "Price guide": "£84.90 (at time of writing)"
+      },
+      "pros": [
+        "Switchable 6V/12V for classic cars",
+        "Purpose-built for older electrical systems"
+      ],
+      "cons": [
+        "Slowest output on test at 3A",
+        "Lead-acid batteries only"
+      ],
+      "asin": "",
+      "search": "OptiMate 5 Select battery charger"
+    },
+    {
+      "brand": "CTEK",
+      "name": "NXT 5",
+      "badge": "Best safety features",
+      "best_for": "Buyers who prioritise spark-free operation above all else",
+      "key_spec": "Spark-free connection, matches rivals' core specs, premium price",
+      "summary": "Auto Express highlighted this charger's spark-free operation as a genuine safety advantage over the rest of the group, useful when connecting clamps near a battery that may be venting gas. Otherwise it matches its rivals' core specs, but carries the highest price on test.",
+      "specs": {
+        "Safety": "Spark-free connection",
+        "Output": "Comparable to other 12V chargers on test",
+        "Price guide": "£109 (at time of writing)"
+      },
+      "pros": [
+        "Spark-free connection for added safety",
+        "Matches rivals on core charging ability"
+      ],
+      "cons": [
+        "Highest price on test",
+        "No standout performance advantage to match the price"
+      ],
+      "asin": "",
+      "search": "CTEK NXT 5 battery charger"
+    },
+    {
+      "brand": "Temu",
+      "name": "Car Battery Charger",
+      "badge": "Avoid",
+      "best_for": "Nobody — Auto Express found it failed on safety",
+      "key_spec": "Budget unbranded charger, failed safety tests in testing",
+      "summary": "Auto Express included this as a budget benchmark and found its low price undermined by an unreadable display, impractically short cables, and outright failed safety tests. It's included here as a warning rather than a recommendation: the cheapest option on test was also the only one testers flagged as unsafe.",
+      "specs": {
+        "Price guide": "£15.96 (at time of writing)"
+      },
+      "pros": [
+        "Cheapest price on test"
+      ],
+      "cons": [
+        "Failed safety tests",
+        "Unreadable display",
+        "Impractically short cables"
+      ],
+      "asin": "",
+      "search": "Temu car battery charger"
+    }
+  ],
+  "guide": [
+    {
+      "q": "What amperage charger do I need?",
+      "a": "Auto Express found a 10A charger like the Draper or Ring reaches 80% charge fastest, suiting a car driven daily where you need it back quickly. A lower 5A charger like the NOCO Genius5 is gentler and fine for a car that's only occasionally off the road, or for trickle-charging over winter."
+    },
+    {
+      "q": "Do I need a smart or intelligent charger?",
+      "a": "All the chargers Auto Express recommends here are 'intelligent', meaning they automatically adjust charging rate and stop at full charge, so they're safe to leave connected for extended periods without overcharging the battery. The Temu charger's failed safety tests are a reminder that not every budget unit can be trusted to do this reliably."
+    },
+    {
+      "q": "Do I need a 6V setting?",
+      "a": "Only if you own a classic car with an original 6V electrical system. Auto Express notes the OptiMate 5 Select is the only charger on test with a switchable 6V/12V setting for this purpose; modern cars all use 12V so this won't matter for most drivers."
+    },
+    {
+      "q": "Why does spark-free connection matter?",
+      "a": "Auto Express highlighted the CTEK NXT 5's spark-free operation as a genuine safety feature, reducing risk when connecting clamps to a battery that may be venting hydrogen gas, particularly relevant for older or heavily discharged batteries."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Auto Express: best car battery chargers 2026",
+      "url": "https://www.autoexpress.co.uk/product-group-tests/36236/best-battery-chargers"
+    }
+  ]
+}
