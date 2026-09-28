@@ -28,6 +28,11 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Car scratch removers (Automotive) — Auto Express tested roundup: bonnet deliberately marked with craft knife/wire wool/trim tool, each product applied with set hand pressure. Winner T-Cut Perfect Compound.
 - Car wax and sealant (Automotive) — Auto Express tested roundup: 15 products applied to a clayed, stripped bonnet then left outside 6 weeks through winter weather, water-beading checked regularly. Winner Bilt-Hamber Double Speed-Wax.
 - Smartphones (Phones, power & wearables) — Expert Reviews tested roundup (updated 29 June 2026), genuine lab methodology: Geekbench 5/GFXBench performance, DisplayCAL+colorimeter display measurement, in-house battery rundown test, camera testing across scenarios. 600+ phones tested historically. Winner Samsung Galaxy S25 Ultra.
+- Shower heads (Bathroom) — Expert Reviews tested roundup (8 April 2024): fitted to both a mixer shower with booster pump and a lower-flow electric shower, all spray patterns tried with shower gel/shampoo, flow rate measured for water-saving claims. Winner Aqualisa Harmony.
+
+## Rejected (this batch)
+- Smart speakers (Amazon Echo, Google Nest, etc) — Expert Reviews roundup has no "how we test" methodology, just affiliate-style verdicts; also stale product generations (2020/2022 Echo models).
+- Bathroom scales — Expert Reviews page (2023) has no explicit "how we test" section; only scattered anecdotal testing hints, and outdated (published May 2023).
 - Foot warmers and heated slippers done (4 of 5 products, Kuddly/Beurer/HotHands/Warmies; Snailax massager dropped, not tested).
 - Heated socks — Mumsnet page (mumsnet.com/swearsby/best-heated-socks) only shows genuine "we tested"/"Tested by" language for 2 of 6 products (Bertschat, HotHands); the other 4 (insoles, Savior ski socks, Snowdeer, Warmies) are pure spec/marketing copy, and the closing "How we chose" section confirms the overall method is forum + research, not hands-on testing. Not enough genuinely tested products for a full guide.
 - Electric blankets/heated throws — already covered by existing electric-blankets.json (built earlier session from the same Mumsnet source); do not recreate as a separate "heated-throws" category.

@@ -49,7 +49,7 @@ GROUPS = {
     ],
     "Smart home & security": ["video-doorbells", "home-security-cameras", "action-cameras"],
     "Sleep & comfort": ["mattresses", "mattress-toppers", "pillows", "duvets", "pregnancy-pillows"],
-    "Bathroom": ["bath-towels"],
+    "Bathroom": ["bath-towels", "shower-heads"],
     "Gym & fitness": [
         "adjustable-dumbbells", "resistance-bands", "rowing-machines",
         "exercise-bikes", "yoga-mats", "massage-guns",
