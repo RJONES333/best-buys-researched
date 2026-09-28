@@ -1,0 +1,212 @@
+{
+  "slug": "smartphones",
+  "title": "Best Smartphones UK",
+  "short": "Seven smartphones lab-tested for performance, display, battery life and camera quality, from a £153 budget Motorola to a £1,549 Samsung foldable.",
+  "intro": "Choosing a phone from marketing photos and spec sheets alone can be misleading, since real-world battery life and camera performance often differ from the numbers on the box. This guide is based on Expert Reviews' tested roundup (updated 29 June 2026), where testers benchmark CPU and GPU performance with Geekbench 5 and GFXBench, measure display brightness, contrast and colour accuracy with DisplayCAL software and a colorimeter, run an in-house battery rundown test (looping video in flight mode at 170cd/m² brightness until the phone shuts down), and test cameras across scenic, low-light, indoor and rapid-panning video scenarios. Expert Reviews has tested over 600 phones using this process.",
+  "reviewed": "2026-09-28",
+  "verified": "2026-09-28",
+  "products": [
+    {
+      "brand": "Samsung",
+      "name": "Galaxy S25 Ultra",
+      "badge": "Best overall",
+      "best_for": "Buyers who want the fastest all-round flagship with the strongest zoom",
+      "key_spec": "6.9\" AMOLED, Snapdragon 8 Elite for Galaxy, quad camera (200MP/50MP/10MP/50MP), 100x zoom, Android 15",
+      "summary": "Expert Reviews recorded exceptional performance and the fastest CPU scores of any phone tested, paired with exceptional battery longevity for a flagship. The 100x telephoto zoom impressed testers with greater detail retention and less over-sharpening than rivals, though screen brightness trails some competitors and the price is a lot to swallow.",
+      "specs": {
+        "Screen": "6.9\" AMOLED, 3,120 x 1,440",
+        "Chipset": "Snapdragon 8 Elite for Galaxy",
+        "Storage": "256GB-1TB",
+        "Price guide": "£999 (at time of writing)"
+      },
+      "pros": [
+        "Fastest CPU scores recorded in testing",
+        "Exceptional battery longevity",
+        "Superior 100x zoom with less over-sharpening",
+        "Excellent all-round camera suite"
+      ],
+      "cons": [
+        "Display brightness trails some rivals",
+        "Premium pricing"
+      ],
+      "asin": "",
+      "search": "Samsung Galaxy S25 Ultra"
+    },
+    {
+      "brand": "Motorola",
+      "name": "Moto G56",
+      "badge": "Best budget",
+      "best_for": "Buyers who want maximum durability and a bright screen for the least money",
+      "key_spec": "6.72\" LCD, Dimensity 7060, dual camera (50MP/8MP), IP68/IP69 rated, Gorilla Glass 7i",
+      "summary": "Expert Reviews found exceptional durability for a budget phone, with water and dust resistance that actually exceeds some flagships. The large display hit a bright 861cd/m² peak in testing, though gaming performance is limited and it's only promised two years of OS updates, a genuine downside at this end of the market.",
+      "specs": {
+        "Screen": "6.72\" LCD, 2,400 x 1,080, 861cd/m² peak brightness (tested)",
+        "Chipset": "MediaTek Dimensity 7060",
+        "Durability": "IP68/IP69 rated, Gorilla Glass 7i",
+        "Price guide": "£153 (at time of writing)"
+      },
+      "pros": [
+        "Exceptional durability for the price, beats some flagships",
+        "Large, bright display",
+        "Expandable storage"
+      ],
+      "cons": [
+        "Limited gaming performance",
+        "Only two years of OS updates promised"
+      ],
+      "asin": "",
+      "search": "Motorola Moto G56"
+    },
+    {
+      "brand": "Apple",
+      "name": "iPhone 17 Pro",
+      "badge": "Best iPhone",
+      "best_for": "Buyers who want the best balance of iPhone power and price",
+      "key_spec": "6.3\" OLED, Apple A19 Pro, triple 48MP cameras, iOS 26",
+      "summary": "Expert Reviews called this the 'sweet spot' in Apple's current line-up, combining strong power with more reasonable pricing than the top model. Battery life exceeded 31 hours in testing, and the all-48MP camera array delivered crisp, impeccably lit shots with beautiful dynamic range, though the design was seen as a step down and the 4x telephoto lags rivals.",
+      "specs": {
+        "Screen": "6.3\" OLED, 2,622 x 1,206",
+        "Chipset": "Apple A19 Pro",
+        "Battery life in test": "31+ hours",
+        "Price guide": "£1,099 (at time of writing)"
+      },
+      "pros": [
+        "Strong battery life in testing (31+ hours)",
+        "Excellent all-48MP camera array",
+        "Better value than Apple's top-tier model"
+      ],
+      "cons": [
+        "Design seen as a downgrade",
+        "4x telephoto zoom behind rival flagships"
+      ],
+      "asin": "",
+      "search": "Apple iPhone 17 Pro"
+    },
+    {
+      "brand": "OnePlus",
+      "name": "15",
+      "badge": "Best battery life",
+      "best_for": "Buyers who hate charging their phone and want it to just keep going",
+      "key_spec": "6.78\" AMOLED, Snapdragon 8 Elite Gen 5, 7,300mAh battery, Android 16",
+      "summary": "Expert Reviews recorded a record-breaking 45+ hour battery endurance in testing, beating the next-best phone by a full seven hours. Display brightness and colour accuracy both impressed, and it can shoot Dolby Vision 4K at 120fps, though only four OS updates are promised and testers found AI zoom overbearing beyond 30x magnification.",
+      "specs": {
+        "Screen": "6.78\" AMOLED, 2,856 x 1,280",
+        "Battery": "7,300mAh, 45+ hours in test",
+        "Chipset": "Snapdragon 8 Elite Gen 5",
+        "Price guide": "£849 (at time of writing)"
+      },
+      "pros": [
+        "Record-breaking battery life in testing",
+        "Excellent display brightness and colour accuracy",
+        "Dolby Vision 4K/120fps video"
+      ],
+      "cons": [
+        "Only four OS updates promised",
+        "AI zoom quality drops off past 30x"
+      ],
+      "asin": "",
+      "search": "OnePlus 15"
+    },
+    {
+      "brand": "Oppo",
+      "name": "Find X9 Pro",
+      "badge": "Best cameras",
+      "best_for": "Buyers who prioritise photography above everything else",
+      "key_spec": "6.78\" AMOLED, Dimensity 9500, quad camera (50MP/200MP/50MP/50MP), 7,500mAh battery",
+      "summary": "Expert Reviews called this a 'phenomenal camera suite', with an exceptional 200MP telephoto delivering detailed 3x and 6x optical/hybrid zooms, and all four 50MP-class sensors performing excellently. Oversharpening crept in past 60x zoom, 8K video is missing, and testers found the camera button placement fiddly, but overall image quality led the group.",
+      "specs": {
+        "Screen": "6.78\" AMOLED, 2,772 x 1,272",
+        "Chipset": "MediaTek Dimensity 9500",
+        "Battery": "7,500mAh",
+        "Price guide": "£1,099 (at time of writing)"
+      },
+      "pros": [
+        "Phenomenal, class-leading camera suite",
+        "Excellent 200MP telephoto with detailed zoom",
+        "All main sensors perform excellently"
+      ],
+      "cons": [
+        "Oversharpening past 60x zoom",
+        "No 8K video",
+        "Fiddly camera button placement"
+      ],
+      "asin": "",
+      "search": "Oppo Find X9 Pro"
+    },
+    {
+      "brand": "Google",
+      "name": "Pixel 9a",
+      "badge": "Best mid-range",
+      "best_for": "Buyers who want flagship-length software support at a mid-range price",
+      "key_spec": "6.3\" OLED, Google Tensor G4, dual camera (48MP/13MP), seven years of software support",
+      "summary": "Expert Reviews highlighted flagship-level seven-year software support as a genuine standout for the price, alongside battery life that exceeded 34 hours in testing. The display measured a gorgeous Delta E of 0.67 for colour accuracy, though there's no telephoto lens and the design was criticised as generic.",
+      "specs": {
+        "Screen": "6.3\" OLED, 2,424 x 1,080",
+        "Software support": "7 years",
+        "Battery life in test": "34+ hours",
+        "Price guide": "£449 (at time of writing)"
+      },
+      "pros": [
+        "Seven years of promised software support",
+        "Strong battery life in testing (34+ hours)",
+        "Excellent, accurate display"
+      ],
+      "cons": [
+        "No telephoto lens",
+        "Generic design"
+      ],
+      "asin": "",
+      "search": "Google Pixel 9a"
+    },
+    {
+      "brand": "Samsung",
+      "name": "Galaxy Z Fold 7",
+      "badge": "Best foldable",
+      "best_for": "Buyers who want a tablet-sized screen that folds down to phone size",
+      "key_spec": "8\" internal / 6.5\" cover AMOLED, Snapdragon 8 Elite for Galaxy, 200MP main camera, 4.2mm folded thickness",
+      "summary": "Expert Reviews found this incredibly slim and lightweight for a foldable, with the fastest foldable performance the publication has recorded. The 200MP main camera captured crisp, colourful images in testing, though S Pen support has been removed and dust protection is limited to particles over 1mm.",
+      "specs": {
+        "Screens": "8\" internal, 6.5\" cover AMOLED",
+        "Folded thickness": "4.2mm",
+        "Chipset": "Snapdragon 8 Elite for Galaxy",
+        "Price guide": "£1,549 (at time of writing)"
+      },
+      "pros": [
+        "Incredibly slim and lightweight for a foldable",
+        "Fastest foldable performance tested",
+        "Excellent 200MP main camera"
+      ],
+      "cons": [
+        "S Pen support removed",
+        "Dust protection limited to larger particles",
+        "Very expensive"
+      ],
+      "asin": "",
+      "search": "Samsung Galaxy Z Fold 7"
+    }
+  ],
+  "guide": [
+    {
+      "q": "iPhone or Android?",
+      "a": "Expert Reviews rated the iPhone 17 Pro as the best iPhone, praising its camera array and battery life, while flagship Android options like the Samsung Galaxy S25 Ultra and Oppo Find X9 Pro edged ahead on raw performance and zoom capability. The choice often comes down to which ecosystem, iOS or Android, you're already invested in through apps and accessories."
+    },
+    {
+      "q": "Do I need a flagship, or is mid-range enough?",
+      "a": "Expert Reviews found the Google Pixel 9a delivers flagship-level software support (seven years) and strong battery life for under half the price of the top phones here. Unless you specifically want the fastest chipset or the best zoom camera, a well-chosen mid-range phone like this covers most everyday needs."
+    },
+    {
+      "q": "How much does battery life actually vary?",
+      "a": "Quite a lot in Expert Reviews' testing: the OnePlus 15 ran for over 45 hours in their video rundown test, seven hours longer than the next best phone, while other flagships managed around 31-34 hours. If battery anxiety is a priority, check a phone's tested runtime rather than just its mAh rating, since efficiency varies by chipset."
+    },
+    {
+      "q": "Is a foldable phone worth the extra cost and compromises?",
+      "a": "Expert Reviews found the Samsung Galaxy Z Fold 7 genuinely impressive for its slimness and performance, offering a tablet-sized screen that folds to phone size. It costs significantly more than a standard flagship and comes with trade-offs like reduced dust protection, so it suits buyers who specifically want the larger unfolded screen for work or media."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best smartphone 2026 (updated 29 June 2026)",
+      "url": "https://www.expertreviews.co.uk/technology/phones/best-smartphone"
+    }
+  ]
+}

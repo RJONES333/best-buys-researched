@@ -44,7 +44,7 @@ GROUPS = {
         "standing-desks", "office-chairs", "gaming-chairs",
     ],
     "Phones, power & wearables": [
-        "samsung-chargers", "iphone-charging-cables", "power-banks",
+        "smartphones", "samsung-chargers", "iphone-charging-cables", "power-banks",
         "portable-power-stations", "smartwatches", "smart-rings",
     ],
     "Smart home & security": ["video-doorbells", "home-security-cameras", "action-cameras"],
