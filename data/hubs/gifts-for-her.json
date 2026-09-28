@@ -1,0 +1,15 @@
+{
+  "slug": "gifts-for-her",
+  "title": "Best Gifts for Her 2026",
+  "short": "Gift ideas for the women in your life, pulling the top pick from each of our tested beauty, comfort and tech buying guides.",
+  "intro": "These are picks chosen for genuine usefulness, pulled from our full buying guides so you can check the comparison and sources before you buy. See also our dedicated [tech gifts](/tech-gifts/) guide for more ideas.",
+  "updated": "2026-09-28",
+  "picks": [
+    {"category_slug": "hair-straighteners", "note": "A genuine everyday upgrade that gets used constantly."},
+    {"category_slug": "ipl-hair-removal", "note": "A bigger-budget gift for an at-home beauty routine."},
+    {"category_slug": "massage-guns", "note": "For unwinding after workouts or a long week."},
+    {"category_slug": "womens-leggings", "note": "A practical, well-tested wardrobe upgrade."},
+    {"category_slug": "heated-gilets", "note": "Genuinely useful warmth for winter walks or the school run."},
+    {"category_slug": "smart-rings", "note": "A more discreet alternative to a fitness smartwatch."}
+  ]
+}

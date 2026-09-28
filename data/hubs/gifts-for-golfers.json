@@ -1,0 +1,15 @@
+{
+  "slug": "gifts-for-golfers",
+  "title": "Best Gifts for Golfers 2026",
+  "short": "Gift ideas for the golfer in your life, pulling the top pick from each of our tested golf buying guides, from rangefinders to trolleys.",
+  "intro": "Buying for a golfer is easier when you know what actually performs on the course, not just what looks good in the pro shop window. Each pick below is the number one product from one of our full buying guides, so you can click through to see the full comparison, pros and cons, and sources before you buy.",
+  "updated": "2026-09-28",
+  "picks": [
+    {"category_slug": "golf-rangefinders", "note": "For the golfer who's tired of arguing about the yardage to the pin."},
+    {"category_slug": "golf-umbrellas", "note": "Because British golf doesn't stop for rain."},
+    {"category_slug": "golf-gloves", "note": "A small, practical gift that gets used every round."},
+    {"category_slug": "golf-balls", "note": "A safe, always-welcome pick for any golfer."},
+    {"category_slug": "golf-push-trolleys", "note": "For the golfer who still carries or pulls a basic trolley."},
+    {"category_slug": "golf-bags", "note": "For a bigger-budget gift that'll last for seasons."}
+  ]
+}

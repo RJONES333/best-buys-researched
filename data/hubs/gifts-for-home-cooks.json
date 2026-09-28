@@ -1,0 +1,15 @@
+{
+  "slug": "gifts-for-home-cooks",
+  "title": "Best Gifts for Home Cooks and Foodies 2026",
+  "short": "Gift ideas for the cook in your life, pulling the top pick from each of our tested kitchen buying guides, from air fryers to stand mixers.",
+  "intro": "A well-chosen kitchen gadget gets used every week; a badly-chosen one ends up at the back of a cupboard. Each pick below is the number one product from one of our full buying guides, so you can check the full comparison, pros and cons, and sources before you buy.",
+  "updated": "2026-09-28",
+  "picks": [
+    {"category_slug": "air-fryers", "note": "Still one of the most-used gifts in any kitchen."},
+    {"category_slug": "stand-mixers", "note": "For the baker who's ready to upgrade from a hand whisk."},
+    {"category_slug": "coffee-machines", "note": "A genuine daily-use gift for coffee lovers."},
+    {"category_slug": "kitchen-knives", "note": "A set that actually makes cooking easier, not harder."},
+    {"category_slug": "ice-cream-makers", "note": "A fun, less obvious gift that gets real use in summer."},
+    {"category_slug": "coffee-grinders", "note": "For the coffee lover who's already got the machine."}
+  ]
+}

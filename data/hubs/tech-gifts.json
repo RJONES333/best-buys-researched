@@ -1,0 +1,15 @@
+{
+  "slug": "tech-gifts",
+  "title": "Best Tech Gifts 2026",
+  "short": "Gift ideas for anyone who loves gadgets, pulling the top pick from each of our tested tech buying guides, from earbuds to action cameras.",
+  "intro": "Tech gifts are easy to get wrong if you're not across the current market, which is exactly what these picks are for. Each one below is the number one product from one of our full buying guides, so you can check the full comparison, pros and cons, and sources before you buy.",
+  "updated": "2026-09-28",
+  "picks": [
+    {"category_slug": "wireless-earbuds", "note": "A safe, always-useful gift almost everyone will use."},
+    {"category_slug": "power-banks", "note": "A practical upgrade nobody buys for themselves but everyone appreciates."},
+    {"category_slug": "smart-rings", "note": "A more discreet, less obtrusive alternative to a fitness smartwatch."},
+    {"category_slug": "on-ear-headphones", "note": "A lighter, more portable alternative to full over-ear cans."},
+    {"category_slug": "bluetooth-speakers", "note": "Good for the home, garden or next gathering."},
+    {"category_slug": "action-cameras", "note": "For anyone into sport, travel or outdoor adventures."}
+  ]
+}

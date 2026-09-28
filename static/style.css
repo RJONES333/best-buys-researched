@@ -165,6 +165,10 @@ nav a { margin-left: 18px; text-decoration: none; }
 .tile:hover { border-color: var(--accent); }
 .tile p { color: var(--muted); font-size: 0.95rem; margin: 0.3rem 0 0.6rem; }
 .tile span { font-size: 0.85rem; color: var(--accent); }
+.gift-promo { display: block; text-align: center; background: var(--note); border: 1px solid var(--border); border-radius: 10px; padding: 12px 16px; margin: 1rem 0; text-decoration: none; color: var(--text); font-weight: 600; }
+.gift-promo:hover { border-color: var(--accent); }
+.gift-tile .gift-note { font-style: italic; }
+.gift-tile .gift-top-pick { color: var(--text); font-size: 0.9rem; margin: 0; padding-top: 8px; border-top: 1px solid var(--border); }
 .table-wrap { overflow-x: auto; }
 table.compare { border-collapse: collapse; width: 100%; font-size: 0.95rem; background: var(--surface); }
 .compare th, .compare td { text-align: left; padding: 10px; border-bottom: 1px solid var(--border); vertical-align: top; }

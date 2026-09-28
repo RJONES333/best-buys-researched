@@ -141,6 +141,29 @@ def esc(value):
     return html.escape(str(value), quote=True)
 
 
+def linkify(text):
+    """Escape text, but turn `[label](/some/path/)` into a real internal link
+    first. Only relative, site-internal paths (starting with '/') are
+    accepted; anything else is left as plain escaped text. Lets guide
+    answers and hub intros safely link to other guides without allowing
+    arbitrary HTML."""
+    parts = []
+    last = 0
+    for m in re.finditer(r"\[([^\]]+)\]\((/[a-z0-9/-]*)\)", text):
+        parts.append(esc(text[last:m.start()]))
+        label, url = m.group(1), m.group(2)
+        parts.append(f'<a href="{BASE}{esc(url)}">{esc(label)}</a>')
+        last = m.end()
+    parts.append(esc(text[last:]))
+    return "".join(parts)
+
+
+def delink(text):
+    """Strip `[label](/path/)` markdown-link syntax down to just the label,
+    for plain-text contexts like JSON-LD that shouldn't contain markup."""
+    return re.sub(r"\[([^\]]+)\]\((/[a-z0-9/-]*)\)", r"\1", text)
+
+
 def slugify(text):
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
 
@@ -178,6 +201,21 @@ def load_categories():
             continue
         categories.append(json.loads(path.read_text(encoding="utf-8")))
     return categories
+
+
+def load_hubs():
+    """Gift-guide hub pages: curated groupings of existing category guides,
+    e.g. 'Gifts for golfers'. Each hub only links to guides that already
+    exist and are already sourced; no new product research happens here."""
+    hubs = []
+    hub_dir = ROOT / "data" / "hubs"
+    if not hub_dir.exists():
+        return hubs
+    for path in sorted(hub_dir.glob("*.json")):
+        if path.name.startswith("_"):
+            continue
+        hubs.append(json.loads(path.read_text(encoding="utf-8")))
+    return hubs
 
 
 def write(rel_path, content):
@@ -236,7 +274,7 @@ def layout(title, description, path, body, jsonld=None, wide=False, noindex=Fals
 <header class="site-header">
   <div class="wrap header-inner">
     <a class="brand" href="{BASE}/">{esc(CONFIG['name'])}</a>
-    <nav><a href="{BASE}/">Guides</a><a href="{BASE}/about/">How we pick</a></nav>
+    <nav><a href="{BASE}/">Guides</a><a href="{BASE}/gift-guides/">Gift guides</a><a href="{BASE}/about/">How we pick</a></nav>
   </div>
 </header>
 <p class="disclosure-bar"><span class="wrap">{esc(DISCLOSURE)}</span></p>
@@ -356,7 +394,7 @@ def category_page(cat, all_categories):
     )
     cards = "".join(product_card(i, p) for i, p in enumerate(products, start=1))
     faq = "".join(
-        f"<details><summary>{esc(g['q'])}</summary><p>{esc(g['a'])}</p></details>" for g in cat["guide"]
+        f"<details><summary>{esc(g['q'])}</summary><p>{linkify(g['a'])}</p></details>" for g in cat["guide"]
     )
     sources = "".join(
         f'<li><a href="{esc(s["url"])}" rel="noopener nofollow" target="_blank">{esc(s["name"])}</a></li>'
@@ -420,14 +458,93 @@ def category_page(cat, all_categories):
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
-            {"@type": "Question", "name": g["q"], "acceptedAnswer": {"@type": "Answer", "text": g["a"]}}
+            {"@type": "Question", "name": g["q"], "acceptedAnswer": {"@type": "Answer", "text": delink(g["a"])}}
             for g in cat["guide"]
         ],
     }
     return layout(title, cat["short"], f"/{cat['slug']}/", body, [item_list, faq_ld, crumb_ld])
 
 
-def home_page(categories):
+def hub_page(hub, categories_by_slug):
+    """A gift-guide hub: a curated set of links to existing, already-sourced
+    category guides, grouped for a recipient or occasion (e.g. Christmas
+    gifts for golfers). No new product claims are made here; each tile
+    surfaces that guide's own #1 pick and links through to the full guide,
+    where sources and the rest of the comparison live."""
+    picks = [
+        {**p, "cat": categories_by_slug[p["category_slug"]]}
+        for p in hub["picks"]
+        if p["category_slug"] in categories_by_slug
+    ]
+
+    crumb_html, crumb_ld = breadcrumb([
+        ("Guides", f"{SITE_URL}/"),
+        ("Gift guides", f"{SITE_URL}/gift-guides/"),
+        (hub["title"], None),
+    ])
+
+    cards = []
+    for p in picks:
+        cat = p["cat"]
+        top = cat["products"][0]
+        cards.append(f"""<a class="tile gift-tile" href="{BASE}/{cat['slug']}/">
+  <h3>{esc(cat['title'])}</h3>
+  <p class="gift-note">{esc(p['note'])}</p>
+  <p class="gift-top-pick"><strong>Top pick:</strong> {esc(top['brand'])} {esc(top['name'])} &mdash; {esc(top['badge'])}</p>
+</a>""")
+    cards_html = f'<div class="tiles">{"".join(cards)}</div>'
+
+    body = f"""<article>
+{crumb_html}
+<h1>{esc(hub['title'])}</h1>
+<p class="meta">Updated {esc(fmt_month(hub['updated']))}</p>
+<p class="lead">{linkify(hub['intro'])}</p>
+<p class="note">Every guide linked below lists its own sources, and we have not hands-on tested these products ourselves. <a href="{BASE}/about/">How we pick</a>.</p>
+{cards_html}
+</article>"""
+
+    item_list = {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": hub["title"],
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": i,
+                "name": p["cat"]["title"],
+                "url": f"{SITE_URL}/{p['cat']['slug']}/",
+            }
+            for i, p in enumerate(picks, start=1)
+        ],
+    }
+    return layout(f"{hub['title']} | {CONFIG['name']}", hub["short"], f"/{hub['slug']}/", body, [item_list, crumb_ld])
+
+
+def gift_guides_index_page(hubs):
+    crumb_html, crumb_ld = breadcrumb([
+        ("Guides", f"{SITE_URL}/"),
+        ("Gift guides", None),
+    ])
+    tiles = "".join(
+        f'<a class="tile" href="{BASE}/{h["slug"]}/"><h3>{esc(h["title"])}</h3><p>{esc(h["short"])}</p></a>'
+        for h in hubs
+    )
+    body = f"""<article>
+{crumb_html}
+<h1>Gift Guides</h1>
+<p class="lead">Struggling to know what to buy? These guides group our research-based picks by who they're for, pulling the top recommendation from each relevant buying guide.</p>
+{f'<div class="tiles">{tiles}</div>' if hubs else '<p>New gift guides are coming soon.</p>'}
+</article>"""
+    return layout(
+        f"Gift Guides | {CONFIG['name']}",
+        "Gift guide hubs grouping our research-based buying guides by recipient and occasion.",
+        "/gift-guides/",
+        body,
+        crumb_ld,
+    )
+
+
+def home_page(categories, hubs=None):
     by_group = {}
     for c in categories:
         by_group.setdefault(group_for(c["slug"]), []).append(c)
@@ -469,6 +586,7 @@ def home_page(categories):
 <p class="lead">{esc(CONFIG['tagline'])}</p>
 <p class="hero-stats">{len(categories)} guides &middot; {total_products} products researched &middot; updated monthly</p>
 </section>
+{f'<a class="gift-promo" href="{BASE}/gift-guides/">&#127873; Not sure what to buy? Browse our <strong>gift guides</strong> &rarr;</a>' if hubs else ''}
 <div class="trust-bar">
   <span class="trust-label">Sourced from</span>
   {trust_bar}
@@ -582,10 +700,13 @@ def not_found_page():
     return layout(f"Page not found | {CONFIG['name']}", "Page not found.", "/404.html", body)
 
 
-def sitemap(categories):
+def sitemap(categories, hubs):
     today = datetime.date.today().isoformat()
     urls = [("/", today), ("/about/", today)]
     urls += [(f"/{c['slug']}/", c["reviewed"]) for c in categories]
+    if hubs:
+        urls += [("/gift-guides/", today)]
+        urls += [(f"/{h['slug']}/", h["updated"]) for h in hubs]
     items = "".join(
         f"<url><loc>{esc(SITE_URL + u)}</loc><lastmod>{d}</lastmod></url>" for u, d in urls
     )
@@ -604,20 +725,26 @@ def main():
     shutil.copytree(ROOT / "static", DIST / "assets")
 
     categories = load_categories()
-    write("index.html", home_page(categories))
+    hubs = load_hubs()
+    categories_by_slug = {c["slug"]: c for c in categories}
+    write("index.html", home_page(categories, hubs))
     write("about/index.html", about_page())
     write("affiliate-disclosure/index.html", disclosure_page())
     write("privacy/index.html", privacy_page())
     write("404.html", not_found_page())
     for cat in categories:
         write(f"{cat['slug']}/index.html", category_page(cat, categories))
-    write("sitemap.xml", sitemap(categories))
+    if hubs:
+        write("gift-guides/index.html", gift_guides_index_page(hubs))
+        for hub in hubs:
+            write(f"{hub['slug']}/index.html", hub_page(hub, categories_by_slug))
+    write("sitemap.xml", sitemap(categories, hubs))
     write("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}/sitemap.xml\n")
     if CONFIG.get("custom_domain"):
         write("CNAME", CONFIG["custom_domain"] + "\n")
     (DIST / ".nojekyll").write_text("", encoding="utf-8")
 
-    print(f"Built {len(categories)} categories, {sum(len(c['products']) for c in categories)} products -> {DIST}")
+    print(f"Built {len(categories)} categories, {sum(len(c['products']) for c in categories)} products, {len(hubs)} gift guides -> {DIST}")
 
 
 if __name__ == "__main__":
