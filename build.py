@@ -47,7 +47,7 @@ GROUPS = {
         "smartphones", "samsung-chargers", "iphone-charging-cables", "power-banks",
         "portable-power-stations", "smartwatches", "smart-rings",
     ],
-    "Smart home & security": ["video-doorbells", "home-security-cameras", "action-cameras"],
+    "Smart home & security": ["video-doorbells", "home-security-cameras", "action-cameras", "smart-plugs"],
     "Sleep & comfort": ["mattresses", "mattress-toppers", "pillows", "duvets", "pregnancy-pillows"],
     "Bathroom": ["bath-towels", "shower-heads"],
     "Gym & fitness": [

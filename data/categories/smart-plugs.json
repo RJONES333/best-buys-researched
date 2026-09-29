@@ -1,0 +1,179 @@
+{
+  "slug": "smart-plugs",
+  "title": "Best Smart Plugs UK",
+  "short": "Six smart plugs tested by connecting to Wi-Fi and running lamps and radiators for several days to check scheduling reliability, from £8.99 to £30.",
+  "intro": "A smart plug is one of the cheapest ways into home automation, letting you schedule or remotely control anything plugged into it without replacing the appliance itself. This guide is based on Expert Reviews' tested roundup (updated 30 November 2023), where testers connected each plug to a home Wi-Fi network, used it to power table lamps, standard lamps and electric radiators, set up scheduling, and left it running for several days to check connection reliability and how well scheduling performed in real-world use.",
+  "reviewed": "2026-09-29",
+  "verified": "2026-09-29",
+  "products": [
+    {
+      "brand": "TP-Link",
+      "name": "Tapo Mini P100",
+      "badge": "Best overall",
+      "best_for": "Buyers who want a compact, reliable plug with a polished app",
+      "key_spec": "2.4GHz Wi-Fi, Alexa/Google compatible, scheduling, no power monitoring, 60 x 72 x 51.5mm",
+      "summary": "Expert Reviews' top pick, compact and reliable with a polished companion app. An Away mode simulates activity while you're out, and IFTTT support lets it work with other smart home routines, all at a genuinely low price.",
+      "specs": {
+        "Connectivity": "2.4GHz Wi-Fi",
+        "Compatibility": "Alexa, Google Assistant",
+        "Power monitoring": "No",
+        "Price guide": "£8.99 (at time of writing)"
+      },
+      "pros": [
+        "Compact size",
+        "Reliable connection",
+        "Polished, easy-to-use app",
+        "Away mode and IFTTT support"
+      ],
+      "cons": [
+        "No power/energy monitoring"
+      ],
+      "asin": "",
+      "search": "TP-Link Tapo Mini P100 smart plug"
+    },
+    {
+      "brand": "Amazon",
+      "name": "Smart Plug",
+      "badge": "Best for Alexa",
+      "best_for": "Buyers fully invested in the Alexa ecosystem",
+      "key_spec": "2.4GHz Wi-Fi, Alexa-only, scheduling via app, no power monitoring",
+      "summary": "Expert Reviews found this integrates perfectly with Alexa, unsurprisingly given the brand, making it the simplest choice for households built around Echo devices. The trade-off is it's limited to Amazon's ecosystem, so it's not the pick if you use Google Home or Apple Home.",
+      "specs": {
+        "Connectivity": "2.4GHz Wi-Fi",
+        "Compatibility": "Alexa only",
+        "Power monitoring": "No",
+        "Price guide": "£25 (at time of writing)"
+      },
+      "pros": [
+        "Perfect Alexa integration",
+        "Simple setup within the Amazon ecosystem"
+      ],
+      "cons": [
+        "Limited to Alexa only, no Google or HomeKit support"
+      ],
+      "asin": "",
+      "search": "Amazon Smart Plug"
+    },
+    {
+      "brand": "Meross",
+      "name": "MSS310",
+      "badge": "Best with energy monitoring",
+      "best_for": "Buyers who want to track exactly how much power a device uses",
+      "key_spec": "2.4GHz Wi-Fi, Alexa/Google/SmartThings, power monitoring, scheduling",
+      "summary": "Expert Reviews found this gives detailed consumption reports, letting you see exactly how much energy a connected device is using over time. It supports a wide range of ecosystems including SmartThings, though separate on/off routines are needed rather than one unified schedule.",
+      "specs": {
+        "Connectivity": "2.4GHz Wi-Fi",
+        "Compatibility": "Alexa, Google Assistant, SmartThings",
+        "Power monitoring": "Yes",
+        "Price guide": "From £30 (at time of writing)"
+      },
+      "pros": [
+        "Detailed energy consumption reports",
+        "Wide smart home ecosystem support",
+        "Reliable scheduling"
+      ],
+      "cons": [
+        "Requires separate routines for on and off"
+      ],
+      "asin": "",
+      "search": "Meross MSS310 smart plug"
+    },
+    {
+      "brand": "Meross",
+      "name": "MSS110 Smart Plug Mini",
+      "badge": "Best budget",
+      "best_for": "Buyers who want the cheapest genuinely reliable plug with wide compatibility",
+      "key_spec": "2.4GHz Wi-Fi, HomeKit/Alexa/Google, scheduling, no power monitoring",
+      "summary": "Expert Reviews found this affordable and compact, with support for Apple HomeKit as well as Alexa and Google, unusual at this price point. The main compromise for the low cost is the lack of energy monitoring found on the pricier Meross model.",
+      "specs": {
+        "Connectivity": "2.4GHz Wi-Fi",
+        "Compatibility": "Apple HomeKit, Alexa, Google Assistant",
+        "Power monitoring": "No",
+        "Price guide": "From £19 (at time of writing)"
+      },
+      "pros": [
+        "Affordable",
+        "Compact size",
+        "Supports HomeKit as well as Alexa and Google"
+      ],
+      "cons": [
+        "No energy monitoring"
+      ],
+      "asin": "",
+      "search": "Meross MSS110 Smart Plug Mini"
+    },
+    {
+      "brand": "Humax",
+      "name": "Wi-Fi Smart Plug",
+      "badge": "Best budget with features",
+      "best_for": "Buyers who want energy monitoring without paying the higher price of the Meross MSS310",
+      "key_spec": "2.4GHz Wi-Fi, Alexa/Google, power monitoring, weather-based automation",
+      "summary": "Expert Reviews called this exceptional value, packing in energy tracking and even weather-based automation at a genuinely budget price. It's a strong pick if power monitoring matters to you but the Meross MSS310 feels like overkill on price.",
+      "specs": {
+        "Connectivity": "2.4GHz Wi-Fi",
+        "Compatibility": "Alexa, Google Assistant",
+        "Power monitoring": "Yes",
+        "Price guide": "From £15 (at time of writing)"
+      },
+      "pros": [
+        "Energy monitoring at a budget price",
+        "Weather-based automation",
+        "Exceptional value"
+      ],
+      "cons": [
+        "Fewer ecosystem integrations than pricier rivals"
+      ],
+      "asin": "",
+      "search": "Humax Wi-Fi Smart Plug"
+    },
+    {
+      "brand": "Trust",
+      "name": "Wi-Fi Smart Plug",
+      "badge": "Best value twin pack",
+      "best_for": "Buyers who want two plugs for one price and don't need advanced features",
+      "key_spec": "2.4GHz Wi-Fi, Alexa/Google, scheduling, twin pack",
+      "summary": "Expert Reviews found this a great-value way to get two smart plugs at once, suiting beginners who just want basic on/off scheduling without a learning curve. Testers noted some setup quirks, and features are kept deliberately basic, but it covers the essentials for two rooms at a low combined price.",
+      "specs": {
+        "Connectivity": "2.4GHz Wi-Fi",
+        "Compatibility": "Alexa, Google Assistant",
+        "Power monitoring": "No",
+        "Price guide": "£25 for a twin pack (at time of writing)"
+      },
+      "pros": [
+        "Two plugs for one price",
+        "Simple for beginners",
+        "Good value"
+      ],
+      "cons": [
+        "Some setup quirks noted in testing",
+        "Basic feature set"
+      ],
+      "asin": "",
+      "search": "Trust Wi-Fi Smart Plug"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Do I need energy monitoring?",
+      "a": "If you want to see exactly how much a device costs to run, like an old fridge or a space heater, pick a plug with energy monitoring such as the Meross MSS310 or the budget-friendly Humax. If you just want basic remote on/off and scheduling, a non-monitoring plug like the TP-Link Tapo Mini P100 is cheaper and simpler."
+    },
+    {
+      "q": "Which smart home ecosystem should I check compatibility with?",
+      "a": "Most plugs here support Alexa and Google Assistant, but Apple HomeKit support is rarer; Expert Reviews notes the Meross MSS110 Mini is one of the few budget options with HomeKit built in. Check your existing smart speakers or hubs before buying if ecosystem compatibility matters to you."
+    },
+    {
+      "q": "Is a smart plug safe to use with a heater?",
+      "a": "Expert Reviews specifically tested these plugs powering electric radiators as part of their process, so all the plugs listed here have been run with heating appliances. Always check a plug's maximum wattage rating against your specific heater before use, regardless of brand."
+    },
+    {
+      "q": "How reliable is scheduling in real-world use?",
+      "a": "Expert Reviews left each plug running for several days specifically to test this, since a schedule that works once in a demo can still drop connection over time. All the plugs recommended here performed reliably over that extended test period."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best smart plug (updated 30 November 2023)",
+      "url": "https://www.expertreviews.co.uk/technology/smart-plugs-smart-home-automation"
+    }
+  ]
+}

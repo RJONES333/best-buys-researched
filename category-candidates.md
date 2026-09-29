@@ -29,10 +29,13 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Car wax and sealant (Automotive) — Auto Express tested roundup: 15 products applied to a clayed, stripped bonnet then left outside 6 weeks through winter weather, water-beading checked regularly. Winner Bilt-Hamber Double Speed-Wax.
 - Smartphones (Phones, power & wearables) — Expert Reviews tested roundup (updated 29 June 2026), genuine lab methodology: Geekbench 5/GFXBench performance, DisplayCAL+colorimeter display measurement, in-house battery rundown test, camera testing across scenarios. 600+ phones tested historically. Winner Samsung Galaxy S25 Ultra.
 - Shower heads (Bathroom) — Expert Reviews tested roundup (8 April 2024): fitted to both a mixer shower with booster pump and a lower-flow electric shower, all spray patterns tried with shower gel/shampoo, flow rate measured for water-saving claims. Winner Aqualisa Harmony.
+- Smart plugs (Smart home & security) — Expert Reviews tested roundup (30 Nov 2023): connected to Wi-Fi, used to power lamps/radiators, scheduling left running several days to check reliability. Winner TP-Link Tapo Mini P100.
 
 ## Rejected (this batch)
 - Smart speakers (Amazon Echo, Google Nest, etc) — Expert Reviews roundup has no "how we test" methodology, just affiliate-style verdicts; also stale product generations (2020/2022 Echo models).
 - Bathroom scales — Expert Reviews page (2023) has no explicit "how we test" section; only scattered anecdotal testing hints, and outdated (published May 2023).
+- Smart thermostats — Expert Reviews page (2023) has no "how we test" section, pure spec/verdict format.
+- Packing cubes — Expert Reviews page (2023) has no "how we test" section; the "benchmark load" testing methodology found in search snippets belongs to a different (non-UK) source, not this page.
 
 ## Added
 - Men's boxers/underwear (Clothing) — Men's Fitness UK tested roundup (updated 15 Sept 2026), named reviewers (Kieran Alger, Laurence McJannet), explicit "why you can trust us" methodology: worn for real workouts, judged on sweat-wicking, waistband/cuff comfort, support, chafing. Winner CXP Endurance Shorts. Requested by user.
