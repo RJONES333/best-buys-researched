@@ -31,6 +31,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Shower heads (Bathroom) — Expert Reviews tested roundup (8 April 2024): fitted to both a mixer shower with booster pump and a lower-flow electric shower, all spray patterns tried with shower gel/shampoo, flow rate measured for water-saving claims. Winner Aqualisa Harmony.
 - Smart plugs (Smart home & security) — Expert Reviews tested roundup (30 Nov 2023): connected to Wi-Fi, used to power lamps/radiators, scheduling left running several days to check reliability. Winner TP-Link Tapo Mini P100.
 - Carbon monoxide alarms (DIY & tools) — Expert Reviews tested roundup (14 May 2024): aerosol trigger spray in a sealed bag to check instant response, plus controls/display/fitting assessment. Winner (smart) Nest Protect; winner (budget) Kidde Lifesaver 5CO.
+- Air quality monitors (Laundry, heating & air) — Expert Reviews tested roundup (3 Dec 2024): week-long side-by-side tracking in a 3-bed house, then deliberately exposed to drying paint/smoke/deodorant/humidifier moisture to test response speed. Winner Airthings View Plus.
 
 ## Rejected (this batch)
 - Smart speakers (Amazon Echo, Google Nest, etc) — Expert Reviews roundup has no "how we test" methodology, just affiliate-style verdicts; also stale product generations (2020/2022 Echo models).
@@ -38,6 +39,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Smart thermostats — Expert Reviews page (2023) has no "how we test" section, pure spec/verdict format.
 - Packing cubes — Expert Reviews page (2023) has no "how we test" section; the "benchmark load" testing methodology found in search snippets belongs to a different (non-UK) source, not this page.
 - Smart locks — smarthomeassistant.co.uk explicitly discloses non-hands-on verdicts for this category ("cross-referenced manufacturer data... rather than a claim of personal hands-on testing"); only their own homelab Zigbee/Home Assistant gear gets genuine hands-on claims. No genuine UK-tested smart lock source found yet.
+- WiFi extenders — same smarthomeassistant.co.uk site; no explicit hands-on claim appears within the extender reviews themselves (their disclosed policy: only stated explicitly in-text when it applies). No genuine UK-tested source found yet.
 
 ## Added
 - Men's boxers/underwear (Clothing) — Men's Fitness UK tested roundup (updated 15 Sept 2026), named reviewers (Kieran Alger, Laurence McJannet), explicit "why you can trust us" methodology: worn for real workouts, judged on sweat-wicking, waistband/cuff comfort, support, chafing. Winner CXP Endurance Shorts. Requested by user.

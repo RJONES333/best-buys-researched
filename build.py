@@ -30,7 +30,7 @@ GROUPS = {
     ],
     "Laundry, heating & air": [
         "washing-machines", "tumble-dryers", "steam-irons", "heated-airers",
-        "dehumidifiers", "humidifiers", "air-purifiers", "fans", "portable-air-conditioners",
+        "dehumidifiers", "humidifiers", "air-purifiers", "air-quality-monitors", "fans", "portable-air-conditioners",
         "electric-heaters", "electric-blankets",
     ],
     "Cleaning": ["robot-vacuums", "cordless-vacuums", "corded-vacuum-cleaners", "steam-cleaners"],

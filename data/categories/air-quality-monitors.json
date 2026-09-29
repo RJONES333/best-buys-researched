@@ -1,0 +1,185 @@
+{
+  "slug": "air-quality-monitors",
+  "title": "Best Air Quality Monitors UK",
+  "short": "Six air quality monitors tested over a week for tracking accuracy, then deliberately exposed to drying paint, smoke, deodorant spray and humidifier moisture to check response speed.",
+  "intro": "An air quality monitor is only useful if it reacts quickly to genuine changes and reports them clearly, not just when the air is already visibly bad. This guide is based on Expert Reviews' tested roundup (published 3 December 2024), where testers set up two or more monitors side by side in a three-bedroom detached house, tracking how well each followed changes in air quality over a week, then moved them into a smaller room and exposed them to drying paint, smoke, deodorant sprays and moisture from a humidifier to see how quickly each reacted and issued warnings.",
+  "reviewed": "2026-09-29",
+  "verified": "2026-09-29",
+  "products": [
+    {
+      "brand": "Airthings",
+      "name": "View Plus",
+      "badge": "Best overall",
+      "best_for": "Buyers who want the most complete picture of air quality, including radon",
+      "key_spec": "VOCs, PM2.5, radon, temperature, humidity, air pressure; 2.9in e-paper display; Wi-Fi and Bluetooth",
+      "summary": "Expert Reviews' top pick, a premium monitor with an onscreen e-paper display for real-time readings and cloud dashboard integration for tracking trends over time. It's the only monitor here that also tracks radon, and can act as a hub for other Airthings devices, running up to two years on 6 AA batteries or via USB-C.",
+      "specs": {
+        "Sensors": "VOCs, PM2.5, radon, temperature, humidity, air pressure",
+        "Display": "2.9in e-paper",
+        "Power": "6x AA batteries (up to 2 years) or USB-C",
+        "Price guide": "£250 (at time of writing)"
+      },
+      "pros": [
+        "Tracks radon as well as PM2.5 and VOCs",
+        "Real-time e-paper display",
+        "Cloud dashboard for long-term trends",
+        "Can act as a hub for other Airthings units"
+      ],
+      "cons": [
+        "Most expensive monitor on test"
+      ],
+      "asin": "",
+      "search": "Airthings View Plus air quality monitor"
+    },
+    {
+      "brand": "Amazon",
+      "name": "Smart Air Quality Monitor",
+      "badge": "Best for tracking and alerts",
+      "best_for": "Alexa households who want affordable alerts and reporting",
+      "key_spec": "VOCs, CO, PM2.5, temperature, humidity; LED indicator; Alexa integration",
+      "summary": "Expert Reviews found this the most affordable option on test, offering weekly, daily and hourly reports plus alert capability through the Alexa app. It's always plugged in via micro-USB and uses a simple green/amber/red LED rather than a detailed screen, but requires the Alexa ecosystem to get the most from it.",
+      "specs": {
+        "Sensors": "VOCs, CO, PM2.5, temperature, humidity",
+        "Display": "LED indicator only",
+        "Connectivity": "Wi-Fi, Bluetooth, Alexa integration",
+        "Price guide": "£70 (at time of writing)"
+      },
+      "pros": [
+        "Most affordable option on test",
+        "Detailed reports and alerts via the Alexa app",
+        "Tracks CO as well as VOCs and PM2.5"
+      ],
+      "cons": [
+        "No detailed onscreen display, LED only",
+        "Best suited to households already using Alexa"
+      ],
+      "asin": "",
+      "search": "Amazon Smart Air Quality Monitor"
+    },
+    {
+      "brand": "Airthings",
+      "name": "Wave Plus",
+      "badge": "Best for VOC and radon tracking",
+      "best_for": "Buyers who want comprehensive gas tracking without PM2.5",
+      "key_spec": "VOCs, CO2, radon, temperature, humidity, air pressure; coloured ring indicator; Bluetooth 5",
+      "summary": "Expert Reviews found this gives comprehensive detection across VOCs, CO2 and radon, missing only PM2.5 particulate tracking compared with the View Plus. Its app offers trend views from 12 hours up to a full year, plus IFTTT automation support, running 12-15 months on 2 AA batteries.",
+      "specs": {
+        "Sensors": "VOCs, CO2, radon, temperature, humidity, air pressure",
+        "Display": "Coloured ring indicator",
+        "Power": "2x AA batteries (12-15 months)",
+        "Price guide": "£180 (at time of writing)"
+      },
+      "pros": [
+        "Tracks radon and CO2 alongside VOCs",
+        "Long battery life",
+        "Detailed trend views from 12 hours to a year",
+        "IFTTT automation support"
+      ],
+      "cons": [
+        "No PM2.5 particulate tracking"
+      ],
+      "asin": "",
+      "search": "Airthings Wave Plus"
+    },
+    {
+      "brand": "Eve",
+      "name": "Room",
+      "badge": "Best for iPhone users",
+      "best_for": "Apple HomeKit households wanting a compact, discreet monitor",
+      "key_spec": "VOCs only; 200x200px E Ink display with star rating; HomeKit exclusive",
+      "summary": "Expert Reviews found this compact at just 54x54x15mm, with a simple E Ink display showing a star rating rather than raw numbers, making it easy to read at a glance. It's HomeKit-exclusive with no third-party ecosystem support, and only tracks VOCs rather than PM2.5 or radon.",
+      "specs": {
+        "Sensors": "VOCs only",
+        "Display": "200x200px E Ink with star rating",
+        "Connectivity": "Bluetooth LE, Apple HomeKit only",
+        "Price guide": "£88 (at time of writing)"
+      },
+      "pros": [
+        "Very compact design",
+        "Simple, easy-to-read star rating display",
+        "Seamless Apple HomeKit integration"
+      ],
+      "cons": [
+        "HomeKit only, no other ecosystem support",
+        "Tracks VOCs only, no PM2.5 or radon",
+        "Needs charging roughly every 6 weeks"
+      ],
+      "asin": "",
+      "search": "Eve Room air quality monitor"
+    },
+    {
+      "brand": "Temtop",
+      "name": "M10i",
+      "badge": "Best value",
+      "best_for": "Buyers who want broad pollutant tracking, including formaldehyde, on a budget",
+      "key_spec": "VOCs, PM2.5, formaldehyde (HCHO); 3.5in mono LCD; Wi-Fi",
+      "summary": "Expert Reviews found this offers well-rounded tracking including formaldehyde detection, unusual at this price, with iOS and Android apps and Excel export for logging readings over time. Testers noted the app is limited to daily graphs only, and battery life is poor, so it's best kept plugged in via USB.",
+      "specs": {
+        "Sensors": "VOCs, PM2.5, formaldehyde (HCHO)",
+        "Display": "3.5in mono LCD",
+        "Power": "Internal battery, ~6hr runtime (USB recommended)",
+        "Price guide": "£100 (at time of writing)"
+      },
+      "pros": [
+        "Tracks formaldehyde as well as VOCs and PM2.5",
+        "Excel export for logging data",
+        "Good value for the sensor range"
+      ],
+      "cons": [
+        "App limited to daily graphs only",
+        "Poor battery autonomy, best left plugged in"
+      ],
+      "asin": "",
+      "search": "Temtop M10i air quality monitor"
+    },
+    {
+      "brand": "Airthings",
+      "name": "Wave Mini",
+      "badge": "Best entry-level",
+      "best_for": "Buyers who want a simple, affordable monitor with mould-risk detection",
+      "key_spec": "VOCs, mould-risk detection, temperature, humidity; single LED indicator; Bluetooth 4.2",
+      "summary": "Expert Reviews found this a compact, strong-value entry point, with a built-in mould-prediction algorithm that's a genuinely useful addition most budget monitors lack. It skips PM2.5 tracking to hit its low price, and uses a single LED indicator rather than a detailed screen, running on 3 AAA batteries.",
+      "specs": {
+        "Sensors": "VOCs, mould-risk, temperature, humidity",
+        "Display": "Single LED indicator",
+        "Power": "3x AAA batteries",
+        "Price guide": "£66 (at time of writing)"
+      },
+      "pros": [
+        "Built-in mould-prediction algorithm",
+        "Compact and affordable",
+        "IFTTT automation support"
+      ],
+      "cons": [
+        "No PM2.5 particulate tracking",
+        "Basic LED-only display"
+      ],
+      "asin": "",
+      "search": "Airthings Wave Mini"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Which pollutants actually matter most to track?",
+      "a": "Expert Reviews' testing covered VOCs (volatile organic compounds from paint, cleaning products and furnishings), PM2.5 particulates (from cooking, smoke and outdoor pollution), CO2, and in some models radon, a naturally occurring radioactive gas. If you're concerned about a specific issue like damp or mould, the Airthings Wave Mini's dedicated mould-risk detection is more directly useful than broader multi-gas tracking."
+    },
+    {
+      "q": "Do I need PM2.5 tracking?",
+      "a": "PM2.5 tracks fine particulates from cooking, smoking or outdoor pollution drifting indoors, and is included on the Airthings View Plus, Amazon Smart Air Quality Monitor and Temtop M10i here. The Airthings Wave models and Eve Room skip it in favour of a lower price or a specific focus like radon or mould risk, so check this matters to you before choosing a cheaper option."
+    },
+    {
+      "q": "How did Expert Reviews actually test response speed?",
+      "a": "Beyond passive week-long tracking, testers deliberately introduced drying paint, smoke, deodorant sprays and humidifier moisture in a smaller room to see how quickly each monitor reacted and issued a warning, rather than just judging monitors on their spec sheets."
+    },
+    {
+      "q": "Do I need Wi-Fi, or is Bluetooth enough?",
+      "a": "A Wi-Fi-connected monitor like the Airthings View Plus or Temtop M10i lets you check readings remotely from anywhere. A Bluetooth-only monitor like the Airthings Wave Plus or Wave Mini is cheaper and still gives detailed readings via app when you're in range, fine if you mainly want an at-a-glance check at home."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best air quality monitors (published 3 December 2024)",
+      "url": "https://www.expertreviews.co.uk/beauty-wellness/air-treatment/best-air-quality-monitor"
+    }
+  ]
+}
