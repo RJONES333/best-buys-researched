@@ -6,7 +6,7 @@ After re-reviewing a guide, update its `reviewed` date in data/categories/<slug>
 Checked 144 sources. Could not read an updated date for 19 of them (bot-blocked, or the page shows no date), so those are not flagged either way.
 
 ## Source updated after we last reviewed
-- Best Robot Vacuum Cleaners UK: Expert Reviews: best robot vacuum cleaners updated 2026-09-22, we reviewed 2026-09-21 - https://www.expertreviews.co.uk/home-garden/vacuums-cleaning/best-robot-vacuum-cleaners
+- None
 
 ## Picks not reassessed in over 120 days
 - None

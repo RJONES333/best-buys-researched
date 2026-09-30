@@ -2,34 +2,112 @@
   "slug": "robot-vacuums",
   "title": "Best Robot Vacuum Cleaners UK",
   "short": "Robot vacuums and vacuum-mop combos compared by suction, docking, mopping and who they suit.",
-  "intro": "Robot vacuums now range from simple budget models to fully automated machines that empty, wash and refill themselves. This guide compares the models that keep appearing near the top of UK tests, so you can decide which features are worth paying for in your home.",
-  "reviewed": "2026-09-21",
-  "verified": "2026-09-25",
+  "intro": "Robot vacuums now range from simple budget models to fully automated machines that empty, wash and refill themselves. This guide draws on Expert Reviews, which tests every robot on the same 58m² floorplan with rice, flour and pet hair spills, and on Mumsnet's parent testers, so you can decide which features are worth paying for in your home.",
+  "reviewed": "2026-09-30",
+  "verified": "2026-09-30",
   "products": [
     {
       "brand": "Eufy",
       "name": "Omni E25",
       "badge": "Best overall",
       "best_for": "Most homes that want vacuuming and mopping with a self-emptying dock",
-      "key_spec": "20,000 Pa, mops, self-emptying dock",
-      "summary": "Expert Reviews rated this its best robot vacuum overall. It cleans carpets and hard floors thoroughly, mops effectively and empties itself at the dock.",
+      "key_spec": "LiDAR and camera, mops, self-emptying dock",
+      "summary": "Expert Reviews rates this the best robot vacuum it has tested. It cleaned 90% of flour, rice and dog hair on carpet and hard floor in its tests, mops hard floors well and empties, cleans and charges itself after every run.",
       "specs": {
-        "Suction": "20,000 Pa",
         "Mopping": "Yes",
-        "Dock": "Self-emptying",
+        "Dock": "Self-emptying and self-cleaning",
         "Battery": "216 min vacuum only, 125 min vacuum and mop",
-        "Control": "App"
+        "Navigation": "LiDAR and camera",
+        "Bin": "3L (base station)"
       },
       "pros": [
         "Cleans carpets and hard floors thoroughly",
-        "Speedy operation",
-        "Effective mopping"
+        "Speedy cleaning and self-emptying",
+        "Good value, great app"
       ],
       "cons": [
-        "Large base station takes up floor space"
+        "Base station is bulky"
       ],
       "asin": "",
       "search": "Eufy Omni E25 robot vacuum"
+    },
+    {
+      "brand": "Eufy",
+      "name": "E20",
+      "badge": "Best value / 2-in-1",
+      "best_for": "Buyers who want a robot vacuum and a cordless stick in one",
+      "key_spec": "Converts to stick vacuum",
+      "summary": "Expert Reviews' best-value pick doubles as a cordless stick vacuum, so you get two cleaners in one, with a self-emptying dock.",
+      "specs": {
+        "Dock": "Self-emptying",
+        "Mopping": "No",
+        "Runtime": "180 min as robot, 49 min as stick (eco)",
+        "Control": "App"
+      },
+      "pros": [
+        "Cordless stick and robot in one",
+        "Solid navigation",
+        "Capable cleaning"
+      ],
+      "cons": [
+        "Not the best at any single job",
+        "No anti-tangle technology"
+      ],
+      "asin": "",
+      "search": "Eufy E20 robot vacuum stick"
+    },
+    {
+      "brand": "Eufy",
+      "name": "Omni S2",
+      "badge": "Best premium",
+      "best_for": "Buyers who want the best cleaning and design regardless of price",
+      "key_spec": "Roller mop, 2.5L dust bag dock",
+      "summary": "Expert Reviews' best premium vacuum-and-mop. It picked up 99% of the rice and flour in its tests on carpet and hard floor, cleaned faster than most robots it has tried and kept mopping stains until they were gone. Its only real drawback is the price.",
+      "specs": {
+        "Battery": "Up to 180 min",
+        "Navigation": "Camera and TDOF sensor",
+        "Mopping": "Roller, extendable",
+        "Dock": "Self-emptying, 2.5L dust bag",
+        "Water tanks": "3L clean, 2L dirty"
+      },
+      "pros": [
+        "The most elegant robot vacuum money can buy",
+        "Performance matches the looks",
+        "Makes your room smell nice"
+      ],
+      "cons": [
+        "Detergent and fragrance modules must come from Eufy",
+        "Expensive"
+      ],
+      "asin": "",
+      "search": "Eufy Omni S2 robot vacuum mop"
+    },
+    {
+      "brand": "Roborock",
+      "name": "Saros 20 Neo",
+      "badge": "Best for object detection",
+      "best_for": "Cluttered homes with cables, pets and low furniture",
+      "key_spec": "Retractable LiDAR, AI object detection",
+      "summary": "Expert Reviews' pick for object detection. It avoids cable nests and plastic bags, marks pets and objects in the app, and its retractable LiDAR turret lets it slip under low furniture. It cleaned and mopped most test stains and empties itself after every run.",
+      "specs": {
+        "Suction": "36,000 Pa",
+        "Battery": "Up to 256 min",
+        "Navigation": "LiDAR and camera",
+        "Mopping": "Twin rotary, removable",
+        "Dock": "Self-emptying, 2.5L dust bag",
+        "Height": "80mm"
+      },
+      "pros": [
+        "Powerful suction",
+        "Very low profile",
+        "Excellent AI object and pet detection"
+      ],
+      "cons": [
+        "Not the most consistent cleaner",
+        "App can be confusing"
+      ],
+      "asin": "",
+      "search": "Roborock Saros 20 Neo robot vacuum"
     },
     {
       "brand": "Eufy",
@@ -59,61 +137,9 @@
       "search": "Eufy X10 Pro Omni robot vacuum"
     },
     {
-      "brand": "Eufy",
-      "name": "E20",
-      "badge": "Best value / 2-in-1",
-      "best_for": "Buyers who want a robot vacuum and a cordless stick in one",
-      "key_spec": "Converts to stick vacuum",
-      "summary": "Expert Reviews' best-value pick doubles as a cordless stick vacuum, so you get two cleaners in one, with a self-emptying dock.",
-      "specs": {
-        "Dock": "Self-emptying",
-        "Mopping": "No",
-        "Runtime": "180 min as robot, 49 min as stick (eco)",
-        "Control": "App"
-      },
-      "pros": [
-        "Cordless stick and robot in one",
-        "Solid navigation",
-        "Capable cleaning"
-      ],
-      "cons": [
-        "Not the best at any single job",
-        "No anti-tangle technology"
-      ],
-      "asin": "",
-      "search": "Eufy E20 robot vacuum stick"
-    },
-    {
-      "brand": "Dyson",
-      "name": "360 Vis Nav",
-      "badge": "Best cleaning power",
-      "best_for": "Buyers who prioritise suction and edge cleaning over automation",
-      "key_spec": "Most powerful tested, 65 min battery",
-      "summary": "Expert Reviews calls this the most powerful robot vacuum it has tested, with excellent edge cleaning and effective mapping, but it does not mop or empty itself.",
-      "specs": {
-        "Suction": "Hyperdymium motors",
-        "Mopping": "No",
-        "Dock": "No self-emptying",
-        "Battery": "65 min",
-        "Navigation": "Laser and camera"
-      },
-      "pros": [
-        "Most powerful robot tested",
-        "Excellent edge cleaning",
-        "Effective mapping"
-      ],
-      "cons": [
-        "Very expensive",
-        "No mopping",
-        "Bin must be emptied by hand"
-      ],
-      "asin": "",
-      "search": "Dyson 360 Vis Nav robot vacuum"
-    },
-    {
       "brand": "Dreame",
       "name": "X50 Ultra Complete",
-      "badge": "Best premium",
+      "badge": "Best for climbing obstacles",
       "best_for": "Buyers who want the most advanced hands-off cleaner",
       "key_spec": "20,000 Pa, climbs 6cm obstacles",
       "summary": "A high-end machine with retractable legs that climb 6cm obstacles, strong suction and accurate mapping. Mumsnet's testers found it needs minimal maintenance.",
@@ -162,6 +188,34 @@
       ],
       "asin": "",
       "search": "Ultenic T20 Pro robot vacuum mop"
+    },
+    {
+      "brand": "Dyson",
+      "name": "360 Vis Nav",
+      "badge": "Best vacuum-only",
+      "best_for": "Buyers who want strong suction and do not need mopping or self-emptying",
+      "key_spec": "Full-width brush bar, 65 min battery",
+      "summary": "Expert Reviews now lists this under 'also tested' with a 4/5 rating rather than among its top picks. Its full review praises the powerful vacuuming and unique fluffy roller, but it has no mop, no self-emptying dock and a very high price.",
+      "specs": {
+        "Suction": "Hyperdymium motors",
+        "Mopping": "No",
+        "Dock": "No self-emptying",
+        "Battery": "65 min",
+        "Navigation": "Laser and camera"
+      },
+      "pros": [
+        "Powerful vacuum",
+        "Decent navigation",
+        "Unique fluffy roller"
+      ],
+      "cons": [
+        "No mop",
+        "Troublesome around rugs",
+        "Could improve edge cleaning",
+        "Bin must be emptied by hand"
+      ],
+      "asin": "",
+      "search": "Dyson 360 Vis Nav robot vacuum"
     },
     {
       "brand": "Lefant",
@@ -239,6 +293,18 @@
     {
       "name": "Expert Reviews: best robot vacuum cleaners",
       "url": "https://www.expertreviews.co.uk/home-garden/vacuums-cleaning/best-robot-vacuum-cleaners"
+    },
+    {
+      "name": "Expert Reviews: Eufy Omni S2 review",
+      "url": "https://www.expertreviews.co.uk/home-garden/vacuums-cleaning/eufy-omni-s2-review"
+    },
+    {
+      "name": "Expert Reviews: Roborock Saros 20 Neo review",
+      "url": "https://www.expertreviews.co.uk/home-garden/vacuums-cleaning/roborock-saros-20-neo-review"
+    },
+    {
+      "name": "Expert Reviews: Dyson 360 Vis Nav review",
+      "url": "https://www.expertreviews.co.uk/home-garden/vacuums-cleaning/dyson-360-vis-nav-review"
     },
     {
       "name": "Mumsnet: best robot vacuum cleaners",
