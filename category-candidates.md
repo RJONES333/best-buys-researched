@@ -32,6 +32,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Smart plugs (Smart home & security) — Expert Reviews tested roundup (30 Nov 2023): connected to Wi-Fi, used to power lamps/radiators, scheduling left running several days to check reliability. Winner TP-Link Tapo Mini P100.
 - Carbon monoxide alarms (DIY & tools) — Expert Reviews tested roundup (14 May 2024): aerosol trigger spray in a sealed bag to check instant response, plus controls/display/fitting assessment. Winner (smart) Nest Protect; winner (budget) Kidde Lifesaver 5CO.
 - Air quality monitors (Laundry, heating & air) — Expert Reviews tested roundup (3 Dec 2024): week-long side-by-side tracking in a 3-bed house, then deliberately exposed to drying paint/smoke/deodorant/humidifier moisture to test response speed. Winner Airthings View Plus.
+- PC and conference call headsets (Computing & desk) — Expert Reviews tested roundup (6 Sept 2024, named author/reviewer). Initial WebFetch summaries wrongly flagged this as untested (no single dedicated methodology paragraph); direct browser read confirmed extensive genuine first-person testing detail throughout each verdict. Covers both Bluetooth and wired/USB, distinct from existing gaming-headsets.json. Requested by user. Winner (ANC) Poly Voyager Focus UC; winner (value) Poly Blackwire 5220.
 
 ## Rejected (this batch)
 - Smart speakers (Amazon Echo, Google Nest, etc) — Expert Reviews roundup has no "how we test" methodology, just affiliate-style verdicts; also stale product generations (2020/2022 Echo models).

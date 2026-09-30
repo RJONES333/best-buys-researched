@@ -40,7 +40,7 @@ GROUPS = {
     ],
     "Computing & desk": [
         "laptops", "tablets", "pc-monitors", "monitor-arms", "mechanical-keyboards",
-        "gaming-mice", "webcams", "external-ssds", "wifi-routers", "printers",
+        "gaming-mice", "webcams", "pc-conference-headsets", "external-ssds", "wifi-routers", "printers",
         "standing-desks", "office-chairs", "gaming-chairs",
     ],
     "Phones, power & wearables": [

@@ -1,0 +1,213 @@
+{
+  "slug": "pc-conference-headsets",
+  "title": "Best PC and Conference Call Headsets UK",
+  "short": "Seven Bluetooth and wired USB headsets tested for mic clarity, comfort and video-call app integration, from a £39 budget USB set to a £225 premium ANC model.",
+  "intro": "A gaming headset and a proper conference-call headset are built for different jobs: what matters most for calls is mic clarity, all-day comfort and reliable mute/answer controls that actually work with Teams or Zoom, not surround sound for footsteps. This guide is based on Expert Reviews' tested roundup (published 6 September 2024, written by Will Georgiadis, reviewed by Stuart Andrews), covering both Bluetooth/wireless models and wired USB headsets, tested for build quality, mic clarity, comfort over long calls, and how well in-line or cup-mounted controls actually integrate with video-calling apps.",
+  "reviewed": "2026-09-30",
+  "verified": "2026-09-30",
+  "products": [
+    {
+      "brand": "Poly",
+      "name": "Voyager Focus UC",
+      "badge": "Best with ANC",
+      "best_for": "Buyers who need to block out background noise from family or colleagues nearby",
+      "key_spec": "Bluetooth, binaural on-ear, ANC (mic and headphones), 12-hour talk battery, 155g",
+      "summary": "Expert Reviews found the ANC, switched on via a simple earpiece toggle, ridiculously useful for keeping other people's voices to a minimum on calls, even though it can't fully match dedicated over-ear headphones for passive isolation. Build quality is superb, controls are straightforward, and mic clarity is as impressive as you'd expect from a high-end conferencing headset. The only real complaint was a slightly over-chatty voice assistant announcing battery level and mute status.",
+      "specs": {
+        "Connection": "Bluetooth",
+        "Type": "Binaural on-ear",
+        "Noise cancellation": "Mic and headphones",
+        "Battery life": "12 hours talk",
+        "Price guide": "£140 (at time of writing)"
+      },
+      "pros": [
+        "Genuinely effective ANC",
+        "Superb build quality",
+        "Impressive mic clarity",
+        "Rotating mic wearable either side"
+      ],
+      "cons": [
+        "Voice assistant can be overly chatty during calls"
+      ],
+      "asin": "",
+      "search": "Poly Voyager Focus UC headset"
+    },
+    {
+      "brand": "Jabra",
+      "name": "Evolve2 65",
+      "badge": "Best without ANC",
+      "best_for": "Buyers who want long battery life and Teams-specific controls without ANC",
+      "key_spec": "Bluetooth, binaural on-ear, 35-hour talk battery, dedicated Teams buttons, 180g",
+      "summary": "Expert Reviews called this one of their favourite on-ear Bluetooth headsets, with up to 35 hours of talk time and memory foam cushions that keep it comfortable for the entire battery life. Fellow Zoom callers reported the flip-to-mute mic worked well, and dedicated Teams buttons for joining and ending meetings are a genuinely useful touch, with a built-in Busy light to warn others you're on a call.",
+      "specs": {
+        "Connection": "Bluetooth",
+        "Type": "Binaural on-ear",
+        "Battery life": "35 hours talk, 37 hours music",
+        "Extras": "Busy light, Teams-specific buttons",
+        "Price guide": "£141 (at time of writing)"
+      },
+      "pros": [
+        "Excellent 35-hour battery life",
+        "Comfortable memory foam cushions",
+        "Dedicated Teams join/end buttons",
+        "Built-in Busy light"
+      ],
+      "cons": [
+        "No active noise cancellation"
+      ],
+      "asin": "",
+      "search": "Jabra Evolve2 65 headset"
+    },
+    {
+      "brand": "EPOS",
+      "name": "Adapt 135 USB-C",
+      "badge": "Best monaural headset",
+      "best_for": "Buyers who want a single-ear headset to stay aware of their surroundings while on calls",
+      "key_spec": "Wired USB-C (splits to 3.5mm), monaural on-ear, Teams-certified variant available, 62g",
+      "summary": "Expert Reviews found this budget EPOS model has an excellent in-line control bar with volume, mute and call management, plus a dedicated Microsoft Teams button on the model tested. The mic is clear and effective at cancelling outside noise, and despite the single-earpiece design it's comfortable for extended wear thanks to its low weight and large, firm foam earpiece.",
+      "specs": {
+        "Connection": "USB-C (splits to 3.5mm)",
+        "Type": "Monaural on-ear",
+        "Compatibility": "Teams/Skype for Business/UC (model dependent)",
+        "Price guide": "£50 (at time of writing)"
+      },
+      "pros": [
+        "Clear, noise-cancelling mic",
+        "Comfortable despite monaural design",
+        "Useful in-line control bar",
+        "Splits to 3.5mm for flexibility"
+      ],
+      "cons": [
+        "Single ear only, less immersive for music"
+      ],
+      "asin": "",
+      "search": "EPOS Adapt 135 USB-C headset"
+    },
+    {
+      "brand": "Poly",
+      "name": "Blackwire 5220",
+      "badge": "Best value",
+      "best_for": "Buyers who want a comfortable, reliable wired headset without spending much",
+      "key_spec": "Wired USB-A (splits to 3.5mm), binaural on-ear, soft foam cushions, 164g",
+      "summary": "Expert Reviews called this exceptional value for money, with soft foam ear cushions and a floating headband that's supremely comfortable to wear. The noise-suppressing microphone does a good job cutting out external chatter, and while there's no official compatibility with every calling app beyond a Skype for Business certification, testers found it worked perfectly well with Zoom.",
+      "specs": {
+        "Connection": "USB-A (splits to 3.5mm)",
+        "Type": "Binaural on-ear",
+        "Compatibility": "Teams/Zoom/Skype for Business",
+        "Price guide": "£65 (at time of writing)"
+      },
+      "pros": [
+        "Exceptional value for money",
+        "Very comfortable soft foam cushions and floating headband",
+        "Good noise-suppressing microphone",
+        "Works well with Zoom in testing"
+      ],
+      "cons": [
+        "No ANC or passive isolation from the on-ear design"
+      ],
+      "asin": "",
+      "search": "Poly Blackwire 5220 headset"
+    },
+    {
+      "brand": "Microsoft",
+      "name": "Modern USB Headset",
+      "badge": "Best budget for Microsoft Teams",
+      "best_for": "Teams users who want the cheapest reliable option with deep app integration",
+      "key_spec": "Wired USB-A or USB-C, stereo on-ear, dedicated Teams shortcut button, 142g",
+      "summary": "Expert Reviews found this a great all-rounder, connecting easily and delivering good, clear audio through comfortable, padded ear cups. The noise-cancelling microphone does an excellent job capturing voice without background hubbub, and a dedicated Teams shortcut button plus a mute button that syncs with the app's own mute notification make it a genuinely well-integrated, inexpensive choice.",
+      "specs": {
+        "Connection": "USB-A or USB-C",
+        "Type": "Stereo on-ear",
+        "Compatibility": "Microsoft Teams/Skype for Business",
+        "Price guide": "£39 (at time of writing)"
+      },
+      "pros": [
+        "Very affordable",
+        "Excellent noise-cancelling microphone",
+        "Dedicated Teams shortcut and synced mute button",
+        "Comfortable padded ear cups"
+      ],
+      "cons": [
+        "Sound leaks out due to on-ear design",
+        "Not the best choice for music listening"
+      ],
+      "asin": "",
+      "search": "Microsoft Modern USB Headset"
+    },
+    {
+      "brand": "Jabra",
+      "name": "Evolve2 75",
+      "badge": "Most versatile ANC headset",
+      "best_for": "Buyers who want the best all-round Bluetooth headset for both calls and everyday listening",
+      "key_spec": "Bluetooth, binaural on-ear, ANC with HearThrough mode, 5-band EQ app, recessed boom mic",
+      "summary": "Expert Reviews found the ANC here works a treat for focusing in a busy home or office, dulling unwanted noise to the point you barely notice it, while the HearThrough feature lets you hear outside noise without removing the headset. Flip the mic into its recessed off position and it doubles convincingly as a standard pair of Bluetooth headphones, with sound quality that has presence and detail for music too, backed by a 5-band EQ in the Jabra Direct app.",
+      "specs": {
+        "Connection": "Bluetooth",
+        "Type": "Binaural on-ear",
+        "Noise cancellation": "Mic and headphones, with HearThrough mode",
+        "Price guide": "£225 (at time of writing)"
+      },
+      "pros": [
+        "Highly effective ANC for focus",
+        "HearThrough mode for situational awareness",
+        "Doubles well as everyday music headphones",
+        "5-band EQ via companion app"
+      ],
+      "cons": [
+        "Expensive, especially with the optional charging stand",
+        "Earcup padding can get warm in hot weather"
+      ],
+      "asin": "",
+      "search": "Jabra Evolve2 75 headset"
+    },
+    {
+      "brand": "Audio-Technica",
+      "name": "ATH-M50xSTS StreamSet",
+      "badge": "Best wired for mic quality",
+      "best_for": "Buyers who prioritise the clearest possible microphone and neutral audio above app integration",
+      "key_spec": "Wired USB-A/USB-C or 3.5mm/1/4in analogue, stereo over-ear, studio-derived mic, 300g",
+      "summary": "Expert Reviews highlighted magnificent microphone quality here, based on Audio-Technica's 20-Series studio mics, easily adjusted and excellent at reproducing voices while reducing background noise. It lacks dedicated Teams or Zoom integration, but testers felt its relatively neutral sound signature and top-notch audio quality serve any home worker well, not just the content creators it's primarily aimed at.",
+      "specs": {
+        "Connection": "USB-A/USB-C (digital) or 3.5mm/1/4in (analogue)",
+        "Type": "Stereo over-ear",
+        "Compatibility": "No dedicated app integration",
+        "Price guide": "£199 (at time of writing)"
+      },
+      "pros": [
+        "Magnificent, studio-derived microphone quality",
+        "Neutral, accurate sound signature",
+        "Reduces background noise effectively"
+      ],
+      "cons": [
+        "No dedicated Teams/Zoom integration",
+        "Heaviest headset on test at 300g"
+      ],
+      "asin": "",
+      "search": "Audio-Technica ATH-M50xSTS StreamSet"
+    }
+  ],
+  "guide": [
+    {
+      "q": "Bluetooth or wired USB for conference calls?",
+      "a": "A wired USB headset like the Poly Blackwire 5220 or Microsoft Modern USB needs no charging and often integrates more reliably with call software through in-line controls. A Bluetooth headset like the Jabra Evolve2 65 or Poly Voyager Focus UC gives more freedom to move around during a call and usually adds longer battery-powered features like ANC, at the cost of remembering to charge it."
+    },
+    {
+      "q": "Do I need active noise cancellation for video calls?",
+      "a": "Expert Reviews found ANC genuinely useful for blocking out household or office noise, as on the Poly Voyager Focus UC and Jabra Evolve2 75. If your calling environment is generally quiet, a good noise-cancelling microphone alone, like on the Microsoft Modern USB or EPOS Adapt 135, is usually enough without paying extra for full ANC."
+    },
+    {
+      "q": "Monaural or binaural?",
+      "a": "A monaural (single-ear) headset like the EPOS Adapt 135 keeps one ear free to stay aware of your surroundings, useful in a shared office. A binaural (both-ear) headset like the Poly Blackwire 5220 or Jabra Evolve2 65 gives fuller sound, better for long calls or if you also want to use it for music."
+    },
+    {
+      "q": "Does it matter which video-calling app I use?",
+      "a": "Check for explicit certification if you rely heavily on one platform: several headsets here have dedicated Microsoft Teams buttons and synced mute notifications, like the Microsoft Modern USB and Jabra Evolve2 65. Expert Reviews found other headsets, like the Poly Blackwire 5220, work well with Zoom despite lacking official certification, so unofficial compatibility can still be reliable in practice."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Expert Reviews: best headset for conference calls (published 6 September 2024)",
+      "url": "https://www.expertreviews.co.uk/technology/headphones-audio/best-headset-for-conference-calls-usb-bluetooth"
+    }
+  ]
+}
