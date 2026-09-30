@@ -3,8 +3,8 @@
   "title": "Best Hiking Boots UK",
   "short": "Walking and hiking boots compared by grip, waterproofing and support, from budget trail boots to technical mountain footwear.",
   "intro": "The right hiking boot balances weight against support and waterproofing, and that balance shifts depending on the terrain and how much you're carrying. This guide compares boots tested by Live for the Outdoors' team of hiking experts on thousands of miles of UK and mountain terrain.",
-  "reviewed": "2026-09-23",
-  "verified": "2026-09-25",
+  "reviewed": "2026-09-30",
+  "verified": "2026-09-30",
   "products": [
     {
       "brand": "La Sportiva",
@@ -26,7 +26,8 @@
       "cons": [
         "Expensive",
         "A tad heavy",
-        "Less comfortable than ultralight boots on big mileage days"
+        "Less comfortable than ultralight boots on big mileage days",
+        "Overkill for gentler walks"
       ],
       "asin": "",
       "search": "La Sportiva Aequilibrium Hike GTX boots"
@@ -62,8 +63,7 @@
       "key_spec": "395g per boot, no break-in period, basic waterproofing",
       "summary": "A genuine surprise at under £75, feeling more like a sturdy trainer than a traditional boot, with no stiffness or break-in period and decent underfoot cushioning. LFTO found grip better than expected on typical countryside terrain, though waterproofing lets water in during sustained rain or boggy ground.",
       "specs": {
-        "Weight": "395g per boot",
-        "Price guide": "£69.99"
+        "Weight": "395g per boot"
       },
       "pros": [
         "Lightweight and comfortable from the first wear",
@@ -80,7 +80,7 @@
     {
       "brand": "Lowa",
       "name": "Tibet Evo GTX",
-      "badge": "Best full trekking boot",
+      "badge": "Best leather boot",
       "best_for": "Multi-day treks or carrying a heavy pack over rough terrain",
       "key_spec": "768g per boot, Vibram Apptrail Divo outsole, dual-zone lacing",
       "summary": "A full-fat trekking boot that LFTO found brings a level of stability lighter designs can't match, with a stiff DuraPU midsole giving controlled foot placement on uneven ground. Grip and waterproofing both proved rock solid, and despite the stiffness, comfort surprised testers with little break-in needed.",
@@ -98,7 +98,7 @@
       ],
       "cons": [
         "Expensive",
-        "Too heavy and stiff for casual hikers"
+        "Too heavy, restrictive and stiff for some"
       ],
       "asin": "",
       "search": "Lowa Tibet Evo GTX boots"
@@ -112,14 +112,15 @@
       "summary": "Became a boot LFTO's testers kept reaching for without thinking, thanks to a soft, bouncy EVA midsole with noticeable energy return that takes the sting out of long descents. Grip and waterproofing were both dependable on mixed UK terrain, though it's not built for the toughest mountain days or wintry conditions.",
       "specs": {
         "Outsole": "Vibram Megagrip",
-        "Upper": "Jacquard mesh",
-        "Price guide": "£99.99"
+        "Upper": "Jacquard mesh"
       },
       "pros": [
         "Extremely comfortable ride",
         "Great midsole cushioning with energy return",
         "Lightweight and flexible",
-        "Good waterproofing"
+        "Good waterproofing",
+        "Decent protection",
+        "High-ankle padding"
       ],
       "cons": [
         "Not built for the toughest terrain or harshest weather"
@@ -136,8 +137,7 @@
       "summary": "LFTO calls this the ideal mountain boot for balancing walking comfort, technical performance and durability, with an unusual PU-foam-injected sole that saves weight without losing cushioning. A flexible, elasticated ankle cuff gave excellent freedom of movement, though the narrower last won't suit every foot.",
       "specs": {
         "Crampon compatibility": "Semi-automatic C2",
-        "Upper": "Nubuck leather",
-        "Price guide": "£240.64"
+        "Upper": "Nubuck leather"
       },
       "pros": [
         "Ideal traits for winter hillwalking",
@@ -160,8 +160,7 @@
       "key_spec": "Higher collar, 3 lace eyelets, Gore-Tex, Lowa rubber outsole",
       "summary": "Sits in a non-specialised middle ground between trainer-style boots and heavier leather options, with a higher collar and extra lace eyelet for a properly locked-in fit. LFTO found the firm, stable underfoot feel suits mountainous terrain well, with reliable grip and waterproofing, though it's too firm for those who prefer plush cushioning.",
       "specs": {
-        "Waterproofing": "Gore-Tex",
-        "Price guide": "£190"
+        "Waterproofing": "Gore-Tex"
       },
       "pros": [
         "Reliable waterproofing",
@@ -180,14 +179,13 @@
       "badge": "Best wide fit",
       "best_for": "Hikers who need a genuinely wide toe box",
       "key_spec": "KEEN.FUSION bonded sole, KEEN.RUGGED outsole, Luftcell midsole",
-      "summary": "Keen's most popular model, known for its wide fit, now built more durably by fusing the sole to the upper with heat and pressure instead of glue. LFTO found it a capable three-season hillwalking boot with a more compression-resistant midsole than typical EVA foam, though grip on muddy terrain isn't the best on test.",
+      "summary": "Keen's most popular model, known for its wide fit, now built more durably by fusing the sole to the upper with heat and pressure instead of glue. LFTO found it a capable three-season hillwalking boot with a Luftcell midsole that's more compression-resistant than EVA foam, though grip on muddy terrain isn't the best on test.",
       "specs": {
-        "Sole construction": "KEEN.FUSION (heat-bonded)",
-        "Price guide": "£130"
+        "Sole construction": "KEEN.FUSION (heat-bonded)"
       },
       "pros": [
         "Genuinely wide fit",
-        "More sustainable, PFC/PFAS-free construction",
+        "Made in an increasingly sustainable way",
         "Durable heat-bonded sole"
       ],
       "cons": [
@@ -195,16 +193,125 @@
       ],
       "asin": "",
       "search": "Keen Targhee IV Waterproof Hiking Boot"
+    },
+    {
+      "brand": "Inov8",
+      "name": "Roclite Pro Mid GTX",
+      "badge": "Best for mud and bog",
+      "best_for": "Boggy, muddy UK hillwalking where grip matters most",
+      "key_spec": "Graphene-infused outsole with 6mm lugs, Powerflow Max midsole, ballistic nylon upper",
+      "summary": "Tested across Eryri, where LFTO found it really came into its own in bog, heather and saturated mud, with a graphene-infused outsole and 6mm lugs that bite hard into soft ground. A wide anatomical toebox and Boomerang footbed help on long days, though as a fabric boot it won't match leather for long-term durability or waterproofing, and the low flood height is easy to overtop.",
+      "specs": {
+        "Outsole": "Graphene-infused, 6mm lugs",
+        "Midsole": "Powerflow Max",
+        "Upper": "Ballistic nylon",
+        "Waterproofing": "Gore-Tex"
+      },
+      "pros": [
+        "Excellent traction across a wide range of surfaces, especially sloppy mud",
+        "Spacious, anatomical toebox",
+        "Responsive Boomerang footbed is a step up from most stock insoles",
+        "Solid ankle support for a mid-cut boot",
+        "Tough ballistic nylon upper"
+      ],
+      "cons": [
+        "Durability and waterproofing lag behind leather alternatives",
+        "Asymmetric last is less accommodating for blunt feet and long toes",
+        "Not especially light compared with many mid fabric boots",
+        "Limited flood height, easy to overtop in deep water"
+      ],
+      "asin": "",
+      "search": "Inov8 Roclite Pro Mid GTX boots"
+    },
+    {
+      "brand": "Hanwag",
+      "name": "Makra Trek GTX",
+      "badge": "Highly rated",
+      "best_for": "Year-round hill and fell walking, long-distance treks and alpine hikes",
+      "key_spec": "Full-height suede leather boot, 635g (UK8), Vibram outsole, two-zone lacing",
+      "summary": "LFTO were thoroughly impressed, finding it excelled in nearly every hiking scenario, with the full boot height giving excellent stability and ankle support and a gusseted tongue keeping water and debris out. Comfort was immediate with essentially no break-in, and it can be re-soled, though it's expensive, not crampon-compatible and not suited to hot, fast day hikes.",
+      "specs": {
+        "Weight": "635g (UK8)",
+        "Outsole": "Vibram",
+        "Waterproofing": "Gore-Tex",
+        "Crampon compatibility": "None (Pro version is)"
+      },
+      "pros": [
+        "Excels in most conditions",
+        "High abrasion and ingress protection",
+        "Can be re-soled",
+        "Good midsole flex",
+        "Stable and supportive fit",
+        "Wide fit model available"
+      ],
+      "cons": [
+        "Not crampon compatible",
+        "Only worth it for avid hikers"
+      ],
+      "asin": "",
+      "search": "Hanwag Makra Trek GTX boots"
+    },
+    {
+      "brand": "Meindl",
+      "name": "Bhutan MFS",
+      "badge": "Highly recommended",
+      "best_for": "Walkers who want a classic heavyweight leather boot built to last",
+      "key_spec": "Nubuck leather upper, Gore-Tex liner, Vibram sole, over 800g",
+      "summary": "LFTO's best example of the classic leather heavyweight, with tough nubuck uppers and a resoleable build that could last decades, making the upfront cost good long-term value. A Gore-Tex liner, tall ankle cuff and tongue gusset give fantastic waterproofing and a high flood level, but it needs breaking in and at over 800g feels heavy and cumbersome.",
+      "specs": {
+        "Weight": "Over 800g",
+        "Upper": "Nubuck leather",
+        "Waterproofing": "Gore-Tex",
+        "Outsole": "Vibram"
+      },
+      "pros": [
+        "Very tough and durable",
+        "Excellent waterproofing",
+        "Good foot protection",
+        "Can be resoled"
+      ],
+      "cons": [
+        "Heavy",
+        "Expensive",
+        "Stiff"
+      ],
+      "asin": "",
+      "search": "Meindl Bhutan MFS boots"
+    },
+    {
+      "brand": "Lowa",
+      "name": "Renegade Evo GTX Mid",
+      "badge": "Most width options",
+      "best_for": "Mixed-terrain hiking, with narrow, normal and wide fits available",
+      "key_spec": "Vibram sole, Monowrap support frame, Gore-Tex, three widths",
+      "summary": "Tested on rocky routes in Snowdonia, the Cotswold Way and the New Forest, LFTO found it handled everything with assured confidence, with impressive traction and faultless waterproofing. The update fits closer than before and needs some wearing in, but it comes in narrow, normal and wide widths, and the Monowrap frame gives excellent stability.",
+      "specs": {
+        "Outsole": "Vibram",
+        "Waterproofing": "Gore-Tex",
+        "Widths": "Narrow, normal, wide"
+      },
+      "pros": [
+        "Vibram sole is reliably grippy",
+        "Incredibly supportive",
+        "Huge range of sizes and widths",
+        "Versatile enough for a mix of terrain"
+      ],
+      "cons": [
+        "Upper can be easily scuffed at the front",
+        "Underfoot cushioning isn't exactly plush"
+      ],
+      "asin": "",
+      "search": "Lowa Renegade Evo GTX Mid boots"
     }
   ],
   "guide": [
     {
       "q": "Do I need a full leather boot or a lightweight fabric one?",
-      "a": "A full leather boot, like the Lowa Tibet Evo here, gives the most support and durability for multi-day treks or carrying a heavy pack, at the cost of extra weight. A lightweight fabric boot, like the Mammut or Quechua here, suits day walks and easier terrain where comfort and low weight matter more than maximum support."
+      "a": "A full leather boot, like the Lowa Tibet Evo or Meindl Bhutan here, gives the most support and durability for multi-day treks or carrying a heavy pack, at the cost of extra weight and some breaking in. A lightweight fabric boot, like the Mammut or Quechua here, suits day walks and easier terrain where comfort and low weight matter more than maximum support."
     },
     {
       "q": "How waterproof do I actually need my boots to be?",
-      "a": "For typical UK countryside walking in wet grass and light rain, most Gore-Tex or similar membrane boots cope fine. For boggy, saturated ground or sustained heavy rain, prioritise a boot specifically praised for this, like the Lowa Tibet Evo or Innovo here, since budget waterproofing can let water in over time."
+      "a": "For typical UK countryside walking in wet grass and light rain, most Gore-Tex or similar membrane boots cope fine. For boggy, saturated ground or sustained heavy rain, LFTO notes that a full-height leather boot with a tall gusseted tongue, like the Lowa Tibet Evo or Meindl Bhutan here, generally keeps water out best, since lower-cut fabric boots are easier to overtop."
     },
     {
       "q": "Do I need a specific winter or crampon-compatible boot?",
@@ -212,7 +319,7 @@
     },
     {
       "q": "How much does fit and last shape matter?",
-      "a": "A lot, since boots that don't match your foot shape can cause blisters or discomfort no matter how well-reviewed they are. Brands like Keen are known for wider fits, while others like Scarpa run narrower and only come in one width, so trying boots on, or checking a brand's typical fit, is worth doing before buying."
+      "a": "A lot, since boots that don't match your foot shape can cause blisters or discomfort no matter how well-reviewed they are. Brands like Keen are known for wider fits, Scarpa's Rush comes in only one width, while the Lowa Renegade Evo comes in narrow, normal and wide versions, so trying boots on, or checking a brand's typical fit, is worth doing before buying."
     }
   ],
   "sources": [
