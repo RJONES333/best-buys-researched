@@ -2,9 +2,9 @@
   "slug": "air-fryers",
   "title": "Best Air Fryers UK",
   "short": "Single-drawer, dual-drawer and oven-style air fryers compared by capacity, power and who they suit.",
-  "intro": "Air fryers now range from compact single baskets to dual-drawer machines that cook a full meal at once. This guide compares the models that keep appearing at the top of independent UK tests, so you can match capacity, features and budget to how you actually cook.",
-  "reviewed": "2026-09-21",
-  "verified": "2026-09-25",
+  "intro": "Air fryers now range from compact single baskets to dual-drawer machines that cook a full meal at once. This guide compares models tested by Expert Reviews (chips, hash browns, whole chicken and energy-use tests on more than 30 air fryers) and by Mumsnet's product testers in real family kitchens, so you can match capacity, features and budget to how you actually cook.",
+  "reviewed": "2026-09-30",
+  "verified": "2026-09-30",
   "products": [
     {
       "brand": "Philips",
@@ -59,21 +59,29 @@
     {
       "brand": "Ninja",
       "name": "Foodi Max Dual Zone AF400UK",
-      "badge": "Best for most families",
+      "badge": "Mumsnet's best overall",
       "best_for": "Bigger households that need generous capacity in two drawers",
-      "key_spec": "9.5L, two drawers",
-      "summary": "Mumsnet's tester panel picked this as the best air fryer for most people, citing its generous capacity, independent drawers and consistently crisp results.",
+      "key_spec": "9.5L, two drawers, 2,470W",
+      "summary": "Mumsnet's best overall and best dual air fryer. Its tester found the 9.5L split across two generous drawers gave a family of four room for a main and a side, the sync function brought both to the finish together, and the chips were the crispiest she had made in an air fryer. The main drawbacks are the price and the lack of viewing windows.",
       "specs": {
         "Capacity": "9.5L",
-        "Baskets": "Two independent drawers"
+        "Power": "2,470W",
+        "Baskets": "Two independent drawers",
+        "Settings": "Six",
+        "Cleaning": "Dishwasher-safe parts"
       },
       "pros": [
-        "Generous capacity",
-        "Two independent drawers",
-        "Consistently crisp results in family testing"
+        "Dual drawers with mix, match and sync programmes",
+        "Large 9.5L capacity",
+        "Very easy to use",
+        "Dishwasher-safe parts",
+        "Excellent cooking results"
       ],
       "cons": [
-        "Takes up a lot of counter space"
+        "No viewing windows",
+        "Pricey, though Mumsnet says it offers good long-term value",
+        "No ingredient-specific preset buttons",
+        "Not for tight worktop space"
       ],
       "asin": "",
       "search": "Ninja Foodi Max Dual Zone AF400UK"
@@ -84,47 +92,57 @@
       "badge": "Best mid-range value",
       "best_for": "Buyers who want a dual-drawer machine without the top-tier price",
       "key_spec": "7.6L, 1,700W",
-      "summary": "A cooking-fast, energy-efficient dual-drawer model with clear windows so you can check food without opening the drawer.",
+      "summary": "Expert Reviews' best mid-range air fryer and Mumsnet's best for chips. Clear windows with interior lights let you check food without opening a drawer, and Mumsnet's tester got consistently strong results with homemade and frozen chips and roast potatoes. At 7.6L it suits a household of around three better than a large family; Mumsnet notes availability is limited.",
       "specs": {
         "Capacity": "7.6L",
         "Power": "1,700W",
         "Baskets": "Two",
-        "Extras": "Viewing windows"
+        "Extras": "Viewing windows",
+        "Modes": "Eight"
       },
       "pros": [
         "Fast cooking",
-        "Clear windows to watch food",
+        "Excellent chips and roast potatoes",
+        "Clear windows with interior lights",
+        "Sync and match functions",
+        "Easy to use and clean",
         "Energy efficient"
       ],
       "cons": [
         "Touchscreen scratches easily",
-        "No recipe book included"
+        "No recipe book included",
+        "Large footprint",
+        "7.6L can feel tight for larger families"
       ],
       "asin": "",
       "search": "Instant Vortex Plus Dual Drawer air fryer"
     },
     {
       "brand": "Ninja",
-      "name": "DoubleStack XL",
+      "name": "Double Stack XL SL400UK",
       "badge": "Best for small kitchens",
       "best_for": "Anyone short on counter space who still wants big capacity",
       "key_spec": "9.5L, 2,470W",
-      "summary": "The drawers stack vertically, so it takes far less worktop space than side-by-side dual-drawer designs while still offering large capacity.",
+      "summary": "Expert Reviews' pick for smaller kitchens and Mumsnet's best dual air fryer for small kitchens. The drawers stack vertically, so it takes far less worktop width than side-by-side designs while still offering 9.5L and up to four layers of food. It is deep front-to-back, so measure first.",
       "specs": {
         "Capacity": "9.5L",
         "Power": "2,470W",
-        "Baskets": "Two, stacked vertically"
+        "Baskets": "Two, stacked vertically",
+        "Settings": "Six"
       },
       "pros": [
         "Space-saving vertical design",
-        "Large capacity"
+        "Large 9.5L capacity",
+        "Can cook four layers of food at once",
+        "Simple controls and easy cleaning"
       ],
       "cons": [
         "Expensive",
-        "Occasional uneven browning"
+        "Deep front-to-back",
+        "Some owners report uneven cooking, though Mumsnet's tester didn't experience it"
       ],
       "asin": "",
-      "search": "Ninja DoubleStack XL air fryer"
+      "search": "Ninja Double Stack XL SL400UK air fryer"
     },
     {
       "brand": "Ninja",
@@ -207,7 +225,8 @@
         "Capacity": "5.5L",
         "Baskets": "One",
         "Presets": "11",
-        "Cleaning": "Dishwasher-safe basket"
+        "Cleaning": "Dishwasher-safe basket",
+        "Power": "1,700W"
       },
       "pros": [
         "11 presets",
@@ -234,7 +253,8 @@
         "Capacity": "10L",
         "Baskets": "Dual or single, convertible",
         "Extras": "Sync and match, app connectivity",
-        "Cleaning": "Dishwasher-safe"
+        "Cleaning": "Dishwasher-safe",
+        "Power": "2,800W"
       },
       "pros": [
         "Converts between dual and single zone",
@@ -243,10 +263,10 @@
         "App connectivity"
       ],
       "cons": [
-        "No presets",
+        "No ingredient-specific presets",
         "Bulky",
         "Costly",
-        "Main basket is hard to hand wash"
+        "Main basket is awkward to hand wash"
       ],
       "asin": "",
       "search": "Cosori Dual Blaze Twinfry air fryer"
@@ -269,7 +289,7 @@
         "Good value"
       ],
       "cons": [
-        "Cooking pauses when a drawer is opened",
+        "Opening one zone pauses all three",
         "Settings reset after use",
         "Noisy",
         "Bulky"
@@ -278,12 +298,102 @@
       "search": "Cuisinart Tri Zone 13.6L Air Fryer Oven"
     },
     {
+      "brand": "Tower",
+      "name": "AIRX AI 5L Digital Air Fryer",
+      "badge": "Best smart",
+      "best_for": "One or two people who want smart features without premium pricing",
+      "key_spec": "5L single drawer, AI cooking, 1,500W",
+      "summary": "Mumsnet's best smart air fryer. Its AI mode analyses the food load and adjusts time and heat, though the tester found it worked best with straightforward batches rather than mixed ingredients. Quiet running, a slim shape and good results were the bigger everyday wins, but 5L felt cramped for a family of four.",
+      "specs": {
+        "Capacity": "5L",
+        "Power": "1,500W",
+        "Baskets": "One",
+        "Settings": "Six",
+        "RRP when reviewed": "£80"
+      },
+      "pros": [
+        "Slim, modern design",
+        "Quieter than most air fryers",
+        "Child-secure drawer latch",
+        "AI cooking is an interesting extra at this price",
+        "Good value for smaller households"
+      ],
+      "cons": [
+        "Touchscreen can feel unresponsive",
+        "AI struggles with mixed foods",
+        "No end-of-cook alert",
+        "Steam can fog the display",
+        "5L is tight for a family of four"
+      ],
+      "asin": "",
+      "search": "Tower AIRX AI 5L air fryer"
+    },
+    {
+      "brand": "Ninja",
+      "name": "CRISPi Portable Air Fryer",
+      "badge": "Best small",
+      "best_for": "One or two people, meal prep, or a compact second appliance",
+      "key_spec": "Glass containers up to 3.8L, four modes",
+      "summary": "Mumsnet's best small air fryer swaps the usual drawer for two borosilicate-glass containers (around 3.8L and 1.4L) under a removable heating pod, so you can watch food cook and store leftovers with the included lids. It needs more turning than a drawer model and has no manual temperature control.",
+      "specs": {
+        "Capacity": "Up to 3.8L",
+        "Power": "1,700W",
+        "Containers": "Two glass (approx. 3.8L and 1.4L)",
+        "Settings": "Four",
+        "Cleaning": "Dishwasher-safe containers and plates",
+        "RRP when reviewed": "£150"
+      },
+      "pros": [
+        "Compact and easy to store",
+        "Glass containers, with no plastic touching the food",
+        "Dishwasher-safe containers and crisper plates",
+        "Two container sizes suit small meals and meal prep",
+        "Good results when used correctly"
+      ],
+      "cons": [
+        "Too small for most family dinners",
+        "No manual temperature control",
+        "Needs more flipping than a drawer model",
+        "Heating pod gets very hot"
+      ],
+      "asin": "",
+      "search": "Ninja CRISPi Portable Air Fryer"
+    },
+    {
+      "brand": "Ninja",
+      "name": "Foodi MAX Health Grill & Air Fryer AG551UK",
+      "badge": "Best air fryer grill",
+      "best_for": "Households that grill a lot of meat and fish",
+      "key_spec": "5.7L pot + 3.8L basket, integrated probe",
+      "summary": "Mumsnet's best air fryer grill combines a roomy grill, a 5.7L cooking pot and a 3.8L crisper basket with an integrated meat probe. The tester found the controls easy, particularly for steak, chicken and fish, but it is very large and Mumsnet advises buying it for the grill and probe rather than for chips.",
+      "specs": {
+        "Capacity": "5.7L pot and 3.8L basket",
+        "Power": "1,760W",
+        "Settings": "Six",
+        "Extras": "Integrated meat probe",
+        "Cleaning": "Dishwasher-safe parts",
+        "RRP when reviewed": "£375"
+      },
+      "pros": [
+        "Large grill area",
+        "Integrated meat probe",
+        "Six cooking functions"
+      ],
+      "cons": [
+        "Very large",
+        "Interior is harder to clean than a standard basket",
+        "Expensive"
+      ],
+      "asin": "",
+      "search": "Ninja Foodi MAX Health Grill Air Fryer AG551UK"
+    },
+    {
       "brand": "Lakeland",
       "name": "Dual Basket Air Fryer 8L",
       "badge": "Best value dual basket",
       "best_for": "Buyers who want two baskets at a modest price",
       "key_spec": "8L, viewing windows",
-      "summary": "Mumsnet rates this as the best-value dual-basket model. It has viewing windows with lights and excellent cooking results, but no match function.",
+      "summary": "Mumsnet's best-value dual-basket model. It has viewing windows with internal lights, sync (but no match) and strong cooking results, but the baskets must be washed by hand. Mumsnet notes the tested 8L model has been discontinued, so check the current version.",
       "specs": {
         "Capacity": "8L",
         "Baskets": "Two",
@@ -297,7 +407,7 @@
       ],
       "cons": [
         "Bulky",
-        "Hard to clean",
+        "Baskets aren't dishwasher safe",
         "No match function"
       ],
       "asin": "",
@@ -307,7 +417,7 @@
   "guide": [
     {
       "q": "What size air fryer do I need?",
-      "a": "As a rough guide, 3-4L suits one or two people, 5-7L suits a small family, and 8L or more (often split across two drawers) suits larger households or anyone who wants to cook a main and a side at the same time."
+      "a": "As a rough guide, 3-4L suits one or two people, 4-5.5L suits smaller households, and 7-10L (often split across two drawers) suits families or anyone who wants to cook a main and a side at the same time. Measure your worktop, including depth, before you buy."
     },
     {
       "q": "Are dual-drawer air fryers worth it?",
