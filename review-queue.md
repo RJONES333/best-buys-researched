@@ -6,7 +6,6 @@ After re-reviewing a guide, update its `reviewed` date in data/categories/<slug>
 Checked 210 sources. Could not read an updated date for 44 of them (bot-blocked, or the page shows no date), so those are not flagged either way.
 
 ## Source updated after we last reviewed
-- Best Massage Guns UK: Women's Running: best massage guns for runners updated 2026-09-30, we reviewed 2026-09-23 - https://www.womensrunning.co.uk/gear/the-best-massage-guns-for-runners/
 - Best Mechanical Keyboards UK: RTINGS: the best mechanical keyboards updated 2026-09-29, we reviewed 2026-09-23 - https://www.rtings.com/keyboard/reviews/best/mechanical
 - Best Robot Vacuum Cleaners UK: Mumsnet: best robot vacuum cleaners updated 2026-09-29, guide re-reviewed 2026-09-30 against Expert Reviews; confirm the Mumsnet page was also re-read - https://www.mumsnet.com/swearsby/best-robot-vacuum-cleaners
 - Best Smart Rings UK: Wareable: best smart rings updated 2026-09-29, we reviewed 2026-09-23 - https://www.wareable.com/fashion/best-smart-rings-1340
