@@ -1,9 +1,9 @@
 {
   "slug": "exercise-bikes",
   "title": "Best Exercise Bikes UK",
-  "short": "Indoor exercise bikes compared by resistance realism, connectivity and comfort, from budget smart bikes to premium immersive trainers.",
+  "short": "Indoor exercise bikes compared by resistance realism, connectivity and comfort, from air bikes to premium immersive trainers.",
   "intro": "An exercise bike's resistance system and screen quality matter more than raw price, since a bike that feels lifeless will get abandoned quickly. This guide compares bikes tested by Men's Fitness over at least a month each, pairing them with apps like Zwift and assessing build quality after sustained use.",
-  "reviewed": "2026-09-23",
+  "reviewed": "2026-10-01",
   "verified": "2026-10-01",
   "products": [
     {
@@ -36,7 +36,7 @@
       "badge": "Best for experienced riders",
       "best_for": "Serious cyclists who want precise, data-rich training",
       "key_spec": "22 integrated gears, crank position read 1,000 times/second, Smart resistance mode",
-      "summary": "The number one exercise bike in public gyms and elite fitness spaces, Men's Fitness found it sturdy enough for years of abuse yet precise enough for exact shifting. The Wattbike Hub's pedal efficiency score and training plans let you replicate tough pro-circuit climbs, though it's noisy and geared more toward experienced cyclists.",
+      "summary": "The number one exercise bike in public gyms and elite fitness spaces, Men's Fitness found it sturdy enough for years of abuse yet precise enough for exact shifting. The Wattbike Hub's pedal efficiency score and training plans let you replicate tough pro-circuit climbs, though it's noisy, geared more toward experienced cyclists and you need to bring your own screen.",
       "specs": {
         "Gears": "22 integrated (manual or Ergo auto mode)",
         "Precision": "Crank position read 1,000x/second"
@@ -49,8 +49,7 @@
       ],
       "cons": [
         "Noisy",
-        "Feels geared more toward experienced cyclists",
-        "Requires bringing your own screen"
+        "Feels geared more toward experienced cyclists than beginners"
       ],
       "asin": "",
       "search": "Wattbike Atom exercise bike"
@@ -125,43 +124,44 @@
       "search": "AssaultBike Classic"
     },
     {
-      "brand": "Apex",
-      "name": "Smart Bike",
-      "badge": "Best budget",
-      "best_for": "Buyers who want smart features without a four-figure price tag",
-      "key_spec": "Bluetooth/WiFi/USB connectivity, app-based training, under £1,000",
-      "summary": "Refreshingly affordable against rivals costing two grand or more, Men's Fitness found it well made and easy to set up despite the lower price, with a stylish design that won't look out of place at home. There's no built-in screen, relying instead on the Apex app via your own device, and the seat can be slightly uncomfortable.",
+      "brand": "Wattbike",
+      "name": "Air-Pro",
+      "badge": "Best for performance conditioning",
+      "best_for": "Athletes focused on cardiovascular conditioning and training data rather than immersive rides",
+      "key_spec": "Air and magnetic braking, 7in backlit touchscreen, Bluetooth and ANT+",
+      "summary": "Men's Fitness calls this pound-for-pound the best performance conditioning bike on the market, using air and magnetic braking to create the resistance athletes need for explosive, endurance, recovery and rehabilitation workouts. The Wattbike Hub app gives free workouts, fitness assessments and training plans with no subscription, though it lacks the immersive element of some rivals unless you connect an additional screen.",
       "specs": {
-        "Connectivity": "Bluetooth, WiFi, USB",
-        "Screen": "None (uses companion app)",
-        "Price guide": "Under £1,000"
+        "Resistance": "Air and magnetic braking",
+        "Screen": "7in backlit touchscreen monitor",
+        "Connectivity": "Bluetooth, ANT+",
+        "Subscription": "None needed for Wattbike Hub app"
       },
       "pros": [
-        "Competitive price",
-        "Modern, stylish design",
-        "Well made and easy to set up",
-        "Extensive class and instructor library via app"
+        "Quality hardware across the board",
+        "Produces more data than most athletes will ever need",
+        "Comprehensive training plans",
+        "No subscription needed for the Wattbike Hub app"
       ],
       "cons": [
-        "No built-in screen",
-        "Seat can be slightly uncomfortable"
+        "High upfront cost",
+        "Needs an additional screen connected for an immersive element"
       ],
       "asin": "",
-      "search": "Apex Smart Bike exercise bike"
+      "search": "Wattbike Air-Pro"
     }
   ],
   "guide": [
     {
       "q": "Do I need a screen built into the bike?",
-      "a": "A built-in screen, like the Peloton or Bowflex here, gives the most seamless experience but adds significantly to the cost. A screen-free bike like the Apex, paired with your own phone or tablet, gives access to similar app-based classes at a much lower price if you don't mind propping up a device."
+      "a": "A built-in screen, like the Peloton or Bowflex here, gives the most seamless experience but adds significantly to the cost. With the Wattbike Atom you bring your own screen, and the Wattbike Air-Pro pairs its 7in monitor with your phone or tablet, so check what device you would use before buying."
     },
     {
       "q": "What resistance type should I choose?",
-      "a": "Magnetic or electronic resistance, found on most smart bikes here, gives smooth, quiet, app-controlled adjustment. Air resistance, like the AssaultBike here, gets harder the faster you pedal, giving an intense, simple workout with no subscription needed. Realistic road-feel systems, like Garmin's TACX Neo, add simulated gradient and surface texture for outdoor-like immersion."
+      "a": "Magnetic or electronic resistance, found on most smart bikes here, gives smooth, quiet, app-controlled adjustment. Air resistance, like the AssaultBike here, gets harder the faster you pedal, giving an intense, simple workout with no subscription needed, and the Wattbike Air-Pro combines air with magnetic braking. Realistic road-feel systems, like Garmin's TACX Neo, add simulated gradient and surface texture for outdoor-like immersion."
     },
     {
       "q": "Is a subscription worth the ongoing cost?",
-      "a": "A subscription unlocks the class libraries and structured training plans that make premium bikes like the Peloton or Wattbike genuinely motivating long-term. If you'd rather just pedal without guided content, a subscription-free option like the AssaultBike Classic avoids that recurring cost entirely."
+      "a": "A subscription unlocks the class libraries and structured training plans that make premium bikes like the Peloton or Wattbike genuinely motivating long-term. If you'd rather just pedal without guided content, a subscription-free option like the AssaultBike Classic avoids that recurring cost entirely, and Men's Fitness notes the Wattbike Air-Pro needs no subscription for the Wattbike Hub app."
     },
     {
       "q": "How much floor space does an exercise bike actually need?",
