@@ -3,7 +3,7 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Golf Monthly women's guides not yet done: women's golf trousers/skorts, most comfortable golf shoes for women, women's waterproof golf shoes (check overlap with womens-golf-shoes first).
+- Golf Monthly women's guides not yet done: golf skorts (golfmonthly.com/buying-advice/best-golf-skorts-year, not yet opened/verified), women's golf shorts, most comfortable golf shoes for women, women's waterproof golf shoes (check overlap with womens-golf-shoes first).
 - Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, vacuum-cleaners (both likely overlap existing mattresses / vacuum guides). (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
 - Expert Reviews mattress variants (side sleepers, king size, cooling, heavy people) - probably overlap with mattresses guide
 - Other Expert Reviews small-appliance/beauty/home guides not yet covered (browse expertreviews.co.uk/home-garden and /beauty-wellness)
@@ -144,6 +144,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Food storage containers (Tupperware) — Mumsnet (6 products, user-requested)
 - Lunch boxes — Expert Reviews archived guide, April 2023 (5 products, user-requested). Mumsnet's adult lunch box page (10 products) is research-based with no hands-on testing, so not used; kids' lunch boxes not covered.
 - Women's golf shoes (Golf) - Golf Monthly, updated 28 July 2026 (9 products, tested by Alison Root, Katie Dawkins, Carly Cummins over multiple rounds). Top pick Ecco Street Vibe.
+- Women's golf trousers (Golf) - Golf Monthly "best ladies golf pants", updated 28 May 2026 (12 of 18 products, 7 spring/summer + 5 winter; tested by Alison Root, Katie Dawkins, Carly Cummins over multiple rounds). Source does not rank, so badges are descriptive; no prices in source text. Left out: Original Penguin Veronica, Golftini, TravisMathew Moveknit, Levelwear, Csara Jayne Crossover, Abacus Formby.
 - Men's hair removal cream - Expert Reviews 2023 (5 products, Men group; already built, moved here from To try)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
