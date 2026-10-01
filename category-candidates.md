@@ -3,10 +3,8 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Circular saws, jigsaws, multi-tools, mitre saws done (paint sprayers rejected, no genuine testing). Other Expert Reviews DIY/power tools candidates: garden multi-tools, table saws, tool bags, stud finders.
-
-- Men's hair removal cream - Expert Reviews 2023 (5 products, Men, road-tested including intimate areas)
-- Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, best-coverless-duvets, vacuum-cleaners. (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
+- Golf Monthly women's guides not yet done: women's golf trousers/skorts, most comfortable golf shoes for women, women's waterproof golf shoes (check overlap with womens-golf-shoes first).
+- Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, vacuum-cleaners (both likely overlap existing mattresses / vacuum guides). (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
 - Expert Reviews mattress variants (side sleepers, king size, cooling, heavy people) - probably overlap with mattresses guide
 - Other Expert Reviews small-appliance/beauty/home guides not yet covered (browse expertreviews.co.uk/home-garden and /beauty-wellness)
 
@@ -14,6 +12,8 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Boys' hair styling products for fine, straight hair, and girls' hair styling (user-requested; unclear whether products or haircut styles). Searched: Blue-Print (brand blog), bestproducts.guide / bestproductsreviews.co.uk (affiliate farms), Mumsnet forum threads and Tangle Teezer sponsored post (opinion, not testing). Boss Hunting "11 Best Hair Products For Men" is genuine first-person testing but Australian, adult, thinning hair, AUD prices. User confirmed 2026-09-24: they mean styling products. Also checked: Marie Claire UK "9 best products for thin hair" (Shannon Lawlor, Jan 2023) is genuine single-editor testing but adult thin hair, personal picks, no stated cons, only ~5 styling items (Sam McKnight Cool Girl Superlift, Percy & Reed mousse, Living Proof Full Dry Volume & Texture Spray, Cloud Nine wand, Hershesons dryer), so not enough to build a sourced guide. No UK tested source found for boys' styling products; GQ UK not surfaced by search. Still to try: Mother & Baby, Expert Reviews / Trusted Reviews hair sections, Good Housekeeping Institute, Which? (likely paywalled), fetching GQ UK / Men's Health UK grooming pages directly.
 
 ## Rejected (no genuine hands-on testing source found, don't retry)
+- Garden multi-tools (2026-10-01) — Expert Reviews has no dedicated tested guide (only a general "best garden tools" page); every other result was an affiliate farm or garden-shop site (Garden Toolbox, Green Gaffer, garden-review.co.uk, Pyracantha, hedgecuttingstaffordshire, diyworks) or Testix (AI-generated).
+- Coverless duvets (2026-10-01) — Mumsnet page (mumsnet.com/reviews/best-coverless-duvets, updated 29 June 2026) is forum feedback plus brand/retailer spec checks ("Where we look: brand and retailer product pages"), no hands-on testing of any of its 4 products, despite the /reviews/ URL.
 - Table saws — Expert Reviews page (2024) has no "How we test" section and no first-person testing language, same buying-guide pattern as paint sprayers/desk lamps. Not hands-on testing.
 - Stud finders — Expert Reviews page (2024) explicitly states its method is "manufacturers' websites, datasheets and user reviews", not hands-on testing.
 - Tool bags — Expert Reviews page (2023) has no "How we test" section, same buying-guide pattern. Expert Reviews' DIY & Power Tools section is now largely exhausted of genuinely tested candidates (circular saws/jigsaws/multi-tools/mitre saws/impact drivers/sanders done; paint sprayers/desk lamps/table saws/stud finders/tool bags all rejected as untested buying guides).
@@ -143,6 +143,8 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Tumble dryers — Trusted Reviews (7 products, includes LG WashTower stack and LG Styler steam cabinet as listed by the source)
 - Food storage containers (Tupperware) — Mumsnet (6 products, user-requested)
 - Lunch boxes — Expert Reviews archived guide, April 2023 (5 products, user-requested). Mumsnet's adult lunch box page (10 products) is research-based with no hands-on testing, so not used; kids' lunch boxes not covered.
+- Women's golf shoes (Golf) - Golf Monthly, updated 28 July 2026 (9 products, tested by Alison Root, Katie Dawkins, Carly Cummins over multiple rounds). Top pick Ecco Street Vibe.
+- Men's hair removal cream - Expert Reviews 2023 (5 products, Men group; already built, moved here from To try)
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes
