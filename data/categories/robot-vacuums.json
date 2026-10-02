@@ -2,9 +2,9 @@
   "slug": "robot-vacuums",
   "title": "Best Robot Vacuum Cleaners UK",
   "short": "Robot vacuums and vacuum-mop combos compared by suction, docking, mopping and who they suit.",
-  "intro": "Robot vacuums now range from simple budget models to fully automated machines that empty, wash and refill themselves. This guide draws on Expert Reviews, which tests every robot on the same 58m² floorplan with rice, flour and pet hair spills, and on Mumsnet's parent testers, so you can decide which features are worth paying for in your home.",
-  "reviewed": "2026-09-30",
-  "verified": "2026-10-01",
+  "intro": "Robot vacuums now range from simple budget models to fully automated machines that empty, wash and refill themselves. This guide draws on Expert Reviews, which tests every robot on the same 58m² floorplan with rice, flour and pet hair spills, and on Mumsnet, whose editors and home testers have tried more than 20 models in real family homes, so you can decide which features are worth paying for in your home.",
+  "reviewed": "2026-10-02",
+  "verified": "2026-10-02",
   "products": [
     {
       "brand": "Eufy",
@@ -115,62 +115,99 @@
       "badge": "Best for pet owners",
       "best_for": "Homes with pets and a mix of carpet and hard floor",
       "key_spec": "8,000 Pa, self-cleaning mop",
-      "summary": "Mumsnet's panel picked this as its overall winner. It handles pet hair well, maps the home effectively and avoids obstacles and stairs.",
+      "summary": "The best robot vacuum Mumsnet has tested, and also its pick for pet hair. Its home tester praised the powerful vacuuming, pet-hair pickup, mapping and the dock that empties the bin, cleans the mop pads and refills the water. The mop suits everyday upkeep rather than dried-on stains.",
       "specs": {
         "Suction": "8,000 Pa",
         "Dock": "Self-emptying and refilling",
         "Mopping": "Self-cleaning mop",
-        "Runtime": "170 min (vacuum only)",
+        "Runtime": "170 min vacuum only, 130 min vacuum and mop",
+        "Capacity": "2.5L dust box, 3L water tank",
         "Control": "App, Alexa and Google Home"
       },
       "pros": [
-        "Excellent at pet hair",
-        "Maps the home effectively",
-        "Avoids obstacles and stairs"
+        "Excellent at hair removal, including pet hair",
+        "Self-emptying and refilling station with a self-cleaning mop",
+        "Maps the home",
+        "Great at avoiding stairs, obstacles and no-go zones"
       ],
       "cons": [
-        "App can be tricky to navigate",
-        "Noisy while charging",
-        "Expensive"
+        "App can be tricky to use",
+        "Noisy when charging and emptying",
+        "Pricey"
       ],
       "asin": "",
       "search": "Eufy X10 Pro Omni robot vacuum"
     },
     {
-      "brand": "Dreame",
-      "name": "X50 Ultra Complete",
-      "badge": "Best for climbing obstacles",
-      "best_for": "Buyers who want the most advanced hands-off cleaner",
-      "key_spec": "20,000 Pa, climbs 6cm obstacles",
-      "summary": "A high-end machine with retractable legs that climb 6cm obstacles, strong suction and accurate mapping. Mumsnet's testers found it needs minimal maintenance.",
+      "brand": "Eufy",
+      "name": "Omni C28",
+      "badge": "Best for mopping",
+      "best_for": "Homes with lots of hard floor where mopping matters as much as vacuuming",
+      "key_spec": "15,000 Pa, self-cleaning roller mop",
+      "summary": "Mumsnet's pick for mopping. Its editor found the roller mop scrubs and cleans itself as it goes rather than dragging a damp cloth around, with reliably solid vacuuming and navigation that rarely needs rescuing. Dried-on dirt may need a second pass, and the dock's drying cycle is long and loud.",
       "specs": {
-        "Suction": "20,000 Pa",
-        "Runtime": "200 min",
-        "Dock": "Self-emptying and self-cleaning",
-        "Navigation": "360-degree scanning",
-        "Extras": "Retractable legs, detangling system"
+        "Suction": "15,000 Pa",
+        "Runtime": "251 min",
+        "Mopping": "Roller mop, self-cleaning",
+        "Dock": "Self-emptying, 3L dust box",
+        "Charging": "3.5 hours",
+        "Weight": "5kg (dock 6kg)"
       },
       "pros": [
-        "Exceptional mapping accuracy",
-        "Powerful suction on all surfaces",
-        "Minimal maintenance"
+        "Strong suction and reliable everyday cleaning",
+        "Self-cleaning mop gives a decent clean on hard surfaces",
+        "Docking station handles all the messy jobs",
+        "Good navigation with minimal intervention",
+        "More affordable than rivals with similar features"
       ],
       "cons": [
-        "Very expensive",
-        "Edge cleaning could improve",
-        "Bulky and heavy with dock"
+        "Struggles with tougher, dried-on stains",
+        "No mop-only mode",
+        "Dock drying cycle is lengthy and quite loud"
       ],
       "asin": "",
-      "search": "Dreame X50 Ultra Complete robot vacuum"
+      "search": "Eufy Omni C28 robot vacuum mop"
+    },
+    {
+      "brand": "Dyson",
+      "name": "Spot+Scrub AI",
+      "badge": "Best high-end vacuum and mop",
+      "best_for": "Busy homes with lots of hard flooring and a generous budget",
+      "key_spec": "18,000 Pa, heated-water roller mop",
+      "summary": "Mumsnet's high-end pick. In its editor's family home it cleared crushed cornflakes and removed dried-on food from kitchen tiles in one pass, mapped the home in a single run and steered around toys and cables. At 11cm tall it could not get under some lower furniture, and the dock is bulky.",
+      "specs": {
+        "Suction": "18,000 Pa",
+        "Runtime": "Up to 200 min",
+        "Mopping": "Heated-water roller, self-cleaning",
+        "Dock": "Self-emptying and self-cleaning",
+        "Charging": "3 hours",
+        "Height": "11cm"
+      },
+      "pros": [
+        "Excellent hard floor cleaning and mopping",
+        "Strong navigation and object detection",
+        "Fast charging with a 200-minute runtime",
+        "Low-maintenance self-cleaning features"
+      ],
+      "cons": [
+        "Expensive",
+        "Too tall to fit under some furniture",
+        "Side brushes can detach on rugs",
+        "Dyson cleaning solution recommended and sold separately",
+        "Large docking station"
+      ],
+      "asin": "",
+      "search": "Dyson Spot+Scrub AI robot vacuum"
     },
     {
       "brand": "Ultenic",
       "name": "T20 Pro",
       "badge": "Best mid-price value",
       "best_for": "Buyers who want mapping, mopping and self-emptying without top-tier pricing",
-      "key_spec": "LiDAR mapping, self-emptying",
-      "summary": "A vacuum-and-mop combo with LiDAR mapping and an app that supports no-go zones. Mumsnet's panel found it works well on carpet and hard floor.",
+      "key_spec": "8,000 Pa, LiDAR mapping, self-emptying",
+      "summary": "Mumsnet's best-value pick: a vacuum-and-mop combo with LiDAR mapping, a self-emptying dock and an app its tester found intuitive, with no-go zones. The mop is better at day-to-day upkeep than stubborn stains.",
       "specs": {
+        "Suction": "8,000 Pa",
         "Capacity": "3.5L",
         "Dock": "Self-emptying",
         "Mapping": "LiDAR",
@@ -178,13 +215,15 @@
         "Mopping": "Yes"
       },
       "pros": [
-        "Works well on carpets and hard floors",
-        "Intuitive app with no-go zones"
+        "Great value",
+        "Effective on carpets and hard floors",
+        "Self-emptying, with a mopping function",
+        "LiDAR navigation and mapping"
       ],
       "cons": [
-        "Navigation less sophisticated than premium models",
+        "Navigation can be clunky compared to smarter models",
         "Mop heads do not self-dry",
-        "Needs regular upkeep"
+        "Regular maintenance needed"
       ],
       "asin": "",
       "search": "Ultenic T20 Pro robot vacuum mop"
@@ -219,56 +258,61 @@
     },
     {
       "brand": "Lefant",
-      "name": "M210",
+      "name": "M210P",
       "badge": "Best budget",
       "best_for": "Small homes and first-time buyers on a tight budget",
       "key_spec": "2,200 Pa, 120 min runtime",
-      "summary": "A basic, quiet and affordable robot vacuum with four cleaning modes. It lacks room mapping and has lower suction than pricier models.",
+      "summary": "Mumsnet's best budget robot vacuum: a basic, quiet and affordable model with four cleaning modes that works well on pet hair. It lacks room mapping, has lower suction than pricier models and can get caught on tasselled rugs.",
       "specs": {
         "Suction": "2,200 Pa",
         "Bin": "500ml",
         "Runtime": "120 min",
         "Modes": "Four",
+        "Mapping": "No",
         "Control": "App"
       },
       "pros": [
-        "Affordable",
-        "Good cleaning results for the price",
-        "Quiet",
-        "Decent battery life"
+        "Great value",
+        "Excellent cleaning results",
+        "Easy to control through the app",
+        "Quiet when running",
+        "Good battery life"
       ],
       "cons": [
-        "Lower suction than rivals",
-        "No room mapping",
-        "Occasionally bumps into furniture"
+        "Not as powerful as some other robot vacuums",
+        "Does not map the room",
+        "Bumps into furniture"
       ],
       "asin": "",
-      "search": "Lefant M210 robot vacuum"
+      "search": "Lefant M210P robot vacuum"
     },
     {
       "brand": "SwitchBot",
-      "name": "Mini Robot Vacuum K10+",
+      "name": "K11+",
       "badge": "Best for small spaces",
       "best_for": "Flats and compact rooms",
-      "key_spec": "25cm wide, self-emptying bin",
-      "summary": "At 25cm across it is unusually compact, with laser mapping, excellent edge cleaning and a self-emptying bin with a stated 70-day capacity.",
+      "key_spec": "6,000 Pa, compact, self-emptying bin",
+      "summary": "Mumsnet's best small robot vacuum, replacing the Mini K10+ it reviewed in depth. It is a compact model with laser mapping, great edge cleaning and a self-emptying bin that Mumsnet says lasts up to 70 days before the bag needs changing.",
       "specs": {
-        "Diameter": "25cm",
-        "Weight": "2.3kg",
+        "Suction": "6,000 Pa",
+        "Weight": "6.13kg",
         "Bin": "4L",
-        "Runtime": "100 min",
+        "Runtime": "150 min",
+        "Charging": "4 hours",
         "Mapping": "Laser"
       },
       "pros": [
-        "Compact size",
-        "Excellent edge cleaning",
-        "Precise laser mapping"
+        "Small size",
+        "Mapping technology",
+        "Self-emptying bin",
+        "Easy to use and set up",
+        "Great at edge cleaning"
       ],
       "cons": [
-        "Mops with disposable wipes rather than brush heads"
+        "Mops using a disposable wipe rather than mop brushes"
       ],
       "asin": "",
-      "search": "SwitchBot Mini Robot Vacuum K10+"
+      "search": "SwitchBot K11+ robot vacuum"
     }
   ],
   "guide": [
