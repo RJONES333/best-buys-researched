@@ -6,7 +6,6 @@ After re-reviewing a guide, update its `reviewed` date in data/categories/<slug>
 Checked 210 sources. Could not read an updated date for 44 of them (bot-blocked, or the page shows no date), so those are not flagged either way.
 
 ## Source updated after we last reviewed
-- Best Smart Rings UK: Wareable: best smart rings updated 2026-09-29, we reviewed 2026-09-23 - https://www.wareable.com/fashion/best-smart-rings-1340
 - Best Bike Lights UK: BikeRadar: best bike lights for road cycling updated 2026-09-28, we reviewed 2026-09-22 - https://www.bikeradar.com/advice/buyers-guides/best-bike-lights-for-road-cycling
 - Best Dehumidifiers UK: Mumsnet: best dehumidifiers updated 2026-09-28, we reviewed 2026-09-21 - https://www.mumsnet.com/swearsby/best-dehumidifiers
 - Best Smoke Alarms UK: Expert Reviews: best smoke alarms updated 2026-09-28, we reviewed 2026-09-23 - https://www.expertreviews.co.uk/technology/home-security/best-smoke-alarm
