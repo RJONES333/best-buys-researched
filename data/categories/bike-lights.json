@@ -3,8 +3,8 @@
   "title": "Best Bike Lights UK",
   "short": "Front and rear bike lights compared by lumens, battery life and who they suit, for commuting, road and trail.",
   "intro": "Once the clocks change, a decent set of bike lights stops being optional. This guide compares front and rear lights tested by BikeRadar, which says it has tested more than 500 lights over 17 years, so you can pick lights matched to how dark and how fast you ride.",
-  "reviewed": "2026-09-22",
-  "verified": "2026-10-01",
+  "reviewed": "2026-10-05",
+  "verified": "2026-10-05",
   "products": [
     {
       "brand": "Knog",
@@ -103,26 +103,80 @@
     {
       "brand": "Magicshine",
       "name": "Ray 2600B Smart Remote",
-      "badge": "Best for trail and gravel",
-      "best_for": "Off-road and gravel riding in the dark",
+      "badge": "Best in class front light",
+      "best_for": "Night riding and gravel tracks where you need serious power",
       "key_spec": "2,600 lumens, handlebar remote included",
-      "summary": "A very bright light suited to trail brightness needs, with an extended runtime and a handlebar remote, though BikeRadar found the companion app unreliable.",
+      "summary": "BikeRadar's best-in-class front light. A powerful light with auto-dimming tech, a dual-beam pattern and a handlebar remote, bright enough for trails and gravel tracks, though BikeRadar found the companion app glitchy.",
       "specs": {
         "Type": "Front",
         "Lumens": "2,600",
-        "Battery life": "1 hour 15 minutes (max power)"
+        "Battery life": "1 hour 15 minutes (max power)",
+        "Modes": "3 default",
+        "Weight": "192g"
       },
       "pros": [
-        "Extended runtime",
-        "Trail-suitable brightness",
-        "Handlebar remote included"
+        "Good runtime",
+        "Bright enough for trails",
+        "Handlebar remote"
       ],
       "cons": [
-        "Unreliable app",
-        "No mode indicator light"
+        "Glitchy app",
+        "No mode indicator"
       ],
       "asin": "",
       "search": "Magicshine Ray 2600B Smart Remote bike light"
+    },
+    {
+      "brand": "Magicshine",
+      "name": "HORI 1300",
+      "badge": "Best anti-glare beam",
+      "best_for": "Road riders who want a cut-off beam that will not dazzle oncoming traffic",
+      "key_spec": "1,300 lumens, high/low beam, remote control",
+      "summary": "A good-value front light with an anti-glare cut-off beam and a high/low beam function for dimming to oncoming traffic. It is designed to sit under an out-front computer mount and comes with a remote, though BikeRadar felt the low beam was a little underpowered and wanted more light at the edges.",
+      "specs": {
+        "Type": "Front",
+        "Lumens": "1,300",
+        "Battery life": "2 hours 20 minutes (max power)",
+        "Modes": "6",
+        "Weight": "153g"
+      },
+      "pros": [
+        "Good value",
+        "Remote control",
+        "Anti-glare beam"
+      ],
+      "cons": [
+        "Restricted beam shape",
+        "Could be more powerful"
+      ],
+      "asin": "",
+      "search": "Magicshine HORI 1300 front bike light"
+    },
+    {
+      "brand": "Ravemen",
+      "name": "K1800",
+      "badge": "Best with power bank",
+      "best_for": "All-purpose riding where peripheral vision and reduced glare matter",
+      "key_spec": "1,800 lumens, wide-angle beam, power bank function",
+      "summary": "A powerful front light whose wide-angled beam gives good peripheral vision and cuts glare, with a remote offering a separate high-beam button and the ability to act as a power bank. BikeRadar found the highest mode throttled back when the body overheated and the beam throw was relatively short.",
+      "specs": {
+        "Type": "Front",
+        "Lumens": "1,800",
+        "Battery life": "1 hour 36 minutes (max power)",
+        "Modes": "7",
+        "Weight": "197g"
+      },
+      "pros": [
+        "Quick high-beam access",
+        "Good periphery vision",
+        "Power bank utility"
+      ],
+      "cons": [
+        "Highest mode powers down often",
+        "Beam throw relatively short"
+      ],
+      "asin": "",
+      "search": "Ravemen K1800 front bike light"
     },
     {
       "brand": "Lezyne",
@@ -130,7 +184,7 @@
       "badge": "Best overall rear light",
       "best_for": "Riders who want strong, visible output with several modes",
       "key_spec": "400 lumens, 5.5hr battery, 7 modes",
-      "summary": "BikeRadar's top rear light. Powerful output with seven mode options and a memory function, though the charging cable is not included.",
+      "summary": "BikeRadar's top rear light. Powerful output with seven mode options, easy operation and a memory function, though the charging cable is not included.",
       "specs": {
         "Type": "Rear",
         "Lumens": "400",
@@ -138,15 +192,38 @@
         "Modes": "7"
       },
       "pros": [
-        "Powerful output",
-        "Seven mode options",
-        "Memory function"
+        "Power and visibility",
+        "Seven modes",
+        "Easy operation"
       ],
       "cons": [
         "Charging cable not included"
       ],
       "asin": "",
       "search": "Lezyne Strip Drive Pro 400+ rear bike light"
+    },
+    {
+      "brand": "Exposure",
+      "name": "Blaze Mk3 Reakt + Peloton",
+      "badge": "Best in class rear light",
+      "best_for": "Riders who want a premium rear light with smart brake and group-riding modes",
+      "key_spec": "150 lumens, up to 48hr battery, brake and ambient light sensor",
+      "summary": "BikeRadar's best-in-class rear light, with a focused spot of light and premium construction. Reakt mode combines a brake and ambient light sensor, and Peloton mode dims the light when it senses a light behind to avoid dazzling other riders, though it uses a proprietary charging port.",
+      "specs": {
+        "Type": "Rear",
+        "Lumens": "150",
+        "Battery life": "Up to 48 hours",
+        "Weight": "91g"
+      },
+      "pros": [
+        "Focused light",
+        "Premium construction"
+      ],
+      "cons": [
+        "Proprietary charging port"
+      ],
+      "asin": "",
+      "search": "Exposure Blaze Mk3 Reakt Peloton rear bike light"
     },
     {
       "brand": "Sigma",
@@ -171,6 +248,31 @@
       ],
       "asin": "",
       "search": "Sigma Buster RL 150 rear bike light"
+    },
+    {
+      "brand": "Oxford",
+      "name": "UltraTorch R75",
+      "badge": "Best for city commuting",
+      "best_for": "Commuters on busy city streets who want side visibility",
+      "key_spec": "75 lumens, USB-C, full charge in an hour",
+      "summary": "A lightweight rear light that BikeRadar called a fantastically capable performer for its price, with a shape that spills light out from the sides. It has no daytime mode and gets hot in full-beam mode.",
+      "specs": {
+        "Type": "Rear",
+        "Lumens": "75",
+        "Battery life": "2 hours 15 minutes (max power)",
+        "Modes": "4",
+        "Weight": "50g"
+      },
+      "pros": [
+        "Lightweight",
+        "Long runtime"
+      ],
+      "cons": [
+        "No daytime mode",
+        "Gets hot in full-beam mode"
+      ],
+      "asin": "",
+      "search": "Oxford UltraTorch R75 rear bike light"
     },
     {
       "brand": "Ravemen",
@@ -199,7 +301,7 @@
   "guide": [
     {
       "q": "How many lumens do I need?",
-      "a": "For daytime visibility, 100-plus lumen front and rear lights are generally sufficient. For urban riding in the dark with some street lighting, aim for at least 400 lumens at the front. For unlit roads at night, look for 600 lumens or more."
+      "a": "BikeRadar says a 200-lumen front light should be enough to be seen on lit urban roads, while 300 lumens will light some of the road ahead. For unlit roads it suggests a minimum of 600 lumens, and 1,000 or more for tricky terrain or high speeds. For the rear, 20 to 100 lumens is a good bet, with brighter rear lights suited to daytime use."
     },
     {
       "q": "Front and rear, or do I only need one?",
