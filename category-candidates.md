@@ -3,7 +3,7 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Golf Monthly women's guides not yet done: golf skorts (golfmonthly.com/buying-advice/best-golf-skorts-year, not yet opened/verified), women's golf shorts, most comfortable golf shoes for women, women's waterproof golf shoes (check overlap with womens-golf-shoes first).
+- Golf Monthly women's guides not yet done: women's golf shorts, most comfortable golf shoes for women, women's waterproof golf shoes (check overlap with womens-golf-shoes first).
 - Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, vacuum-cleaners (both likely overlap existing mattresses / vacuum guides). (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
 - Expert Reviews mattress variants (side sleepers, king size, cooling, heavy people) - probably overlap with mattresses guide
 - Other Expert Reviews small-appliance/beauty/home guides not yet covered (browse expertreviews.co.uk/home-garden and /beauty-wellness)
@@ -146,6 +146,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Women's golf shoes (Golf) - Golf Monthly, updated 28 July 2026 (9 products, tested by Alison Root, Katie Dawkins, Carly Cummins over multiple rounds). Top pick Ecco Street Vibe.
 - Women's golf trousers (Golf) - Golf Monthly "best ladies golf pants", updated 28 May 2026 (12 of 18 products, 7 spring/summer + 5 winter; tested by Alison Root, Katie Dawkins, Carly Cummins over multiple rounds). Source does not rank, so badges are descriptive; no prices in source text. Left out: Original Penguin Veronica, Golftini, TravisMathew Moveknit, Levelwear, Csara Jayne Crossover, Abacus Formby.
 - Men's hair removal cream - Expert Reviews 2023 (5 products, Men group; already built, moved here from To try)
+- Women's golf skorts (Golf) - Golf Monthly "best golf skorts", updated 28 May 2026 (12 of 22 products; tested by Alison Root and Katie Dawkins on the course). Source does not rank, so badges are descriptive; no prices in source text. Left out: Johnnie-O McKenna, Bad Birdie Tour, TravisMathew Moveknit, A. Putnam Pocket, Levelwear Jourdan, PXG Saturday, Famara A-Line, Dunning Player Fit, Abacus Bovey, Callaway Deco Print.
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes

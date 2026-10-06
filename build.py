@@ -61,7 +61,7 @@ GROUPS = {
         "womens-leggings", "running-socks", "walking-socks", "womens-socks", "winter-gloves",
         "heated-gilets", "foot-warmers", "mens-boxers",
     ],
-    "Golf": ["golf-club-sets", "golf-balls", "golf-gloves", "golf-shirts", "golf-trousers", "golf-shoes", "golf-rangefinders", "golf-bags", "golf-trolleys", "golf-push-trolleys", "golf-umbrellas", "womens-golf-shirts", "womens-golf-shoes", "womens-golf-trousers"],
+    "Golf": ["golf-club-sets", "golf-balls", "golf-gloves", "golf-shirts", "golf-trousers", "golf-shoes", "golf-rangefinders", "golf-bags", "golf-trolleys", "golf-push-trolleys", "golf-umbrellas", "womens-golf-shirts", "womens-golf-shoes", "womens-golf-trousers", "womens-golf-skorts"],
     "Sports": ["football-boots", "running-shoes", "gym-training-shoes", "tennis-rackets", "swimming-goggles"],
     "Personal care": ["electric-toothbrushes"],
     "Men": ["electric-shavers", "hair-clippers", "beard-trimmers", "nose-hair-trimmers", "mens-hair-removal-cream"],
