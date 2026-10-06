@@ -3,8 +3,8 @@
   "title": "Best Smartwatches and Fitness Watches UK",
   "short": "Fitness and sports watches compared by GPS accuracy, heart rate tracking and battery life, from budget training watches to premium adventure watches.",
   "intro": "The right fitness watch depends heavily on what you train for: runners want accurate GPS and pace metrics, while heart rate accuracy or battery life matter more for others. This guide compares watches tested by Men's Fitness, whose team of tech journalists tested 10 watches for running, training and health tracking.",
-  "reviewed": "2026-09-23",
-  "verified": "2026-10-01",
+  "reviewed": "2026-10-06",
+  "verified": "2026-10-06",
   "products": [
     {
       "brand": "Garmin",
@@ -76,6 +76,7 @@
       ],
       "cons": [
         "Phone pairing and syncing can be buggy",
+        "Raise to wake is sometimes laggy",
         "No Spotify or Deezer playback"
       ],
       "asin": "",
@@ -147,8 +148,8 @@
       },
       "pros": [
         "Market-leading GPS battery life",
-        "Premium stainless steel and sapphire crystal build",
-        "Strong value for the feature set"
+        "Sophisticated looks and excellent readability",
+        "Packed full of new features"
       ],
       "cons": [
         "Large face may not suit smaller wrists",
@@ -159,28 +160,77 @@
     },
     {
       "brand": "Apple",
-      "name": "Watch Ultra 3",
+      "name": "Watch Ultra 4",
       "badge": "Best fitness smartwatch",
-      "best_for": "Buyers who want the best all-round smartwatch experience with fitness credentials",
-      "key_spec": "Retina LTPO OLED, 3000 nits peak, up to 72hrs GPS battery",
-      "summary": "Men's Fitness's pick for buyers who want smartwatch features alongside fitness tracking, with a wider screen than the Ultra 2, satellite connectivity for off-grid situations, and improved battery life and charging speed. Fitness tracking itself isn't hugely different from the Ultra 2, and it still won't last a full week without charging.",
+      "best_for": "Buyers with a big budget who want the best all-round smartwatch experience with fitness credentials",
+      "key_spec": "Retina LTPO OLED, 3000 nits peak, up to 84hrs GPS battery",
+      "summary": "Men's Fitness's pick for buyers who want smartwatch features alongside fitness tracking, replacing the Ultra 3 with a redesigned sensor for more reliable data, longer battery life and satellite connectivity for off-grid situations. It still won't last a full week without charging, it's one of the priciest options around, and the tester found better, cheaper watches for deep running metrics.",
       "specs": {
         "Display": "Retina LTPO OLED, 422x514px, 3000 nits",
-        "Weight": "61.6g",
-        "Battery life": "Up to 72hrs GPS",
+        "Weight": "63g",
+        "Battery life": "Up to 84hrs GPS",
         "Waterproof": "WR100"
       },
       "pros": [
-        "Wider, brighter screen for outdoor visibility",
-        "Improved battery life and faster charging",
+        "Health Sensing System provides more accurate tracking",
+        "Better battery life than the Ultra 3",
         "Satellite connectivity for off-grid use"
       ],
       "cons": [
-        "Fitness tracking not hugely different from the Ultra 2",
-        "Still needs charging within a week"
+        "Still won't last a full week without charging",
+        "One of the priciest options around"
       ],
       "asin": "",
-      "search": "Apple Watch Ultra 3"
+      "search": "Apple Watch Ultra 4"
+    },
+    {
+      "brand": "COROS",
+      "name": "Pace Pro",
+      "badge": "Best for customisation",
+      "best_for": "Runners who like to set up their data screens and metrics their own way",
+      "key_spec": "1.3in AMOLED, 1,500 nits, up to 38hrs GPS / 20 days battery",
+      "summary": "Men's Fitness calls this one of the most customisable fitness watches its tester has come across, letting you choose which metrics matter and how your screens look, with a processor twice as fast as the Pace 3 and a bright 1.3in screen that was easy to read in direct sunshine. It costs significantly more than the Pace 3, and the design is a little underwhelming.",
+      "specs": {
+        "Display": "AMOLED touchscreen, 416x416px",
+        "Weight": "37g",
+        "Battery life": "Up to 38hrs GPS / 20 days without",
+        "Waterproof": "5ATM"
+      },
+      "pros": [
+        "Super-fast performance",
+        "Nice, bright and clear AMOLED screen",
+        "Plenty of options to customise"
+      ],
+      "cons": [
+        "Significant price hike on the Pace 3",
+        "Design is a little underwhelming"
+      ],
+      "asin": "",
+      "search": "COROS Pace Pro watch"
+    },
+    {
+      "brand": "Garmin",
+      "name": "Forerunner 170 Music",
+      "badge": "Best for offline music",
+      "best_for": "Runners who want to play music from the wrist without carrying a phone",
+      "key_spec": "1.2in AMOLED, offline music, up to 20hrs GPS / 10 days battery",
+      "summary": "Men's Fitness's pick for offline music, sending tunes straight to your workout headphones, with most of the training insights found on Garmin's pricier watches and a bright, crisp 1.2in AMOLED screen for under £300. The concession is a rather average battery life, which you may need to manage if you play music on most workouts.",
+      "specs": {
+        "Display": "AMOLED, 390x390px",
+        "Weight": "41g",
+        "Battery life": "Up to 20hrs GPS / 10 days without",
+        "Waterproof": "5ATM"
+      },
+      "pros": [
+        "Excellent bright display",
+        "Comfortable, compact design",
+        "Offline music"
+      ],
+      "cons": [
+        "Battery life not class leading"
+      ],
+      "asin": "",
+      "search": "Garmin Forerunner 170 Music watch"
     },
     {
       "brand": "Polar",
@@ -211,7 +261,7 @@
   "guide": [
     {
       "q": "Do I need a dedicated fitness watch or would a regular smartwatch do?",
-      "a": "A dedicated fitness watch, like the Garmin or COROS models here, typically offers more accurate GPS, longer battery life and deeper training and recovery insights. A general smartwatch like the Apple Watch Ultra 3 covers fitness well too, but usually needs more frequent charging and leans more toward everyday smartwatch features."
+      "a": "A dedicated fitness watch, like the Garmin or COROS models here, typically offers more accurate GPS, longer battery life and deeper training and recovery insights. A general smartwatch like the Apple Watch Ultra 4 covers fitness well too, but usually needs more frequent charging and leans more toward everyday smartwatch features."
     },
     {
       "q": "How much does wrist-based heart rate accuracy vary?",

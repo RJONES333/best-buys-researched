@@ -6,7 +6,7 @@ After re-reviewing a guide, update its `reviewed` date in data/categories/<slug>
 Checked 210 sources. Could not read an updated date for 44 of them (bot-blocked, or the page shows no date), so those are not flagged either way.
 
 ## Source updated after we last reviewed
-- Best Smartwatches and Fitness Watches UK: Men's Fitness: the best fitness watches updated 2026-09-25, we reviewed 2026-09-23 - https://mensfitness.co.uk/review/best-fitness-watches/
+- None
 
 ## Picks not reassessed in over 120 days
 - None
