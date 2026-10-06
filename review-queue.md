@@ -6,7 +6,6 @@ After re-reviewing a guide, update its `reviewed` date in data/categories/<slug>
 Checked 210 sources. Could not read an updated date for 44 of them (bot-blocked, or the page shows no date), so those are not flagged either way.
 
 ## Source updated after we last reviewed
-- Best Women's Puffer and Down Jackets UK: Grazia: best puffer jackets for women updated 2026-09-26, we reviewed 2026-09-22 - https://graziadaily.co.uk/fashion/shopping/best-puffer-jackets/
 - Best Smartwatches and Fitness Watches UK: Men's Fitness: the best fitness watches updated 2026-09-25, we reviewed 2026-09-23 - https://mensfitness.co.uk/review/best-fitness-watches/
 
 ## Picks not reassessed in over 120 days

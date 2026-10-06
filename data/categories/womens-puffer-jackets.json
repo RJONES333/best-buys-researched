@@ -2,9 +2,9 @@
   "slug": "womens-puffer-jackets",
   "title": "Best Women's Puffer and Down Jackets UK",
   "short": "Puffer and down jackets compared by warmth, fill and length, from high-street budget to premium.",
-  "intro": "A good puffer jacket needs to balance warmth, weight and length for how you'll actually wear it, whether that's the school run, hiking, or a night out. This guide compares jackets tested by Grazia, spanning budget high-street picks to premium investment coats.",
-  "reviewed": "2026-09-22",
-  "verified": "2026-10-01",
+  "intro": "A good puffer jacket needs to balance warmth, weight and length for how you'll actually wear it, whether that's the school run, hiking, or a night out. This guide compares jackets tested and reviewed by Grazia's fashion editors, spanning budget high-street picks to premium investment coats.",
+  "reviewed": "2026-10-06",
+  "verified": "2026-10-06",
   "products": [
     {
       "brand": "The North Face",
@@ -12,7 +12,7 @@
       "badge": "Best overall",
       "best_for": "Everyday wear with a classic, recognisable look",
       "key_spec": "700-fill goose down, recycled nylon, £315",
-      "summary": "Grazia's overall pick for everyday wear. It is water-repellent and packs into its own pocket, though its hip length gives less protection in extreme cold.",
+      "summary": "Grazia's overall pick for everyday wear, praised by its tester for a snug fit and for being water-repellent and breathable. It packs into its own pocket, though its hip length gives less protection in colder temperatures.",
       "specs": {
         "Material": "100% recycled nylon ripstop",
         "Fill": "700-fill goose down",
@@ -23,29 +23,31 @@
         "Packs into its own pocket"
       ],
       "cons": [
-        "Hip-length offers less protection in extreme cold"
+        "Hip-length hemline means less protection in colder temperatures"
       ],
       "asin": "",
       "search": "The North Face 1996 Retro Nuptse Jacket women's"
     },
     {
       "brand": "Marks & Spencer",
-      "name": "Feather & Down Stormwear Padded Puffer",
+      "name": "Feather & Down Stormwear Padded Puffer Jacket",
       "badge": "Best budget",
       "best_for": "Budget-conscious shoppers who want a reliable everyday puffer",
       "key_spec": "Water-repellent, £65",
-      "summary": "Grazia's budget pick, with a good size range and fleece-lined pockets, though its hip length limits protection in very cold weather.",
+      "summary": "Grazia's budget pick. Its tester found it less heavyweight than some rivals but more than capable when temperatures drop, and liked the slightly cropped fit and fleece-lined pockets, though the hip length limits protection in colder weather.",
       "specs": {
         "Material": "100% polyester with Stormwear water-repellent finish",
         "Price guide": "About £65"
       },
       "pros": [
         "Good size range",
+        "Water-repellent Stormwear finish",
         "Fleece-lined pockets",
-        "Affordable"
+        "Great colourway"
       ],
       "cons": [
-        "Hip-length limits cold-weather protection"
+        "Hip-length hemline means less protection in colder temperatures",
+        "Not as heavyweight as some other jackets"
       ],
       "asin": "",
       "search": "Marks & Spencer Feather & Down Stormwear Padded Puffer"
@@ -53,70 +55,25 @@
     {
       "brand": "Uniqlo",
       "name": "Seamless Down Long Coat",
-      "badge": "Best high-street value",
+      "badge": "Best high-street puffer",
       "best_for": "Buyers who want a long, warm coat without a premium price",
       "key_spec": "750+ fill power down, £179.90",
-      "summary": "A lightweight, versatile long down coat that Grazia rates as excellent quality-to-price, though the longline fit can overwhelm a petite frame.",
+      "summary": "A warm but lightweight long down coat with a seamless windproof design, hood, cushioned collar and fleece-lined pockets. Grazia rates it as excellent value for the quality, though the longline fit can swamp a petite frame.",
       "specs": {
         "Fill": "750+ fill power down",
-        "Extras": "Fluorine-free water-repellent finish",
+        "Extras": "Fluorine-free water-repellent finish, seamless windproof design, fleece-lined pockets",
         "Price guide": "About £179.90"
       },
       "pros": [
-        "Lightweight",
+        "Warm but lightweight",
         "Versatile",
-        "Excellent quality-to-price ratio"
+        "Excellent value for quality"
       ],
       "cons": [
-        "Longline fit may overwhelm petite frames"
+        "Longline fit may swamp petite frames"
       ],
       "asin": "",
       "search": "Uniqlo Seamless Down Long Coat women's"
-    },
-    {
-      "brand": "Berghaus",
-      "name": "Women's Explorer Down Jacket",
-      "badge": "Best for unpredictable weather",
-      "best_for": "Trails and changeable UK conditions",
-      "key_spec": "650-fill Hydrodown, Pertex Quantum outer",
-      "summary": "A jacket designed to insulate even when wet, with a wind and water-resistant yet lightweight build, well suited to hiking in unpredictable weather.",
-      "specs": {
-        "Fill": "650-fill Hydrodown",
-        "Shell": "Pertex Quantum"
-      },
-      "pros": [
-        "Insulates when wet",
-        "Wind and water-resistant",
-        "Lightweight"
-      ],
-      "cons": [
-        "Less glossy aesthetic than fashion-led options"
-      ],
-      "asin": "",
-      "search": "Berghaus Women's Explorer Down Jacket"
-    },
-    {
-      "brand": "Columbia",
-      "name": "Harmony Falls Hooded Mid Down Jacket",
-      "badge": "Best warmth without bulk",
-      "best_for": "Buyers who want warmth in a slimmer profile",
-      "key_spec": "Omni-Heat Infinity reflective lining, £210",
-      "summary": "A lightweight, water and stain-resistant jacket with a reflective lining, detachable hood and numerous pockets, though it is less fashion-forward than some rivals.",
-      "specs": {
-        "Lining": "Omni-Heat Infinity reflective lining",
-        "Price guide": "About £210"
-      },
-      "pros": [
-        "Lightweight",
-        "Water and stain-resistant",
-        "Detachable hood",
-        "Numerous pockets"
-      ],
-      "cons": [
-        "Less fashion-forward styling"
-      ],
-      "asin": "",
-      "search": "Columbia Women's Harmony Falls Hooded Mid Down Jacket"
     },
     {
       "brand": "Sweaty Betty",
@@ -124,19 +81,22 @@
       "badge": "Best for wet weather",
       "best_for": "Rainy climates and anyone who wants a genuinely waterproof puffer",
       "key_spec": "700-fill down, fully waterproof, £395",
-      "summary": "A fully waterproof puffer with fleece-lined pockets and backpack straps, though it is very long and heavier than most jackets here.",
+      "summary": "A fully waterproof and windproof puffer with taped seams, fleece-lined pockets, storm cuffs, a two-way zip and internal straps for carrying it on your back. Grazia, which picks it out in a leopard print, notes it is very long and not lightweight.",
       "specs": {
-        "Fill": "700-fill down",
+        "Fill": "700-fill-power down",
+        "Waterproofing": "Taped seams, tested to more than 16,000mm of water pressure",
+        "Length": "119cm",
         "Price guide": "About £395"
       },
       "pros": [
         "Fully waterproof",
+        "Properly warm with 700-fill down",
         "Fleece-lined pockets",
-        "Backpack straps"
+        "Internal backpack straps"
       ],
       "cons": [
-        "Very long",
-        "Heavier weight"
+        "Very long, less convenient getting in and out of the car",
+        "Not lightweight"
       ],
       "asin": "",
       "search": "Sweaty Betty Nimbus Longline Waterproof Puffer"
@@ -144,68 +104,188 @@
     {
       "brand": "Moose Knuckles",
       "name": "Iceberg Quilt Down Puffer",
-      "badge": "Best for sub-zero temperatures",
-      "best_for": "Genuinely extreme cold and travel to cold climates",
+      "badge": "Best high-performance all-rounder",
+      "best_for": "Sub-zero temperatures and travel to cold climates",
       "key_spec": "Recycled nylon, GRS/RDS certified, £650",
-      "summary": "Designed for sub-zero conditions with a practical, shorter silhouette than most extreme-cold jackets, though that means less leg protection than longer styles.",
+      "summary": "A short puffer designed for sub-zero conditions. Grazia's tester rates it for travel because the shorter, less bulky shape is less cumbersome on a plane, though it means less leg protection than a long puffer.",
       "specs": {
         "Material": "100% recycled nylon, GRS/RDS certified",
         "Price guide": "About £650"
       },
       "pros": [
-        "Designed for extreme cold",
-        "Practical shorter silhouette"
+        "Designed for sub-zero temperatures",
+        "Works for everyday wear, travelling and outdoor winter conditions"
       ],
       "cons": [
-        "Less leg protection than longer styles"
+        "Less leg and lower-body protection than a long puffer"
       ],
       "asin": "",
       "search": "Moose Knuckles Iceberg Quilt Down Puffer"
     },
     {
+      "brand": "Alo",
+      "name": "Glacier Puffer",
+      "badge": "Best trendy puffer",
+      "best_for": "Gym-to-city wear with an athleisure look",
+      "key_spec": "Cropped, vest-over-jacket design, £278",
+      "summary": "Grazia's tester calls this her favourite for both fashion and function, finding the cropped fit surprisingly warm and protective with spacious hidden zip pockets. It runs slightly oversized and can be tricky to layer over a knit.",
+      "specs": {
+        "Fit": "Cropped, slightly oversized",
+        "Extras": "Double zip, hidden zip pockets, fixed hood",
+        "Price guide": "About £278"
+      },
+      "pros": [
+        "Cropped and flattering",
+        "Layered look without bulk",
+        "Adjustable double zip",
+        "Hidden pockets"
+      ],
+      "cons": [
+        "Runs large, so size down",
+        "Hood is not detachable"
+      ],
+      "asin": "",
+      "search": "Alo Yoga Glacier Puffer jacket women's"
+    },
+    {
+      "brand": "Massimo Dutti",
+      "name": "Stand-up Collar Down Jacket",
+      "badge": "Best for work-to-weekend",
+      "best_for": "A smart city puffer for commutes and weekends",
+      "key_spec": "Stand-up collar, no hood, £190",
+      "summary": "A clean, minimal down jacket that Grazia picks for wearing to work and at the weekend. The stand-up collar gives extra coverage around the neck, though there is no hood.",
+      "specs": {
+        "Style": "Minimal silhouette with stand-up collar",
+        "Price guide": "About £190"
+      },
+      "pros": [
+        "Looks more expensive than a typical puffer",
+        "High collar is useful when it's windy",
+        "Suits those who don't want a very sporty look"
+      ],
+      "cons": [
+        "No hood"
+      ],
+      "asin": "",
+      "search": "Massimo Dutti Stand-up Collar Down Jacket women's"
+    },
+    {
+      "brand": "Canada Goose",
+      "name": "Montgomery Coat",
+      "badge": "Best for extreme cold",
+      "best_for": "Genuinely freezing conditions, -10°C to -20°C",
+      "key_spec": "Lumina fabric, £1,325",
+      "summary": "Grazia's pick for -10°C to -20°C conditions. Its tester found it surprisingly lightweight for the warmth, with a cinched waist for shape, though it is a serious investment and probably too warm for everyday UK weather.",
+      "specs": {
+        "Material": "Lumina fabric, premium down",
+        "Suited to": "-10°C to -20°C",
+        "Price guide": "About £1,325"
+      },
+      "pros": [
+        "Proper insulation without feeling weighed down",
+        "Cinched waist gives definition",
+        "A long-lasting investment piece"
+      ],
+      "cons": [
+        "A serious investment",
+        "Probably too warm for everyday UK weather"
+      ],
+      "asin": "",
+      "search": "Canada Goose Montgomery Coat"
+    },
+    {
+      "brand": "Rains",
+      "name": "Alta Long Puffer Cargo Jacket",
+      "badge": "Best for warmth",
+      "best_for": "A long, waterproof coat you can layer jumpers under",
+      "key_spec": "Waterproof, T4 insulation rating, £389",
+      "summary": "The favourite of Grazia's senior fashion news editor: waterproof, windproof, breathable and insulated to the brand's T4 rating, with a streamlined shape that fits jumpers underneath and plenty of pockets. It costs more than most at £389.",
+      "specs": {
+        "Insulation": "Rains T4 rating (one step below the top T5)",
+        "Weather protection": "Waterproof and windproof",
+        "Price guide": "About £389"
+      },
+      "pros": [
+        "Machine washable",
+        "Waterproof",
+        "Inside zipped pocket",
+        "Longer length for greater protection",
+        "Hood"
+      ],
+      "cons": [
+        "More expensive than most"
+      ],
+      "asin": "",
+      "search": "Rains Alta Long Puffer Cargo Jacket"
+    },
+    {
       "brand": "Barbour",
       "name": "Longline Pauline Down Puffer Jacket",
-      "badge": "Best heritage style",
-      "best_for": "Buyers who want a country-chic look with real warmth",
+      "badge": "Best for country-chic style",
+      "best_for": "Buyers who want a heritage, countryside look with real warmth",
       "key_spec": "90% goose down, 10% goose feathers, £639",
-      "summary": "A heritage-styled puffer with a corduroy collar, detachable hood and tartan lining, at a premium investment price.",
+      "summary": "A longline, heritage-styled puffer with a corduroy collar, detachable hood, tartan lining, hand-warmer and flap pockets and elasticated cuffs, at a premium investment price.",
       "specs": {
         "Fill": "90% goose down, 10% goose feathers",
+        "Extras": "Detachable hood, tartan lining, hand-warmer and flap pockets",
         "Price guide": "About £639"
       },
       "pros": [
-        "Corduroy collar",
-        "Detachable hood",
-        "Tartan lining"
+        "Classic Barbour styling",
+        "90% goose down",
+        "Corduroy collar"
       ],
       "cons": [
-        "Premium investment price"
+        "Premium price"
       ],
       "asin": "",
       "search": "Barbour Longline Pauline Down Puffer Jacket"
     },
     {
-      "brand": "Canada Goose",
-      "name": "Montgomery Coat",
-      "badge": "Best for extreme cold luxury",
-      "best_for": "Genuinely freezing conditions, -10°C to -20°C",
-      "key_spec": "Lumina fabric, premium down, £1,325",
-      "summary": "Rated for -10°C to -20°C, this is lightweight despite its very high warmth rating, with a cinched waist for shape, though it is a significant investment and can be too warm for typical UK weather.",
+      "brand": "Columbia",
+      "name": "Leadbetter Point II Sherpa Hybrid Puffer Jacket",
+      "badge": "Best hybrid puffer",
+      "best_for": "Dry, cold days and a shorter, hip-length fit",
+      "key_spec": "Thermarator insulation, sherpa-fleece panels, £135",
+      "summary": "A quilted puffer with sherpa-fleece panels that Grazia's tester calls her favourite Columbia jacket. It sits neatly on the hips, but has no hood and the exposed fleece is best kept for dry days.",
       "specs": {
-        "Material": "Lumina fabric, premium down",
-        "Rated to": "-10°C to -20°C",
-        "Price guide": "About £1,325"
+        "Insulation": "Thermarator",
+        "Extras": "Sherpa-lined collar, elasticated cuffs, adjustable hem",
+        "Price guide": "About £135"
       },
       "pros": [
-        "Lightweight despite warmth rating",
-        "Cinched waist definition"
+        "Warm, with Thermarator insulation and a sherpa-lined collar",
+        "Water-repellent fabric, elasticated cuffs and adjustable hem",
+        "More fashion-forward than a classic puffer"
       ],
       "cons": [
-        "Significant investment",
-        "Potentially too warm for UK weather"
+        "No hood",
+        "Exposed fleece panels are best kept for dry days"
       ],
       "asin": "",
-      "search": "Canada Goose Montgomery Coat"
+      "search": "Columbia Women's Leadbetter Point II Sherpa Hybrid Puffer Jacket"
+    },
+    {
+      "brand": "Berghaus",
+      "name": "Women's Explorer Down Jacket",
+      "badge": "Best for unpredictable weather",
+      "best_for": "Trails, long walks and changeable UK conditions",
+      "key_spec": "650-fill Hydrodown, Pertex Quantum outer, £270",
+      "summary": "A jacket designed to keep insulating when wet, with a wind and water-resistant yet lightweight outer and an adjustable hood, neck baffle and hem. Grazia picks it for performance over polish.",
+      "specs": {
+        "Fill": "650-fill Hydrodown",
+        "Shell": "Pertex Quantum",
+        "Price guide": "About £270"
+      },
+      "pros": [
+        "Insulates even when wet",
+        "Wind and water-resistant yet lightweight"
+      ],
+      "cons": [
+        "Not as glossy as some would prefer"
+      ],
+      "asin": "",
+      "search": "Berghaus Women's Explorer Down Jacket"
     }
   ],
   "guide": [
@@ -219,7 +299,7 @@
     },
     {
       "q": "Do I need a waterproof puffer jacket?",
-      "a": "Most puffers are only water-repellent, which sheds light rain but isn't fully waterproof. If you're regularly out in heavy rain, look for a jacket specifically described as waterproof, like the Sweaty Betty Nimbus here, rather than just water-repellent."
+      "a": "Most puffers are only water-repellent, which sheds light rain but isn't fully waterproof. If you're regularly out in heavy rain, look for a jacket specifically described as waterproof, like the Sweaty Betty Nimbus or Rains Alta here, rather than just water-repellent."
     },
     {
       "q": "How do I look after a down jacket?",
