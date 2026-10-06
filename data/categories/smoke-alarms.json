@@ -3,39 +3,13 @@
   "title": "Best Smoke Alarms UK",
   "short": "Smoke alarms compared by response time, alarm volume and smart features, from simple 9V battery alarms to interlinked smart systems with CO detection.",
   "intro": "A working smoke alarm makes you roughly 12 times less likely to die in a house fire, according to the National Fire Chiefs Council, and response speed and loudness matter more than smart features. This guide compares alarms tested by Expert Reviews using an aerosol tester and a sound meter to measure real response times and volume.",
-  "reviewed": "2026-09-23",
-  "verified": "2026-10-01",
+  "reviewed": "2026-10-06",
+  "verified": "2026-10-06",
   "products": [
-    {
-      "brand": "Google",
-      "name": "Nest Protect (2nd Generation)",
-      "badge": "Best smart smoke and CO alarm",
-      "best_for": "Buyers who want the most polished smart alarm with phone alerts",
-      "key_spec": "Split-spectrum optical sensor, 10-year CO sensor, 98.7dBA alarm",
-      "summary": "Still the smart alarm to beat, according to Expert Reviews, with an advanced sensor spotting both smouldering and fast-flaring fires, plus temperature, humidity, light and motion sensors. It took 7.12 seconds to register a test spray, gives phone alerts and a voice warning before full alarm, and even lights up to guide your way in the dark.",
-      "specs": {
-        "Sensor": "Split-spectrum optical",
-        "Battery": "6x AA lithium, ~5 years",
-        "Alarm volume": "98.7dBA (tested)",
-        "Connectivity": "WiFi"
-      },
-      "pros": [
-        "Easy to use with clear alerts",
-        "Smart features including phone notifications",
-        "Dual smoke and CO detection",
-        "Guide-light feature in darkness"
-      ],
-      "cons": [
-        "Limited integration with other Nest/Google audio products",
-        "Relies on six AA batteries"
-      ],
-      "asin": "",
-      "search": "Google Nest Protect smoke alarm"
-    },
     {
       "brand": "X-Sense",
       "name": "Link+ Pro (3-Alarm Bundle with Base Station)",
-      "badge": "Best budget smart system",
+      "badge": "Best budget smoke alarm system",
       "best_for": "Buyers who want whole-home interlinked coverage without Nest Protect pricing",
       "key_spec": "3 alarms + wireless Base Station, 99.1dBA siren, app control",
       "summary": "Roughly £80 covers three alarms plus a base station, enough for the average UK home, which Expert Reviews had running within 15 minutes. Any alarm going off triggers all of them with voice alerts, app notifications and email, though the app is less polished than Nest's and response time is a touch slower at 7.51 seconds.",
@@ -60,7 +34,7 @@
     {
       "brand": "Kidde",
       "name": "DY29 Smoke Alarm with Hush",
-      "badge": "Best simple",
+      "badge": "Best simple smoke alarm",
       "best_for": "Buyers who just want a fast, reliable, no-frills alarm",
       "key_spec": "9V battery, 97.6dBA, 9-minute hush function",
       "summary": "Expert Reviews found this the fastest alarm on test, sounding in just 2.44 seconds after the test spray, with no compromise on volume at a piercing 97.6dBA. It's compact, easy to fit, and a single button both hushes and tests the alarm, though the 9V battery needs replacing roughly every year.",
@@ -86,7 +60,7 @@
     {
       "brand": "Aqara",
       "name": "SD-S01E",
-      "badge": "Best budget smart alarm",
+      "badge": "Best smart smoke alarm",
       "best_for": "Buyers already invested in an Aqara or Zigbee smart home setup",
       "key_spec": "Zigbee connectivity, 10-year battery, 93.7dBA",
       "summary": "Uses the Zigbee protocol rather than WiFi for a more stable, energy-efficient connection, though it requires Aqara's own Hub M2 or M3 rather than third-party Zigbee hubs. Expert Reviews found it reasonably sensitive at 7.25 seconds and loud at 93.7dBA, but had trouble getting it working reliably with Google Home despite Matter compliance.",
@@ -111,7 +85,7 @@
     {
       "brand": "X-Sense",
       "name": "SC07-WX",
-      "badge": "Best combined smoke and CO alarm",
+      "badge": "Best simple smoke and CO alarm",
       "best_for": "Rooms with a fuel-burning appliance needing both smoke and CO protection",
       "key_spec": "Combined smoke and CO detection, WiFi, LCD screen, 98.8dBA",
       "summary": "A chunkier unit that packs in both a smoke detector and a chemical CO detector with a basic LCD readout. Expert Reviews found it worked well as both, registering smoke within 6.6 seconds and CO within 4 seconds, with WiFi giving the same app alerts as the Link+ Pro, though it's comparatively bulky.",
@@ -135,7 +109,7 @@
     {
       "brand": "Cavius",
       "name": "CV2106",
-      "badge": "Best for larger properties",
+      "badge": "Best for a block of flats",
       "best_for": "Blocks of flats or larger homes where you might not hear a distant siren",
       "key_spec": "78mm diameter, sealed 10-year lithium battery, RF interlinking",
       "summary": "Complies with UK regulations for rented properties, with a sealed battery lasting the full 10-year lifespan and the ability to link multiple units so one alarm echoes through all. Expert Reviews found it responded in 5.94 seconds, a little slower than the Kidde DY29, but just as loud at 96.1dBA, with a flashing LED visual alert too.",
@@ -161,7 +135,7 @@
     {
       "brand": "Kidde",
       "name": "K2007",
-      "badge": "Best mini",
+      "badge": "Best mini smoke alarm",
       "best_for": "Boats, caravans and other cramped spaces",
       "key_spec": "4cm diameter, sealed 10-year lithium battery, 101.4dBA",
       "summary": "At just 4cm across, this is a genuinely tiny alarm that Expert Reviews still found highly effective, registering the test spray in under seven seconds and putting out an ear-splitting 101.4dBA when triggered. The sealed lithium battery lasts the unit's full ten-year lifespan, with the top doubling as both test and hush button.",
@@ -198,7 +172,7 @@
     },
     {
       "q": "Do I need a smart, app-connected smoke alarm?",
-      "a": "A smart alarm, like the Nest Protect or X-Sense options here, sends phone alerts even when you're not home, which is genuinely valuable for detecting a fire while out or asleep in a large house. A simple standalone alarm, like the Kidde DY29, still protects you effectively at home for a fraction of the price if smart features aren't a priority."
+      "a": "A smart alarm, like the X-Sense Link+ Pro or Aqara SD-S01E here, sends phone alerts even when you're not home, which is genuinely valuable for detecting a fire while out or asleep in a large house. A simple standalone alarm, like the Kidde DY29, still protects you effectively at home for a fraction of the price if smart features aren't a priority."
     }
   ],
   "sources": [
