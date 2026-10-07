@@ -4,6 +4,7 @@
   "short": "Six dog paw cleaners, from MudBuster-style cups to a no-rinse foam, with an honest note on which are tested by Which? or Smart Bark and which rest on roundups.",
   "intro": "A paw cleaner cup lets you dunk a muddy paw in water, twist it against soft silicone bristles and dry it before your dog reaches the sofa. The Dexas MudBuster made the idea popular and plenty of brands now sell a version. Unlike most of our guides, this one is not built on a hands-on comparison test, because we couldn't find one from a UK publication. What we could find is one proper Which? test of a single cup, a Smart Bark test of a paws-only bottle attachment, and a set of pet-site roundups that keep coming back to the same few products.",
   "sourcing_note": "We found no hands-on comparison of paw cleaners from a UK publication. Two picks rest on real tests: the Tinioey (Which?, one product, tested on a husky in February 2026) and the Kurgo (Smart Bark, a bottle attachment that suits paws only). The MudBuster, Paw Plunger, CHOOSEEN and PUPMATE are here because several pet-site roundups and owner reports rate them, not because anyone has put them head to head, and most of those sources are US-based. Treat them as well-regarded rather than proven, and check UK availability and the current price before you buy.",
+  "compare_column": "Sizes",
   "reviewed": "2026-10-07",
   "verified": "2026-10-07",
   "products": [
@@ -12,10 +13,11 @@
       "name": "Dog Paw Cleaner",
       "badge": "Tested by Which?",
       "best_for": "Owners who want a MudBuster-style cup, with towels included, backed by an independent UK test",
-      "key_spec": "Cup lined with soft silicone brushes, small to large sizes, comes with 3 small drying towels and a silicone hand scraping pad",
+      "key_spec": "Silicone-lined cup, 3 towels and a scraping pad included",
       "summary": "Which? senior consumer writer Tom Morgan tested the Tinioey on his husky, Luna, after a deliberately boggy two-mile forest walk (3 February 2026). Two to three minutes of twisting got the marks off the tops of her paws and the darker spots between her pads, and loosened grime under her nails, which he hadn't expected. He noticed less dirt being tracked through the house and called it more effective than a towel alone. The drawbacks were small: he tipped it over on first use, the towels are thin, and the enclosed design may not suit nervous or fidgety dogs.",
       "specs": {
         "Type": "Cup with silicone brush lining",
+        "Sizes": "Mini (paws up to 2in wide), medium, large",
         "Includes": "3 small drying towels and a hand scraping pad",
         "Evidence": "Hands-on test by Which? (this one product only)",
         "Price guide": "£15.17 on Amazon UK (when Which? tested it, February 2026)"
@@ -39,15 +41,17 @@
       "name": "MudBuster",
       "badge": "Top pick in most roundups",
       "best_for": "Buyers who want the original paw cup that pet sites most often name as their best overall",
-      "key_spec": "Tumbler with soft silicone bristles inside and a screw-on lid, sold in several sizes including petite and large",
+      "key_spec": "Tumbler with silicone bristles and a screw-on lid",
       "summary": "Canine Journal, Vetstreet and PetMag all name the MudBuster their best overall, and K9 of Mine makes it its first pick, saying most owners who tried it were very happy. Canine Journal's co-founder says she uses it at home on rainy, muddy days and that it does a great job of removing red clay from her dogs' paws. That's a set of roundups and one owner's account, not a controlled test, and we found no hands-on UK comparison that includes it.",
       "specs": {
         "Type": "Cup with silicone bristles and screw-on lid",
-        "Sizes": "Several, including petite and large",
-        "Evidence": "Roundups and owner feedback, no controlled test found"
+        "Sizes": "Petite (paws up to 2in wide), medium (up to 2.5in), large (up to 3.5in)",
+        "Evidence": "Roundups and owner feedback, no controlled test found",
+        "Price guide": "£12.99 petite, £21.99 medium, £29.99 large (D for Dog listing, October 2026)"
       },
       "pros": [
         "Named best overall by several pet-site roundups",
+        "Three sizes with a clear paw-width guide from a UK retailer",
         "Owners who tried it were very happy, per K9 of Mine",
         "Stocked by UK pet retailers such as D for Dog"
       ],
@@ -63,11 +67,11 @@
       "name": "Plunger",
       "badge": "Best for travel (Rover) and best overall (Dogster)",
       "best_for": "Owners who want a handle and a lid so it can be filled before the walk and kept in the car",
-      "key_spec": "Cup with soft bristles, carry handle and enclosed lid, three sizes (petite, medium, large)",
+      "key_spec": "Cup with soft bristles, carry handle and lid",
       "summary": "Dogster's best overall pick, praised for its easy-carry handle, soft but effective bristles, an enclosed lid that keeps the mess in and for working well with skittish dogs. Rover names it best for travel, since you can pre-fill it, snap the lid on and tuck it in the car. Canine Journal ranks it runner-up to the MudBuster and PetMag calls it its best premium pick. The one drawback Dogster found is that it's big and bulky. None of this comes from a controlled test, and our sources are mostly US sites, so check UK availability.",
       "specs": {
         "Type": "Cup with soft bristles, handle and lid",
-        "Sizes": "Petite, medium and large",
+        "Sizes": "Petite, medium, large (cups 3.5 x 4, 5.75 x 6.25 and 6.5 x 9.6in)",
         "Evidence": "Roundups and owner feedback, no controlled test found"
       },
       "pros": [
@@ -87,12 +91,12 @@
       "brand": "CHOOSEEN",
       "name": "Dog Paw Cleaner",
       "badge": "Best for large dogs (Rover)",
-      "best_for": "Owners of larger breeds, such as huskies or German Shepherds, who want a two-in-one cup",
-      "key_spec": "Large and X-Large cups, silicone top that doubles as a grooming brush, BPA-free, clear cup with wristlet",
+      "best_for": "Owners of the biggest breeds, such as huskies or German Shepherds: the only pick here whose sources name an X-Large size",
+      "key_spec": "Top doubles as a grooming brush, BPA-free",
       "summary": "Rover picks this as best for large dogs, noting the Large and X-Large sizes and a soft silicone top that comes off and works as a grooming brush. Dogster calls it its best value and notes the money-back guarantee. Dogster also says it has no handle and can be messy, and that customer reports found it isn't big enough for every breed. No hands-on test of this one turned up.",
       "specs": {
         "Type": "Cup with removable silicone top and bristles",
-        "Sizes": "Large and X-Large",
+        "Sizes": "Large and X-Large only",
         "Evidence": "Roundups and owner feedback, no controlled test found"
       },
       "pros": [
@@ -113,10 +117,11 @@
       "name": "Mud Dog Portable Shower",
       "badge": "Tested by Smart Bark, paws only",
       "best_for": "Walkers who want something that lives in a coat pocket or rucksack and rinses paws on the spot",
-      "key_spec": "Shower head that screws onto almost any plastic bottle from 16oz to 2 litres, about £15",
+      "key_spec": "Bottle-top shower head, about £15",
       "summary": "Smart Bark bought and tested this alongside three portable dog showers and was a bit underwhelmed. It runs for only one to two minutes from a 2 litre bottle, has no pressurising so you squeeze the bottle, and has no brush to shift dried mud. Smart Bark's conclusion is that it suits rinsing muddy paws rather than a whole dog, and its big advantage is that you can pack it in a walking bag and use it anywhere. It scored 3 out of 5.",
       "specs": {
         "Type": "Bottle-top shower head",
+        "Sizes": "One size, fits bottles from 16oz to 2 litres",
         "Evidence": "Hands-on test by Smart Bark, scored 3/5",
         "Price guide": "£15 (when Smart Bark tested it, 2026)"
       },
@@ -138,10 +143,11 @@
       "name": "No-Rinse Paw Cleaner",
       "badge": "Best no-rinse option (Rover)",
       "best_for": "Owners who don't want to carry water and are happy with a foam and brush instead",
-      "key_spec": "Waterless foam cleaning solution with a soft silicone brush, removable brush, safe for dogs and cats",
+      "key_spec": "Waterless foam cleaner with silicone brush",
       "summary": "Rover's pick for a no-water option: a foam cleaner and soft-bristled silicone brush that it says removes dirt and allergens without any rinsing. Rover says its picks combine its own hands-on testing with customer reviews but doesn't say which products it tested or what it found, so we treat this as a recommendation rather than a test result. We found no other source covering it for UK buyers.",
       "specs": {
         "Type": "Waterless foam cleaner with silicone brush",
+        "Sizes": "Not stated by our source",
         "Evidence": "One roundup, test results not shown"
       },
       "pros": [
@@ -171,7 +177,11 @@
     },
     {
       "q": "Which size should I buy?",
-      "a": "Match the cup to your dog's widest paw. Rover's sizes give a sense of the range: the Tinioey mini suits paws two inches wide and smaller, the Paw Plunger comes in petite, medium and large, and the CHOOSEEN comes in Large and X-Large for bigger dogs. Dogster's customer reports flag cups that don't fit every breed size, so check the size guide before you buy."
+      "a": "Measure your dog's widest paw and choose a cup whose opening is wider than that. The clearest guide we found is a UK retailer's for the MudBuster: petite takes paws up to 2in wide, medium up to 2.5in and large up to 3.5in. Rover says the Tinioey mini suits paws two inches wide and smaller. The Paw Plunger comes in petite, medium and large, and the CHOOSEEN in Large and X-Large. Dogster's customer reports flag cups that don't fit every breed size, so check the size guide before you buy."
+    },
+    {
+      "q": "Is there an extra large paw cleaner?",
+      "a": "Of the picks here, only the CHOOSEEN has a size our sources call X-Large (Rover lists Large and X-Large). The biggest MudBuster is the Large, with an opening for paws up to 3.5in wide, which its UK retailer says suits large and extra-large dogs, and the Paw Plunger's large cup measures 6.5 x 9.6in (Rover). We also came across a Groomer Essentials Extra Large, made for breeds like German Shepherds, Great Danes and Mastiffs, but only found US shops selling it, so it isn't in this guide. For a giant breed, measure the widest paw first."
     },
     {
       "q": "Why is this guide not based on a test of all of them?",
@@ -194,6 +204,10 @@
     {
       "name": "Dogster: best dog paw cleaners (roundup, updated 4 July 2026)",
       "url": "https://www.dogster.com/dog-health-care/best-paw-cleaners/"
+    },
+    {
+      "name": "D for Dog: Dexas MudBuster listing (sizes and UK prices, October 2026)",
+      "url": "https://www.dfordog.co.uk/dexas-mud-buster-paw-cleaner.html"
     },
     {
       "name": "Rover: best paw cleaners for dogs (roundup)",

@@ -379,9 +379,18 @@ def category_page(cat, all_categories):
         (cat["title"], None),
     ])
 
+    # A guide can add one extra comparison column (e.g. "Sizes") by setting
+    # "compare_column" to the name of a spec every product carries. It sits
+    # straight after the product name so it stays visible on a phone.
+    extra_label = cat.get("compare_column")
+    extra_th = f'<th scope="col">{esc(extra_label)}</th>' if extra_label else ""
+
+    def extra_td(p):
+        return f"<td>{esc(p.get('specs', {}).get(extra_label, '-'))}</td>" if extra_label else ""
+
     rows = "".join(
         f"<tr><td><a href=\"#{slugify(p['brand'] + '-' + p['name'])}\">{esc(p['brand'])} {esc(p['name'])}</a></td>"
-        f"<td>{esc(p['badge'])}</td><td>{esc(p['key_spec'])}</td>"
+        f"{extra_td(p)}<td>{esc(p['badge'])}</td><td>{esc(p['key_spec'])}</td>"
         f"<td><a class=\"btn small\" href=\"{esc(affiliate_url(p))}\" rel=\"sponsored nofollow noopener\" target=\"_blank\">Check price</a></td></tr>"
         for p in products
     )
@@ -389,7 +398,7 @@ def category_page(cat, all_categories):
         '<div class="table-wrap"><table class="compare">'
         f'<caption class="sr-only">Quick comparison of all {esc(cat["title"])}</caption>'
         "<thead><tr>"
-        "<th scope=\"col\">Product</th><th scope=\"col\">Best for</th><th scope=\"col\">Key spec</th><th scope=\"col\">Buy</th></tr></thead>"
+        f"<th scope=\"col\">Product</th>{extra_th}<th scope=\"col\">Best for</th><th scope=\"col\">Key spec</th><th scope=\"col\">Buy</th></tr></thead>"
         f"<tbody>{rows}</tbody></table></div>"
     )
     cards = "".join(product_card(i, p) for i, p in enumerate(products, start=1))
