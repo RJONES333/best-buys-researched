@@ -3,7 +3,7 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Golf Monthly women's guides not yet done: best women's golf vests/gilets (golfmonthly.com/buying-advice/best-womens-golf-vests-2025), best golf gloves for women (check overlap with golf-gloves), best women's golf bags (check overlap with golf-bags).
+- Golf Monthly women's guides not yet done: best golf gloves for women (check overlap with golf-gloves), best women's golf bags (check overlap with golf-bags).
 - Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, vacuum-cleaners (both likely overlap existing mattresses / vacuum guides). (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
 - Expert Reviews mattress variants (side sleepers, king size, cooling, heavy people) - probably overlap with mattresses guide
 - Other Expert Reviews small-appliance/beauty/home guides not yet covered (browse expertreviews.co.uk/home-garden and /beauty-wellness)
@@ -153,6 +153,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Women's golf skorts (Golf) - Golf Monthly "best golf skorts", updated 28 May 2026 (12 of 22 products; tested by Alison Root and Katie Dawkins on the course). Source does not rank, so badges are descriptive; no prices in source text. Left out: Johnnie-O McKenna, Bad Birdie Tour, TravisMathew Moveknit, A. Putnam Pocket, Levelwear Jourdan, PXG Saturday, Famara A-Line, Dunning Player Fit, Abacus Bovey, Callaway Deco Print.
 - Women's golf shorts (Golf) - Golf Monthly "best women's golf shorts" (golfmonthly.com/best-golf-deals/best-womens-golf-shorts-213075), updated 15 May 2026 (7 of 9 products; tested by Alison Root, Carly Cummins and Katie Dawkins over a number of rounds). Source does not rank, so badges are descriptive; no prices in source text. Left out: A. Putnam Trouser Short, Bad Birdie Performance Short (US brands, same as left out of the skorts guide).
 - Women's golf waterproofs (Golf) - Golf Monthly "best women's golf rain gear" (golfmonthly.com/buying-advice/best-womens-golf-rain-gear-year), updated 21 May 2026 (all 12 products: 6 rain jackets + 6 rain trousers; tested by Alison Root, Katie Dawkins and Carly Cummins on the course in wet conditions). Source does not rank, so badges are descriptive; no prices in source text.
+- Women's golf gilets (Golf) - Golf Monthly "best women's golf vests" (golfmonthly.com/buying-advice/best-womens-golf-vests-2025), updated 27 May 2026 (10 of 12 products; tested by Alison Root, Katie Dawkins and Carly Cummins on the course over a number of rounds). Source does not rank, so badges are descriptive; no prices in source text. Left out: Levelwear Sandra Vest, Golftini Vintage Vest (US brands, same as left out of the other women's golf guides).
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes
