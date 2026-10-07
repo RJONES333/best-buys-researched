@@ -2,6 +2,10 @@
 
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
+## Deferred by the user (do not start unprompted; not a research task)
+- Audit the other guides' Amazon links and set direct `asin` links for the most-visited products (all ~1,440 products except Tinioey, MudBuster and Kurgo in dog-paw-cleaners still link to Amazon searches). ON HOLD until the mobile-app problem below is understood. Check each pick exists on amazon.co.uk first (see the paw cleaners lesson in the Rejected section).
+- OPEN BUG (reported 2026-10-07): the direct `/dp/<ASIN>` links work in a desktop browser but, per the user, the exact product link does not work in the Amazon mobile app. Search links (`/s?k=`) open in the app fine (after the user rebooted their phone). All three live ASINs verified as valid in-stock product pages on the web (HTTP 200, correct brand/title), and Amazon returns HTTP 200 to an iPhone user agent for both link types, so nothing server-side explains it. Still needed from the user: which phone, which button, and what happens. Do NOT mass-roll out direct links until this is resolved.
+
 ## To try
 - Golf Monthly women's guides not yet done: best golf gloves for women (check overlap with golf-gloves), best women's golf bags (check overlap with golf-bags).
 - Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, vacuum-cleaners (both likely overlap existing mattresses / vacuum guides). (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
