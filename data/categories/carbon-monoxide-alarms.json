@@ -1,57 +1,33 @@
 {
   "slug": "carbon-monoxide-alarms",
   "title": "Best Carbon Monoxide Alarms UK",
-  "short": "Six carbon monoxide alarms tested with an aerosol trigger spray in a sealed bag to check response speed, from a £17 basic alarm to a £109 smart detector.",
-  "intro": "Carbon monoxide is colourless and odourless, so a genuinely responsive alarm is one of the few home safety products where a slow reaction can be life-threatening. This guide is based on Expert Reviews' tested roundup (published 14 May 2024), where testers sprayed a specific aerosol test spray for up to three seconds into a transparent plastic bag containing each alarm, checking whether the response was instant, and rejecting any alarm that wasn't. They also assessed controls, displays, any Wi-Fi or app features, and how easy each alarm was to fit using its supplied fittings and instructions.",
-  "reviewed": "2026-09-29",
-  "verified": "2026-10-01",
+  "short": "Five carbon monoxide alarms tested with an aerosol trigger spray in a sealed bag to check response speed, from a £17 basic alarm to a £90 smart alarm.",
+  "intro": "A carbon monoxide alarm is one of the few home safety products where a slow reaction can be life-threatening, and Expert Reviews warns that not every model is equally sensitive or reliable. This guide is based on Expert Reviews' tested roundup (published 14 May 2024, not updated since), where testers sprayed a specific aerosol test spray for up to three seconds into a transparent plastic bag containing each alarm and did not recommend any that failed to respond promptly. They also assessed controls, displays, any Wi-Fi or app features, and how easy each alarm was to fit. Expert Reviews' original top pick, Google's Nest Protect, has since been discontinued, so we have left it out (see the buying guide below).",
+  "reviewed": "2026-10-07",
+  "verified": "2026-10-07",
   "products": [
-    {
-      "brand": "Google",
-      "name": "Nest Protect",
-      "badge": "Best smart CO and smoke detector",
-      "best_for": "Buyers who want smartphone alerts and combined smoke detection",
-      "key_spec": "10-year lifespan, 6x AA batteries, smartphone app, combined smoke and CO detection",
-      "summary": "Expert Reviews rated this the most aesthetically pleasing option on test, with smartphone notifications, combined smoke detection and informative alerts that tell you what's wrong and where, rather than just sounding an alarm. It also includes emergency pathway lighting to help you find an exit.",
-      "specs": {
-        "Lifespan": "10 years",
-        "Power": "6x AA batteries",
-        "Smart features": "Smartphone app, combined smoke detection",
-        "Price guide": "£109 (at time of writing)"
-      },
-      "pros": [
-        "Combined smoke and CO detection",
-        "Detailed smartphone alerts",
-        "Emergency pathway lighting",
-        "Most polished design on test"
-      ],
-      "cons": [
-        "Most expensive option here"
-      ],
-      "asin": "",
-      "search": "Google Nest Protect"
-    },
     {
       "brand": "Kidde",
       "name": "7DCOC",
-      "badge": "Best for camping and travel",
-      "best_for": "Buyers who want a portable, certified alarm for caravans or camping",
-      "key_spec": "10-year lifespan, 3x AA batteries, LCD screen showing live CO readings",
-      "summary": "Expert Reviews found this has a sensitive sensor and a clear LCD display showing the actual CO reading, not just a pass/fail alert. It's certified for use while camping or caravanning, making it a sensible portable option, though batteries need replacing every two years.",
+      "badge": "Recommended, best for camping and travel",
+      "best_for": "Buyers who want a low-cost alarm that shows CO readings, and one certified for caravans, boats and camping",
+      "key_spec": "10-year lifespan, 3x AA batteries (replace roughly every 2 years), LCD showing CO readings from 10ppm, certified for camping, caravanning, travel and boats",
+      "summary": "Expert Reviews singled this one out for its sensitive sensor, which takes a CO reading every 15 seconds, and a small LCD that displays readings once they reach 10ppm. It sounds its 85dB alarm if CO stays at 41ppm or above for 60 minutes, and it is BS EN 50291-2 certified for camping, caravanning, travel and even use on a boat. The tester had no issues in testing. The catch is that its three AA batteries need replacing roughly every two years, which Expert Reviews says means it won't comply with the new Scottish regulations.",
       "specs": {
         "Lifespan": "10 years",
-        "Power": "3x AA batteries (replace every 2 years)",
-        "Display": "LCD with live CO reading",
-        "Price guide": "£20 (at time of writing)"
+        "Power": "3x AA batteries (replace roughly every 2 years)",
+        "Display": "LCD, shows CO readings from 10ppm",
+        "Price guide": "£20 (when reviewed, May 2024)"
       },
       "pros": [
-        "Certified for camping and caravan use",
-        "LCD shows actual CO reading",
-        "Sensitive sensor",
+        "Sensitive sensor that takes a reading every 15 seconds",
+        "LCD shows actual CO readings, not just an alert",
+        "Certified for camping, caravanning, travel and boats",
         "Affordable"
       ],
       "cons": [
-        "Batteries need replacing every 2 years"
+        "Batteries need replacing roughly every 2 years",
+        "Won't comply with the new Scottish regulations, per Expert Reviews"
       ],
       "asin": "",
       "search": "Kidde 7DCOC carbon monoxide alarm"
@@ -60,23 +36,24 @@
       "brand": "X-Sense",
       "name": "SC-08",
       "badge": "Best combination smoke and CO alarm",
-      "best_for": "Buyers who want one device covering both smoke and CO in a single fitting",
-      "key_spec": "10-year lifespan, sealed lithium battery, 3cm LCD display, 85dB alarm",
-      "summary": "Expert Reviews found this combines smoke and carbon monoxide detection in one unit with fast detection speeds in testing and a loud 85dB alarm. The sealed lithium battery lasts the alarm's full 10-year life without replacement, though that also means the battery can't be swapped if it fails early.",
+      "best_for": "Buyers who want one unit covering both smoke and CO, for a room with a gas fire, stove, fireplace or boiler",
+      "key_spec": "Smoke and CO in one unit, 10-year lifespan, sealed-in lithium battery, 3cm LCD, 85dB alarm",
+      "summary": "Expert Reviews found this earns its keep by combining a photoelectric smoke sensor and an electrochemical CO sensor in one unit, with an 85dB siren the tester called unlikely to be slept through. It was quick to respond to the CO test spray, and a 3cm LCD shows a real-time CO reading once levels pass 30 parts per million, along with battery level. The battery is sealed in and non-replaceable, promising 10 years of continuous protection.",
       "specs": {
         "Lifespan": "10 years",
-        "Power": "Sealed lithium battery",
+        "Power": "Sealed-in lithium battery",
         "Alarm volume": "85dB",
-        "Price guide": "£36 (at time of writing)"
+        "Price guide": "£36 (when reviewed, May 2024)"
       },
       "pros": [
-        "Combined smoke and CO detection",
-        "Fast detection in testing",
-        "No battery replacement needed for 10 years",
+        "Smoke and carbon monoxide detection in one unit",
+        "Quick to respond to the CO test spray",
+        "No battery changes for 10 years",
         "Loud 85dB alarm"
       ],
       "cons": [
-        "Battery is non-replaceable"
+        "More expensive than stand-alone alarms",
+        "Battery is sealed in and can't be replaced"
       ],
       "asin": "",
       "search": "X-Sense SC-08 combination alarm"
@@ -85,22 +62,23 @@
       "brand": "FireAngel",
       "name": "Pro Connected FP1820-W2-R",
       "badge": "Best interconnected home safety system",
-      "best_for": "Larger homes wanting every alarm to trigger together",
-      "key_spec": "10-year lifespan, built-in lithium battery, mesh network, supports up to 50 devices",
-      "summary": "Expert Reviews found this builds a mesh network so that when one alarm detects a problem, all interconnected units sound together, useful in a larger home where you might not hear a single alarm from another floor. It supports up to 50 devices on one network, though testers found the initial setup challenging.",
+      "best_for": "Larger homes wanting every alarm to sound together",
+      "key_spec": "10-year lifespan, built-in lithium battery, Wi-Safe2 mesh, up to 50 devices on one network, 85dB alarm",
+      "summary": "Expert Reviews found this forms part of FireAngel's Pro Connected range of smoke, CO and heat detectors, which interconnect so that when one unit detects a problem, every installed unit sounds its 85dB alarm at once. It also sends app notifications saying which unit triggered. The tester found the setup fiddly, using the supplied Ethernet-connected wireless gateway box, but every alarm sounded when tested. The CO alarm also works as a standalone detector if bought on its own.",
       "specs": {
         "Lifespan": "10 years",
         "Power": "Built-in lithium battery",
-        "Network": "Mesh, supports up to 50 devices",
-        "Price guide": "£70 (at time of writing)"
+        "Network": "Wi-Safe2 mesh, up to 50 devices",
+        "Price guide": "£70, CO detector only (when reviewed, May 2024)"
       },
       "pros": [
-        "Interconnects with other alarms across a whole home",
-        "Supports a large mesh network",
-        "Loud 85dB alarm"
+        "Every interconnected alarm sounds together",
+        "App alerts say which unit was triggered",
+        "Works standalone if bought on its own",
+        "Loud 85dB alarms"
       ],
       "cons": [
-        "Challenging initial setup"
+        "Fiddly setup using the supplied gateway box"
       ],
       "asin": "",
       "search": "FireAngel Pro Connected FP1820-W2-R"
@@ -110,21 +88,22 @@
       "name": "Smart CO Alarm",
       "badge": "Best smart and simple CO alarm",
       "best_for": "Buyers who want smart monitoring without needing a separate hub",
-      "key_spec": "10-year lifespan, built-in lithium battery, app-based CO level monitoring",
-      "summary": "Expert Reviews found this easy to set up without needing a separate smart home hub, while still providing current CO level monitoring through its app. The 85dB alarm and built-in lithium battery keep things simple, making it a good middle ground between the basic Kidde alarms and the fuller-featured Nest Protect.",
+      "key_spec": "10-year lifespan, built-in lithium battery, app shows live CO level, 85dB alarm",
+      "summary": "Expert Reviews found this surprisingly easy to set up: push and twist it onto its wall mount, install the Netatmo Security app, pick your Wi-Fi and tell the app which room it's in, with no complex hub involved. It was sensitive and reliable in testing, setting off within seconds, and the app shows the current CO level and lets you check the alarm is online and working. The catch is the price for a stand-alone alarm.",
       "specs": {
         "Lifespan": "10 years",
         "Power": "Built-in lithium battery",
-        "Smart features": "App-based live CO monitoring, no hub needed",
-        "Price guide": "£90 (at time of writing)"
+        "Smart features": "App shows live CO level, no hub needed",
+        "Price guide": "£90 (when reviewed, May 2024)"
       },
       "pros": [
         "Easy setup, no separate hub required",
-        "Live CO level monitoring via app",
+        "Set off within seconds in testing",
+        "App shows the current CO level and confirms the alarm is online",
         "Loud 85dB alarm"
       ],
       "cons": [
-        "Pricier than basic non-smart alarms"
+        "Expensive for a stand-alone alarm"
       ],
       "asin": "",
       "search": "Netatmo Smart CO Alarm"
@@ -134,21 +113,24 @@
       "name": "Lifesaver 5CO",
       "badge": "Best cheap CO alarm",
       "best_for": "Buyers who want a straightforward, affordable alarm with no smart features",
-      "key_spec": "10-year lifespan, 3x AA batteries, LED indicators, 85dB alarm",
-      "summary": "Expert Reviews found this compact and affordable, with simple LED indicators rather than a screen, keeping things straightforward for anyone who doesn't want app features. It passed the aerosol response test with a loud 85dB alarm, and batteries need replacing every three years.",
+      "key_spec": "10-year lifespan, AA batteries (replace roughly every 3 years), LED indicators, 85dB alarm",
+      "summary": "Expert Reviews describes this as a wallet-friendly Kidde that now has an upgraded ten-year lifespan. It's not quite as sensitive as the Kidde 7DCOC but was only a couple of seconds behind in raising the alarm in testing, sounding after 60-90 minutes of exposure to 50ppm or above. It's simple to use, with clear red and green LED indicators and a very noisy warning when its batteries fail or the sensor reaches end of life. The downside is that the batteries need swapping roughly every three years, and Expert Reviews says it isn't suitable for Scottish homes, though it is suitable for a boat or caravan.",
       "specs": {
         "Lifespan": "10 years",
-        "Power": "3x AA batteries (replace every 3 years)",
-        "Display": "LED indicators, no screen",
-        "Price guide": "£17 (at time of writing)"
+        "Power": "AA batteries (replace roughly every 3 years)",
+        "Display": "None, red and green LED indicators",
+        "Price guide": "£17 (when reviewed, May 2024)"
       },
       "pros": [
         "Cheapest option on test",
-        "Compact size",
-        "Simple to use, no app required"
+        "Compact and simple to use",
+        "Only a couple of seconds behind the more sensitive Kidde 7DCOC",
+        "Suitable for a boat or caravan"
       ],
       "cons": [
-        "No display, only basic LED indicators"
+        "Batteries need replacing roughly every 3 years",
+        "Not suitable for Scottish homes, per Expert Reviews",
+        "No display, only LED indicators"
       ],
       "asin": "",
       "search": "Kidde Lifesaver 5CO"
@@ -157,25 +139,41 @@
   "guide": [
     {
       "q": "How does the aerosol test actually work?",
-      "a": "Expert Reviews sprayed a specific aerosol test spray for up to three seconds into a sealed transparent bag containing each alarm, checking whether the response was instant. Any alarm that didn't respond instantly wasn't recommended, so every alarm in this guide passed that basic but crucial functional test."
+      "a": "Expert Reviews sprayed a specific aerosol test spray for up to three seconds into a sealed transparent bag containing each alarm. Their rule is that an alarm which doesn't respond promptly isn't recommended, so every alarm here passed. The Netatmo set off within seconds, and the Kidde Lifesaver 5CO was only a couple of seconds behind the more sensitive Kidde 7DCOC."
     },
     {
-      "q": "Do I need a smart, app-connected alarm?",
-      "a": "A smart alarm like the Nest Protect or Netatmo Smart CO Alarm sends notifications to your phone even when you're not home, useful for holiday homes or checking on elderly relatives remotely. A basic alarm like the Kidde Lifesaver 5CO is cheaper and just as effective at sounding a loud local alarm, which is all that's needed if someone is always home to hear it."
-    },
-    {
-      "q": "Combined smoke and CO alarm, or separate units?",
-      "a": "A combined alarm like the X-Sense SC-08 or Nest Protect saves fitting two separate devices and reduces the number of things to maintain. Separate dedicated alarms can be positioned more precisely for each hazard, since CO alarms should go near fuel-burning appliances while smoke alarms suit hallways and landings."
+      "q": "Does pressing the test button prove my alarm works?",
+      "a": "Not fully. Expert Reviews points out that the test button doesn't actually test the sensor, it only checks that the circuit is working. That's why an alarm's end-of-life and battery warnings matter, and why it's worth replacing an alarm on schedule."
     },
     {
       "q": "How long do these alarms actually last?",
-      "a": "All six alarms in this guide have a 10-year overall lifespan, standard for modern CO alarms, though battery replacement intervals vary: some use replaceable AA batteries needing changes every 2-3 years, while others use a sealed lithium battery that lasts the alarm's full life but can't be swapped if it fails early."
+      "a": "All five here claim a 10-year life, but Expert Reviews notes that CO sensors typically last between five and seven years and only a few manufacturers claim ten. Its advice is to play it safe and replace an alarm a year or two before its life is supposed to run out, and it cites US tests showing alarms over eight years old can fail to detect CO at levels above 400ppm."
+    },
+    {
+      "q": "Can I use these in Scotland?",
+      "a": "Check before you buy. Expert Reviews says both Kidde models, the 7DCOC and the Lifesaver 5CO, won't comply with the new Scottish regulations because they run on batteries that need replacing. The X-Sense, FireAngel and Netatmo alarms have built-in or sealed batteries instead. We haven't checked them against the Scottish rules ourselves, so confirm the current requirements for your home."
+    },
+    {
+      "q": "What happened to the Nest Protect?",
+      "a": "Expert Reviews' original top pick, Google's Nest Protect smart smoke and CO alarm, has been discontinued. Tom's Guide reported on 28 March 2025 that Google was ending sales, selling remaining stock until supplies run out and supporting existing units until they expire. Google's announced replacement, a First Alert alarm, was announced for the US and Canada. Because these alarms have a fixed life from the day they're made, a unit from old stock has less life left, so we've left it out. For a smart alarm, see the Netatmo above."
+    },
+    {
+      "q": "Do I need a smart, app-connected alarm?",
+      "a": "A smart alarm like the Netatmo sends notifications to your phone even when you're not home, useful for a holiday home or checking on a relative remotely. The FireAngel interconnects with other FireAngel alarms so they all sound together. A basic alarm like the Kidde Lifesaver 5CO is much cheaper and just as capable of sounding a loud local alarm, which is all that's needed if someone is always home to hear it."
+    },
+    {
+      "q": "Combined smoke and CO alarm, or separate units?",
+      "a": "A combined alarm like the X-Sense SC-08 saves fitting two devices and gives you one thing to maintain. Expert Reviews suggests mounting a CO alarm in the kitchen or next to a fireplace or boiler, and most manufacturers suggest siting it near a gas appliance. See our [smoke alarms](/smoke-alarms/) guide if you'd rather buy dedicated smoke detectors separately."
     }
   ],
   "sources": [
     {
       "name": "Expert Reviews: best carbon monoxide alarms (published 14 May 2024)",
       "url": "https://www.expertreviews.co.uk/technology/home-security/best-carbon-monoxide-alarm"
+    },
+    {
+      "name": "Tom's Guide: Google ends Nest Protect sales (28 March 2025)",
+      "url": "https://www.tomsguide.com/home/smart-home/google-kills-off-nest-protect-partners-with-first-alert-for-new-smart-smoke-detector"
     }
   ]
 }
