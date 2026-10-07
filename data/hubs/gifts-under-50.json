@@ -1,0 +1,23 @@
+{
+  "slug": "gifts-under-50",
+  "title": "Best Gifts Under £50 (2026)",
+  "short": "Twelve gift ideas under £50, picked from our research-based buying guides, from foot warmers to ice cream makers and power banks.",
+  "intro": "Up to £50 opens up the gifts people actually keep using. Each idea below comes from one of our full buying guides, rated well by independent testers, with a quoted price of £50 or less. Spending less? See [gifts under £30](/gifts-under-30/). For more ideas by person, browse our [Christmas gift guide](/christmas-gift-guide/).",
+  "updated": "2026-10-07",
+  "group": "budget",
+  "price_cap": 50,
+  "picks": [
+    {"category_slug": "foot-warmers", "product": "Beurer FW20UK Cosy Foot Warmer", "note": "For anyone who works from home with cold feet."},
+    {"category_slug": "ice-cream-makers", "product": "Lakeland Digital Ice Cream Maker 1.8L", "note": "A fun gift for a family with a sweet tooth."},
+    {"category_slug": "mens-boxers", "product": "Saxx Kinetic Shorts", "note": "Well-supported gym underwear for him."},
+    {"category_slug": "beard-trimmers", "product": "Braun BT5260", "note": "A step up for anyone serious about beard grooming."},
+    {"category_slug": "pc-conference-headsets", "product": "Microsoft Modern USB Headset", "note": "For anyone who spends the day on video calls."},
+    {"category_slug": "power-banks", "product": "Iniu SnapGo Air", "note": "A magnetic power bank for an iPhone user."},
+    {"category_slug": "tyre-inflators", "product": "Ring Ultrainflate 20", "note": "The top-rated tyre inflator, a smart pick for any driver."},
+    {"category_slug": "car-wax-sealant", "product": "Shelby Ultimate Ceramic Protection", "note": "A premium gift for a car enthusiast."},
+    {"category_slug": "home-security-cameras", "product": "Tapo C120", "note": "An affordable indoor camera for a home or a new pet."},
+    {"category_slug": "swimming-goggles", "product": "Zone3 Venator X Mirror/Polarised", "note": "A comfortable pair for a keen swimmer."},
+    {"category_slug": "humidifiers", "product": "Vicks VH845 Warm Mist Humidifier", "note": "A cosy winter gift for a child's bedroom or a dry home."},
+    {"category_slug": "changing-bags", "product": "Bugaboo Changing Clutch", "note": "A neat, practical gift for new parents."}
+  ]
+}

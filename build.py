@@ -465,17 +465,55 @@ def category_page(cat, all_categories):
     return layout(title, cat["short"], f"/{cat['slug']}/", body, [item_list, faq_ld, crumb_ld])
 
 
+PRICE_RE = re.compile(r"£\s?([0-9][0-9,]*(?:\.[0-9]{1,2})?)")
+
+
+def quoted_price(product):
+    """The price a source quoted for this product, as (display_text, number),
+    or (None, None) when the guide carries none. It is whatever the original
+    testers printed when they reviewed the product, so it can be out of date."""
+    for key, value in product.get("specs", {}).items():
+        if "price" in key.lower():
+            m = PRICE_RE.search(str(value))
+            if m:
+                return str(value), float(m.group(1).replace(",", ""))
+    return None, None
+
+
+def find_product(cat, label):
+    """Look up a product in a guide by "Brand Name". Fails the build loudly on
+    a typo or a product that has since been removed, rather than shipping a
+    gift page with a missing item."""
+    for p in cat["products"]:
+        if f"{p['brand']} {p['name']}" == label:
+            return p
+    raise SystemExit(f"Gift hub refers to '{label}' but guide '{cat['slug']}' has no such product")
+
+
 def hub_page(hub, categories_by_slug):
     """A gift-guide hub: a curated set of links to existing, already-sourced
-    category guides, grouped for a recipient or occasion (e.g. Christmas
-    gifts for golfers). No new product claims are made here; each tile
-    surfaces that guide's own #1 pick and links through to the full guide,
-    where sources and the rest of the comparison live."""
-    picks = [
-        {**p, "cat": categories_by_slug[p["category_slug"]]}
-        for p in hub["picks"]
-        if p["category_slug"] in categories_by_slug
-    ]
+    category guides, grouped for a recipient, occasion or budget. No new
+    product claims are made here. A pick with only a category_slug surfaces
+    that guide's #1 product; a pick that also names a "product" surfaces that
+    specific product with the price its source quoted, and a hub with a
+    price_cap refuses to build if any of its picks was quoted above the cap."""
+    picks = []
+    price_cap = hub.get("price_cap")
+    for p in hub["picks"]:
+        cat = categories_by_slug.get(p["category_slug"])
+        if cat is None:
+            continue
+        entry = {**p, "cat": cat}
+        if p.get("product"):
+            entry["prod"] = find_product(cat, p["product"])
+            if price_cap is not None:
+                _, value = quoted_price(entry["prod"])
+                if value is None or value > price_cap:
+                    raise SystemExit(
+                        f"'{p['product']}' is quoted at {value} in '{cat['slug']}', "
+                        f"over the £{price_cap} cap of '{hub['slug']}'"
+                    )
+        picks.append(entry)
 
     crumb_html, crumb_ld = breadcrumb([
         ("Guides", f"{SITE_URL}/"),
@@ -486,13 +524,34 @@ def hub_page(hub, categories_by_slug):
     cards = []
     for p in picks:
         cat = p["cat"]
-        top = cat["products"][0]
-        cards.append(f"""<a class="tile gift-tile" href="{BASE}/{cat['slug']}/">
+        prod = p.get("prod")
+        if prod:
+            pid = slugify(f"{prod['brand']}-{prod['name']}")
+            price_text, _ = quoted_price(prod)
+            price_html = f'<p class="gift-price">Price guide: {esc(price_text)}</p>' if price_text else ""
+            cards.append(f"""<div class="tile gift-tile gift-product">
+  <h3>{esc(prod['brand'])} {esc(prod['name'])}</h3>
+  <p class="gift-badge">{esc(prod['badge'])}</p>
+  <p class="gift-note">{esc(p['note'])}</p>
+  {price_html}
+  <p class="gift-actions"><a class="btn small" href="{esc(affiliate_url(prod))}" rel="sponsored nofollow noopener" target="_blank">Check price</a> <a href="{BASE}/{cat['slug']}/#{pid}">Read the review</a></p>
+</div>""")
+        else:
+            top = cat["products"][0]
+            cards.append(f"""<a class="tile gift-tile" href="{BASE}/{cat['slug']}/">
   <h3>{esc(cat['title'])}</h3>
   <p class="gift-note">{esc(p['note'])}</p>
   <p class="gift-top-pick"><strong>Top pick:</strong> {esc(top['brand'])} {esc(top['name'])} &mdash; {esc(top['badge'])}</p>
 </a>""")
     cards_html = f'<div class="tiles">{"".join(cards)}</div>'
+
+    price_note = ""
+    if price_cap is not None:
+        price_note = (
+            '<p class="note">Budgets here use the price the original testers quoted when they reviewed each '
+            'product, so the price on Amazon today may be higher or lower. Always check the current price '
+            'before you buy.</p>\n'
+        )
 
     body = f"""<article>
 {crumb_html}
@@ -500,7 +559,7 @@ def hub_page(hub, categories_by_slug):
 <p class="meta">Updated {esc(fmt_month(hub['updated']))}</p>
 <p class="lead">{linkify(hub['intro'])}</p>
 <p class="note">Every guide linked below lists its own sources, and we have not hands-on tested these products ourselves. <a href="{BASE}/about/">How we pick</a>.</p>
-{cards_html}
+{price_note}{cards_html}
 </article>"""
 
     item_list = {
@@ -511,8 +570,11 @@ def hub_page(hub, categories_by_slug):
             {
                 "@type": "ListItem",
                 "position": i,
-                "name": p["cat"]["title"],
-                "url": f"{SITE_URL}/{p['cat']['slug']}/",
+                "name": (f"{p['prod']['brand']} {p['prod']['name']}" if p.get("prod") else p["cat"]["title"]),
+                "url": (
+                    f"{SITE_URL}/{p['cat']['slug']}/#{slugify(p['prod']['brand'] + '-' + p['prod']['name'])}"
+                    if p.get("prod") else f"{SITE_URL}/{p['cat']['slug']}/"
+                ),
             }
             for i, p in enumerate(picks, start=1)
         ],
@@ -525,15 +587,24 @@ def gift_guides_index_page(hubs):
         ("Guides", f"{SITE_URL}/"),
         ("Gift guides", None),
     ])
-    tiles = "".join(
-        f'<a class="tile" href="{BASE}/{h["slug"]}/"><h3>{esc(h["title"])}</h3><p>{esc(h["short"])}</p></a>'
-        for h in hubs
-    )
+    def tiles_for(items):
+        return "".join(
+            f'<a class="tile" href="{BASE}/{h["slug"]}/"><h3>{esc(h["title"])}</h3><p>{esc(h["short"])}</p></a>'
+            for h in items
+        )
+
+    budget = [h for h in hubs if h.get("group") == "budget"]
+    other = [h for h in hubs if h.get("group") != "budget"]
+    sections = ""
+    if budget:
+        sections += f'<h2>Gifts by budget</h2>\n<div class="tiles">{tiles_for(budget)}</div>\n'
+    if other:
+        sections += f'<h2>Gifts by person and occasion</h2>\n<div class="tiles">{tiles_for(other)}</div>\n'
     body = f"""<article>
 {crumb_html}
 <h1>Gift Guides</h1>
-<p class="lead">Struggling to know what to buy? These guides group our research-based picks by who they're for, pulling the top recommendation from each relevant buying guide.</p>
-{f'<div class="tiles">{tiles}</div>' if hubs else '<p>New gift guides are coming soon.</p>'}
+<p class="lead">Struggling to know what to buy? Shop by budget or by who it's for. Every pick comes from one of our research-based buying guides, so you can read the sources behind it before you buy.</p>
+{sections if hubs else '<p>New gift guides are coming soon.</p>'}
 </article>"""
     return layout(
         f"Gift Guides | {CONFIG['name']}",
@@ -669,7 +740,7 @@ def about_page():
 <h2>How we earn money</h2>
 <p>Links to Amazon are affiliate links. If you buy after clicking, we may earn a commission at no extra cost to you. This does not change which products we recommend. See our <a href="{BASE}/affiliate-disclosure/">affiliate disclosure</a>.</p>
 <h2>Prices</h2>
-<p>We do not show prices because they change constantly. Use the button on each product to see the current price on Amazon.</p>
+<p>Prices change constantly, so we can't promise a current one. Where a guide shows a "price guide", it is the price the original testers quoted when they reviewed the product, shown so you can compare roughly, and it may be out of date. Our gift guides by budget group products using those quoted prices. Always use the button on each product to check the current price on Amazon before you buy.</p>
 </article>"""
     return layout(f"How we pick | {CONFIG['name']}", "How we research and choose the products we recommend.", "/about/", body)
 

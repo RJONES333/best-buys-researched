@@ -168,6 +168,9 @@ nav a { margin-left: 18px; text-decoration: none; }
 .gift-promo { display: block; text-align: center; background: var(--note); border: 1px solid var(--border); border-radius: 10px; padding: 12px 16px; margin: 1rem 0; text-decoration: none; color: var(--text); font-weight: 600; }
 .gift-promo:hover { border-color: var(--accent); }
 .gift-tile .gift-note { font-style: italic; }
+.gift-product .gift-badge { display: inline-block; margin: 0 0 0.2rem; font-size: 0.8rem; font-weight: 700; color: var(--accent); }
+.gift-product .gift-price { margin: 0.4rem 0; font-size: 0.9rem; font-weight: 600; color: var(--text); }
+.gift-product .gift-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; margin: 0.6rem 0 0; }
 .gift-tile .gift-top-pick { color: var(--text); font-size: 0.9rem; margin: 0; padding-top: 8px; border-top: 1px solid var(--border); }
 .table-wrap { overflow-x: auto; }
 table.compare { border-collapse: collapse; width: 100%; font-size: 0.95rem; background: var(--surface); }

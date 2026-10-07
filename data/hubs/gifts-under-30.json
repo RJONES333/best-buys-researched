@@ -1,0 +1,22 @@
+{
+  "slug": "gifts-under-30",
+  "title": "Best Gifts Under £30 (2026)",
+  "short": "Eleven gift ideas under £30, picked from our research-based buying guides, for him, her, kids, drivers and cooks.",
+  "intro": "Around £30 gets you something properly useful, not just a stocking filler. Each idea below comes from one of our full buying guides, rated well by independent testers, with a quoted price of £30 or less. Spending less? See [gifts under £20](/gifts-under-20/). Want more choice? Try [gifts under £50](/gifts-under-50/).",
+  "updated": "2026-10-07",
+  "group": "budget",
+  "price_cap": 30,
+  "picks": [
+    {"category_slug": "mens-boxers", "product": "Lululemon Always In Motion Boxers", "note": "A comfortable, practical gift for him, tested for the gym and everyday wear."},
+    {"category_slug": "womens-leggings", "product": "M&S Goodmove High Waisted Leggings", "note": "A well-reviewed, good-value wardrobe gift for her."},
+    {"category_slug": "beard-trimmers", "product": "Remington Barba", "note": "For anyone who trims their own beard at home."},
+    {"category_slug": "power-banks", "product": "Cuktech 10 Mini", "note": "A pocket-sized power bank nobody regrets receiving."},
+    {"category_slug": "swimming-goggles", "product": "Orca Killa 180 Mirror", "note": "For a regular swimmer who is still using a leaky old pair."},
+    {"category_slug": "rice-cookers", "product": "Joseph Joseph 45002 M-Cuisine Microwave Rice Cooker", "note": "A neat gift for a student or small kitchen."},
+    {"category_slug": "food-storage-containers", "product": "Joseph Joseph Nest Lock Containers", "note": "Space-saving containers for anyone who meal preps."},
+    {"category_slug": "kids-headphones", "product": "Onanoff BuddyPhones Explore+", "note": "Volume-limited headphones for younger children, with a sharing socket."},
+    {"category_slug": "smart-plugs", "product": "Trust Wi-Fi Smart Plug", "note": "A twin pack, so two rooms can go smart."},
+    {"category_slug": "car-scratch-removers", "product": "Autoglym Scratch Removal Kit", "note": "A complete kit for the car owner who notices every mark."},
+    {"category_slug": "wiper-blades", "product": "Bosch AeroTwin", "note": "The winner of a frozen -20°C wiper test, a practical gift for any driver."}
+  ]
+}

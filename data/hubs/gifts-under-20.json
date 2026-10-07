@@ -1,0 +1,22 @@
+{
+  "slug": "gifts-under-20",
+  "title": "Best Gifts Under £20 (2026)",
+  "short": "Eleven gift ideas under £20, picked from our research-based buying guides, covering car care, cosy gifts, tech and kitchen.",
+  "intro": "Under £20 is the sweet spot for Secret Santa, colleagues and small thank-yous. Each idea below comes from one of our full buying guides, rated well by independent testers, with a quoted price of £20 or less. Spending less? See [gifts under £10](/gifts-under-10/). Happy to go higher? Try [gifts under £30](/gifts-under-30/).",
+  "updated": "2026-10-07",
+  "group": "budget",
+  "price_cap": 20,
+  "picks": [
+    {"category_slug": "foot-warmers", "product": "Warmies Fully Heatable Slippers Scented with French Lavender", "note": "A cosy microwaveable gift for anyone who is always cold."},
+    {"category_slug": "car-shampoo", "product": "Bilt-Hamber Auto-Wash", "note": "The top-rated car shampoo in its test, for anyone who washes their own car."},
+    {"category_slug": "car-wax-sealant", "product": "Bilt-Hamber Double Speed-Wax", "note": "The winning wax in a six-week weather test, for the proud car owner."},
+    {"category_slug": "car-scratch-removers", "product": "T-Cut Perfect Compound", "note": "A practical gift for anyone with a scuffed car."},
+    {"category_slug": "tyre-inflators", "product": "AstroAI Digital Car Tyre Pump", "note": "Handy in the boot of any car."},
+    {"category_slug": "on-ear-headphones", "product": "Sony MDR-ZX310", "note": "A cheap, foldable pair of wired headphones from a trusted brand."},
+    {"category_slug": "kids-headphones", "product": "iClever Kids Headphones", "note": "Volume-limited and tough, for a child's tablet or a long car journey."},
+    {"category_slug": "smart-bulbs", "product": "Govee Smart A19 LED light bulbs", "note": "A fun, colour-changing gift for a gamer or teenager. These are B22 bayonet bulbs, so check their light fittings first."},
+    {"category_slug": "carbon-monoxide-alarms", "product": "Kidde Lifesaver 5CO", "note": "A thoughtful safety gift for a new home or rental."},
+    {"category_slug": "sandwich-toasters", "product": "Breville VST057 2 Portion Sandwich Toaster", "note": "A cheap kitchen gift for toastie fans and students."},
+    {"category_slug": "nose-hair-trimmers", "product": "Philips Series 3000 NT3650", "note": "A practical stocking filler for him."}
+  ]
+}

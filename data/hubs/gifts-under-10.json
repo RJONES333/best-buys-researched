@@ -1,0 +1,21 @@
+{
+  "slug": "gifts-under-10",
+  "title": "Best Gifts and Stocking Fillers Under £10 (2026)",
+  "short": "Ten gift and stocking filler ideas under £10, picked from our research-based buying guides, from sunshades to smart plugs.",
+  "intro": "A small budget doesn't have to mean a throwaway present. Each idea below is a product from one of our full buying guides, chosen because independent testers rated it well and its quoted price comes in under £10, which also makes them handy for Secret Santa. Want to spend a little more? See [gifts under £20](/gifts-under-20/).",
+  "updated": "2026-10-07",
+  "group": "budget",
+  "price_cap": 10,
+  "picks": [
+    {"category_slug": "smart-plugs", "product": "TP-Link Tapo Mini P100", "note": "A cheap first step into smart home gadgets, and genuinely useful."},
+    {"category_slug": "foot-warmers", "product": "HotHands Foot Warmers", "note": "A stocking filler for anyone who feels the cold on winter walks."},
+    {"category_slug": "car-phone-mounts", "product": "Miracase Car Phone Holder", "note": "For the driver who still balances their phone in a cup holder."},
+    {"category_slug": "car-phone-mounts", "product": "TOPK Car Phone Holder", "note": "An even cheaper mount for any car."},
+    {"category_slug": "car-sun-shades", "product": "Halfords Pop-up Sunshades", "note": "A small, practical gift for anyone with a family car."},
+    {"category_slug": "car-wax-sealant", "product": "Simoniz Original Wax", "note": "For the driver who likes their car shiny."},
+    {"category_slug": "car-shampoo", "product": "VP pH Neutral Shampoo", "note": "The runner-up in a car shampoo test, for anyone who cleans their own car."},
+    {"category_slug": "food-storage-containers", "product": "Sistema Snack Capsule To Go", "note": "For anyone who packs snacks for work, school or the gym."},
+    {"category_slug": "food-storage-containers", "product": "IKEA PRUTA Food Storage Containers", "note": "Useful, no-fuss kitchen basics for a student or first home."},
+    {"category_slug": "shower-heads", "product": "Grifema Complento G804", "note": "A budget upgrade for a weak electric shower."}
+  ]
+}
