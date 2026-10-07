@@ -3,13 +3,17 @@
 Running backlog for expanding bestbuysresearched.com. Used by the `category-expansion` scheduled task and by manual sessions to avoid duplicate research. Mark items done/rejected as they're handled.
 
 ## To try
-- Golf Monthly women's guides not yet done: most comfortable golf shoes for women, women's waterproof golf shoes (check overlap with womens-golf-shoes first).
+- Golf Monthly women's guides not yet done: best women's golf vests/gilets (golfmonthly.com/buying-advice/best-womens-golf-vests-2025), best golf gloves for women (check overlap with golf-gloves), best women's golf bags (check overlap with golf-bags).
 - Mumsnet /reviews/ tested guides not yet done (mumsnet.com/reviews/<slug>): best-mattress-for-back-pain, vacuum-cleaners (both likely overlap existing mattresses / vacuum guides). (toddler-beds URL does not exist.) Check each shows named parent-testers; /swearsby/ pages are forum roundups, skip.
 - Expert Reviews mattress variants (side sleepers, king size, cooling, heavy people) - probably overlap with mattresses guide
 - Other Expert Reviews small-appliance/beauty/home guides not yet covered (browse expertreviews.co.uk/home-garden and /beauty-wellness)
 
 ## User requests awaiting a genuine source (2026-09-24)
 - Boys' hair styling products for fine, straight hair, and girls' hair styling (user-requested; unclear whether products or haircut styles). Searched: Blue-Print (brand blog), bestproducts.guide / bestproductsreviews.co.uk (affiliate farms), Mumsnet forum threads and Tangle Teezer sponsored post (opinion, not testing). Boss Hunting "11 Best Hair Products For Men" is genuine first-person testing but Australian, adult, thinning hair, AUD prices. User confirmed 2026-09-24: they mean styling products. Also checked: Marie Claire UK "9 best products for thin hair" (Shannon Lawlor, Jan 2023) is genuine single-editor testing but adult thin hair, personal picks, no stated cons, only ~5 styling items (Sam McKnight Cool Girl Superlift, Percy & Reed mousse, Living Proof Full Dry Volume & Texture Spray, Cloud Nine wand, Hershesons dryer), so not enough to build a sourced guide. No UK tested source found for boys' styling products; GQ UK not surfaced by search. Still to try: Mother & Baby, Expert Reviews / Trusted Reviews hair sections, Good Housekeeping Institute, Which? (likely paywalled), fetching GQ UK / Men's Health UK grooming pages directly.
+
+## Rejected (duplicates of an existing guide, don't retry)
+- Women's waterproof golf shoes (2026-10-07) — Golf Monthly page (updated 21 Aug 2026) is genuine, but 5 of its 6 shoes are already in womens-golf-shoes.json (only the SQAIRZ Ultra Tour-Lite is new).
+- Most comfortable golf shoes for women (2026-10-07) — Golf Monthly page is genuine, but 7 of its 9 shoes are already in womens-golf-shoes.json (only Skechers Slip-ins Pure SI and Autry Golf Low are new).
 
 ## Rejected (no genuine hands-on testing source found, don't retry)
 - Garden multi-tools (2026-10-01) — Expert Reviews has no dedicated tested guide (only a general "best garden tools" page); every other result was an affiliate farm or garden-shop site (Garden Toolbox, Green Gaffer, garden-review.co.uk, Pyracantha, hedgecuttingstaffordshire, diyworks) or Testix (AI-generated).
@@ -148,6 +152,7 @@ Running backlog for expanding bestbuysresearched.com. Used by the `category-expa
 - Men's hair removal cream - Expert Reviews 2023 (5 products, Men group; already built, moved here from To try)
 - Women's golf skorts (Golf) - Golf Monthly "best golf skorts", updated 28 May 2026 (12 of 22 products; tested by Alison Root and Katie Dawkins on the course). Source does not rank, so badges are descriptive; no prices in source text. Left out: Johnnie-O McKenna, Bad Birdie Tour, TravisMathew Moveknit, A. Putnam Pocket, Levelwear Jourdan, PXG Saturday, Famara A-Line, Dunning Player Fit, Abacus Bovey, Callaway Deco Print.
 - Women's golf shorts (Golf) - Golf Monthly "best women's golf shorts" (golfmonthly.com/best-golf-deals/best-womens-golf-shorts-213075), updated 15 May 2026 (7 of 9 products; tested by Alison Root, Carly Cummins and Katie Dawkins over a number of rounds). Source does not rank, so badges are descriptive; no prices in source text. Left out: A. Putnam Trouser Short, Bad Birdie Performance Short (US brands, same as left out of the skorts guide).
+- Women's golf waterproofs (Golf) - Golf Monthly "best women's golf rain gear" (golfmonthly.com/buying-advice/best-womens-golf-rain-gear-year), updated 21 May 2026 (all 12 products: 6 rain jackets + 6 rain trousers; tested by Alison Root, Katie Dawkins and Carly Cummins on the course in wet conditions). Source does not rank, so badges are descriptive; no prices in source text.
 (see git log for the full list of ~42 guides added 2026-09-23/24)
 
 ## Trend research notes
