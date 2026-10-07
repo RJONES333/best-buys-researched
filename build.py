@@ -76,7 +76,7 @@ GROUPS = {
     "DIY & tools": ["cordless-drills", "tool-sets", "smoke-alarms", "carbon-monoxide-alarms", "circular-saws", "jigsaws", "multi-tools", "mitre-saws", "impact-drivers", "sanders"],
     "Automotive": ["dash-cams", "tyre-inflators", "car-phone-mounts", "jump-starters", "car-vacuum-cleaners", "car-battery-chargers", "wiper-blades", "car-seat-covers", "car-sun-shades", "car-shampoo", "car-scratch-removers", "car-wax-sealant"],
     "Luggage & travel": ["suitcases", "travel-adaptors"],
-    "Pet supplies": ["dog-beds", "cat-carriers", "automatic-pet-feeders", "pet-cameras", "dog-poo-bags"],
+    "Pet supplies": ["dog-beds", "cat-carriers", "automatic-pet-feeders", "pet-cameras", "dog-poo-bags", "dog-paw-cleaners"],
     "Baby": ["baby-monitors", "pushchairs", "toddler-car-seats", "baby-carriers", "high-chairs", "travel-cots", "baby-bouncers", "breast-pumps", "stair-gates", "baby-bottles", "sterilisers", "changing-bags", "newborn-cribs", "travel-systems", "lightweight-strollers", "double-buggies", "baby-car-seats", "nursing-bras", "baby-carrier-backpacks", "cabin-approved-strollers"],
 }
 
@@ -422,12 +422,21 @@ def category_page(cat, all_categories):
         related_html = f"""<h2>{related_heading}</h2>
 <div class="tiles">{related_items}</div>"""
 
+    # A guide built on weaker evidence than the usual independent tests says so
+    # plainly, right under the standard note, via an optional "sourcing_note".
+    sourcing_note_html = ""
+    if cat.get("sourcing_note"):
+        sourcing_note_html = (
+            f'<p class="note note-exception"><strong>About this guide:</strong> {esc(cat["sourcing_note"])}</p>'
+        )
+
     body = f"""<article>
 {crumb_html}
 <h1>{esc(cat['title'])} ({year})</h1>
 <p class="meta">Picks reviewed {esc(fmt_month(cat['reviewed']))} · Sources verified {esc(fmt_month(cat['verified']))}</p>
 <p class="lead">{esc(cat['intro'])}</p>
 <p class="note">We have not hands-on tested these products. Our picks are based on published independent tests and reviews, listed at the bottom of this page. <a href="{BASE}/about/">How we pick</a>.</p>
+{sourcing_note_html}
 {spotlight(cat)}
 <h2>Quick comparison</h2>
 {table}
@@ -732,6 +741,7 @@ def about_page():
 <h2>Our process</h2>
 <ul>
 <li>We read independent tests and reviews from established UK publications and consumer groups.</li>
+<li>Occasionally no hands-on comparison exists for a product type. When we still publish a guide, a note at the top says so and which picks are tested and which are not.</li>
 <li>We shortlist products that keep appearing near the top, and note what each is best for, its main strengths and its drawbacks.</li>
 <li>We list our sources at the bottom of every guide so you can read the original tests.</li>
 </ul>
