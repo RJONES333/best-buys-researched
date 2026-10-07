@@ -3,7 +3,7 @@
   "title": "Best Dog Paw Cleaners UK",
   "short": "Six dog paw cleaners, from MudBuster-style cups to a no-rinse foam, with an honest note on which are tested by Which? or Smart Bark and which rest on roundups.",
   "intro": "A paw cleaner cup lets you dunk a muddy paw in water, twist it against soft silicone bristles and dry it before your dog reaches the sofa. The Dexas MudBuster made the idea popular and plenty of brands now sell a version. Unlike most of our guides, this one is not built on a hands-on comparison test, because we couldn't find one from a UK publication. What we could find is one proper Which? test of a single cup, a Smart Bark test of a paws-only bottle attachment, and a set of pet-site roundups that keep coming back to the same few products.",
-  "sourcing_note": "We found no hands-on comparison of paw cleaners from a UK publication. Two picks rest on real tests: the Tinioey (Which?, one product, tested on a husky in February 2026) and the Kurgo (Smart Bark, a bottle attachment that suits paws only). The MudBuster, Paw Plunger, CHOOSEEN and PUPMATE are here because several pet-site roundups and owner reports rate them, not because anyone has put them head to head, and most of those sources are US-based. Treat them as well-regarded rather than proven, and check UK availability and the current price before you buy.",
+  "sourcing_note": "We found no hands-on comparison of paw cleaners from a UK publication. Two picks rest on real tests: the Tinioey (Which?, one product, tested on a husky in February 2026) and the Kurgo (Smart Bark, a bottle attachment that suits paws only). The MudBuster, Paw Plunger, CHOOSEEN and PUPMATE are here because several pet-site roundups and owner reports rate them, not because anyone has put them head to head, and most of those sources are US-based. Treat them as well-regarded rather than proven. We also checked Amazon UK on 7 October 2026: the CHOOSEEN and PUPMATE were not listed there, and the Paw Plunger showed only one Large with a single unit left. Check the current price and stock before you buy.",
   "compare_column": "Sizes",
   "reviewed": "2026-10-07",
   "verified": "2026-10-07",
@@ -17,14 +17,15 @@
       "summary": "Which? senior consumer writer Tom Morgan tested the Tinioey on his husky, Luna, after a deliberately boggy two-mile forest walk (3 February 2026). Two to three minutes of twisting got the marks off the tops of her paws and the darker spots between her pads, and loosened grime under her nails, which he hadn't expected. He noticed less dirt being tracked through the house and called it more effective than a towel alone. The drawbacks were small: he tipped it over on first use, the towels are thin, and the enclosed design may not suit nervous or fidgety dogs.",
       "specs": {
         "Type": "Cup with silicone brush lining",
-        "Sizes": "Mini (paws up to 2in wide), medium, large",
+        "Sizes": "Medium and large on Amazon UK (Rover also lists a mini for paws up to 2in wide)",
         "Includes": "3 small drying towels and a hand scraping pad",
         "Evidence": "Hands-on test by Which? (this one product only)",
-        "Price guide": "£15.17 on Amazon UK (when Which? tested it, February 2026)"
+        "Price guide": "£15.17 for the large, the price Which? quoted and still the price on Amazon UK on 7 October 2026 (medium £9.36)"
       },
       "pros": [
         "Cleaned the tops of the paws, between the pads and under the nails in Which?'s test",
         "Easy to use, about 2 to 3 minutes per set of paws",
+        "Sold on Amazon UK with 1.8K ratings averaging 4.3 stars",
         "Silicone lining removes for easy rinsing",
         "Compact enough to keep in a car boot or a kitchen cupboard"
       ],
@@ -33,7 +34,7 @@
         "The included towels are thin",
         "The enclosed design may feel restrictive to nervous or fidgety dogs"
       ],
-      "asin": "",
+      "asin": "B0C49H3PTJ",
       "search": "Tinioey Dog Paw Cleaner"
     },
     {
@@ -47,10 +48,11 @@
         "Type": "Cup with silicone bristles and screw-on lid",
         "Sizes": "Petite (paws up to 2in wide), medium (up to 2.5in), large (up to 3.5in)",
         "Evidence": "Roundups and owner feedback, no controlled test found",
-        "Price guide": "£12.99 petite, £21.99 medium, £29.99 large (D for Dog listing, October 2026)"
+        "Price guide": "£13.99 for the medium on Amazon UK (7 October 2026). D for Dog lists £12.99 petite, £21.99 medium, £29.99 large"
       },
       "pros": [
         "Named best overall by several pet-site roundups",
+        "Over 56,000 ratings on Amazon UK, averaging 4.3 stars",
         "Three sizes with a clear paw-width guide from a UK retailer",
         "Owners who tried it were very happy, per K9 of Mine",
         "Stocked by UK pet retailers such as D for Dog"
@@ -59,7 +61,7 @@
         "We found no hands-on test comparing it with rivals",
         "Most of the sources recommending it are US-based"
       ],
-      "asin": "",
+      "asin": "B01N64DCPR",
       "search": "Dexas MudBuster dog paw cleaner"
     },
     {
@@ -82,7 +84,7 @@
       ],
       "cons": [
         "Big and bulky, per Dogster",
-        "Recommended mostly by US sites, so UK availability and price need checking"
+        "On Amazon UK on 7 October 2026 we found only a Large in black, with one left in stock, so the Check price button may show similar cups instead"
       ],
       "asin": "",
       "search": "Paw Plunger dog paw cleaner"
@@ -106,6 +108,7 @@
         "Affordable, per Dogster"
       ],
       "cons": [
+        "We couldn't find it on Amazon UK on 7 October 2026, so the Check price button only shows other brands' cups",
         "No handle and can be messy, per Dogster",
         "Customer reports say it doesn't fit every breed, per Dogster"
       ],
@@ -123,7 +126,7 @@
         "Type": "Bottle-top shower head",
         "Sizes": "One size, fits bottles from 16oz to 2 litres",
         "Evidence": "Hands-on test by Smart Bark, scored 3/5",
-        "Price guide": "£15 (when Smart Bark tested it, 2026)"
+        "Price guide": "£11.99 on Amazon UK (7 October 2026), where it is listed as the Mud Dog Travel Shower. Smart Bark quoted about £15"
       },
       "pros": [
         "Easy to transport and convenient on a walk",
@@ -135,7 +138,7 @@
         "No brush to dislodge dried mud",
         "No pressurising, so flow depends on squeezing the bottle"
       ],
-      "asin": "",
+      "asin": "B00TUA98JA",
       "search": "Kurgo Mud Dog Portable Shower"
     },
     {
@@ -156,6 +159,7 @@
         "Safe for dogs and cats, per Rover"
       ],
       "cons": [
+        "We couldn't find it on Amazon UK on 7 October 2026, so the Check price button only shows other brands' products",
         "Only one source we found recommends it, with no test results shown"
       ],
       "asin": "",
@@ -181,7 +185,7 @@
     },
     {
       "q": "Is there an extra large paw cleaner?",
-      "a": "Of the picks here, only the CHOOSEEN has a size our sources call X-Large (Rover lists Large and X-Large). The biggest MudBuster is the Large, with an opening for paws up to 3.5in wide, which its UK retailer says suits large and extra-large dogs, and the Paw Plunger's large cup measures 6.5 x 9.6in (Rover). We also came across a Groomer Essentials Extra Large, made for breeds like German Shepherds, Great Danes and Mastiffs, but only found US shops selling it, so it isn't in this guide. For a giant breed, measure the widest paw first."
+      "a": "Of the picks here, only the CHOOSEEN has a size our sources call X-Large (Rover lists Large and X-Large), but we couldn't find it on Amazon UK on 7 October 2026. The biggest MudBuster is the Large, with an opening for paws up to 3.5in wide, which its UK retailer says suits large and extra-large dogs, and it was £23.35 to £23.45 on Amazon UK that day. The Tinioey is sold as a medium and a large, and Which? tested the large on a husky. Amazon UK also lists cups from lesser-known brands labelled Large/Extra Large at around £25 to £26, but we found no test or independent review of them, so they aren't in this guide. We also came across a Groomer Essentials Extra Large, but only found US shops selling it. For a giant breed, measure the widest paw first."
     },
     {
       "q": "Why is this guide not based on a test of all of them?",
